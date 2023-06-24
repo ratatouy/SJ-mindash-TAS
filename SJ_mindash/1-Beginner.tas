@@ -1,0 +1,12 @@
+#Start
+console clrsav
+console load StrawberryJam2021/0-Lobbies/1-Beginner
+   1
+
+Read,1_Beginner_Lobby/0-Loopy_Lagoon
+Read,Enter_Level
+
+Read,1_Beginner/Loopy_Lagoon
+Read,Exit_Level
+Read,1_Beginner_Lobby/1-Loopy_Lagoon-Forest_Path
+Read,Enter_Level
