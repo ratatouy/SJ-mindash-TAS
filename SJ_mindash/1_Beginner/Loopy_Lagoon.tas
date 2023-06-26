@@ -31,7 +31,7 @@ console load StrawberryJam2021/1-Beginner/coffe
    1,R,J
    6,R
 
-#lvl_c-02 - two dashes
+#lvl_c-02 - 2 dashes
   40
    8,R
    1,R,J
@@ -78,7 +78,7 @@ console load StrawberryJam2021/1-Beginner/coffe
   14,U,X
 
 
-#lvl_c-03 - 3 dashes
+#lvl_c-03 - 2 dashes
   40
   21,L,G
   10,J,G
@@ -102,15 +102,18 @@ console load StrawberryJam2021/1-Beginner/coffe
    2,R,J
    5,L
    4,R,J
-  30,R
+  35,R
   12,R,J
   17,R,G
-  12,J,G
-   2,R,K
-   6,L,Z
-   1,R,J
-  20,R,K,G
-#dash
+   1,J,G
+   1,L,J
+   1,R,K,G
+   1,R,J,G
+  10,R,K,G
+   8,R
+  11,R,J
+   1,R
+  30,R,J
   15,R,X
   11,R
 #dash
@@ -703,7 +706,6 @@ console load StrawberryJam2021/1-Beginner/coffe
    4
    3,J,G
   18,R,J
-#dash
   15,L,U,X
   47,R,J,G
    3,K,G
@@ -785,6 +787,6 @@ console load StrawberryJam2021/1-Beginner/coffe
  135
 
 
-#1:51.435(6555)
-ChapterTime: 1:52.557(6621)
-#32 dashes
+#1:51.435(6652)
+ChapterTime: 1:53.084(6652)
+#33 -> 31 dashes
