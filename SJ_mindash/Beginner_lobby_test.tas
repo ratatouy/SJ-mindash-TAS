@@ -1,6 +1,8 @@
 RecordCount: 9
 
 #Start
+
+#this file is a test for the beginner lobby routing
 Read,1_Beginner_Lobby/0-Loopy_Lagoon
 Read,1_Beginner_Lobby/1-Loopy_Lagoon-Forest_Path
 Read,1_Beginner_Lobby/2-Forest_Path-Azure_Caverns

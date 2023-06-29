@@ -1,0 +1,88 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 530
+
+console load StrawberryJam2021/1-Beginner/cellularAutomaton
+   1
+
+#Start - 1 dash
+  36
+#dash
+   9,U,X
+  13,L
+   1,L,J
+   6,L,G
+  10,L,U,G
+   5,L,J,G
+  10,L
+  20,L,D,J
+  11,K,G
+   1,R
+   2,R,J,G
+   5,R
+   3,R,J
+   2,R
+   1,L,J
+   1,R,J
+   1,L,J
+  10,J
+  10,K,G
+   1,R,K
+   1,L,K
+   1,J,G
+   3,R,J
+
+
+#lvl_01 - 1 dash
+  40
+  17,R,J
+   4,R,K,G
+  15,R
+   1,R,J
+  16,R,D
+repeat 3
+   1,R,J
+  14,R
+endrepeat
+  25,R,J
+#dash
+  15,U,X
+  13,J
+   7,L,J
+   1,K
+  25,R,K
+   1,J,G
+   1,L,J
+   1,R,K,G
+   4,R,J,G
+
+#lvl_03
+  40
+   7,R
+   1,R,J,G
+   1,R
+   1,R,K,G
+   1,K
+   2,R,K
+   6,R
+   4,R,J
+   1,R
+   2,R,J
+   2,R
+   1
+   1,R
+  15,U,X
+  26,L,U,Z
+   1,L,J
+   5,L
+   4,L,J
+  11,L
+  10,L,Z
+  12,L,J,G
+   7,L
+   7,R
+   1,D,J
+   6,R,J
+   1,R
+  60,R,J

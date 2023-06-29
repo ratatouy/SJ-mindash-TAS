@@ -1,0 +1,140 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 541
+
+console load StrawberryJam2021/1-Beginner/hyperlife
+   1
+
+#Start
+ 190
+   1,R
+   1,R,J
+   1,R,K,G
+   7,R,J,G
+   9,R
+   1,R,J
+  16,R
+   1,R,J,G
+   1,R,K,G
+  11,R
+   1,R,J
+   1,R
+   1
+   1,R
+   1,R,J,G
+   1,R,K,G
+  14,R
+   8,R,J
+  13,L,J
+  12,K,G
+   2,J,G
+   2
+  20,R,J
+   2,R
+   1,R,K,G
+   1,R,J,G
+   9,R
+   1,R,J
+  21,R
+  20,R,D,J
+   4,R,K,G
+   4,R
+   1,R,J
+   4,R
+   1,R,J
+  18,R
+   1,R,J
+  33,R
+   9,R,D,J
+   1,R,K,G
+  10,R,J,G
+   7,R
+   1,R,J
+   4,R
+   1,R,J
+  21,R,D
+repeat 3
+   1,R,J
+  14,R
+endrepeat
+  12,R
+   3,R,J
+  35,R,D
+   1,R,J
+  14,R
+   2,R,J
+  13,R,D
+   8,L,D
+  22,R,D
+   1,R,J
+  14,R
+  10,R,J
+
+
+
+#lvl_a-02
+  40
+   6,R,J
+  15,R,Z
+   8,R,D,J
+  13,R
+repeat 12
+   1,J
+   4
+endrepeat
+   2
+   2,L,J
+   8,L,Z
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   1,R,J
+  21,R,D
+repeat 9
+   1,D
+   1
+endrepeat
+   3,J
+   6,L,J
+   5,L,X
+   1,J,G
+   1,K,G
+   1,L,J,G
+   5,L,J
+   7,K
+  30,L
+   7,L,D
+   2,R,D
+   5,L,D
+   4,L
+   2,L,D
+   2,L
+  15,R,Z
+   6,L
+  12,R,D
+   2,R,J
+   9,R,D,X
+   1,R,J
+
+
+#lvl_a-04
+  40
+  10,R,D
+   6,R,J
+  30,R
+   1,R,J
+  14,R
+   7,R,D,J
+   1,R
+  14,R,J
+   1,L,K,G
+   3,R,K
+  14,R,Z
+   1,L,J
+   6,L
+   1,L,K,G
+  10,L
+  18,L,J
+  60,L,K
