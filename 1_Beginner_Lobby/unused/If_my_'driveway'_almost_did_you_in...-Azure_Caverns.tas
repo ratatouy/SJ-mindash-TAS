@@ -1,0 +1,52 @@
+console load StrawberryJam2021/0-Lobbies/1-Beginner 1520 552
+   1
+
+#Start
+  36
+   1,L
+   1
+   7,L
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   6,L
+   1,L,J
+   1,L,K,G
+  10,L
+   1,L,J
+   9,L
+   2,L,J
+   2,L
+   1
+   7,L
+   1,L,J,G
+   1,L,K,G
+  10,L
+   1,L,J
+  14,L
+   1,L,J
+  18,L
+   1,L,J
+  23,L,D
+   2,L,J
+  15,L
+   1,L,J
+  31,L
+  41,L,J
+  15,L,D,X
+  11,L,D
+   1,L,J
+  26,L,D
+   1,L,J
+  25,L
+   1
+   1,L
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+  11,L
+   6,L,J
+   6,L
+
+#352
+FileTime: 0:05.984(352)

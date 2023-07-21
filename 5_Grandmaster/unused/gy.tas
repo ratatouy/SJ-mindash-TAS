@@ -1,0 +1,39 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 113
+
+console load StrawberryJam2021/0-Gyms/5-Grandmaster
+   1
+
+#Start
+  36
+   5,L
+repeat 8
+   1,L,J
+  14,L
+endrepeat
+   5,L,J
+   9,L,D,X
+   1,R,J
+  14,R
+   8,R,J
+  13,R
+  48,R,X
+   8,R,J
+  41,R,K
+   7,R,D
+   2,D
+   1,R
+   1,D
+  18,R,Z
+   1
+   1,R,J,G
+   1,R,K,G
+  13,R
+   5,R,J
+   1,R
+   8,R,J
+  34,R,X
+   4,R,J
+  60,R,K
