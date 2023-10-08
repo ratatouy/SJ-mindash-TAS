@@ -1,12 +1,12 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1121
+RecordCount: 1123
 
 console load StrawberryJam2021/1-Beginner/joltik
    1
 
-#Start - 1 dash
+#Start - 0 dahshes
   80
    5,R
 repeat,5
@@ -16,22 +16,45 @@ endrepeat
    3,R,J
    3,R
    1,R,K,G
-   3,R,J,G
-   6,R
-#Dash
-   5,R,Z
-  40
+   1,R,J,G
+   9,R
+
 
 #lvl_a_01 - 1 dash
+  40
+   1,R
+   1,R,J
+   6,R
+   1,R,J,G
+   1
    7,R
-   4,R,J
-   1,R,K,G
-  11,R
-  13,R,J
-   1,L,K,G
-  11,R,K
-   8,R
-  10,J
+   1,R,J,G
+  13,R
+   1,R,J
+  18,R
+repeat 5
+   1,R,J
+  14,R
+endrepeat
+  12,R
+   1,R,D,J
+   1,K,G
+   1,L,K
+   1,R,K
+   1,J,G
+  11,L,J
+   5,L
+   5,L,J
+   2,J
+   2,R,K,G
+repeat 3
+   1,L,K
+   1,R,K
+endrepeat
+   1,L,K
+   2,R,K
+   2,R
+  11,R,J,G
   10,U,X
   11,L,J
   10,U,X
@@ -648,6 +671,6 @@ endrepeat
 #Dash
  153,U,X
 
-#11 dashes
-ChapterTime: 1:44.550(6150)
-#6150
+#10 dashes
+ChapterTime: 1:46.624(6272)
+#6272
