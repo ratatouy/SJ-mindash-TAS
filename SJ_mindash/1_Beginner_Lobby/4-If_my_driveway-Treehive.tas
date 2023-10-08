@@ -34,31 +34,28 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 1520 552
    2,L,J
   15,L
    9,L,J
-  16,L
-  27,R
-  47,R,D
-
-#bench
-   1,X
- 127
-   1,S
-  35
-
-   5,R
-   1,R,J
+  14,L
+   1
+   1,L
+  38,R,D
+   3,R,J
+  33,R
+  15,R,D,X
   18,R
-   1,R,J
-  18,R
-   1,R,J
-  42,R
+   3,R
+  30,R
    2,J,G
-   1,L,J
+   1
+   1,L
    1,R,K,G
-   5,R,J,G
+   6,R,J,G
+   1,R
    1,R,K,G
    1,R,J,G
-  11,R
-   7,R,J
+   6,R
+   1,R,J
+   4,R
+   5,R,J
   29,R
   15,R,U,X
   17,R
@@ -145,6 +142,5 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 1520 552
 
 
 
-#1014
-FileTime: 0:17.238(1014)
+FileTime: 0:14.076(828)
 #Total dashes : 0
