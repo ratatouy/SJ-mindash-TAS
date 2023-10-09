@@ -1,17 +1,17 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3195
+RecordCount: 3977
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
-
 #min dash
-#by Fistashkar
+#draft by Fistashkar
+
 #Start
  190
 
-#lvl_cp1_heartside_intro
+#lvl_cp1_heartside_intro (0x)
   93,U
    7,L,U
 Repeat 3
@@ -54,7 +54,7 @@ EndRepeat
    7,L
   40
 
-#lvl_cp1_21_heartside_Bing_Over_Google
+#lvl_cp1_21_heartside_Bing_Over_Google (5x)
    7,L
    1,L,J
   14,L
@@ -94,7 +94,7 @@ EndRepeat
    5,R,J,G
   40
 
-#lvl_cp1_20_heartside_hyperlife
+#lvl_cp1_20_heartside_hyperlife (2x)
    3,R
    1,K,G
    4,L,K
@@ -158,7 +158,7 @@ EndRepeat
    9,R
   40
 
-#lvl_cp1_19-heartside_cellularAutomaton
+#lvl_cp1_19-heartside_cellularAutomaton (5x)
    5,R
    1,R,J
   33,R
@@ -203,7 +203,7 @@ EndRepeat
    3,L,K
   40
 
-#lvl_cp1_18_heartside_Eclipse
+#lvl_cp1_18_heartside_Eclipse (21x)
   23,L
    8,R
    1,N
@@ -281,7 +281,7 @@ EndRepeat
  101
   40
 
-#lvl_cp2_checkpoint
+#lvl_cp2_checkpoint (0x)
   26,R
    7,R,J
   17,R
@@ -334,115 +334,93 @@ EndRepeat
    5,R
   40
 
-#lvl_cp2-17-heartside_NotYourBadeline
-  22,R
-   2,R,J
-   1,R,K,G
-  21,R,J,G
-  18,R,X
-   9,R,K
-  14,R
-   5,R,D
-  11,D,J
-  12,K,G
-   1,J,G
-  32,L,J
-  12,K
-  13,R,Z
-  28,L,K
-   2,L,J
-  14,L
-  27,L,K
-   8,J,G
-   1,R,J
-   1,K
-  16,L,J,G
-   6,K,G
-  18,R,J
-   8,K,G
-   1,L,K
-   1,J
-  17,R,K,G
-   3,J,G
-   1,L,J
-   1,K
-  28,R,K
-   1,R,J
-  14,R
-   2,R,K
+#lvl_cp2-17-heartside_NotYourBadeline (3x)
    9,R
-   1,R,K
-  38,R,D
-   2,R
-   2,R,K
-   1,R,J,G
-  32,R,K,G
-   1,J,G
+   4,R,J
   13,R
-   2,R,K
-   7,R
-  15,R,K
-   8,J,G
-   1,L,J
-   1,K
-  16,R,J,G
-   6,R,K,G
-repeat 6
-   1,J
-   1,K
-endrepeat
-   1,L,J
-  12,L
-   1,L,K
-  14,L
-  42,L,K
-  20,J,G
-   4,L
-   2,L,K
-  13,L
-   2
-   8,R,G
-   1,K
-   6,R
-   6,L
-  43,L,K
-   8,J,G
+   5,R,J
+   5,R
+   1
+   9,R,Z
    1,R,J
-   1,K
-  16,L,J,G
-   3,K,G
-   1,R,K
-  30,L,J,G
-   1,L,K
-  14,L
-   3,L,J
-   8,K,G
-   1,R,K
-   1,J
-  14,L,K,G
-repeat 8
-   1,J
-   1,K
-endrepeat
-   1,R,K
-  10,R
-   4,Z
-   1,R,K
-  10,R
-  10,R,J
+   8,R
+  17,R,K
+  12,R,J,G
+  12,R,K,G
+  12,R,J,G
+  12,R,K,G
+   6,J
+  11,L
+  10,L,Z
+  31,L,K
+   1,L,J
+   6,L
+  27,L,K,G
+  12,L,J,G
+  12,L,K,G
+  15,L,J,G
+  12,L,K,G
+  12,L,J,G
+  12,L,K,G
+  12,R,J
+   6,R
+   1,R,J,G
   14,R
+   1,R,J
+   6,R
+   1,R,K,G
+  38,R,D
+   2,R,J
+   9,R
+  25,R,J,G
+   3,R
+   1
+   4,R
+   1,R,K,G
+   4,R,J,G
+  12,R
+  17,R,J
+  12,R,K,G
+  12,R,J,G
+  12,R,K,G
+   6,J
+   9,L
+   1,L,J
+  14,L
+   1,L,J
+   1
+  13,L
+  34,L,J
+   1,L,K,G
+   3,L,J,G
+  17,L
+  44,L,K
+   2
+  12,L,J,G
+  12,L,K,G
+  12,L,J,G
+   6,L,K,G
+   9,L
+   1,L,J
+  14,L
+  14,L,J
+  12,L,K,G
+  12,L,J,G
+   6,K,G
+   5,R,Z
+   1,R,J
+   8,R
+   8,R,J
+   5,R
   40
 
-#lvl_cp2-16-heartside_snas
-   4,R
-   8,R,D,J
-   2,R,K,G
-   1,R,J,G
-   1,R
-  28,R,K
-   1,L,J
-  14
-  19,D
+#lvl_cp2-16-heartside_snas (2x)
+   8,R,D
+   2,R,J
+  12,L,D
+   1,J
+   8,L,D
+  28,D
   47
    1,R,K
    1,R
@@ -453,7 +431,7 @@ endrepeat
    1,K
   12,J,G
   23,R,J
-  20,R,U,Z
+  19,R,U,Z
    1,K
   24,L,K
   12,K
@@ -463,10 +441,12 @@ endrepeat
    8,L
    4,R,K
    1,R
-  15,R,K
-  12,D
+  14,R,K
+   6,D
+   1,R,D
+   6,L,D
    1,L,D,G
-  23,L,D,K
+  21,L,D,K
   55,R,J
    1,K,G
   48,G
@@ -482,7 +462,7 @@ endrepeat
    1,D,G
    8,R,K
 
-#lvl_cp2_15_heartside_frozenflygone_a
+#lvl_cp2_15_heartside_frozenflygone_a (0x)
    1,R,J
   14,R
    1,R,K
@@ -506,378 +486,407 @@ endrepeat
    7,R
    2,L
 
-#lvl_cp2_15_heartside_frozenflygone_b
-  25,L
-   1,L,K
-  55,L,D
-  45,L
-  30
-   5,L
-   9
-   6,L,J,G
-   1,L
-  17,L,K
-   2,J,G
-   1,L
-
-#lvl_cp2_15_heartside_frozenflygone_c
-  29,R
-  17,L,D
-  20,D
-  26,L,D
-   1,L,K
-   4,L,D
-   8,D
-   5,L,D
-  14,D
-   8,L,D
-   1,L,K
-  24,L,D
-
-#lvl_cp2_15_heartside_frozenflygone_d
-   8,R
-   1,R,K
-  14,R
-   4,R,K
-   1,R
-  17,R,K
-  22,R,K
-  10,R,J
-  35,R,U,X
-   6,R,J
-  15,R
-   7,R,Z
-  31,R,K,G
-
-#lvl_cp3_checkpoint
-  34,R,D
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  32,R,J
-   2,R,K
-   9,R
-  16,R,K
-   6,R,J,G
-   1,K,G
-   7,R
-   1,R,K
-  14,R
-   1,R,K
-  14,R
-   3,R,K
-  19,R
-  27,R,J,G
-   1,K,G
-  12,R
-   3,R,K
-  12,R
-   1,R,K,G
-   1,R
-  34,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   7,R,K
-  20,R
-   1,R,K
-   1,R,J
-  10,R,K
-  41,R,J,G
-  11,L,G
-   1,K
-   6,L
-   5,R
-  22,R,K
-   7,R,J,G
-   8,R
-repeat 11
-   1,R,K
-  14,R
-endrepeat
-   1,R,K
-  11,R
-  40
-
-#lvl_cp3_14_heartside_asterisk
-   3,R
-   1,R,K
-  14,R
-   2,R,K
-   9,R
-   1,R,K
-  14,R
-   1,R,K
-  21,R
-  12,L,G
-   4,K
-   8,L,G
-   1,K
-   6,L
-   2,R
-  10,R,K
-   3,R
-   5,R,K
-   8,R
-   4
-   1,R,J,G
-  42,R,K,G
-   1,R,J
-  28,R,K
-   7,R,J
-  10,R
-   1,R,K
-  14,R
-  14,R,K
- 102,R,X
-  12
-   1,R,K
-   1,R,J
-  28,R,K
-   2,R,J
-  10,R
-  26,R,K
-   2,J,G
-   1,L,J
-  18,R,K,G
-   4,R
-   2,K
-   1,R,K
-   1,R
-  23,R,K
-   3,R,J
-  35,R
-   1,R,K
-   1,R,J
-   1,R,K
-  14,R,J
- 121,R,X
-   1,R,K
-   1,R,J
-   1,R,K
-  20,R,J
-   1,K,G
-  10,R,K
-   6
-  19,R,X
-   8,R,K
-  35,R,J
-   2,R,K
-  10,R
-   2,R,K
-   8,R
-   1,R,K
-  14,R
-   2,R,K
-   9,R
-   1,R,K
-  14,R
-   1,R,K
-   5,R
-  40
-
-#lvl_cp3_13_heartside_skeleton
-
-   1,R,K
-   9,R
-   8,R,K
-   1,R
-  20,R,K
-   1,R,J
-  14,R
-   1,R,K
-  21,R,D
-   1,R,K
-  28,R,D
-   1,R,K
-  14,R
-   7,R,K
- 100,R,X
-   9,R,K
-  11,R,J
-  53,R,U,X
-   8,R
-   1,R,K
-   1,R
-  16,R,K
-  58,R,U,X
-  41,R,K
-  65,R,U,X
-   8,R,G
-   4,L,K
-  16,L
-  50,L,D,X
-   6,L,K
-   1,L,J
+#lvl_cp2_15_heartside_frozenflygone_b (0x)
    7,L
-  70,L,D,X
-  13,R
-  90,R,X
-   4,R,K
-   1,R,J
-  37,R,X
-   5,R,K
-   1,R,J
-  18,R
-  15,L,D
-   8,R,D
-   1,G
-  10,R,K
-   1,R
-  10,R,K
-  43,R,U,Z
-  12,U,X
-  21,L
-   8,K,G
-   8,R,J
-   6,L,K
-   1,R
-  23,R,K
-  15,U,X
-  37,R,J
-  18,U,X
-  64,R,K
-   8,R,J,G
-  16,R,K,G
-   2,R,J,G
-   7,R
-   1,R,K
-  14,R
-   1,R,K
-  14,R
-   1,R,K
-  18,R
-   2,R,K
-   9,R
-   2,R,K
-   9,R
-   1,R,K
-  14,R
-   1,R,K
-   4,R
-  40
-
-#lvl_cp3_12_heartside_coffe
-  14,R
-   7,R,K
-  11,R
-   2,R,K
-  28,R
-   2
-  17,L,G
-   1,K,G
-   8,L
-   1,R
-   8,R,K
-  22,R,X
-  27,R
-  33,L,K
-  20,G
-   1
-   1,K
-  11,L,K
-   6,L,U,X
-  41,R
-   9,U,X
-  35,D
-   6,L,D
+   4,L,K
+  30,L,D
+  68,L,U
    9,D
-   6,L,D
-  39,R,K
-  42,L
-  11,L,X
-  31,R
-  10,R,U,Z
-   1,L
-   1
-  12,K,G
-   8,R,K
-  10,J,G
-   1,L,J
-   3,R,K,G
-  18,L,J
-  24,G
-  17,R,K
-  10,L,X
-  42,R
+  16,L
+   3,D
+   2,L,D
+   1,L,D
+   2,L
+   1,L,J,G
+   4,L,K,G
+   8,L
+   1,L,K
+   2,L
+   1,R
+
+#lvl_cp2_15_heartside_frozenflygone_c (0x)
+   3,R,J
+  13,R
    8,L
    1,R
-   7,K,G
-   1,R,K
-   1,R
-  12,R,K
-  10,J,G
-   1,R
-  24,R,K
-  28,R,U,X
-   7,R,D
-  45,L,G
-  30,R,K
-  26,G
-  32,R,K
-  16,R,D
-  18,D
-  13,L,X
-  45,R
-  33,R,D,X
-  10,L,Z
-  45,R
-  15,R,U,X
-  14,L,U,Z
-  13,L,U,X
-  41,R
-  20,U,X
-   5,K
-  32,R,K
-  15,R,D
-   2,R,K
-   9,R
-   1,R,K
-  14,R
-   1,R,K
-   7,R
-  40
+   2,L,J,G
+  11,R,D
+  13,L,D
+   2,L
+   2,L,J,G
+  13,L,D
+   1,D
+   1,L,D
+   5,D
+   4,L,D
+   1,D
+   5,L
+   2,L,J,G
+  10,L,D
+   8,R,D
+   2
+   2,R,D
 
-#lvl_cp3_11_heartside_joltik
+#lvl_cp2_15_heartside_frozenflygone_d (1x)
+   8,R
+  11,R,K
+   8,R
+  11,L
+  15,L,J
+   1,K
+   3,R,K
+   6,K
+   1,J
+   6,K
+   6,R,K
+   8,R,J,G
+  23,R
+   2
+   7,R
+   1,R,D,J
+  29,R
+   8,R,Z
+   8,R,J
+   5,R,K,G
+  17,R
+   2,R
+
+#lvl_cp3_checkpoint (0x)
+  40,R,D
+Repeat 4
+   1,R,K
+   1,R,J
+EndRepeat
+   7,R,K,G
+   7,R
+   9,R,J,G
+   8,K,G
+   1,J
+   7,R,K,G
+  10,R
+Repeat 3
+   1,R,J
+  14,R
+EndRepeat
+   4,R
+  21,R,J,G
+   1,R
+   1,R,K,G
+   1,R,J,G
+  14,R
+   1,R,J
+   2,R
+   1,R,K,G
+  12,R
+   1,R,J
+  28,R,D
+Repeat 3
+   1,R,J
+   1,R,K
+EndRepeat
    4,R
    1,R,J,G
-   9,R
-   6,R,K,G
-   1,R,J,G
   13,R
-   1,R,K
-  14,R
-   1,R,K
-  14,R
-   1,R,K
-  14,R
-   1,R,K
-  14,R
-  19,R,D,K
-   4,L,J,G
+   7,R,K
+   5,R
+   3,R,K
+   5,R
+  33,R,J
+   1,K,G
+   1,L,K
+   1,R,J,G
+   1,R,K,G
+   2,R,K
+   2,K
+   1,R
+   1,R,K,G
+   1,R,J,G
+  12,R
+Repeat 11
    1,R,J
-   1,L,J
+  14,R
+EndRepeat
    1,R,J
-   1,L,J
+   1,R
+  40
+
+#lvl_cp3_14_heartside_asterisk (3x)
+  13,R
+   2,R,J
+   9,R
    1,R,J
-   1,L,J
-  10,L,K,G
-   1,L
-  19,L,K
-   7,R
-   6
-  11
+  14,R
+   1,R,J
+  31,R
+  11,R,J
+  18,R
+  41,R,J,G
+   1,K
    3,R
    5
    6,R
+  26,R,J
+   1,K
+   4,R,K
+   4,R
+   1,R,J,G
+   1,R,K,G
+  13,R
+  18,R,D,J
+  63,R,X
+   4,R,J
+  27,R,K
+   3
+   4,R
+   3,R,K,G
+  11,R
+  20,R,D,J
+  12,R,D,K,G
+  13,R,D,J,G
+  21,R,D
+   3,R,J
+  27,R,D
+   5,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+  27,R,J
+   1,J
+  12,R,K,G
+  14,J
+  19,R,Z
+   4,R,J
+  17,R,K
+   8,D
+  16,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+  25,R,K
+   1,K
+   2,J,G
+  18,L,K
+  26,R,X
+   8,R,J
+  26,R,K
+   9,R
+   1,R,J
+   9,R
+   1,R,K,G
+   5,R
+   1,R,J,G
+  12,R
+   1,R,J
+   5,R
+   1,R,J,G
+  14,R
+   1,R,J
+   3,R
+  40
+
+#lvl_cp3_13_heartside_skeleton (8x)
+  11,R
+   3,R,K
+  14,R
+   1,R,K,G
+   1,R,J,G
+  13,R
+   1,R,J
+  21,R,D
+   1,R,J
+  28,R,D
+   1,R,J
+  14,R
+  20,R,J
+  12,R,K,G
+   2,R,J,G
+  96,R,Z
+   4,R,J
+   8,R,K
+   3,R
+  96,R,X
+   4,R,J
+   1,R,K
+  11,R
+  31,R,U,Z
+   8,R,J
+   3,L,K
+   5,J,G
+   1,R,J
    5,R,K,G
+   2,R,J,G
+   9,R
+   1,R,K
+   9,R,D
+  25,L,D
+  37,L,Z
+   4,R,J
+  28,R,K
+   8,U,X
+  34,R,J
+   7,U,Z
+  33,R,J
+   2,R
+  15,U,Z
+  65,R,J
+  12,R,K,G
+  12,R,J,G
+   7,R,K,G
    1,R
-  12,R,K
+   1
+   1,R,J,G
+   8,R
+   1,R,J
+  14,R
+   1
+  14,R,Z
+   3,R,J
+   4,R
+   1,R,K,G
+   9,R
+  40
+
+#lvl_cp3_12_heartside_coffe (5x)
+   2,R
+   2,R,K,G
+   3,R
+   8,R,J,G
+  23,R,D
+   7,R,U,G
+   3,G
+   5,R,U,G
+  14,R,J,G
+   1,L,K,G
+   7,L
+   1,G
+   1,L,K,G
+   7,L
+   1,G
+   9,L,K,G
+   1,J
+   7,K
+   9,L,U,X
+  42,R
+  15,D,X
+  15,R,C
+   7,R
+   1,G
+   1
+   5,L
+   5
+  15,R
+   2,R,D
+   1,D
+   1,G
+   1,R,J,G
+   2,R
+   1,R,J
+   1,R
+   8
+   2,R,D
+   4
+   1,D
+  20,R,J
+  12,L,K,G
+   9,J
+   1,R,J
+   1,L,J
+   7
+   1,G
+   3,J,G
+   7,L
+   1,G
+   8,J,G
+   1,R,K
+  15,R,J
+  14,L,U,X
+  37,R,D
+  17,D
+   1,R,D
+   1,D
+   1,R,D
+   3,J,G
+   7,R,J
+   3,R
+   5,L
+   4,D
+   1,R,D
+   2,J,G
+   6,R,J
+  20,R,D
+  15,R,U,X
+  19,R,D
+  10,L,D
+  19,G
+   1,K
+  27,R,J
+   2,R
+   1,R,G
+   1,R,J,G
+   1,L,J
+   2,R,K,G
+   2,R,J,G
+   4,R,J
+  12,R,Z
+   1,R,J
+  33,R,D
+   8,R,J,G
+  15,R,D,X
+   9,L,D
+   8,L,D,X
+  47,R,D
+  15,R,U,X
+  14,L,U,Z
+  12,L,U,X
+   1,L,J,G
+  17,D
+  12,L,G
+  54,R,J
+   6,L,D
+  12,R,J
+   5,R
+   1,R,J
+  20,R
+   6,R,K,G
+   6,R
+   7,L
+   1,R
+  12,J,G
+   1,R,J
+   7,R
+  22,L,K
+   2,L,G
+   1,L,K,G
+   8,L,G
+  26,R,K
+  27,R,D
+   1,R,J
+   5,R
+   1,R,K,G
+  13,R
+   1,R,J
+  13,R
+  40
+
+#lvl_cp3_11_heartside_joltik (1x)
+   1,R
+   2,R,J
+   1,R,K,G
+   1,R,J,G
+   6,R
+   4,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+  14,R
+   1,R,J
+   8,R
+   6
+  19,R,D,J
+  13,K
+  15,L,X
+  43,R
   15,R,X
   49,R
   15,K
@@ -892,12 +901,18 @@ endrepeat
   10,J
    7,R,J
    5,K,G
-  35,G
-   6,K
+  15,G
+   4,K,G
    1,R,K
    1,J
-  24,L,J
-  21,L,K,G
+  20,L,J
+   3,L
+   1
+   6,K,G
+   9,L,J
+   5,L
+   1,L,J
+   2,L
   12
    3,L
   12
@@ -906,10 +921,11 @@ endrepeat
    1,L,K
    1,R,K
    1,L,K
-   3,R,K
-  15,J
-  12,L,J
-  24,L,K,G
+   5,R,K
+  13,J
+   6,L,J
+   6,L
+  20,L,K,G
   10,L,X
   31,L,D
    2,D,G
@@ -928,56 +944,46 @@ endrepeat
   34,L
   10,K
    4,R,K
-   5,J,G
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   3,R,K,G
-   7,R
-   2,R,K
-   7,R
-   2,R,K
-  10,R
-   1,R,K
-  18,R
-   1,R,K
-  14,R
-   1,R,K
-  14,R
-   1,R,K
-  14,R
-   2,R,K
-   8,R
-   1,R,K
-  18,R
-   2,R,K
-   8,R
-   1,R,K
-  14,R
-  15,R,K
-   1,R
-   2,R,K
+   6,R,J,G
+  12,R,K,G
+   2,R,J,G
    7,R
    2,R,K
    1,R
-   5,R,K
-   5,R
-   1,R,K
+   1,R,K,G
+   1,R,J,G
+   9,R
+   1,R,K,G
+   1,R,J,G
+  17,R
+   1,R,J
   14,R
-   1,R,K
+   1,R,J
+  14,R
+   1,R,J
    7,R
+   1,R,K,G
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  13,R
+   1
+   9,R,D,J
+   1,D,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   3,R,D,J
+   1,R,K,G
+  12,R
+   1,R,J
+   8,R
   40
 
-#lvl_cp4_checkpoint
+#lvl_cp4_checkpoint (2x)
   10,R
    2,R,K
    8,R
@@ -1009,7 +1015,7 @@ endrepeat
   11,R,J,G
   40
 
-#lvl_cp4_10_heartside_Hanky
+#lvl_cp4_10_heartside_Hanky (7x)
   33,R,J,G
    1,L,K
   14,L
@@ -1159,6 +1165,7 @@ endrepeat
   10,R
   40
 
+#lvl_cp4_09_heartside_jadeturtle (8x)
    4,R
    1,R,K
   14,R
@@ -1230,7 +1237,7 @@ endrepeat
    5,R
   40
 
-#lvl_cp4_08_heartside_quinnigan
+#lvl_cp4_08_heartside_quinnigan (3x)
    9,R
    1,R,K
   18,R
@@ -1310,7 +1317,7 @@ endrepeat
    2,R,J,G
   24,R
 
-#lvl_cp5_07_heartside_voliver9
+#lvl_cp5_07_heartside_voliver9 (2x)
   55,R,D
   11,D,K
    8,R,K
@@ -1381,7 +1388,7 @@ endrepeat
   37,R
   40
 
-#lvl_cp5_06_heartside_CoupCritik1
+#lvl_cp5_06_heartside_CoupCritik1 (0x)
   30,R,J
   18,K,G
    3,R,J,G
@@ -1411,7 +1418,7 @@ endrepeat
    7,L,K,G
   40
 
-#lvl_cp5_06_heartside_CoupCritik2
+#lvl_cp5_06_heartside_CoupCritik2 (0x)
   34,L
   16,L,K
   11,J,G
@@ -1444,7 +1451,7 @@ endrepeat
   11,L
   40
 
-#lvl_cp5_06_heartside_CoupCritik3
+#lvl_cp5_06_heartside_CoupCritik3 (0x)
 
    3,L
    1,L,K
@@ -1482,7 +1489,7 @@ endrepeat
   90,N
   67
 
-#lvl_cp5_05_Flagpole1up_Heartside
+#lvl_cp5_05_Flagpole1up_Heartside (9x)
    1,R,K
   21,R
    6,R,K
@@ -1573,7 +1580,7 @@ endrepeat
   14,R
   40
 
-#lvl_cp5_04_heartside_circumplex
+#lvl_cp5_04_heartside_circumplex (7x)
    1,R,K
   14,R
    1,R,K
@@ -1664,7 +1671,7 @@ endrepeat
    8,R
   40
 
-#lvl_cp6_checkpoint
+#lvl_cp6_checkpoint (0x)
    6,R
    1,R,K
   14,R
@@ -1721,7 +1728,7 @@ endrepeat
    1,R,K
   40
 
-#lvl_cp6_03_heartside_awheyaway
+#lvl_cp6_03_heartside_awheyaway (6x)
   14,R
    1,R,K
   14,R
@@ -1819,7 +1826,7 @@ endrepeat
    7,R
   40
 
-#lvl_cp6_02_heartside_Ceph
+#lvl_cp6_02_heartside_Ceph (3x)
    7,R,D,X
    1,K
    6
@@ -1901,7 +1908,7 @@ endrepeat
   28,R
   40
 
-#lvl_cp6_03_heartside_Moss_1
+#lvl_cp6_03_heartside_Moss_1 (2x)
   10,R
    6,R,K,G
    7,R
@@ -1976,7 +1983,7 @@ endrepeat
   67
   40
 
-#lvl_cp6_03_heartside_Moss_2
+#lvl_cp6_03_heartside_Moss_2 (11x)
   59
    4,R
   28,R,K
@@ -2141,7 +2148,7 @@ endrepeat
    1,R,J
    6,R
 
-#lvl_heartside_outro
+#lvl_heartside_outro (1x)
    2,R
    1,R,K
   14,R
@@ -2251,5 +2258,5 @@ repeat 100
 endrepeat
  197,O
 
-ChapterTime: 7:38.320(26960)
-#124 dash
+ChapterTime: 7:19.603(25859)
+#117 dash
