@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 529
+RecordCount: 856
 
 console load StrawberryJam2021/1-Beginner/voliver9
    1
@@ -73,22 +73,21 @@ console load StrawberryJam2021/1-Beginner/voliver9
   86,L
   31,L,D
   40
-  13,R,K
-   7,G
+   5,R,K
+   8,R,G
   34,L,K
-   5,J,G
- 105,L,G
+  80,L,G
+  22,G
    1
    1,K
-  12,J,G
-   7,R,J
-  18,L,K
-   2,R,J
+  14,J,G
+   1,K,G
+  11,R,J,G
+   5,R,K,G
   40
 
 #lvl_a-04 (0x)
-  19,R
-   1
+  14,K,G
    9,J,G
   12,L,K
   11,J
@@ -101,24 +100,32 @@ console load StrawberryJam2021/1-Beginner/voliver9
    1,L,K
   16,L
   28,G
-   7
-   1,K
-   4,J,G
    8
-  13,R,K
-   8,J,G
-   1,L,J
    1,K
-  16,R,J,G
-  10,L,K
-  10,L
-   4,L,K,G
+   5,J,G
+   7
+  12,R
+  18,L,K
+  20,R,J
+   3,L,K
    1,L
-  35,L,K
-  28
-  22,R,K
+  14,L,K
+   2,L,J,G
+  11,L,D
+   2,L,D,K
+   1,L
+   2,L,K
+   1,R
+   1,J,G
+   4,L,J
+   1,L
+  11,L,K
+   3,R
+   7,L,K
+  13,J,G
+  13,R,K
+   7,R,J,G
   40
-
 #lvl_a-05 (0x)
 
   45,R
@@ -215,65 +222,67 @@ console load StrawberryJam2021/1-Beginner/voliver9
    7
   21,L,D,G
   14,G
-   5,R,G
-  34,R,K
-  10,R,J,G
-  22,L,K
-   3,L,G
-  17,L,J,G
-   2,L,K,G
-  23,L,D
-   1,K,G
-   3,L
-   7,R,D,K
-  23,R,D
+   6,R,G
+  20,R,K
+   1,L,J,G
+  11,R,J
+   2,L,G
+  36,L,J,G
+  11,L,K
+   1,L
+  16,L,K
+  13,R,K
+   1,R,J
+  30,R,D
    1,R,K
   14,R
    1,R,K
-  14,R,D
+  14,R
    1,R,K
   14,R
    1,R,K
-  11,R
   40
 
 #lvl_a-08 (1x)
-   3,R
-   1,R,K
   14,R
    1,R,K
   14,R
    1,R,K
   14,R
    1,R,K
-  15,R
-   5,R,J,G
    1,R
-  15,R,K
-   6,R
+  15,R,K,G
+   4,K
+   9,R,J,G
+   1,R
+  13,R,K
+   8,R
+  10,R,K
+   1,R
+  35,R,K
+  42,L,U,X
+   9,J,G
+   3,K,G
+   6,L
+  31
+   5,R,D
    7,R,K
-   1,R
-  37,R,K
-  41,L,U,X
-  15,K,G
-   3,L,J,G
-   7,L
-  29
-   3,R,D
-  12,R,K
-  27,L,J,G
-   8,K,G
-  19,R,J
- 120,G
-  51,U,G
-   5,R,K,G
-  13,R
-   9,K
-  15,R
+   3,K
+   1,L
+   1,L,J,G
+  21,L,K
+  16,R,J
+ 153,R,U,G
+  15,R,K,G
+  16,K
+   8,J
+   4,R,J
+  12,R
+   5
    1,R,K
   14,R
    1,R,K
-   4,R
+   5,R
   40
 
 #lvl_a-09 (2x)
@@ -321,14 +330,14 @@ console load StrawberryJam2021/1-Beginner/voliver9
    3,K,G
    2,J,G
    6,L
-   6,R
-  28,R,K
+   4,R
+  30,R,K
    1,R,J
-  13,R,D
+  12,R,D
   40
 
 #lvl_b-03 (1x)
-   9,R,D
+  10,R,D
    1,R,K
   14,R
    1,R,K
@@ -343,5 +352,5 @@ console load StrawberryJam2021/1-Beginner/voliver9
   20,R,X
  133,D
 
-ChapterTime: 1:08.697(4041)
+ChapterTime: 1:07.762(3986)
 #5 dash
