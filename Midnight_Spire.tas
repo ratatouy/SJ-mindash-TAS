@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1123
+RecordCount: 1184
 
 console load StrawberryJam2021/1-Beginner/joltik
    1
@@ -337,7 +337,7 @@ endrepeat
    2,L,J
   43
 
-#lvl_a_04 - 2 dashes
+#lvl_a_04 - 0 dashes
    2,R
    1,R,J,G
    8,R,K,G
@@ -346,43 +346,58 @@ endrepeat
    6,L,J
    7,R,K
   17,R
-  26
+   5
+  14,R
+   1,R,D
+   4,R,J
+   2,L,J
+   2,L,K,G
+   1,J,G
+   1,R,J
+  11,J
+repeat 3
+   1,R,J
    1,J
-   8,R,J
-  10,J
-#Dash
-   5,U,X
-  12,R
-   8,J
-  30
-   9,L,J
-   8,R
-  38
-  13,J
+endrepeat
+   1,R,J
+  11,K
+   9,L,K
+  26,L,J,G
+  10,K,G
+   7,R
+  19,L
+  12,J
+  40
+  16,J
   10,L,U,X
   25,R
    1,J
   10,L,J
   18,L,K
-   8,R,J
+   9,R,J
   11,R
 repeat,2
    1,R,J
   15,R
 endrepeat
    1,R
-  15,R,J
-repeat,9
-   1,K
-   1,J
-endrepeat
-   1,K
-   1,J
-   6,L,J
-#Dash
-  34,L,U,X
-  27
+  14,R,J
+   5,K
   11,J
+  30,L,G
+   3,L,J,G
+   5,L
+   2,L,J
+   8,L
+   3,L,J
+   4,L
+   2,L,J
+   7,L
+   1,L,J
+  20,J
+  14
+   5,L
+  16,J
   19,L,U,X
    2
    4,L
@@ -671,6 +686,6 @@ endrepeat
 #Dash
  153,U,X
 
-#10 dashes
-ChapterTime: 1:46.624(6272)
+#8 dashes
+ChapterTime: 1:47.882(6346)
 #6272
