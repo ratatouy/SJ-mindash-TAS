@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 856
+RecordCount: 987
 
 console load StrawberryJam2021/1-Beginner/voliver9
    1
@@ -39,56 +39,51 @@ console load StrawberryJam2021/1-Beginner/voliver9
   13,R
   26,R,D,K
   21,L,J,G
-   8,K,G
-   1,R,K
-   1,J
-  16,L,K,G
-   8,J,G
-   1,R,J
-   1,K
-  16,L,J,G
-  13,R,K
-   5,K
-  20,R,X
-   2,R
-   1,G
-   1,K
-  11
-  10,R
-   1,K
-  13,L
-  39,L,K
+  12,L,K,G
+  12,L,J,G
+   8,L,K,G
+  20,R,J
+  32,R,U,X
+  13
+  22,L
+  37,L,K
    1,L,J
   14,L
-   1,L,K
-   7,L
+   1,L,J
+   2,L
   40
 
 #lvl_a-03 (0x)
    7,L
    1,L,K
-  14,L
+   2,L
+   1,R
+   1,K,G
+  15,L
    1,L,K
   14,L,G
   86,L
   31,L,D
-  40
+  37
    5,R,K
    8,R,G
   34,L,K
-  80,L,G
+  39,L,G
+  40,G
+   1,D,G
+
   22,G
    1
    1,K
   14,J,G
    1,K,G
-  11,R,J,G
-   5,R,K,G
+  12,R,J,G
+   4,R,K,G
   40
 
 #lvl_a-04 (0x)
-  14,K,G
-   9,J,G
+  12,K,G
+  11,R,J,G
   12,L,K
   11,J
   19,R,D
@@ -121,10 +116,10 @@ console load StrawberryJam2021/1-Beginner/voliver9
    1,L
   11,L,K
    3,R
-   7,L,K
-  13,J,G
-  13,R,K
-   7,R,J,G
+  12,R,J,G
+  12,R,K,G
+  12,R,J,G
+   3,R,K,G
   40
 #lvl_a-05 (0x)
 
@@ -163,50 +158,49 @@ console load StrawberryJam2021/1-Beginner/voliver9
   14,R
    9,R,K
   14,R,G
-   5,L
-  20,K
-  11,R
-   3
-   9,R,J,G
    1,R
-  23,R,K
-  12,L,D
-   4,L
-   9
-   3,R,K
+   1,J,G
+   1,K
+  14
+  12,R,K,G
+   1,R
+  10,R,D,K
+  11,R,D
+  23,L,D
+   1,R,K
+   2,R
    6,R,J,G
    1,R
-  22,R,K
-   8,R,J
-  38,R,D
-   1,R,K
+  21,R,K
+   8,L,J
+  29,R,D,G
+   7,R,D,K
+   2,R,J
    1,R
-  17,R,K,G
-   3,R,G
-  27,R,U,G
-   2
+  19,R,K
+  36,R,U,G
+   1
+   1,K
+   7,J,G
+  10,L,K,G
+  11,J,G
+   1,R,J
+   1,K
+  21,L,K
+  26,L,G
+  27,R,K
+  23,R,G
+   1
    1,K
   12,J,G
-   9,L,K
-   1,J,G
-   1,R,J
-   1,K
-  24,L,K
-   1,J
-  49,L,J,G
-  29,R,K
-  27,R,G
-   4
-   1,K
-   1,J,G
-  27,R,D
-  41,R
-   3,R,D,J
-   1,R,J
+  25,L,J
+  42,R,D
+   1,R,D,K
+   2,R,D
    1,R,K
-   4,R,D
-  23,D
-  21,R,D
+  33,R,D
+  12,D
+   6,R,D
   40
 
 #lvl_a-07 (0x)
@@ -352,5 +346,5 @@ console load StrawberryJam2021/1-Beginner/voliver9
   20,R,X
  133,D
 
-ChapterTime: 1:07.762(3986)
+ChapterTime: 1:06.878(3934)
 #5 dash
