@@ -8,7 +8,7 @@ Unsafe
 
    1,D
    1,J
-  41
+  44
    1,R
    1,F,90
    1,R
@@ -76,7 +76,6 @@ endrepeat
    1,L
    1,F,270
    1,L
-   7
 
 repeat 5
    1,X
@@ -91,7 +90,7 @@ repeat 3
    1,F,270
 endrepeat
    1,L
-   1,L,J
+   1,J
 
    1,D
    1,L
@@ -156,8 +155,7 @@ endrepeat
    1,R
    1,D
    1,R
-   1,F,90
-   6
+
 repeat 5
    1,X
    1,C
@@ -167,13 +165,66 @@ endrepeat
    1,J
 
    1,U
+   1,J
+
+repeat 3
    1,L
+   1,F,270
+endrepeat
+   1,J
+
    1,U
+repeat 2
+   1,R
+   1,F,90
+endrepeat
+   1,R
+   1,J
+
+   1,D
+repeat 2
+   1,L
+   1,F,270
+endrepeat
+   1,J
+
+   1,U
+   1,L
+   1,J
+
+   1,L
+   1,F,270
+   1,L
    1,J
 
    1,D
    1,F,180
    1,J
+
+repeat 3
+   1,R
+   1,F,90
+endrepeat
+   1,R
+   1,U
+   1,F,0
+   1,J
+
+   1,D
+   1,F,180
+   1,R
+   1,F,90
+   1,J
+
+   1,U
+   1,F,0
+   1,L
+   1,J
+
+   1,D
+   1,F,180
+   1,J
+
    1,S
   48
    1,U
