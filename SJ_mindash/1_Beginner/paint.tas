@@ -1,4 +1,4 @@
-RecordCount: 2374
+RecordCount: 2462
 
 console load StrawberryJam2021/1-Beginner/mosscairn
    1
@@ -188,45 +188,30 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   12,R
   40
 
-#lvl_a-02 (2x)
+#lvl_a-02 (1x)
    2,R
    1,R,J
   14,R
+#cycle
   36
-   5,R
+  11,R
   27,R,J
   15,R
-  22,R,J
-  15,U,X
-  37
-   2,L,G
-   5,J,G
-  15,R,K
-  15,U,X
-  29,R
-   1,R,G
-  15,R,J,G
-  12,R,K,G
-   2,R,J,G
-   1,R
-   1,R,J
-   2,R,K
-   5,R
-   1,R,J
-  12,R
-   7,R,J
-   1,R,K
-  19,R
-   1,R,J
-   7,R
-   1,R,J
-  11,R
-   1,R,J
-   1,R
+  73,L,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+  20,R
+  15,R,X
   40
 
 #lvl_a-03 (1x)
-  14,R
+   1,S
+   1,D,J
+  69,O
+#cycle
+   5
+   5,R
    1,R,J
   14,R
    1,R,J
@@ -234,7 +219,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    3,R,J
   15,R,X
   24,R,D
-  35,G
+  38,G
   21,R,D,G
    1,R,D,J
   15,R
@@ -411,8 +396,21 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   13,R
    1,R,J
   18,R
-  57
-  33,R
+#cycle
+   1,R
+   1
+   5
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+  43
+  32,R
   26,R,J
   12,K,G
    9,J,G
@@ -712,15 +710,16 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,L,J
   14,L
    7,L,J
-  17,R
+  15,R
    1,R,J,G
    7,R
    1,R,J
-   7,R
+  10,R
   12
    4,L
-  11,R,J
-   7,R,K,G
+  12,R,J
+   5,R,K,G
+   1,K,G
   40
 
 #lvl_b-05 (1x)
@@ -732,29 +731,31 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    7,L
   47,L
   10,R,D,X
-  25,L,J
-   4,L
-  14,L,D,G
-  14,L,G
-  12,L,J
+   1,K
+  24,L,J
+   6,L,G
+   9,L,D,G
+  19,L,G
+  10,L,J
    1,L,K,G
-   1,L,J,G
+   2,L,J,G
    1,L,K,G
-   1,L,J,G
+   2,L,J,G
   10,L
    1,L,J
   14,L
    1,L,J
-  12,L
+  11,L
    1,L,J
-   8,L
+   6,L
   40
 
 #lvl_b-06 (1x)
-   1,L
+   3,L
    1,L,J
-  14,L
-  30
+   7,L
+#cycle
+  34
   23,L
    1,L,J
    4,L
@@ -889,8 +890,8 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    2,L
    3,J
    1,L,J
-  27,L,K
-  24,L
+  28,L,K
+  23,L
   73
   40
 
@@ -1033,7 +1034,7 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    5,R
    4,R,J
    7,R
-  79,R,G
+  80,R,G
    1,U,G
    1,G
    1,U,G
@@ -1191,6 +1192,8 @@ console load StrawberryJam2021/1-Beginner/mosscairn
    1,R,J
    5,R
   18,R,J
+   1,R,K,G
+   1,L,J
   21,L,K
   12,R
   40
@@ -1298,5 +1301,5 @@ console load StrawberryJam2021/1-Beginner/mosscairn
   15,L,X
  135
 
-ChapterTime: 3:35.475(12675)
-# 49x
+ChapterTime: 3:34.659(12627)
+# 48x
