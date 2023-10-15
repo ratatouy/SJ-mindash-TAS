@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3050
+RecordCount: 3078
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -32,8 +32,7 @@ endrepeat
 
 
 #lvl_SS2-1 - 1 dash
-  40
-  13
+  53
    1,R
    1
    1,R,J
@@ -110,8 +109,7 @@ endrepeat
    5,L
    1,L,J
   40,L
-   8
-   1
+   9
   36,R
    6,R,U
    2,R
@@ -181,10 +179,10 @@ endrepeat
   14,R
    1,R,J
    3,R
+  40
 
 
 #lvl_SS2-4 - 1 dash
-  40
    2,R
  163
    9,R
@@ -214,8 +212,7 @@ endrepeat
    1,R,J,G
    9,R
    1,R,J
-   8,R
-  11,R
+  19,R
    1,R,J
    4
    5,R
@@ -244,16 +241,16 @@ endrepeat
    2,L,J
   13,L,U
   11,U
+  40
 
 
 #lvl_SS2-3 - 0 dashes(1)
-  40
   74,U
   11,L,U
+  40
 
 
 #lvl_SS2-5b - 0 dashes
-  40
   10,L,U
 repeat 2
    1,L,J
@@ -265,8 +262,7 @@ endrepeat
   21,R,D
    4,R,J
    8,R,D
-   1,R
-   3,R
+   4,R
    1,R,J
   20,R
    1,R,J,G
@@ -281,10 +277,10 @@ endrepeat
   17,R,U
   13,L
   52,D
+  40
 
 
 #lvl_SS2-3 - 0 dashes(2)
-  40
   55,D
   12,L,D
    7
@@ -300,30 +296,38 @@ endrepeat
   12,R
    1,R,J
    2,R
-
-
-#lvl_SS2-7 - 1 dash
   40
+
+#lvl_SS2-7 - 0 dashes
   12,R
-  11,R,J
-  11,R
-#dash
-  15,R,X
-  14,R
+   8,L,K
+   5,K
+   8,J,G
+   3,L,J
+   1,R,J
+   1,K
+   1,R,K
+   1,J
+   4,R,J
+   2,K
+   2,R,K
+  10,R,J
+   1,R
+  45,R,J
 
 
 #lvl_HUB - 0 dashes(0)
-  10,R,D
+  11,R,D
 repeat 8
    1,R,J
   14,R
 endrepeat
    1,R,J
    9,R
+  40
 
 
 #lvl_Lab-0 - 0 dashes
-  40
    5,R
   27,R,D,J
    8,R,K
@@ -345,10 +349,10 @@ endrepeat
   14,R
    1,R,J
    9,R
+  40
 
 
 #lvl_Lab-1 - 0 dashes
-  40
    5,R
 repeat 2
    1,R,J
@@ -366,10 +370,9 @@ endrepeat
   14,L
    1,L,J
   11,L
-
+  40
 
 #lvl_Lab-2 - 0 dashes
-  40
    3,L
    1,L,J
   14,L
@@ -379,10 +382,9 @@ endrepeat
   37,L,U
   37,L,D
    2,L
-
+  40
 
 #lvl_Lab-3 - 0 dashes
-  40
   35,L,U
    5,L,J
    5,L
@@ -412,26 +414,22 @@ repeat 4
 endrepeat
    1,R,J
    3,R
-
+  40
 
 #lvl_Lab-4 - 0 dashes
-  40
   11,R
    1,R,J
-  70,R
-   6,R
+  76,R
    1
    1,U
    2,R,U
    1,R,J,G
    1,R,K,G
-  31,R
-  38,R
+  69,R
   37,R,D
-
+  40
 
 #lvl_Lab-5 - 0 dashes
-  40
    6,R,J
    9,R
    1,R,J
@@ -442,10 +440,9 @@ endrepeat
   11,L
   10,R,D
   17,D
-
+  40
 
 #lvl_Lab-6 - 0 dashes (this room took so long omg, I still don't think it's optimal so maybe try a skip for 5 hours to realize it's frame tie)
-  40
   43,D
 
 
@@ -456,8 +453,7 @@ endrepeat
   27,L,D
    1,L
    1,L,J
-  14,L
-  14,L
+  28,L
    4,L,D
    1,L,D,J
    2,L
@@ -471,10 +467,9 @@ repeat 2
 endrepeat
    1,L,J
   13,L
-
+  40
 
 #lvl_Lab-Tele - 1 dash
-  40
    1,L
 repeat 3
    1,L,J
@@ -495,14 +490,12 @@ repeat 8
 endrepeat
    1,L,J
    9,L
-
+  40
 
 #lvl_WZ-0 - 0 dashes
-  40
    5,L
    1,L,J
-  14,L
-   7,L
+  21,L
   19,L,D,J
   11,R,K,G
    1,R
@@ -527,7 +520,6 @@ endrepeat
    1,R,D
    1,L,D
   23,R,D
-
 
 #lvl_WZ-1 - 0 dashes
    5,R,D
@@ -592,8 +584,7 @@ endrepeat
    1,L,J
   14,L
    1,L,J
-  14,L
-   8,L
+  22,L
    8,L,U,J
    2,L
    2
@@ -781,10 +772,9 @@ endrepeat
   14,R
    1,R,J
    3,R
-
+  40
 
 #lvl_WZ-Tele - 0 dashes
-  40
   11,R
    1,R,J
   22,R,D
@@ -879,10 +869,9 @@ endrepeat
   18,U
   10,L,U
    1,L
-
+  40
 
 #lvl_FinalChallenge - 1 dash
-  40
    4,L
    1
    1,L,U
@@ -1034,18 +1023,17 @@ endrepeat
    1,L,J
   13,L
   16,U
-
+  40
 
 #lvl_ESCAPE - 0 dashes
-  40
 repeat 91
    1,L,U
    1,R,U
 endrepeat
+  40
 
 
 #lvl_HEART - 1 dash
-  40
 repeat 12
    1,R,U
    1,L,U
