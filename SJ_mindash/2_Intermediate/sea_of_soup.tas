@@ -1,4 +1,4 @@
-RecordCount: 3570
+RecordCount: 3574
 
 console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1
@@ -10,7 +10,7 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1
 ##
 
-#lvl_soup-1
+#lvl_soup-1 - 0 dashes
    8,R
    1
    1,R
@@ -36,7 +36,7 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
   13,R,J,G
  117,R,X
 
-#lvl_soup-2
+#lvl_soup-2 - 0 dashes
   20,R,D
    1,G
    5,L,D
@@ -85,7 +85,7 @@ endRepeat
   15,R,C
   40
 
-#lvl_soup-3
+#lvl_soup-3 - 0 dashes
    9,R
    9,R,Z
   13,R,J
@@ -111,7 +111,7 @@ endRepeat
   23,R,X
   43
 
-#lvl_soup-4
+#lvl_soup-4 - 0 dashes
   30,R
   15,R,X
    1,G
@@ -170,7 +170,7 @@ endRepeat
   18,R,C
   40
 
-#lvl_soup-5 (0)
+#lvl_soup-5 - 0 dashes(0)
    8,R
   12,R,Z
   20,R,J
@@ -205,7 +205,7 @@ endRepeat
   53
   40
 
-#lvl_soup-5b
+#lvl_soup-5b - 0 dashes
   72
    5,R
    1,R,K
@@ -224,7 +224,7 @@ endRepeat
   16,R,D
   40
 
-#lvl_soup-5 (1)
+#lvl_soup-5 - 0 dashes(1)
   21,R,D
    1,R,J
   14,R
@@ -242,7 +242,7 @@ endRepeat
    1,R
   40
 
-#lvl_soup-6 (0)
+#lvl_soup-6 (0) - 0 dashes
    7,R
    1,R,K,G
    9,R
@@ -285,7 +285,7 @@ endRepeat
    4,D
   40
 
-#lvl_soup-7
+#lvl_soup-7 - 1 dash
   15,R,D
 stunpause
   19,R,D
@@ -337,9 +337,10 @@ EndRepeat
    1,R,K
   12,R,D
   46,L,D,X
-   7
-  36,F,110
-  15,D,X
+  23,D
+#dash
+  20,R,D,X
  135,R
 
-ChapterTime: 1:11.485(4205)
+ChapterTime: 1:11.230(4190)
+#4205
