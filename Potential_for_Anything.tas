@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3078
+RecordCount: 3156
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -294,72 +294,70 @@ endrepeat
    1,R,K,G
    1,R,J,G
   12,R
-   1,R,J
    2,R
-  40
+   1,R,J
+
 
 #lvl_SS2-7 - 0 dashes
-  12,R
-   8,L,K
-   5,K
-   8,J,G
-   3,L,J
-   1,R,J
-   1,K
+  40
+  12,R,J
+   1,L,K,G
+   8,L,J,G
+   9,K
+   5,J
+   4,K
+   2,J
+   3,R,J
    1,R,K
-   1,J
-   4,R,J
-   2,K
-   2,R,K
-  10,R,J
-   1,R
-  45,R,J
+   6,R
+  32,R,J
+   6,R,D
 
 
 #lvl_HUB - 0 dashes(0)
-  11,R,D
+   8,R,D
 repeat 8
    1,R,J
   14,R
 endrepeat
    1,R,J
-   9,R
+  12,R
   40
 
 
 #lvl_Lab-0 - 0 dashes
-   5,R
-  27,R,D,J
-   8,R,K
-   5,R
-   3,R,J
-   8,R
+   9,R
+  19,R,D,J
+   1,R,K
+   8,R,J
+  16,R
    2
-  12,R
+   5,R
+   7,R,D
    1,R,J,G
    7,R,K,G
    5,R
    1,R,J
   13,R
    1,R,J
+  23,R,D
+  23,R,U
   28,R,D
-  15,R,U
-  30,R,D
    1,R,J
   14,R
    1,R,J
-   9,R
+   8,R
   40
 
 
 #lvl_Lab-1 - 0 dashes
-   5,R
+   6,R
 repeat 2
    1,R,J
   14,R
 endrepeat
   10,R
-  13,R,J
+  12,R,J
   21,R,U
   45,R,D
   73,L
@@ -1044,6 +1042,6 @@ endrepeat
  135
 
 
-ChapterTime: 2:30.161(8833)
-#8833
-#8 dashes
+ChapterTime: 2:30.620(8860)
+#8860
+#7 dashes
