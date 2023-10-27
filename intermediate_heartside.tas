@@ -1,5 +1,4 @@
-RecordCount: 7850
-
+RecordCount: 7880
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
 
@@ -1348,134 +1347,259 @@ EndRepeat
   85,R,D,G
   81,L,G
   18,L,U,G
-  49,R,D,G
-   2,R,J,G
-  62,R,G
-   5,R,D,G
-   6,L,D,G
-   6
-  37,R,U,G
-  10,L,J
-  15,L
-   3,L,J
-   4,L
-  15,L,Z
-   7,R
-   1
-   1,R
-
-   2,R,J
-  15,R,Z
-  10,R
-   1
-   5,R
-   1,R,D,J
-   2,R
-   1,R,J,G
-  10,R,K,G
-  10,R
-   3,J,G
-  10,L,J
-  40
+30,R,D,G
+  19,R,D,G,
+24,R,D,G
+60,R,G,U
+15,U,X
+2,
+1,L
+32,R
+2,G
+11,J,G
+1,L,J
+1,R,G,K
+1,R,G,J
+6,R,J
+5,R
+1,R,G,J
+4,R
+6,R,G,K
+51,R,D
+31,R,Z
+4,R,J
+12,R,K
+23,R,X
+19,R,C
+64,L,D
+31,L,X
+38,L,
+1,L,J
+1,L
+1,L,G,J
+14,L
+10,R
+1,R,J
+28,R,G,U
+1,R,G,J
+21,R,G,U
+1,R,G,J
+16,R,G
+2,R,D
+1,G,J
+9,L,J
+1,K
+4,L,K,
+1,J
+1,L,J
+46,L,J,G
+1,L,D
+5,G,J
+8,
+2,G,K
+17,G,J,U
+5,L,J,G,U
+48,L,G,U
+12,L,G,D
+1,L
+5,
+4,L,J
+29,
+9,J
+7,
+8,R
+57,R,G,U
+8,R,G,J
+1,R,G
+9,R,G,
+9,R,G,J
+2,L,G,K
+  43
 
 #lvl_cp3-2-LegS
-  16,R
-   1,R,J,G
-   1,R,K,G
-   2,R
-   1,R,J,G
-  12,R
-  12,R,J
-   5,R
-   6,R,J
-  14,R
-   4,J,G
-   4,R,J
-   1,J
-   3,R,J
-  12,R
-  23,R,U,X
-   6,R
-  12,U,C
-  21,R,G
-   1,L
-  31,R,D
-  28,R,J
-  26,R,K
-  15,U,X
-  15,R
-   1,R,J,G
-   1,L,J
-   1,L
-   6,R
-   5,Z
-   1,R,J
-   7,R
-  12,R,J
-   5,R
-   3,R,J
-   1,R
-   6,R,J
-   8,R
-  12,R,Z
-   1,R,J
-   6,R
-   9,R,J
-  17,R
-  18
-  16,L
-   2
-  11,L,D
-   1,L,K,G
-   5,L,J,G
-   5,L
-   7,L,J
-   8,L
-  27,L,J
-   8,L
-   4,L,D
-   2,R,D
-  13,G
-  20,R,G
-  10,R,D,G
-  40,R,G
-  10,R,D,G
-  10,R,G
-   8,R,D,G
-   6,R,G
-   9,R
-  15,R,U,X
-  35,R,G
-  43,R
-   1,R,J,G
-   1,R,K,G
-   9,R
-  20,R,J
-  29,R,K
-  20,R,X
- 112
-   5,R,J
-   1,K
-   3,L,K
-   5,K
-  35,R,U,G
-   9,R
-   1,R,J,G
-  12,R,K,G
-  44,R,U,G
-  21,R
-   9
-   1,R
- 104
-   1,R
-   6,R,Z
-   1,L,J
-   8,L
-   6,L,D,J
-  10,L
-   8,L,J
-  15,L,X
-  71
+9,R,G
+12,R
+1,R,G,J
+1,R,G,K
+12,R
+1,R,J
+50,R,G,U,J
+1,D
+16,L
+3,
+1,L
+1,
+1,R
+1,R,G,J
+10,R,J
+40,R,G,U,J
+1,R
+15,R,U,X
+5,R
+15,U,X
+22,R,
+1,L,J
+10,L
+1,
+5,L
+14,R
+10,R,D
+1,R
+6,R,D
+1,G
+1,G,J
+6,G,K
+2,R,K
+1,L,K
+33,L,G,U,K
+1,R
+15,U,X
+9,R
+55,R,G
+2,R,G,U
+10,D
+2,L,D
+8,D
+3,
+21,G,U,J
+1,D
+1,R,G
+Repeat 6
+1,
+1,G
+EndRepeat
+4,G,J
+21,R,G,J,U
+1,D
+21,R,G,
+1,D
+16,G,
+5,R,G,
+Repeat 3
+1,D
+17,G,
+4,R,G,
+EndRepeat
+Repeat 5
+1,D
+15,G,
+6,R,G,
+EndRepeat
+1,
+23,R,G
+5,R,G,J,U
+5,R,G
+46,R,G,U,J
+137,G,U,
+23,R,G
+1,G
+1,D
+21,G
+1,D
+Repeat 3
+15,G,J
+6,R,G,J
+1,D
+EndRepeat
+17,G,J
+4,R,G,J
+1,D
+Repeat 5
+16,G,
+5,R,G,
+1,D
+EndRepeat
+15,G
+6,R,G
+1,D
+19,G,
+2,R,G
+1,D
+39,L,G,U
+1,D
+9,L
+1,K
+3,R,K
+4,R,
+25,R,G
+1,D,J
+21,G
+1,D
+15,G
+6,R,G
+1,D
+15,G
+6,R,G
+1,D
+14,G
+7,R,G
+1,R
+60,R,G,U
+50,R,J
+30,R,K
+20,R,X
+112,
+1,R,J
+3,L,J
+8,R,J
+24,R,G
+1,D
+24,R,G,
+1,D
+21,G
+4,R,G
+1,D
+14,G
+7,R,G
+1,D
+14,G,J
+7,R,G
+1,D
+17,G,J
+4,R,G,
+1,D
+16,G
+5,R,G
+1,D
+16,G
+5,R,G
+1,D
+21,G
+1,D
+1,L,
+1,
+1,G
+1,G,J
+6,J
+21,G
+1,D
+25,R,G
+1,D,J
+17,G
+8,R,G
+1,D,J
+24,G
+Repeat 4
+1,D,J
+24,G
+EndRepeat
+1,D,J
+24,L,G
+1,D,J
+21,L,G
+1,D
+18,G
+3,L,G
+1,D
+14,G
+7,L,G
+1,D
+32,L,G,U,J
+1,R
+14,L
+15,L,X
+5,L
+  74
    1,R,J
   40
 
@@ -2594,4 +2718,4 @@ EndRepeat
   16,U,X
  135
 
-ChapterTime: 7:07.227(25131)
+ChapterTime: 7:34.716(26748)
