@@ -120,14 +120,16 @@ endrepeat
    1,S
    1,D,J
   34
-   5,R
+  12,R
    1,R,J
-  22,R
+   8,R
+   2,R,J
+   5,R
    8,R,J
    2,R
    1,R,K,G
    1,R,J,G
-  10,R
+   9,R
    1,R,J
   18,R
    1,R,J
@@ -139,19 +141,17 @@ repeat 3
   14,R
    1,R,J
 endrepeat
-   4,R
+   5,R
   40
 
 #lvl_prologue-01
-  10,R
+   9,R
    1,R,J
   14,R
    1,R,J
   23,R,D
    1,R,J
-   7,R
-   1
-   1,R
+  10,R
    1
    1,R
    2
@@ -170,16 +170,16 @@ endrepeat
    1,R,J,G
    8,R
    2,R,J
-   8,R
-   1,R,J
-   5,R,K,G
+   7,R
+   2,R,J
+   4,R,K,G
    8,R
    1,R,J
    3,R
    1,R,J,G
   22,R,D
-  20,R,J
-   7,R
+  18,R,J
+   8,R
    4,R,J
    1,R
    1,R,K,G
@@ -313,5 +313,5 @@ endrepeat
    1,D,J
   18
 
-ChapterTime: 0:34.255(2015)
-#2015
+ChapterTime: 0:34.221(2013)
+#2013
