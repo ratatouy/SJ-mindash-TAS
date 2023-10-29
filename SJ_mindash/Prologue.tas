@@ -178,19 +178,21 @@ endrepeat
    3,R
    1,R,J,G
   22,R,D
-  18,R,J
-   8,R
-   4,R,J
+  12,R,J
+   6,R
+   8,R,J
+   4,R,K
    1,R
    1,R,K,G
    1,R,J,G
-  10,R
+   9,R
    1,R,J
   14,R
    1,R,J
-  27,R
-   2
-   2,R
+  14,R
+   1,R,J
+   3
+  11,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -313,5 +315,5 @@ endrepeat
    1,D,J
   18
 
-ChapterTime: 0:34.221(2013)
-#2013
+ChapterTime: 0:34.170(2010)
+#2010
