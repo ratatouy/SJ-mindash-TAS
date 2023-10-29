@@ -292,28 +292,30 @@ endrepeat
    9,R
    1,R,J
   18,R,D
-repeat 5
+repeat 3
    1,R,J
   14,R
 endrepeat
-   1,R
+   1,R,J
+   5,R
+   3,R,J
+   8,R
+   1,R,J
+   8,R
+   2,R,J
+   4,R
    1
-   1,R
    1,R,J
    1,R,K,G
    1,R,J,G
    6,R
    1,R,J
    1,R,K,G
-  10,R
-   1,R,J
-  18,R
-   1,R,J
-  14,R
+   9,R
+   9,R,J
+  24,R,D
    1,X
    1,S
    1,D,J
   18
-
-ChapterTime: 0:34.170(2010)
-#2010
+ChapterTime: 0:34.136(2008)
