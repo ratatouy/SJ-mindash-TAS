@@ -44,10 +44,11 @@ endrepeat
   17,R,X
   16,R
    1,R,J
-  21,R
-   1,R,J
-  15,R
-   9,R,D
+  18,R
+   2,R,J
+   7,R
+   2,R,J
+  16,R,D
    1,R,J
   19,R,Z
   34,R
@@ -95,18 +96,26 @@ endrepeat
    3,D
    9,R,X
    6,L
-  29,R
-   1,R,J
-  26,R
-   1,R,J
-   1,R,K,G
-   2,R,J,G
-  20,R,D
-   1,R,J
-   1,R,K
+  15,R
+   1,L
+  12,R,D
    1,R,J
   18,R,D
-  15,D
+   7,R
+   1
+   1,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   9,R
+   1,R,J
+   6,R,D
+   1,R
+   1,R,J
+   1,R,K
+   3,R,J
+  20,R,D
+   9,D
 #cutscene
    1,S
    1,D,J
@@ -114,7 +123,6 @@ endrepeat
    5,R
    1,R,J
   22,R
-   1
    8,R,J
    2,R
    1,R,K,G
@@ -305,6 +313,5 @@ endrepeat
    1,D,J
   18
 
-ChapterTime: 0:34.391(2023)
-
-
+ChapterTime: 0:34.255(2015)
+#2015
