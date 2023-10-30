@@ -1,5 +1,5 @@
 #Intermediate Heartside, 104x
-RecordCount: 7982
+RecordCount: 8083
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
 
@@ -99,22 +99,22 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   22,R
    3,R,D
   15,R,X
-17,
-3,R
-3,
-4,G,J
-6,R,J
-1,R
-4,
-3,G,K
-2,
-14,J
-1,K
-24,R,J,
-12,R,D
-7,D
-1,J
-13,R,J
+  17
+   3,R
+   3
+   4,J,G
+   6,R,J
+   1,R
+   4
+   3,K,G
+   2
+  14,J
+   1,K
+  24,R,J
+  12,R,D
+   7,D
+   1,J
+  13,R,J
   15,R,X
    6,R
    9,U,X
@@ -158,7 +158,7 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
   15,R,X
   23,R,D
   15,R,X
-13,R
+  13,R
   15,R,Z
    6
   11,L,J,G
@@ -200,48 +200,45 @@ console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1,L,J,G
    2,R,J
   37,R
-   2,R,J,G
-   5,R
+   1,R,J,G
+   5,R,K,G
+   7
+   1,G
+  11,J,G
+  10,L,J
+  17,L
+   6,K
+  28,L
+   5,K
+  13,L
+   7
+   8,L,G
+   1,L,U,G
+   1,L,G
+   1,L,U,G
+  31,G
+   2,J,G
    1,R,J
+   1,L,J
+  10,K,G
+   9,R,K
+   6,K
+   1,L,K
+   1,J,G
+   4,L
+   2
    1,R
-   1,R,J
-   4,R
-   6
-   1,R
-  15,R,J
-1,K
-24,L,K
-1,G
-1,
-1,J
-24,L,J
-2,K
-1,L
-23,L,K
-1,J
-47,L,J
-39,G
-2,G,J
-1,R,J
-1,L,J
-10,G,K
-9,R,K
-8,L,K
-1,L,G,J
-1,G,K
-2,K
-4,L
-4,
-1,R
-35,R,J
-12,G,K
-8,G,J
-   2,K,G
-   3,R,K
-  17,R
+  10,R,J
+   1,J
+  24,R,J
+  12,K,G
+   9,J,G
+   1,K,G
+   4,R,K
+  16
    9,L
    1,L,J,G
-   1,R,K
+   1,K
   25,R
   15,R,U,X
   19,R
@@ -1370,290 +1367,287 @@ EndRepeat
    1,R,J
   17,R
    1,J
-6,R,J
-1,R,G,K
-1,R,G,J
+   6,R,J
+   1,R,K,G
+   1,R,J,G
    1,K
   40
 
 #lvl_cp3-1-Arphimigon
 #6x
-1,J,G
-2,R
-1,R,G,J
-1,
-   30,R,
-33,R,J
-11,L,J
-52,L,G,U,
-23,R,G,U,J
-101,R,G,K,U
-1,R,G,J
-42,R,G,D
-8,L,G,D
-21,L,G,
-33,L,G,U
+   1,J,G
+   2,R
+   1,R,J,G
+   1
+  30,R
+  33,R,J
+  11,L,J
+  52,L,U,G
+  23,R,U,J,G
+ 101,R,U,K,G
+   1,R,J,G
+  42,R,D,G
+   8,L,D,G
+  21,L,G
+  33,L,U,G
    1,R
    4,L
    4,J
-1,
+   1
   11,U,X
   13,G
   83,R,D,G
   83,L,G
   18,L,U,G
-30,R,D,G
-  15,R,G,
-18,R,D,G
-67,R,G,U
-4,R,G,U
-4,G,
-15,U,X
-2,
-2,L
-32,R
-2,G
-11,J,G
-1,L,J
-1,R,G,K
-1,R,G,J
-6,R,J
-5,R
-1,R,G,J
-4,R
-6,R,G,K
-51,R,D
-31,R,Z
-4,R,J
-12,R,K
-23,R,X
-19,R,C
-64,L,D
-31,L,X
-38,L,
-1,L,J
-1,L
-1,L,G,J
-14,L
-10,R
-1,R,J
-28,R,G,U
-1,R,G,J
-21,R,G,U
-1,R,G,J
-16,R,G
-2,R,D
-1,G,J
-9,L,J
-1,K
-4,L,K,
-1,J
-1,L,J
-46,L,J,G
-1,L,D
-5,G,J
-8,
-2,G,K
-17,G,J,U
-5,L,J,G,U
-48,L,G,U
-12,L,G,D
-1,L
-5,
-4,L,J
-29,
-9,J
-7,
-8,R
-57,R,G,U
-8,R,G,J
-1,R,G
-9,R,G,
-9,R,G,J
-2,L,G,K
+  30,R,D,G
+  15,R,G
+  18,R,D,G
+  71,R,U,G
+   4,G
+  15,U,X
+   2
+   2,L
+  32,R
+   2,G
+  11,J,G
+   1,L,J
+   1,R,K,G
+   1,R,J,G
+   6,R,J
+   5,R
+   1,R,J,G
+   4,R
+   6,R,K,G
+  51,R,D
+  31,R,Z
+   4,R,J
+  12,R,K
+  23,R,X
+  19,R,C
+  64,L,D
+  31,L,X
+  38,L
+   1,L,J
+   1,L
+   1,L,J,G
+  14,L
+  10,R
+   1,R,J
+  28,R,U,G
+   1,R,J,G
+  21,R,U,G
+   1,R,J,G
+  16,R,G
+   2,R,D
+   1,J,G
+   9,L,J
+   1,K
+   4,L,K
+   1,J
+   1,L,J
+  46,L,J,G
+   1,L,D
+   5,J,G
+   8
+   2,K,G
+  17,U,J,G
+   5,L,U,J,G
+  48,L,U,G
+  12,L,D,G
+   1,L
+   5
+   4,L,J
+  29
+   9,J
+   7
+   8,R
+  57,R,U,G
+   8,R,J,G
+  10,R,G
+   9,R,J,G
+   2,L,K,G
   43
 
 #lvl_cp3-2-LegS
 #4x
-9,R,G
-3,
-1,R
-6,
-7,R
-1,R,J
-1,R,G,K
-1,R,G,J
-12,R
-1,R,J
-11,R,G,J
-25,R,G,J,
-3,J
-2,
-16,R,U,X
-8,R
-30,R,G,
-34
-24,R
-2,
-2,G
+   9,R,G
+   3
+   1,R
+   6
+   7,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  12,R
+   1,R,J
+  36,R,J,G
+   3,J
+   2
+  16,R,U,X
+   8,R
+  30,R,G
+  34
+  24,R
+   2
+   2,G
 Repeat 27
-1,
-1,G
+   1
+   1,G
 EndRepeat
-1,G,J
-6,G,K
-2,R,K
-1,L,K
-33,L,G,U,K
-1,R
-15,U,X
-9,R
-51,R,G,J
-2,R,G,U,J
-2,D,J
-8,D
-2,L,D
-4,
-1,R,
-6,
-21,G,U,J
-1,D
-1,R,G
+   1,J,G
+   6,K,G
+   2,R,K
+   1,L,K
+  33,L,U,K,G
+   1,R
+  15,U,X
+   9,R
+  51,R,J,G
+   2,R,U,J,G
+   2,D,J
+   8,D
+   2,L,D
+   4
+   1,R
+   6
+  21,U,J,G
+   1,D
+   1,R,G
 Repeat 6
-1,
-1,G
+   1
+   1,G
 EndRepeat
-4,G,J
-21,R,G,J,U
-1,D
-21,R,G,
-1,D
-16,G,
-5,R,G,
+   4,J,G
+  21,R,U,J,G
+   1,D
+  21,R,G
+   1,D
+  16,G
+   5,R,G
 Repeat 3
-1,D
-17,G,
-4,R,G,
+   1,D
+  17,G
+   4,R,G
 EndRepeat
 Repeat 5
-1,D
-15,G,
-6,R,G,
+   1,D
+  15,G
+   6,R,G
 EndRepeat
-1,
-23,R,G
-5,R,G,J,U
-5,R,G
-46,R,G,U,J
-137,G,U,
-23,R,G
-1,G
-1,D
-21,G
-1,D
+   1
+  23,R,G
+   5,R,U,J,G
+   5,R,G
+  46,R,U,J,G
+ 137,U,G
+  23,R,G
+   1,G
+   1,D
+  21,G
+   1,D
 Repeat 3
-15,G,J
-6,R,G,J
-1,D
+  15,J,G
+   6,R,J,G
+   1,D
 EndRepeat
-17,G,J
-4,R,G,J
-1,D
+  17,J,G
+   4,R,J,G
+   1,D
 Repeat 5
-16,G,
-5,R,G,
-1,D
+  16,G
+   5,R,G
+   1,D
 EndRepeat
-15,G
-6,R,G
-1,D
-19,G,
-2,R,G
-1,D
-39,L,G,U
-1,D
-9,L
-1,K
-3,R,K
-4,R,
-25,R,G
-1,D,J
-21,G
-1,D
-15,G
-6,R,G
-1,D
-15,G
-6,R,G
-1,D
-14,G
-7,R,G
-1,R
-60,R,G,U
-50,R,J
-30,R,K
-20,R,X
-112,
-1,R,J
-3,L,J
-8,R,J
-24,R,G
-1,D
-24,R,G,
-1,D
-21,G
-4,R,G
-1,D
-14,G
-7,R,G
-1,D
-14,G,J
-7,R,G
-1,D
-17,G,J
-4,R,G,
-1,D
-16,G
-5,R,G
-1,D
-16,G
-5,R,G
-1,D
-21,G
-1,D
-1,L,
-1,
-1,G
-1,G,J
-6,J
-21,G
-1,D
-25,R,G
-1,D,J
-17,G
-8,R,G
-1,D,J
-24,G
+  15,G
+   6,R,G
+   1,D
+  19,G
+   2,R,G
+   1,D
+  39,L,U,G
+   1,D
+   9,L
+   1,K
+   3,R,K
+   4,R
+  25,R,G
+   1,D,J
+  21,G
+   1,D
+  15,G
+   6,R,G
+   1,D
+  15,G
+   6,R,G
+   1,D
+  14,G
+   7,R,G
+   1,R
+  60,R,U,G
+  50,R,J
+  30,R,K
+  20,R,X
+ 112
+   1,R,J
+   3,L,J
+   8,R,J
+  24,R,G
+   1,D
+  24,R,G
+   1,D
+  21,G
+   4,R,G
+   1,D
+  14,G
+   7,R,G
+   1,D
+  14,J,G
+   7,R,G
+   1,D
+  17,J,G
+   4,R,G
+   1,D
+  16,G
+   5,R,G
+   1,D
+  16,G
+   5,R,G
+   1,D
+  21,G
+   1,D
+   1,L
+   1
+   1,G
+   1,J,G
+   6,J
+  21,G
+   1,D
+  25,R,G
+   1,D,J
+  17,G
+   8,R,G
+   1,D,J
+  24,G
 Repeat 4
-1,D,J
-24,G
+   1,D,J
+  24,G
 EndRepeat
-1,D,J
-24,L,G
-1,D,J
-21,L,G
-1,D
-18,G
-3,L,G
-1,D
-14,G
-7,L,G
-1,D
-32,L,G,U,J
-1,R
-14,L
-15,L,X
-5,L
+   1,D,J
+  24,L,G
+   1,D,J
+  21,L,G
+   1,D
+  18,G
+   3,L,G
+   1,D
+  14,G
+   7,L,G
+   1,D
+  32,L,U,J,G
+   1,R
+  14,L
+  15,L,X
+   5,L
   74
    1,R,J
   40
@@ -1666,6 +1660,7 @@ EndRepeat
    6,L
    4
    9,R
+
    1,R,J,G
    3,R,K,G
   22,R,D
@@ -1686,105 +1681,97 @@ EndRepeat
    1,R
   11,R,D,K
    5,R
-1,R,K
-11,G,J
-1,J
-6,G,K
-1,R,G,J
-1,L,J
-1,J
-1,L,J
-1,J
-5,L,J
-1,L,J
-1,L
-2,
-1,
-7,R,J
-3,L,J
-2,L,G,K
-9,
-12,J
-4,R,
-5,
-1,
-1,R
-1,G
+   1,R,K
+  11,J,G
+   1,J
+   6,K,G
+   1,R,J,G
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   6,L,J
+   1,L
+   3
+   7,R,J
+   3,L,J
+   2,L,K,G
+   9
+  12,J
+   4,R
+   6
+   1,R
+   1,G
 Repeat 12
-1,
-1,G
+   1
+   1,G
 EndRepeat
-34,
-1,R,G,J
-1,L,J
-5,G,J
-1,K
-1,J
-24,L,J,
-15,L,
-3,L
-1,L,D
-1,D
-1,G
-1,L,G,J
-7,L,J
-7,
-1,L,
-6,D
-3,L,D
-15,D
-12,L,D
-12,L,
-1,L,G
-46,R,J
-10,
-5,
-15,R
-1,R,D
+  34
+   1,R,J,G
+   1,L,J
+   5,J,G
+   1,K
+   1,J
+  24,L,J
+  18,L
+   1,L,D
+   1,D
+   1,G
+   1,L,J,G
+   7,L,J
+   7
+   1,L
+   6,D
+   3,L,D
+  15,D
+  12,L,D
+  12,L
+   1,L,G
+  46,R,J
+  15
+  15,R
+   1,R,D
    1,R
   11,R,D,K
    5,R
-1,R,K
-11,G,J
-1,J
-6,G,K
-1,R,G,J
-1,L,J
-1,J
-1,L,J
-1,J
-5,L,J
-1,L,J
-1,L
-2,
-1,
-7,R,J
-3,L,J
-2,L,G,K
-9,
-3,L,J
-36
-1,G
-10,G,J
-10,G,K
-4,G,J
-2,L,J
-43,L,K
-1,L,G,J
-   21
-   12,L
+   1,R,K
+  11,J,G
+   1,J
+   6,K,G
+   1,R,J,G
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   6,L,J
+   1,L
+   3
+   7,R,J
+   3,L,J
+   2,L,K,G
+   9
+   3,L,J
+  36
+   1,G
+  10,J,G
+  10,K,G
+   4,J,G
+   2,L,J
+  43,L,K
+   1,L,J,G
+  21
+  12,L
    1,L,J
    1,R,K,G
-4,L,K
-17,K
+   4,L,K
+  17,K
   64,R,D
-2,
+   2
   38,R
    1,R,K,G
-40,
-14,R,D
- 216
-13
+  40
+  14,R,D
+ 229
    1,L
    1,L,G
    1
@@ -1800,19 +1787,18 @@ EndRepeat
    1,R,K,G
   23,L,K
   20,L
-6,
+   6
    3,J
   20
  100,R,D
-  16,D
-1,D
+  17,D
   18,R,D
    1,R,J,G
   70,R
    5,R,D
   29,L,D
-  2,
-1,L
+   2
+   1,L
    1,G
   17,L,J,G
   21,L
@@ -1873,34 +1859,33 @@ EndRepeat
   96,R,D
    1,R,J
   45,R
-    1,R,J
+   1,R,J
   32,R
-2,
+   2
   40
 
 #lvl_cp3-4-vitellary
 #10x
-3,R
+   3,R
    1,R,J
-1,
-11,R
-1,
-4,R
+   1
+  11,R
+   1
+   4,R
    1,R,J
   21,R
-2,
-4,D
+   2
+   4,D
    1,G
-   1,
-1,G
-1,
-9,R,J
-2,G
-4,
+   1
+   1,G
+   1
+   9,R,J
+   2,G
+   4
    1,G
    6,R,J,G
-   1,R,J
-   8,R,J
+   9,R,J
    3
    1,L,K,G
    1,R,K
@@ -1927,33 +1912,31 @@ EndRepeat
    5,R
    2,R,J
    3,R
-2,
-1,R
-4,
-1,
-2,
-1,L
-7,R,J
-15,R,U,X
-5,R
-1,
-10,R
+   2
+   1,R
+   7
+   1,L
+   7,R,J
+  15,R,U,X
+   5,R
+   1
+  10,R
 Repeat 33
-1,
-1,R
+   1
+   1,R
 EndRepeat
-1,D
-1,R,D
-1,D
-15,R,X
-29,R
-1,G
-   12,R,J,G
+   1,D
+   1,R,D
+   1,D
+  15,R,X
+  29,R
+   1,G
+  12,R,J,G
   12,K,G
-1,R,G,J
-2,G,J
-2,
-15,G,K
+   1,R,J,G
+   2,J,G
+   2
+  15,K,G
    1,L,K
   15,U,X
    1,L
@@ -1966,7 +1949,7 @@ EndRepeat
   15,R,U,X
   42,R
    3
-  6,D,X
+   6,D,X
   24,L
   15,U,X
    4,L
@@ -1978,90 +1961,90 @@ EndRepeat
    9,R
    1
    9,R
-  54,R,J,G,D
-11,R
-1,J
-5,R,J
-1,
-8,R
-1,L,J
-4,L
-1,R
-1,L
-2,R
-1,L,G,J
-2,R,J
-2,R,
-6,L,J
-1,K
-26,R,K
-1,J
-6,R,J
-9,R
-2,R,J
-8,R
+  54,R,D,J,G
+  11,R
+   1,J
+   5,R,J
+   1
+   8,R
+   1,L,J
+   4,L
+   1,R
+   1,L
+   2,R
+   1,L,J,G
+   2,R,J
+   2,R
+   6,L,J
+   1,K
+  26,R,K
+   1,J
+   6,R,J
+   9,R
+   2,R,J
+   8,R
 Repeat 15
-1,G
-1,
+   1,G
+   1
 EndRepeat
-1,G
-26,R,G,J
-10,R,
-2,R,D
-12,R,J
-1,R,G,K
-4,K
-2,L,
-1,R,G,J
-4,L,J
-1,J
-1,L,J
-1,J
-1,L,J
-1,J
-1,L,J
-1,J
-1,L,J
-1,J
-1,L,J
-1,J
-2,L,J
-1,R,J
-1,G,K
-1,L,K
-8,R,K
-4,L,K
-8,
-1,K
-22,L,K
-15,K
-1,J
-21,L,J
-15,J
-1,K
-6,L,K
-18,L,
-1,J
-9,L,J
-8,L
-1,L,J
-6,L,
-5,
-1,R,D,J
-3,J
-6,L,J
-6,L
-7,L,J
-1,G
-1,R,J
-18,R,K
-9,R
+   1,G
+  26,R,J,G
+  10,R
+   2,R,D
+  12,R,J
+   1,R,K,G
+   4,K
+   2,L
+   1,R,J,G
+   4,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   2,L,J
+   1,R,J
+   1,K,G
+   1,L,K
+   8,R,K
+   4,L,K
+   8
+   1,K
+  22,L,K
+  15,K
+   1,J
+  21,L,J
+  15,J
+   1,K
+   6,L,K
+  18,L
+   1,J
+   9,L,J
+   8,L
+   1,L,J
+   6,L
+   5
+   1,R,D,J
+   3,J
+   6,L,J
+   6,L
+   7,L,J
+   1,G
+   1,R,J
+  18,R,K
+   9,R
    1,R,K,G
    4,R,J,G
    5,R
-14,R,D
-4,D
-23,R,D
+  14,R,D
+   4,D
+  23,R,D
    1,R,J
   14,R
    1,R,J
@@ -2086,21 +2069,18 @@ EndRepeat
    2,R,J
    5,R
    2,R,J
-   14,R
-8,R,J
-4,
-34,R,J
-13,L,J
-26,R
-1,J
-9,L,J
-1,K
-11,L,K
-   3,L,K
-   2,L,K
-   4,L,K
+  14,R
+   8,R,J
+   4
+  34,R,J
+  13,L,J
+  26,R
+   1,J
+   9,L,J
+   1,K
+  20,L,K
   34,R
-   5,
+   5
    1,J,G
    2,L,J
   10,L,K
@@ -2112,47 +2092,45 @@ EndRepeat
    3,R
   17
   15,L,G
-4,L,G,U
-2,J
-1,K
-1,L,G,J
-10,R,J,
-4,D
-41,R,D
-23,R,J
-1,R
-4,R
-1,R,G,K
-15,R
-1,R,J
-28,R
-2,
-1,R
-1,R,J
-1,R,G,K
-1,R,G,J
-11,R
-1,R,J
-14,R,
-1,R,J
-11,R
-40,
+   4,L,U,G
+   2,J
+   1,K
+   1,L,J,G
+  10,R,J
+   4,D
+  41,R,D
+  23,R,J
+   5,R
+   1,R,K,G
+  15,R
+   1,R,J
+  28,R
+   2
+   1,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+  14,R
+   1,R,J
+  11,R
+  40
 
 #lvl_cp4-0-Cp
 #0x
-2,R
-1,R
+   3,R
    1,R,J
-1,
-15,R
-1,R,J
-1,R,G,K
-1,R,G,J
-11,R
-3,R,J
-5,R
-1,
-7,R
+   1
+  15,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   3,R,J
+   5,R
+   1
+   7,R
    1,R,J,G
    2,R,K,G
    7,R
@@ -2261,11 +2239,11 @@ EndRepeat
   19,D
   18,L
   11,U,X
-  59,L,G,U
-11,L
-1,G
-1,
-   10,D
+  59,L,U,G
+  11,L
+   1,G
+   1
+  10,D
   16,R,D
   38,G
    2,L,K
@@ -2275,34 +2253,32 @@ EndRepeat
    1,L,K,G
   14,L
    6
-19,J
-1,L,J
-16,G,D
-4,L,G,D
-20,G,D
-17,L,G,D
-6,L
-15,L,U,Z
-20,L
-99,L,G,U
-1,R
-2,L
-4,
-1,K
+  19,J
+   1,L,J
+  16,D,G
+   4,L,D,G
+  20,D,G
+  17,L,D,G
+   6,L
+  15,L,U,Z
+  20,L
+  99,L,U,G
+   1,R
+   2,L
+   4
+   1,K
    4,L,K
-4,L
-2,L
-  9,L,K
+   6,L
+   9,L,K
    6,L
    3,R
    1,R,G
    1,K
    2,R,K
-1,L,K
-1,L,K
-4,L
-1,R,
-24,G
+   2,L,K
+   4,L
+   1,R
+  24,G
    1,K,G
    1,J,G
    1,R,K,G
@@ -2354,26 +2330,25 @@ EndRepeat
   25,L,K,G
    9,L
   17,L,D
-1,L,J
-8
-10,L,
-3,D
-5,L,D
-14,L
-5,L,G,J
-17,L
-23,L,J
-20,L
-7,L,G,J
-5,L
-2,L,J
-5,L
-1,L,G,J
-9,L,G,K
-  15,L,X
+   1,L,J
+   8
+  10,L
+   3,D
+   5,L,D
+  14,L
+   5,L,J,G
   17,L
-3,L
-4,
+  23,L,J
+  20,L
+   7,L,J,G
+   5,L
+   2,L,J
+   5,L
+   1,L,J,G
+   9,L,K,G
+  15,L,X
+  20,L
+   4
   32,L
    1,L,D
    1,L,J,G
@@ -2412,55 +2387,54 @@ EndRepeat
   19,U,X
    1,K
   18,R
-  8,D
-2,R,
-1,R,D
-2
-   5,J
-  30,U,X
+   4,D
+   1,R,D
+   8,D
+   7,J
+  28,U,X
    7,R
    1,R,J,G
-  6,R,K,G
-   5,R
+   1,R,K,G
+   1,K,G
    4,R,K,G
-   25,R,J,G
-14,R
+   5,R
+   4,R,J,G
+   6,R,K,G
+   5,R,J
+   5,R
    2,R,J
-  11,R
-  24,R,J
+  13,R
+  24,R,K
   16,R
    1,R,K
   18,R
-  9,R,D
-4,R
-   5,R,J
+  13,R,D
+   5,R,D,J
   16,R,J
-   1,RJ
-   1,R
+   1,J
+   1
    4,R,K
    1,R,J,G
    1,R,K,G
    9,R,J
    5,R
    7,R,J
-  16,R
+  12,R
   11,R,K
    1,K
    5,R
-  9,R,K
-  14,R
-2,
+  10,R,K
+  16,R
    2,R,D
    1,R,J,G
-  8,R,K,G
+  11,R,K,G
    5,R
   10,R,J
    8,R
    3,R,D
-   2,D
-1,
+   5,D
    1,L,J
-   2,L,J
+   2,J
    4,L,J
    1,L
    9,K
@@ -2527,22 +2501,20 @@ EndRepeat
    1,R,J
   14,R
   11,R,J
-   5,R,
-2,R,
-1,J
-   3,J
+   7,R
+   4,J
    8,U,X
-40,R,G,J
-1,G,J
-  11,R,G,J
+  40,R,J,G
+   1,J,G
+  11,R,J,G
    1,L,J
-8,R,J
-   36,L
-11,R
+   8,R,J
+  36,L
+  11,R
   17,R,X
-14,R,J
-20,R,G,J
-  13,R,G,
+  14,R,J
+  20,R,J,G
+  13,R,G
    8,R,K,G
    1,R,G
   26,R,K,G
@@ -2553,17 +2525,17 @@ EndRepeat
   12,R
    1,K
    5,R,K
-14,R
-1,
-  5,R
-1,K
-7,R,K
-18,R
-1,J
-7,R,J
-18,R
+  14,R
+   1
+   5,R
+   1,K
+   7,R,K
+  18,R
+   1,J
+   7,R,J
+  18,R
    4,R,J,G
-2,J
+   2,J
   23
   35,L,G
   46,R,X
@@ -2969,4 +2941,4 @@ EndRepeat
   16,U,X
  135
 
-ChapterTime: 8:00.505(28265)
+ChapterTime: 7:59.264(28192)
