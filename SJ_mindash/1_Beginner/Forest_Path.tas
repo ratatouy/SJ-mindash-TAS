@@ -62,16 +62,18 @@ console load StrawberryJam2021/1-Beginner/asteriskblue
    9,R
 
 
-#lvl_a-03 - 2 dashes
+#lvl_a-03 - 1 dash
   40
    4,R
   15,R,J
-#dash
-  15,R,U,X
-  20,R
-   1,R,J,G
-   2
-  10,K,G
+  11,L,J
+   1,L
+   1,R
+   2,J,G
+  26,R,J
+   2,J
+   5,R,K,G
+  10,J,G
    6,R,K
    2,K
    3,J,G
@@ -90,7 +92,6 @@ console load StrawberryJam2021/1-Beginner/asteriskblue
 #dash
   14,R,Z
    1,R,J
-
 
 
 #lvl_a-04 - 3 dashes
@@ -541,5 +542,5 @@ endrepeat
 
 
 #4067
-ChapterTime: 1:09.139(4067)
-#30 dashes
+ChapterTime: 1:09.360(4080)
+#29 dashes
