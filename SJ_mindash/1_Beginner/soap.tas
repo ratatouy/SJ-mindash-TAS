@@ -1,7 +1,4 @@
-# StrawberryJam2021
-# https://gamebanana.com/mods/424541
-
-RecordCount: 1170
+RecordCount: 1284
 
 console load StrawberryJam2021/1-Beginner/Circumplex
    1
@@ -178,33 +175,31 @@ console load StrawberryJam2021/1-Beginner/Circumplex
   14,R,U,X
   12,J,G
   12,K,G
-   6,J,G
+   6,R,J,G
   43
 
-#lvl_05 (4x)
+#lvl_05 (3x)
+   3,L
    1,R,J,G
-   2,L,J
-   1,R,J
    1,R,K,G
-   1,R,J,G
+   2,R,J,G
   10,R
-  23,R,J
-  31,R,U,Z
-  10,J
-  24,D
-  15,D,X
-  13,R,Z
-  25,R,U,X
-  21
-  40,R,U,G
-  11,G
-   1,K,G
-   1,J,G
-   1,K,G
-  12,L,J,G
-  16,L,J
-  16,L,K
-  19,U,X
+   1
+   2,R
+   1
+   9,R
+   1,R,N
+  94,U
+   1,X
+  19
+   4,R
+  13,R,J
+  11,R,K,G
+  15,R
+   3,R,J
+  17,U,X
+  17,U,C
+  15,U,X
   20,L
   12,L,X
   17,L
@@ -550,9 +545,4 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    4,X
  135,L,U,X
 
-ChapterTime: 1:53.390(6670)
-
-
-
-
-
+ChapterTime: 1:52.659(6627)
