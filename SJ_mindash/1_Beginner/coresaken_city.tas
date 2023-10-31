@@ -1,14 +1,14 @@
-юб# StrawberryJam2021
-# https://gamebanana.com/mods/424541
-
-RecordCount: 1148
+# Coresaken City 3x
+RecordCount: 1334
 
 console load StrawberryJam2021/1-Beginner/voliver9
    1
 
 #Start
-#lvl_a-01 (0x)
   99
+
+#lvl_a-01
+#0x
    1,R,K
   14,R
    1,R,K
@@ -35,7 +35,8 @@ console load StrawberryJam2021/1-Beginner/voliver9
   10,R
   40
 
-#lvl_a-02 (1x)
+#lvl_a-02
+#1x
   15,R
   11,R,D,K
    1,R
@@ -56,7 +57,8 @@ console load StrawberryJam2021/1-Beginner/voliver9
    2,L
   40
 
-#lvl_a-03 (0x)
+#lvl_a-03
+#0x
    7,L
    1,L,K
    2,L
@@ -84,7 +86,8 @@ console load StrawberryJam2021/1-Beginner/voliver9
    4,R,K,G
   40
 
-#lvl_a-04 (0x)
+#lvl_a-04
+#0x
   12,K,G
   11,R,J,G
   12,L,K
@@ -124,8 +127,9 @@ console load StrawberryJam2021/1-Beginner/voliver9
   12,R,J,G
    3,R,K,G
   40
-#lvl_a-05 (0x)
 
+#lvl_a-05
+#0x
   45,R
   40,R,G
    1,L,K
@@ -155,7 +159,8 @@ console load StrawberryJam2021/1-Beginner/voliver9
   13,R
   40
 
-#lvl_a-06 (0x)
+#lvl_a-06
+#0x
    1,R
    1,R,K
   14,R
@@ -206,7 +211,8 @@ console load StrawberryJam2021/1-Beginner/voliver9
    6,R,D
   40
 
-#lvl_a-07 (0x)
+#lvl_a-07
+#0x
   29,R,D
    1,R,K
   14,R
@@ -237,7 +243,8 @@ console load StrawberryJam2021/1-Beginner/voliver9
    1,R,K
   40
 
-#lvl_a-08 (1x)
+#lvl_a-08
+#1x
   14,R
    1,R,K
   14,R
@@ -278,84 +285,60 @@ console load StrawberryJam2021/1-Beginner/voliver9
    9,R
   40
 
-#lvl_a-09 (2x)
-   8,R
-   1,R,K
-  14,R
-  28,R,K
-   6,J,G
-   8,R
-   1,R,K
-  16,R
-   1,R,K
-  16,R
-   1,R,K
-  16,R
-  15,R,K
-   5,R,U,Z
-  15
-   4,R
-   9,L,K,G
-  35,L,J,G
-   1,L,K
-  16,L
-   1,L,K
-  16,L
-   1,L,K
-  16,L
-   1,L,K
-  16,L
-   4,R,K
-  34,R,D
+#lvl_a-09
+#0x
+   1,S
+   1,D,J
+  69,O
+   9,R
+  20,R,J
+   1,R,K,G
+   3,L,K
+   1,K
+   1,R,J,G
+  25,R
+  15,L
+   1
+  21,J
+   5,R,K,G
+   7,R
+   2,G
+   1,R,J,G
+   1,R,K,G
+   2,R,J,G
+   7,R
+  48,R,J
+  14,L,D
+  26,L
+  16,R,J
+   1,L,K,G
+   7,L
+   6,G
+  18,U,G
+   1,J,G
+   1,L,K,G
+   3,R,K
+   9,R
    1,R,J
-  16,R
-   1,R,J
-  16,R
-   1,R,J
-  16,R
-   1,R,K
-  16,R
-   9,L,K
-   5,K
-  15,U,Z
-   3,R
-   1,L
-   1,R
-   3,L,K,G
-   2,J,G
-   6,L
-   4,R
-  25,R,K
-   1,R,J
-  17,R,D
+   7,R
   40
 
-#lvl_b-03 (1x)
-   4,R,D
-   1,R,K
-  14,R
-   1,R,K
-  14,R
-   3,R,K
-   1,R
-   7,R,K
-  16,R
-  10,R,D
-   1,L,K,G
-   1,L
-   1,K
-   5
-   1,K
+#lvl_b-03
+#1x
+  11,R
+   6,R,J
+   5,R
+   1,R,J
+  22,R
+   8,D
+   1,R,D
+   1,L,J,G
+   6,L
    1,J
-   1,K
-   3
-   1,J
+   2,K,G
    1,J,G
-   2
-   1,K
-   8,J,G
-   5,R,X
- 200,D
+   5
+  14,R,U,X
+ 135,D
 
-ChapterTime: 1:06.266(3898)
-#5 dash
+ChapterTime: 1:04.005(3765)
