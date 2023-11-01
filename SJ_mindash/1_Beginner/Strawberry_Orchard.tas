@@ -1,7 +1,7 @@
 сс# StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2139
+RecordCount: 2419
 
 console load StrawberryJam2021/1-Beginner/Jadeturtle
    1
@@ -392,7 +392,7 @@ endrepeat
   12,R
   40
 
-#lvl_a-09z - 2 dash
+#lvl_a-09z - 1 dash
    3,R
    1,R,K
   30,R,G
@@ -425,28 +425,48 @@ endrepeat
   22,R
    9
    8,L
-  10,R,K,G
-  37,R,K
-   3,R,J
-  16,L,K,G
-  12,J,G
-  32,R,K,G
-  18,L,G
-  27,L
-#dash
-  69,L,X
-  28,R
-  13,L
-   3
-  27,R,K,G
-   1,R,K
-  22,L,K
-  35,R,J,G
-  76,L,G
+  23,R,K
+  15,R,K,G
+  11,R
+   3,R,K
+  12,L,J,G
+  13,L,K,G
+   1,J
+   1,K
+  37,L,K,G
+   1,R
+   2,L
+  28,G
    1,L
-   5,L,U,X
- 100
-   8,R,K
+  18,R,G
+   1,L
+  53,R
+  26,G
+  33,L
+  28,L,G
+   1,L,D
+   1,K,G
+  22,G
+   5,D
+   8,D,G
+  94,L,K,G
+  22,R,G
+  17,G
+   5,K,G
+   8,R,K,G
+   9,K,G
+   1,L,D,K
+  16,L,K
+   9,R,J
+  11,R,J,G
+  11,R,D,J
+   6,R,J
+  58,R,J,G
+  29,L,J,G
+   1,L
+  17,L,U,X
+  90
+   6,R,K
    1,R,J
   34,R,G
    1,R,K
@@ -520,7 +540,7 @@ endrepeat
   27,R,G
   40
 
-#lvl_a-11z - 1 dash
+#lvl_a-12z - 1 dash
    1,R,G
    1,R,K,G
   14,R,G
@@ -587,5 +607,5 @@ endrepeat
    1,L,J,G
  100,L,K,G
 
-ChapterTime: 2:00.173(7069)
-#9 dash
+ChapterTime: 2:03.811(7283)
+#8 dash
