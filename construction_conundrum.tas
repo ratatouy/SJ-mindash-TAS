@@ -1,4 +1,4 @@
-RecordCount: 6095
+RecordCount: 6198
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
@@ -339,34 +339,57 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
   40
 
 #lvl_a-005(0)
-  10,R
+   1
+  11,R
    1,R,J
-  16,R
-  13,R,D,J
-   3,L,J
-   1,K,G
-   1,R,K
-   9,L,K
-   3,R,K
-   2,L,J,G
-   1,R,J
-   1,J
-   1,R,J
-   1,J
-   1,R,J
-   1,J
-   1,R,J
-   1,J
-   1,R,J
-   1,J
+   7,R
    2,R,J
+   1,R
+   1,R,J
+   4,R
+   3,R,D,K
+   4,K
+Repeat,5
+   1,R,K
+   1,K
+EndRepeat
+   1,R,K
+   1,L,J,G
+   5,R,J
+   3,J
+   1,R,J
+   2,J
+   2,R,J
+   2,L,K,G
+Repeat,6
+   1,R,K
+   1,L,K
+EndRepeat
+   2,R,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,J,G
+   1,R,J
+  42,R,K
+   1,K
+   3,J,G
    1,L,J
-   1,K,G
-  21,R,J
-   2,R
-  12,R,U,X
-   1,R,J,G
-  13,R
+   6,R,J
+   2,R,K,G
+   1,L,K
+   1,R,K
+   1,L,K
+   1,L
+   1,R
+   1,J,G
+   1,L,J
+  12,R,K,G
+   7,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
    1,R,J
   23,R,D
   12,R,J
@@ -439,12 +462,14 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1,R,J,G
    9,R
   15,U,X
-   3,R,D
-  12,D
-  19,U,X
+   2,J
+   1,R,J
+   2,R,D
+   8,D
+  18,U,X
    8,L,J
-  28,L,D
-   3,L
+  23,L,D
+   8,L
    1,L,J,G
    1,L,K,G
   13,L
@@ -1013,4 +1038,4 @@ Repeat 22
    3
 EndRepeat
 
-ChapterTime: 2:33.000(9000)
+ChapterTime: 2:34.190(9070)
