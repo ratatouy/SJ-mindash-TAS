@@ -1,4 +1,4 @@
-RecordCount: 1303
+RecordCount: 1324
 
 console load StrawberryJam2021/2-Intermediate/Liero
    1
@@ -140,7 +140,7 @@ console load StrawberryJam2021/2-Intermediate/Liero
    8,R,D
   40
 
-#lvl_A05 (4X)
+#lvl_A05 (3X)
   35,R,D
   13,R,J
   15,U,X
@@ -149,51 +149,51 @@ console load StrawberryJam2021/2-Intermediate/Liero
   12,D
   15,U,X
    7
-  16,L
-  20,R,J
-  14,R
-   6,R,D
-   5,D
-   5,D
-   2,R,D
-  15,R,U,Z
-   3,R
-  14,L,D
-   4,D
-   1,L,G
-#cool strat that doesnt work
-#   4,L,J,G
-#   1,L
-#   1
-#   7,L
-#   2
-#   2,L,D
-#   1,L,D
-#  15,U,X
-#   8,R
-#   1,R,J,G
-#   1,L,J
-#   2,J
-#   5,R,J
-#  16,R
-#   3,R,J
-#  19,L,X
-#  11,R,D,C
-#   1,R,J,G
-#   1,L,J
-#   2,J
-#   5,R,J
-#  16,R
-#   3,R,J
-#   5,R
-#   1,R,J
-#  22,R
-#  15,L,U,X
-#  15,R,D,C
-#  50,D
-  18,L,J,G
-  15,U,X
-   4,L
+  12,L
+   1
+   1,L
+   2
+   1,L,K,G
+   1,J
+  38,R,K
+  11,R,D,X
+   1,R,J,G
+   2,L
+   1
+   1,L
+   6
+   3,L
+   1,R,J,G
+   2,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L
+Repeat,7
+   1,R
+   1,L
+EndRepeat
+   1,R
+   1
+   2,R
+   4,J
+   1
+   1,L
+   9
+   8,R,D
+   1,D
+   1,R,D,J
+   4,R,J
+   1,J,G
+   3,R,J
+   1,G
+   4,R,K,G
+   7,R
+   2
+   9,L,U,Z
+   1,R
+  11,J,G
+   7
   19,R,X
   18,R,D,C
   15,R,X
@@ -505,4 +505,4 @@ EndRepeat
    5,U,X
  134
 
-ChapterTime: 1:19.985(4705)
+ChapterTime: 1:20.699(4747)
