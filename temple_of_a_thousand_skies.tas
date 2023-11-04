@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1926
+RecordCount: 2395
 
 console load StrawberryJam2021/2-Intermediate/Ice
    1
@@ -49,16 +49,21 @@ console load StrawberryJam2021/2-Intermediate/Ice
    4,R,K,G
   13,J,G
   15,R,U,X
- 106,U,C
-   5,U,X
+ 107,U,C
   40
 
 #lvl_a-03 
-  14,L
-  19,R,J
-   3,R
-  15,R,Z
-   8,R
+  24
+  27,R,D
+   8,D
+   1,N
+ 111,U
+   1,J
+  19
+   5,R
+  10,R,J
+  15,R,U,Z
+   5,R
   52,U,C
   15,R,Z
   12,R
@@ -289,21 +294,48 @@ EndRepeat
   40
 
 #lvl_b-02 (1)
-  20,L,D
+  21,L,D
    1,L,J
-   9,L
-  48,D,X
-   3,D
-  40,D,C
+   1
+  21,L
+   1
+   7,L
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   1,J
+   5,L
+   2,L,J
+   1,L
+   1,L,J,G
+   3,L
+   1,L,K,G
+   1,L
+   1
+   1,L
+   2
+   4,L
+   6,L,D,J
+   8,L
+  72,O
+   5,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R,D
+   7,R
+  32,D,X
   10,R,D
    1,R,J
   14,R
    1,R,J
-  11,R
+  14,R
+   1,R,J
+  10,R
   40
 
 #lvl_b-03
-   3,R
+   4,R
    1,R,J
   18,R
    1,R,J
@@ -311,19 +343,21 @@ EndRepeat
    1,R,J
   14,R
    1,J
-   5,R
+   4,R
   10,L
-   2,D
-  42,L
-   7,L,D
-  22,R,D
-   7,R,J
-  20,R
+   3,D
+  36,L
+  12,L,D
+  21,R,D
+   5,R,J
+   5,R
+   5,R,J
+  11,R,D
   15,U,X
   16,R
   10,R,Z
   28,R,J
-   1,R,G
+   1,G
   37,L
   20,L,D
   12,L,J
@@ -443,51 +477,50 @@ EndRepeat
    1,L,K,G
   14,L
    1,L,J
-   2,L
-   6,L,D,X
+  14,L
    1,L,J
-  12,L
-  19,L,J
-  41,L,X
+  18,L
+   1,L,J
+  20,L
+  33,L,J
+  15,L,X
+  33,L
    4,L,J
-   5,L,K
-  23,L,D
-   3,L
-   3
+  10,L,K
+  25,L,D
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+   5,L
+   2,L,J,G
+   5,L
+   1,L,J,G
+   6,L
    1,L,K,G
-  10,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-   5,L,K,G
-   5,L
-   1,L,J,G
-   5,L
-   1,L,J,G
    6,L
   40
 
 #lvl_b-01 (1)
    7,L
    1,L,J
-  18,L
+  14,L
    1,L,J
-   8,L
-   1,L,K,G
-   3,L
+  16,L
+   4,L,J,G
    1,L,J,G
-  12,L
+   1,L
+   1,L,J,G
+  13,L
    1,L,J
   14,L
    1,L,J
   18,L
    1,L,J
-   1,L
    9,D
-  30,L,D
-  24,L
+  35,L,D
+  18,L
   10,L,J
   15,L,D
    1,L,D,G
@@ -588,29 +621,29 @@ EndRepeat
   43
 
 #lvl_b-07
-  45,L,D
-   1,L,K,G
-   1,L,J,G
-  12,L
-  10,L,Z
+  14,R,D
+  10,R,D,X
    1,L,J
-  14,L
-  18,L,K
-  15,L,X
-  13,L
-  12,L
-   8
+   7,L
+   1,L,J
+   5,L,K,G
+   7,L
+   1,L,J
+  19,L
+  36,L,J
+  16
+   4,L
    4,J
 Repeat 2
    2,L,J
    2,J
 EndRepeat
-   1,R,J
-   1,J
-   1,R,J
-   1,J
-   1,R,J
+   1,L,J
    3,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
    1,L,J
    2,R,J
    2,L,G
@@ -657,27 +690,27 @@ EndRepeat
   17,L
   20,R
    4
-  24,R,J
+  25,R,D,J
   12,R,K,G
-   2,J,G
+   5,J,G
    1,L,J
    1,R,K,G
    1,R,J,G
    2,R,J
-  18,L,K
-  10,L,Z
-  11,L,J
-   2,L,K,G
+   1,L,J
+  10,L,K
+  22,L
+  35,L,J
+  15,L,K,G
+  11,L
+  34,L,J
+   4,L,K,G
+   7,L,D
    1,L
-   6,R
-  11,L,J
-   1,L,K,G
-   3,L,D
-  16,R,D
+   1,L,J
+  21,L,D
   33,D
-   3,R,J
-   1,R,K,G
-   1,R
+   5,R,J
    1,S
    1,D,J
   69,O
@@ -724,20 +757,28 @@ EndRepeat
    7,L
    1,L,J
   14,L
-   1,L,J
-  18,L
-   1,L,J
-  11,L
-  19,D,X
-  43
+   1,N
+ 143,U
+
+#Spinner Cycle##
+   0,U
+
+   1,J
+  19
+   4,R
+   1,R,J
+  31,R,D
+  40
 
 #lvl_b-05 (1)
-  24,D,X
-  11,R,D
+   1,S
+   1,D,J
+  69,O
+  11,R
    1,R,J
   35,R,D
-  20,D
-  24,L,D
+  25,D
+  19,L,D
    1,L,J
   17,L
   34,D,X
@@ -770,6 +811,29 @@ EndRepeat
    2,J
   15,L,U,Z
   26,L
+#-1x if you can get this to work somehow
+#  47
+#  11,R
+#   8,R,D
+#  11,L,D
+#   3,R,D
+#  15,R,Z
+#  21,R,D
+#  18,D
+#  36,R,G
+#   1,K,G
+#   1,J,G
+#   1,K,G
+#   2,K
+#  32,L,K
+#   7,L
+#   2
+#  14,L
+#   2,L,G
+#   1,L,D,G
+#   4,L,D,J
+#  14,L,D
+#  45,R,X
   65
    8,R
   15,R,Z
@@ -802,12 +866,22 @@ EndRepeat
   22,R
    7,L,D
   35,R,K
-  31,R,D
-  39,R,U,G
-   1,J
-  12,K
-   5,L
-   9,R,Z
+   7,R
+  24,R,D
+   1,D
+   3,R,U,G
+   1,J,G
+   6
+   1,R
+  19,D,J
+   1,L,J
+   1,R,K,G
+   1
+   2,J,G
+   1
+   1,K,G
+   3,L,K
+  25,R,K
   49,U,X
   32,R,D
 Repeat 3
@@ -934,5 +1008,5 @@ Repeat 68
    1,L
 EndRepeat
 
-ChapterTime: 3:07.850(11050)
-#57 dashes
+ChapterTime: 3:18.509(11677)
+#50 dashes
