@@ -1,4 +1,4 @@
-RecordCount: 1324
+RecordCount: 1339
 
 console load StrawberryJam2021/2-Intermediate/Liero
    1
@@ -158,32 +158,29 @@ console load StrawberryJam2021/2-Intermediate/Liero
   38,R,K
   11,R,D,X
    1,R,J,G
-   2,L
-   1
    1,L
-   6
+   2,R
+   3,L
+   5
    3,L
    1,R,J,G
    2,L,J
    1,R,J
    1,L,J
-   1,R,J
-   1,L
-Repeat,7
+Repeat,8
    1,R
    1,L
 EndRepeat
    1,R
-   1
-   2,R
-   4,J
-   1
+   3,J
+   2
    1,L
-   9
-   8,R,D
+   6
+   2,J
+   1
+   8,R
    1,D
-   1,R,D,J
-   4,R,J
+   5,R,J
    1,J,G
    3,R,J
    1,G
@@ -505,4 +502,4 @@ EndRepeat
    5,U,X
  134
 
-ChapterTime: 1:20.699(4747)
+ChapterTime: 1:20.665(4745)
