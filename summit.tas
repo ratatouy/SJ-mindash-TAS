@@ -1,9 +1,9 @@
-RecordCount: 11588
+RecordCount: 11834
 
 console load StrawberryJam2021/5-Grandmaster/math
    1
 
-#125x
+#122x
 #Start
   69
 
@@ -602,7 +602,7 @@ EndRepeat
  301
    4
 
-#16x
+#14x
 #lvl_2000M
   33,R
    1,N
@@ -640,46 +640,64 @@ EndRepeat
   11,R,C
   26,R,J
   12,R,U,X
-   6,R
-  15,D,X
-   9,R,D
-   4,R
-  15,R,D,X
-  10,R,D
-  15,U,X
-  13,L
-  20,R
-  18,U,X
-  15,R,D,C
+   3,R
+  15,D,C
+   8,R,D
+  39,D
+   7,R,D
+   1,D
+   2,R,D
+   2,R
+   1
   15,R,X
-  34,R,D
-   5,R,J
-   4,R
-   1,J
-  11,R,J
+   9,L
+   1,L,J,G
+   1,R,J
    5,R
-  11,R,J
-   5
-   5,J,G
-   1,L,J
-   1,K
-  12,R,K
-   5,R
-   3,R,J
+   2,R,J
+   6
+   1,R
+   1
+   1,D
+  41,R
+  30,R,X
+   5,R,D
+   1,R
+  13,R,D
+   6,R,J
+   1,R
+   1
    3,R
    1
-   1,R
-   8,R,J,G
-  10,R,G
-   5,J,G
-   8,R
-   1,R,G
-Repeat,8
+   1,J
+   1
+   1,J
+   3,K,G
+   5,R,K
+   1,K
+   2,R,K
+   1,L,K
+   1,R,K
+   1,R,J,G
+   2,L,J
+   9,R,J
+   7,R
+   1
+   2,R
+   2,R,K,G
+   6,R
+   6,J,G
+   3,R,J
+   4,R
+   3
+   1,G
+Repeat,7
    1
    1,G
 EndRepeat
    1,L,J
-  21,L,K
+  19,L,K
+   2,L
   24,R
    9
    5,R,J
@@ -1261,7 +1279,7 @@ AnalogMode,Ignore
  109
   40
 
-#25x
+#24x
 #lvl_3000M-02
   10,R
    1,R,J,G
@@ -1453,13 +1471,26 @@ AnalogMode,Ignore
    1,J
    3
   33,R,U,X
-  12,R,J
-  34,R,U,X
-  15,R,Z
-   1,J
-   7,R,J
+   1,R,J
+   6,J
+   2,R,J
+   2,R
+  35,R,U,X
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   3,R
    1,R,K
-  11,R,J
+   5,R
+  11,R,D
+   5,R
+   5,R,J
+   4,R
+   1,L
+   1,K
+   2,J,G
+   9,R,J
   11,L,K
    5,L,J,G
    8,J
@@ -1522,4 +1553,4 @@ AnalogMode,Ignore
   15,R,U,X
  135,R,D
 
-ChapterTime: 3:48.531(13443)
+ChapterTime: 3:48.854(13462)
