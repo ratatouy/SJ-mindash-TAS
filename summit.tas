@@ -1,13 +1,13 @@
-RecordCount: 10439
+RecordCount: 11588
 
 console load StrawberryJam2021/5-Grandmaster/math
    1
 
-#147x
+#125x
 #Start
   69
 
-#2x
+#1x
 #lvl_00
    2,R
    1,R,J
@@ -61,49 +61,92 @@ console load StrawberryJam2021/5-Grandmaster/math
    2,R
    1,R,J,G
   13,R
-   1,L,J
-   9,R
    1,R,J
-   5,R
-   7,L,D
-   7,U,X
-  23,L,J
-  16,U,X
+  18,R
+   1,R,J
+  11,R,K
+   1,K
+   5,L,J
+  25,L,K
+  14,U,X
   18,L,J
    3,K,G
    1,J
   40
 
-#12x
+#7x
 #lvl_0000M
    2,R,J
    2,R
    1,R,N
    6,R
-   4,Z
    1,R,J
-   7,R
+  26,R
+   1
+   1,R
    1,R,J
    1,R,K,G
-   9,R
-  19,R,J
-  15,U,X
-   2,L,K,G
-   1,L,J,G
-   2,L,K,G
-   9,L
-   1,L,J
-   2,L
-   8,L,Z
+   1,R,J,G
+  11,R
    1,R,J
-   6,R
+   9,R
+   1,R,J
+   5,R
+   1
+   3,R
+   1,R,J,G
+   9,R,K,G
+  13,R
+   1,J,G
+   8,R,J
+   1,L,J
+   1,R,J
+  14,U,X
   11,R,J
-   7,R
-  14,R,Z
-  17,R,J
-  15,R,U,Z
+  13,R
+   1,R,J
+  13,R
+   5,R,J
+  11,R,G
+   1
+Repeat,17
+   1,G
+   1
+EndRepeat
+   1,J
+   5,R,J
+  15,R
+   1
    1,R
-   5,L,U,X
+   1
+   1,R
+  12,R,J,G
+  29,R
+   1,R,G
+   1
+Repeat,31
+   1,G
+   1
+EndRepeat
+   1,L,J
+  16,L,K
+   2,J,G
+   6,L
+   1,R
+  37,R,J
+  15,R,U,X
+   7,R
+   2
+   1,J
+  19,R,J
+   1,J
+   1,R,J
+   1,J
+   4,R,J
+   1,R,K,G
+   1,R,J,G
+   3,R
+  12
   23,R
   15,R,U,Z
    1,L,J,G
@@ -127,14 +170,11 @@ console load StrawberryJam2021/5-Grandmaster/math
   14,U,Z
   11,R
   20,R
-   1,J
-   1,R,J
-  18,R
-  15,U,Z
-   1,L
-  13,R
-  15,L,X
-  17,L
+  13,J
+  11,R
+  15,L,U,X
+  24,L,D
+   6,D
   12,L
   15,U,X
  192
@@ -144,7 +184,7 @@ console load StrawberryJam2021/5-Grandmaster/math
  107
    4
 
-#2x
+#0x
 #lvl_0500M
   32,R
    1,R,N
@@ -176,40 +216,66 @@ console load StrawberryJam2021/5-Grandmaster/math
    3,R
    1,L
    1,K,G
-  11,R,K
-   3,R
-   5,U,X
-   9,R,J
-   4,J
-  10
-   1,L
-   3,R,J,G
-   8,J
-   1,R,J
-   1,K,G
-   1,K
-   1
-   1,R
-   2
-   1,L
-   1,R,J,G
-   3,R,K,G
+  13,R,K
+   4,L,J,G
+   4,R,J
+   3,L,K,G
+   1,R,K
    1,L,K
    1,R,K
    1,L,K
-  10,R,K
-  15,R,U,Z
-  10,R
-   3,R,J
-   5,R
+   1,R,K
+   1,L,K
+  16,R,J
+  10,K,G
+   8,R,G
+   2,R,J,G
+   1
+  10
+   1,L,J
+   5,R,J
+Repeat,4
+   1,L,J
    1,R,J
-   1,R
-   1,R,J,G
-   5,R,K,G
-   5,R
-   2,R,K
-   5,R
+EndRepeat
+   1,K
+  20,R,K
+  26,L
+   9
+   3,R
+  27,R,J
+   1,R,K,G
+   4,R
    5
+   1,J
+   2
+   1,R
+   1
+  12,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   2,R,J
+   7,K
+  11,R,K
+  16,L,J
+   9,K,G
+   8,J,G
+   1,R,J
+   1,K
+   3,R,K
+   2
+   6,R
+   8,R,J,G
+   5,R
+   2,R,J
+   3,R
+   1,J
+   4,R
+   4
    1,L,G
    7,J
    5
@@ -243,7 +309,7 @@ console load StrawberryJam2021/5-Grandmaster/math
  349
    7
 
-#12x
+#9x
 #lvl_1000M
   11,L
    4,K,G
@@ -262,30 +328,47 @@ console load StrawberryJam2021/5-Grandmaster/math
   10,R
    5,R,J
   14,R
-   2,R,J
-   7,R
-   1,R,J
-   2,R
-   1,R,J,G
-  14,R
-   1,J
-   9
-   6,R
-   6
    1,L,J,G
-  13,R
+   7,L
+   6
    1,L
-   3
-   2,J,G
+   1,L,J,G
+   9
+   5,R
    1,R,J
-   5,L,J
-   1,L
-   7,R,K
-   4,R
-   4,J
-   6,R,K,G
+   6,R
+   2,R,J
+   1,R
+   1,R,J
+   1,R,K,G
+   5,R,J,G
+   7,R
+  12
+   1,J
+   4
+   6,R
+   2
+   8,R,D
+   1,L,J,G
+   4,R,J
+   1,J
+   2,R,J
+   1,J
+  13,K
+   3,L,K
+   1,R,K
+   1,J,G
+   1,L,J
+   8,R,K,G
+   1,L,K
    1,K
-  16,U,X
+   1,L,K
+   6,K
+   3,R,K
+   1,L,K
+   1,J,G
+   1,R,J
+  12,L,K,G
   37
   17,R,X
    4,L,J
@@ -330,12 +413,18 @@ console load StrawberryJam2021/5-Grandmaster/math
   17,R,K
    9,R,J,G
    6,J
-  28,L,U,X
-   4,L
-   2,L,J
-  15,U,X
-   1
-  18,J
+  24,L,U,X
+   5,L,J
+   3,R,J
+   8,R,K
+   3,L,K
+  14,J
+  12,R,K,G
+  20,L,J
+   1,L
+   3,L,J
+   1,L,G
+   3,R,J
   41
    4,L
   15,L,D,X
@@ -352,48 +441,17 @@ console load StrawberryJam2021/5-Grandmaster/math
   12,R,J
    6,R
    1,R,J
-  14,R
-   5,R,J
-  22,R
-   1,R,D
-   1,R
-   1,R,D
-   1,R
-   1,D
-   1,R,D
-   1,R,J,G
-  11,R,K,G
-   6,R
-   3
-   9,L,J
-  10,L
-  17,L,U,X
-   4,R,J
-   1,R,K
-  15,R,U,Z
-   9,L,J
-   6,L
-   3,L,J
-   1,L
-   2,L,J
-   1,L
-   1,L,J,G
-  12,L,K,G
-   5,L
-   2,J
-   1,L,J
-  14,L
-   1
-   1,L
-   1,L,J,G
+  13,R
+  12,R,J
+  15,U,X
+   3,R
+  17,L,J
   11,L,K,G
-   7,L
-   3,K
   15,U,X
  303
    4
 
-#15x
+#13x
 #lvl_1500M
 #cycles 3:
   10,R
@@ -422,7 +480,7 @@ console load StrawberryJam2021/5-Grandmaster/math
    1,R,J,G
    1,R,K,G
   12,R
-  59
+  55
   14,L,Z
   29,R,J
   15,R,U,Z
@@ -440,16 +498,16 @@ console load StrawberryJam2021/5-Grandmaster/math
    4,R
    8
    1,L
-  11,G
-   1,R,J
-  12,R,K
-   5,R
-  10,R,K
+  14,G
+  12,J,G
+  22
+   1,G
+   1,J,G
+  15,R
   15,R,U,Z
-  11,R
-   5,R
-   9,L,X
-  36
+   1,R
+   2
+  33
    1,R
    1,R,D
    1,R
@@ -468,26 +526,34 @@ console load StrawberryJam2021/5-Grandmaster/math
    9,R,D
   15,R,X
   15,U,Z
-   3,L
-   3,R
-   7
-  14,D
-   5
-   1,R
-   1,J
-   5,R
+  63,D
+   5,R,J
+   8,R
    3,R,J
-   6,R
-  15,R,Z
-   3,R,D
-  16,R,D,J
-  13,U,X
+   4,R
+   4
+  17,D
+   2
+   1,D
+   1
+   1,R,J
+   5,R
+  20,R,K
+  31,R,J
+   2,K,G
+   2,L,K
+   1,J
+   3,L,J
+   2,J
+   4,L,J
+   3,L
+  17,U,X
   25,R,J
    1,J
    1,R,J
    1,G
    1
-  86,G
+  58,G
    1,D,G
    8,J,G
    1,L
@@ -521,7 +587,7 @@ console load StrawberryJam2021/5-Grandmaster/math
   15,U,X
    1
   24,L,G
- 100,G
+  21,G
    1
    5,J
   40
@@ -536,7 +602,7 @@ console load StrawberryJam2021/5-Grandmaster/math
  301
    4
 
-#20x
+#16x
 #lvl_2000M
   33,R
    1,N
@@ -544,10 +610,14 @@ console load StrawberryJam2021/5-Grandmaster/math
    8,R
    1,R,J,G
    1,R,K,G
-  13,R
-  13,R,Z
+  14,R
+Repeat,15
+   1,R,D
+   1,R
+EndRepeat
+   2,R,D
    8,R,V
-  13,R,J
+  15,R,J
   14,R,U,X
   15,R,U,C
   15,U,X
@@ -568,14 +638,8 @@ console load StrawberryJam2021/5-Grandmaster/math
   15,R
   13,R,U,X
   11,R,C
-   5,R,J
-   3,J
-   4
-  10,L,D,X
-   4,R,J
-   3,R
-  14,R,U,X
-   1,J
+  26,R,J
+  12,R,U,X
    6,R
   15,D,X
    9,R,D
@@ -592,35 +656,42 @@ console load StrawberryJam2021/5-Grandmaster/math
    5,R,J
    4,R
    1,J
-   7,R,J
-  19,R
-   1,R,G
+  11,R,J
+   5,R
+  11,R,J
+   5
    5,J,G
-   2,R,J
-   7,R
-   1
-   2,R,G
-   3,J,G
    1,L,J
-   1,L
-  12,L,K
-  19,L
-  11,R
-   2
+   1,K
+  12,R,K
+   5,R
+   3,R,J
+   3,R
+   1
    1,R
-  11,U,Z
-  30,R
-  15,R,X
-  14,R
-   7,R,D
-  12,L,D
-  13,R,D
+   8,R,J,G
+  10,R,G
+   5,J,G
+   8,R
+   1,R,G
+Repeat,8
+   1
+   1,G
+EndRepeat
+   1,L,J
+  21,L,K
+  24,R
+   9
+   5,R,J
+  25,R,D
+  11,L,D
+  16,R,D
    5,R,Z
   12,R,J
    1,R
    1,R,J
-   9,R
-   1
+   7,R
+   2
    1,L,J
   17,L
    9,R
@@ -638,7 +709,7 @@ console load StrawberryJam2021/5-Grandmaster/math
  317
    4
 
-#13x
+#12x
 #lvl_2500M
   11,R
    1,R,J,G
@@ -711,11 +782,23 @@ console load StrawberryJam2021/5-Grandmaster/math
    5
    8,R,Z
   59,R,X
-  27,R,J,G
-  28,L,U,X
-  15,U,C
-  15,L,X
+  12,R,J,G
+  13,J
+   6
+   8,J
+  13,L,J
+   1,J
+   2,R,K,G
+   1,J
+  10,L,J
+   1,J
+  10
+   2,L
+   2,L,J
+   7,L,U,Z
+   6,L,J,G
    5,L
+   7,L,J
   50,R,X
   18,R,U,C
    1,R
@@ -874,7 +957,7 @@ console load StrawberryJam2021/5-Grandmaster/math
   15,U,X
  300
 
-#10x
+#9x
 #lvl_3000M-00
   65
    5,L
@@ -894,11 +977,12 @@ console load StrawberryJam2021/5-Grandmaster/math
    2,L,K
   15,U,X
    6,L
-  19,R
-  14,U,Z
-   1,L
-   6,R,U,X
-  10
+  21,R
+  13,U,X
+   7,L
+   6,R,J
+  10,R
+  10,L
   14,U,X
   15,U,C
   10
@@ -1030,7 +1114,7 @@ console load StrawberryJam2021/5-Grandmaster/math
  155
   40
 
-#16x
+#13x
 #lvl_3000M-01
   10,R
    1,J,G
@@ -1108,26 +1192,29 @@ AnalogMode,Ignore
    1,U,G
    1,G
    1,U,G
-  28,G
+  29,G
   30,L
    1,J,G
    1
    1,L
    1
    1,L
-   6
+   5
    1,L
    1,R
-  34,R,J
-  40,R,U,X
-   7,K,G
+  39,R,J
+   1,K,G
    1,L,K
-   2,R,J,G
-   1,J
-  20,D
-  10,R,D
-   1,R
+  12,R,J,G
+  17,R
+   7,D
+   5
+   2,J
+   3,R,J
+   8,R
    3
+   1,R
+   2
    1,G
   14,R,J
    8,U,C
@@ -1136,18 +1223,24 @@ AnalogMode,Ignore
   14,L
   25
    7,R
-  11,R,J
-  41,R,D
-   2,R
-  20,R,Z
-  21,D,X
-   8,R,D
-  16,R,U,Z
-   3
+   1,R,J
+  18,R
+   1,R,J
+  14,R
+  15,R,Z
+  12,R
+  18,D
+   6
+  15,R,U,Z
+  47,L,G
+   1,L,U,G
+   1,L,G
+   1,L,U,G
+   1,L,G
   12,J
    1,L,K,G
    1,R,K
-   3,K
+   1,K
    1,J
    1,R
   32,R
@@ -1156,13 +1249,15 @@ AnalogMode,Ignore
   15,L,X
   15,U,C
   27,R
-  26,R,Z
-  15,R,V
-  27,R,D
-   8,R
-  15,U,X
+  25,R,Z
+  15,R,U,V
+  41,R,D
   16,R
-  17,U,X
+   6,R,J,G
+  18,U,X
+   4
+   8,R
+  15,J
  109
   40
 
@@ -1292,6 +1387,7 @@ AnalogMode,Ignore
   10,R,K
    7,J,G
    5,L,J
+#stop
   11,K,G
    1,R,K
    1,J
@@ -1426,4 +1522,4 @@ AnalogMode,Ignore
   15,R,U,X
  135,R,D
 
-ChapterTime: 3:38.858(12874)
+ChapterTime: 3:48.531(13443)
