@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3003
+RecordCount: 3446
 
 console load StrawberryJam2021/5-Grandmaster/tcookiem
    1
@@ -623,107 +623,151 @@ endrepeat
 
 
 #lvl_Zenith
-#6x
+#5x
   40
   14,R
    1,R,J
-   5,R
-   1
    8,R
-   8,R,J
-   5,R
-   2,R,J
+   4,L
    1,R
-   1,R,J
-   8,R
-#dash
-  25,R,Z
-   4,R,J
-   5,R,D
-  23,L,D
-   1,R,D
-  13,L,D
-   3,D
-   3
-   2,L
-   3
-#dash
-  15,L,U,X
-   6,L
-#dash
-  15,R,Z
-   1
-   9,L,J,G
-   5,L
-   2,L,J
-   2,L
-   2
-  15,R,J
-   1,K
-  20,L,K
-   1,K
-   3,L,K
-  18,L,J,G
-  12,R,K
-   1,R,J
-  12,R,K
-   8,J,G
-   1,R,J
-   1,J
-   1,R,J
+   6,L,G
    1,L,J
-  14,R,K,G
+   1,L
+   1,K,G
+   3,L
+   5
+   6,R
+  44,R,J,G
    2,J
-   5,K
-   5,J,G
-   1,L,J
-   3,J
-   1,R,K
-   7,R,J
-  16,R
-   6,R,J
-   5,R
+   1,K,G
+   1,L,K
+   4,R,K
+   8,R,G
+   1,R,J
+  11,R,G
+   6,R,J,G
+   2,K
+   1,R,J,G
+   8
    1,J
-  24,L,J
-   1,K,G
-   1,R,K
-   1,L,K
-   7,L,J,G
+   7,R,G
+   5,R,J,G
+   1,J
    1,K
-  11,L,K
-  10,L
-   3,D
-   1,L,D
-  12,D
-#dash
-  18,R,U,X
-  33,R
-#dash
-  31,R,U,Z
+   1,J,G
+   1,L,J
+   5,R,J,G
+   5,R
    4,R,J
-   1,R,K
+  12,R
+   1,R,G
+   6,R,J,G
+   1,K
+  20,R,K
    2
-  33,R,D
-   3,R
-   2
-   1,R
-  16,R,J
-   1,K,G
-   1,L,K
+   1,L,J
+   4,L,J
+   3,L
+#dash
+  20,R,Z
+   4,R,J
+  10,R,K
+   1,J,G
+   1,R,J
+   1,J
+   1,R,J
+   1,L,J
+   1,R,K,G
    1,R,J,G
    1,R,K,G
-   4,K
-   9,R,K
+   1,R,J,G
+   1
+   4,R
+   1,R,J
+   1,J
+   4
+   3,L,D,J
+   2,J
+   1,L,J
+#dash
+  15,R,U,X
+  13,R
+  32,R,J
+#dash
+  15,R,U,C
+  24,R,G
+   8,J,G
+   1
    1,J,G
-   8,K,G
-   5,R,K
+   1
+   1,J,G
+   6,R
+   1,R,J
+   2
+#dash
+   6,L,Z
+   1,R,J
+   6,R
+  10,R,J
+  34,R,D
+  13,D
+   1,L,D
+  23,D
+   1
+   1,L
+   1
+  24,R
+  11,J,G
+   1,L,J
+   1,R,K,G
+   1,L,K
+   8,K
+   1,J
+   9,L,J
+   3,R,J
+   1,K,G
+   7,R,K
+   3,K
+   1,L,K
+  16,L,J
+   1,K,G
+   2,L,K
+   2,K
+   1,R
+   1,J
+  12,L,J
+   1,K
+   9,R,J,G
+   5,R
+   1,J
+   1,R,J
+   5,K,G
+   7,L,K
+   1,J
+   1,R,J
+   2,J
+   1,R,J
+   6,J
+   1,L,J
+   2,K,G
+   1,R,K
+   1,L,K
+   2,J,G
+  14,R,J
+  11,K,G
+   1,L
+  12,R,J,G
+   8,R
+   9,K,G
+   4,R,K
    2,L,J
-  20,L,D
-  13,R,D
-  20,L,D
-   9,R,D
+  32,D
+  21,L,D
+  15,R,D
    1,D
-  25,R,D
+  10,R,D
+   1,D
+   8,R,D
    4,R
 #dash
   19,R,Z
@@ -856,5 +900,6 @@ endrepeat
    5,R
  135
 
-ChapterTime: 1:37.529(5737)
-#46 ->  dashes
+ChapterTime: 1:39.484(5852)
+#5852
+#46 ->  45 dashes
