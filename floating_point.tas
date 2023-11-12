@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3148
+RecordCount: 3796
 
 console load StrawberryJam2021/4-Expert/KAERRA
    1
@@ -9,99 +9,118 @@ console load StrawberryJam2021/4-Expert/KAERRA
 #18x
 #Start
  102
+
 #lvl_a00
 #0x
-   3,R
-   2,R,J
+   3,R,J
    9,R
-   1,R,J
-   5,R
+   1,R,K
+   6,R
    2,R,J
   51,R
    1,R,J,G
-  23,R
-  11,R,J
-   2,L,J
-   1,K,G
-   7,L,K
-   1,K
+   1,R,K,G
+   5,R
    1,R,K
+   8,R
+  13,R,D,J
+   5,L,J
+   3,K,G
+   2,L,K
+   2,K
+   2,R,K
   11,R,J
    1,R,K,G
-   5,R,J,G
-  11,R,K,G
+  11,R,J,G
+   6,R
+   1,R,J
+   1,R
+   3,R,J
   15,R,D
-  10,D
-   5
-  22,R
-   3,R,D
-   7,R,J,G
-   9,R
-   1,R,J
-  11,R,D
-   1,R,J
+  16,R
+   2
+   8,R,D
+   2,R
+   1,R,J,G
+   4,R,K,G
+   7,R
+   2,R,K
   11,R
+   1,R,K
+  10,R
   40
 
 #lvl_a01
 #3x
-   3,R
-   1,R,J
-  14,R
-  12,R,J
-  45,R,D
-   1,D
-   1,R,D
-   9,L,D
-   1,R,D
-Repeat 9
+   9,R
+  18,R,D,J
+   1,L,J
+   1,K
+   2,J,G
+  38,R
+   1
+   1,R
+   2
+   2,R
+   8,L,D
+Repeat 3
    1,R,D
    1,D
 EndRepeat
-   5,D
-   3,L,D
-   5,R,J
-   5,R
-   1,R,J
-  11,R
+   1,R,D
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   2,R,D
+   7,D
+   1,L,D
+   2,J
+   2,R,J
+   7,R
+   2,R,J
+   9,R
    1,R,J,G
    4,R,K,G
-   8,R
+   5,R
    1,R,J
-   6,R
+   9,R
    2,L
    1,J,G
   10,L,J
    2,R,J
-  22,R,K
-   7,J,G
-   2,L,J
+  23,R,K
+   4
   15,R,D,X
-   2,L
-  13,L
-   1,R
-   2,R,D
-   1,R
-   1,R,D
-   3,R
+  10
+   4,D
+   3,R,D
+   1,D
+   4,R,D
    1,R,G
-   1
-   1,L
-  28,R
-   8
+   2
+  27,R
+   2
    1,R
-   1,R,J
-  24,R
-   1
+   4
+   1,J
+   4
+  21,R
    1,R,J,G
    7,R,K,G
    1,R
-  14,R,J
+  12,R,J
   15,R,D,X
-  16,L,D
-  10,R,D
-   4,R
-  18,R,U,X
+  13
+   1,R
+   1
+  11,R,D
+   3,R
+   1
+  17,R,U,X
    1,J
   22,L,J
    2,R,J
@@ -111,85 +130,117 @@ EndRepeat
    3,R,J
    2,R
    1,R,J,G
-   5,R,K,G
-  55,R,D
-  11,R
+   8,R,K,G
+  25,R,D
+  12,R
+  13,R,D
+  13,R
    4,R,J
    1,R
-   1,R,J,G
    1,R,K,G
+   1,R,J,G
    9,R
   40
 
 #lvl_a02
 #2x
    1,R
-  14,R,J
+   8,R,J
+   4,J
+   1,R,J
+   1,J
    1,K,G
    1,L,K
-  14,R,J,G
+   1,R,K
+  13,R,J,G
    1,R,K,G
-   6,R,J,G
-   7,R
+   2,R,J,G
+   4,R,J
+   9,R
    2,R,J
-  11,R
-   6,D
-  65,R,D
-   1,R,J,G
-   6,R,K,G
+   9,R
+   3,D
+   3,R,D
+   1,D
    1,R
+   1,R,D
+   3,R
+  42,R,D
+   4
+   2,R
+   2
+   9,R
+   1,R,J,G
+   7,R,K,G
    4
   15,R,D,X
   30,L
-   5,L,J,G
+   4,L,J,G
    7,L
    4,R,Z
   13,R,J
-   2,R
-  25
-   2,L
-   2
-  11,R
+   1
+   3,J
+   1,K
+  20
+   6,R
+   1
+   7,R
    1,R,J,G
   22,R,K,G
    1,R
    2,R,J
   12,R,D
-   5,L,J,G
-   1,J
-   1,L,J
-   1,L
-  13
+   1,L,J,G
+   4,L
+   1
+   2,L
+   2
    3,L
    3,R,D
-Repeat 12
+Repeat 5
    1,R,D
    1,D
 EndRepeat
-   2,R,D
-  11,R,J
+   1,R,D
+   1
+Repeat 4
    1,R
-  22,R,J
-   1,K
-   2,R,K
-  10,L,K
-  12,R,J
-   1,K,G
-   1,L,K
-  14,R,J,G
-   1,R,K,G
-   1,R,J,G
-  12,R
+   1
+EndRepeat
+repeat 5
+   1,R,D
+   1,D
+endrepeat
+   1,R,D
+  11,R,J
+   5,R
+   2,R,J
+   1,R
+  15,R,J
+  17,R,K
+   3,J,G
    1,R,J
+   1,J
+   1,R,J
+   1,L,J
+   1,R
+  13,R,K,G
+   1,R,J,G
+   1,R,K,G
+   9,R
+   5,R,J
   40
 
 #lvl_a03
 #1x
+   5,R
+   2,R,K
+  18,R,D
+   2,R
+   1,R,D
+   1,R
    3,R,J
-  27,R,D
-   1,R,J
-   1,J
-   1,R,J
   21,R
   29,R,J
    2,R,K,G
@@ -495,8 +546,7 @@ EndRepeat
    1,J
   24,L,J
    1,K
-  10,D
-  20,D
+  30,D
   21,R,D,J
    4,R
   10
@@ -534,8 +584,7 @@ Repeat 9
    1,D
    1,R,D
 EndRepeat
-   1,D
-   2,D
+   3,D
    8,L,D
    1,J,G
    7,L
@@ -553,8 +602,7 @@ EndRepeat
    4,R,J
   17,R
    4,R,J,G
-   1,R,J
-   1,R,J
+   2,R,J
    1,J
    2,R,J
    1,R,K,G
@@ -674,9 +722,7 @@ EndRepeat
    2,R,K,G
    5,R
    1,R,J
-   1,R
-   1,R
-   2,R
+   4,R
    1
    1,R
    1
@@ -687,8 +733,7 @@ EndRepeat
    9,R,K
   13,R
    1,R,J,G
-  13,R
-   1,R
+  14,R
    5,R,J
   40
 
@@ -766,8 +811,7 @@ EndRepeat
   14,R,D,X
    1,R,J
    5,R
-  15,R,J
-   7,R,J
+  22,R,J
    4,R
    4,R,D
    2,R,J
@@ -775,9 +819,7 @@ EndRepeat
    5,R,J
   13,R
   23,R,J
-   1,R,D
-   2,R,D
-  11,R,D
+  14,R,D
   15,R,J
    4,R
    1,R,J
@@ -954,4 +996,4 @@ Repeat 67
    1,R
 EndRepeat
 
-ChapterTime: 1:49.310(6430)
+ChapterTime: 1:48.545(6385)
