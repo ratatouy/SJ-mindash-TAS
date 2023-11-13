@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3305
+RecordCount: 3466
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
@@ -10,7 +10,7 @@ console load StrawberryJam2021/2-Intermediate/Dooshii
  106
 
 #lvl_a1
-#4x
+#3x
    5,R
    1,R,K
   14,R
@@ -84,20 +84,33 @@ repeat 2
 endrepeat
    8,R,D
    3,R,K
-   9,R,J
+  27,R,D
+   5
+   9,D
+   1,D
+   1,D
+   1,G
+   1,R,J,G
+   6,L,J
+   1,R,J
+   5,R
+   2,R,K
+   2,R
+   1,R,J,G
+   2,R,K,G
+   1,K
+   1,J,G
+  35,R,J
+  17,R,K
    1,R
-  31,R,K
+   1,R
+   4,R
 #dash
-  38,R,U,Z
-#dash
-   5,U,V
-  19,R
-   6,K,G
-   1,L,K
-   1,R,K
-   2,J,G
-  12,L,J
-   6,L,K,G
+  14,U,C
+  33,R,K
+   3,J,G
+  13,L,K
+   7,J,G
   43
 
 #lvl_a2v2
@@ -261,50 +274,30 @@ endrepeat
   40
 
 #lvl_a4v2
-#(4x)
+#(2x)
   11,R
-repeat 3
+repeat 6
    1,R,K
   14,R
 endrepeat
-  10,R,K
-   3,R
-   3
-   3,R,J
-#dash
-   5,U,X
-  10,R
-  17,L,U,C
-#dash
-  38,R,U,X
-   5,R,C
-  38,L
-  20,R,D
-   5,D,X
-  19,R,D
-   1,R
+.
    1,N
- 126,R,U
+ 157,R,U
    1,X
   19
+   3,L,J
 #dash
-   4,R,Z
-   3,R,K
-   1,R
-   7,R,K
-   5,R
-   1,L,K,G
-  46,R,K
+  10,R,D,X
+  41,R,J
 #dash
-  30,R,U,X
-   1,R,J,G
-  16,R
-   2,R,K
+  29,R,U,X
    1,R,J,G
    1,R,K,G
-  13,R
-   1,R,K
   14,R
+   1,R,J
+   2,R,K,G
+# im such a hack. please fix (do faster)
+  30,R
    1,R,K
   40
 
@@ -472,7 +465,7 @@ endrepeat
   40
 
 #lvl_pushupv2
-#(2x)
+#(1x)
   14,R
    1,R,K
   14,R
@@ -552,7 +545,9 @@ endrepeat
    5
    1,J
    7,L,D
-   9,D,G
+   4,D,G
+ 131,G
+   3,D,G
    3
    1,L,K,G
    1,L,J,G
@@ -560,45 +555,67 @@ endrepeat
    1,L,J,G
    7,L
    1
-   5,L,D
+   4,L,D
+   2,L,J
+   3,L
+   1,J,G
+   1,R,J
    1,L,J
-   5,L
-  13,L,J
-#dash
-   5,U,X
-  12,L
-  13,R,X
-   3,G
-  13,R,K,G
-  11,R,J,G
-  50,R
-  13,L
+   1,K,G
+   3,R,K
+   1,L,K
+   3,K
+   2
+   1,J,G
+   4,R,J
+   1,R
+  10,R,J,G
+  10,R,G
+  12
+   1,R,J,G
+   1,L
+   1,R
+   3,J,G
+   1,J
+   1,L,J
+   1,R
+  10,K,G
+  12,R,K
+   5,R,J,G
+  15,R
+   5
+   2,J
+  10
+  20,R,J
+  10,R
+  28,L
+repeat 15
+   1,G
+   1
+endrepeat
    1,K
-  43,L,K
+  24,L,K
    1,J
-  23,L,J
-  16,L,K,G
-   7,L,J,G
-   8,R,J
-   1,R,K,G
+  24,L,J
+   1,K,G
+  10,L,K
+   4,R,K
    1,J
-   7,R,K,G
-  10,R
-   1,R,K
+  27,R,J
+   1,R
+repeat 3
+   1,R,J
   14,R
-   1,R,K
-  14,R
-   1,R,K
-  14,R
-   1,R,K
-  10,R
+endrepeat
+   1,R,J
+   8,R
   40
 
 #lvl_reboundv2
 #(4x)
-   4,R
+   6,R
    1,R,K
-  22,R
+  20,R
    1,R,K
    1,R,J,G
    1,R,K,G
@@ -996,5 +1013,5 @@ repeat 98
    1,R
 endrepeat
 
-ChapterTime: 2:41.687(9511)
-#53 dashes
+ChapterTime: 2:44.237(9661)
+#49 dashes
