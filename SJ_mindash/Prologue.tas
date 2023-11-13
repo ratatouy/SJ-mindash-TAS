@@ -2,6 +2,7 @@ console load StrawberryJam2021/0-Lobbies/0-Prologue
    1
 
 #Start
+#5x
  190
    1,R,J
   21,R,D
@@ -15,6 +16,7 @@ endrepeat
    7,R
   19,L,D
   10,R,D
+#dash
   13,R,Z
   20,R
    1,R,J
@@ -40,8 +42,10 @@ endrepeat
    2,R
    4
    2,R
+#dash
   25,R,Z
-  17,R,X
+#dash
+17,R,X
   16,R
    1,R,J
   18,R
@@ -50,6 +54,7 @@ endrepeat
    2,R,J
   16,R,D
    1,R,J
+#dash
   19,R,Z
   34,R
    1,R,J
@@ -94,15 +99,12 @@ endrepeat
    1,R
   10,R,D
    1,D
+#dash
    9,R,D,X
    7,L
   24,R
    1,R,D
-   1,R
-   1,R
-   1,R
-   1,R
-   1,R
+   5,R
    1,R,J
    5,R
    1,R,J
@@ -402,6 +404,7 @@ endrepeat
    1,D,J
   18
 
+
 ChapterTime: 0:32.963(1939)
-
-
+#1939
+#5 dashes
