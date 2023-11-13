@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3273
+RecordCount: 3302
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
@@ -116,7 +116,7 @@ endrepeat
   40
 
 #lvl_a1.5v2
-#(2x)
+#(1x)
   13,R
    1,R,K
   14,R
@@ -135,11 +135,16 @@ endrepeat
   14,R,K
    1,J
    3,L,J
-   6,K,G
-#dash
-  14,U,X
-  19,K
-   3,J,G
+   9,K,G
+  12,J,G
+   5,K,G
+   4,L,K
+   8,L
+   4
+  17,R,J
+   1,L,K,G
+   3,R,K
+   8,K
   40
 
 #lvl_a3v2
@@ -393,6 +398,7 @@ endrepeat
    7,L,J
    2,L
    4
+
 #dash
   14,L,U,Z
   10
@@ -622,7 +628,7 @@ endrepeat
   40
 
 #lvl_a9v2
-#(10x)
+#(8x)
    2,R
    1,R,K
   14,R
@@ -636,45 +642,34 @@ endrepeat
   26,D
   34,R,K
   12,R,J,G
-  15,R,U,X
-#dash
-   5,R,C
-   5,L
-  13
-   9,R
-   6
-   4,R
-   6,K,G
-  24,R,K
-  16,R,D
-  19,D
-   7
-  10,R
-  12,R,K,G
-   6,R,J,G
-   1,L,K
-  55,L
-  14,L,U,X
-  10,L,K,G
-   9,L,J,G
-   1,R
+  14,L,U,Z
+  10,L,J,G
    1,K,G
-   7,R,K
-   5,L,K
-   6,J,G
+  10,L,J
+   3,R,J
+   1,R,K,G
+   3,K
+   1,L,K
+   1,R,K
+   5,K
+   8,J,G
+   1,L,J
+   1,R,J
+   1,K,G
+  31,L,K
+   8,J,G
+   2
+   1,R,K
+  23,R,J
 #dash
-  16,L,U,X
-   6,J,G
-   1,K
-  32,R,J
-#dash
-  28,R,U,X
-   1,K
-  24,R,K
+  15,R,U,X
+   1
+  20,R
    1,J
-  13,R
-  15,R,K
-   7,L,J
+  25,R,J
+   5,K,G
+   5,R,K
+   9,L,J
   15,U,X
 #dash
    9,R,C
@@ -983,5 +978,5 @@ repeat 98
    1,R
 endrepeat
 
-ChapterTime: 2:41.245(9485)
-#56 dashes
+ChapterTime: 2:38.525(9325)
+#53 dashes
