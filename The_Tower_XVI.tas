@@ -1,14 +1,12 @@
-# StrawberryJam2021
-# https://gamebanana.com/mods/424541
-
-RecordCount: 1753
+# The Tower XVI 67x
+RecordCount: 1872
 
 console load StrawberryJam2021/3-Advanced/JANisEXIST
    1
 
 #Start
 #lvl_1
-#(8x)
+#8x
    9,R
    1,R,D
    9,R,J
@@ -29,11 +27,9 @@ EndRepeat
    1,R,J
    1,L,K,G
   25,R,K
-#dash
   19,L,U,X
    8,L,K
   27,L,J
-#dash
    5,U,X
   14,L
   12,R,K,G
@@ -45,7 +41,6 @@ EndRepeat
   15,R
   43,R,J
   44,R,K
-#dash
    5,U,Z
   14,L
    1,K
@@ -56,7 +51,6 @@ EndRepeat
    3,L
    1,L,K
   12,K
-#dash
    5,U,X
   14,R
   22,R,K
@@ -69,7 +63,6 @@ EndRepeat
    7,L
   23,L,K
    6,J,G
-#dash
   13,R,U,Z
    6,R,K
    1,R,J
@@ -85,7 +78,6 @@ EndRepeat
    2
    1,L,J,G
   14,R,J
-#dash
   22,R,U,X
    4,R,K
   17,R,J
@@ -94,7 +86,6 @@ EndRepeat
    1,K
    8,J,G
    1,L,J
-#dash
   18,L,U,X
    5,R,K
    4,R,J
@@ -106,15 +97,13 @@ EndRepeat
    1,K,G
    5
    2,K
-   1,R,K
-   1,R,K
+   2,R,K
    6,L,K
   32,L,J,G
    8,K,G
    1,R,K
   14,L,J,G
   30,R,K
-#dash
   13,U,X
   17,R,K
    2,J,G
@@ -123,7 +112,7 @@ EndRepeat
   40
 
 #lvl_2
-#(10x)
+#10x
   19,L,K
    2,K
    1,J,G
@@ -147,22 +136,18 @@ EndRepeat
   25,R,J
   11,K,G
   12,L,K
-#dash
   18,R,U,X
    4,L,G
   12,L,K
    6,L,J,G
    2
-#dash
   11,L,U,X
    8,L,K
   26,L,J
-#dash
   10,R,U,X
    4,R,K
    5,J
    2
-#dash
    5,U,X
   11,R
   20,K
@@ -178,11 +163,9 @@ EndRepeat
    3,L,K,G
    4,L,J,G
    4,L,K,G
-#dash
   12,R,U,X
    8,R,K
   15,R,J
-#dash
   17,U,X
   12,L,K,G
    1,J
@@ -211,28 +194,23 @@ EndRepeat
   40,R,K
    1,J,G
    9,L,K
-#dash
   14,R,X
    4,R,K
   21,R,J
-#dash
   15,U,X
   16,R
    5
   12,K
-#dash
   29,U,X
-#dash
   12,U,C
   40
 
 #lvl_3
-#(13x)
+#12x
   15,L
    2,L,K,G
   12,L,J,G
    3,L
-#dash
   13,L,Z
    4,R,G
    1,R,K,G
@@ -246,7 +224,6 @@ EndRepeat
    1,K
    1,J
   13,R,J
-#dash
   21,R,U,Z
    4,R,K
    1,R,J
@@ -265,32 +242,58 @@ EndRepeat
    2,K
    1,L
    1,K
-#dash
   16,L,U,Z
    1,L,K
    7,L
-#dash
   15,U,X
   18,R,D
    6,K
    9,J,G
-#dash
   16,L,U,Z
   10,L,K
-  21,L,J
-#dash
-  12,U,X
-  15,R,K
-  14,R
-   1,R,K
-  19,R
-   7,L
-#dash
+  41,L,J
+   7,K,G
+   2,L,K
+   2,L
+   2
+   1,R
+   5,R,J
+   1,J
+   1,R,J
+   2,R
+   1
+   1,R
+  19,R,K
+   1,L,K
+   1,L,J,G
+   7,L,J
+   3
+   2,L,K,G
+   1,K
+   1,L,K
+   4,R,K
+   2,L,J,G
+   4,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   2,R,J
+   1,J
+   1,R,J
+  34,R,K
+   1,R,J
+  22,R
+   6,L
   11,L,U,X
    8,R,K
    1,R,J
    9,J
-#dash
    5,U,X
   14,L
   37,L,K
@@ -300,18 +303,14 @@ EndRepeat
    4
    3,R
    2
-#dash
   10,L,U,X
    8,L,K
   17,L,J
-#dash
   19,L,U,X
    5,K
   22,D
-#dash
   10,L,D,X
   45,R,K
-#dash
   27,R,U,X
    8,L,K
   11,R,J
@@ -324,7 +323,6 @@ EndRepeat
    3,R,K,G
    1,J
   17,L,J
-#dash
   20,U,X
   17,L,K
    1,J,G
@@ -332,29 +330,24 @@ EndRepeat
   40
 
 #lvl_4
-#(13x)
+#13x
   18,R
    1,K,G
   15,L,K
-#dash
   22,L,U,X
    8,L,K
    3,L,J
   16,R,J
-#dash
   16,R,X
    4,R,K
   20,R,J
-#dash
   36,U,X
   27,L,K
   28,L,J
-#dash
   17,L,Z
   16,R,K
    7
   28,L,J
-#dash
   13,L,U,Z
    4,L,K
    7,L,J
@@ -367,13 +360,11 @@ EndRepeat
   33,L,J
    7,R
   19,R,D,K
-   1,R,D
-  14,R,D
+  15,R,D
    3,R
    3,R,J,G
   29,R,K,G
    1,K
-#dash
   13,R,U,Z
    8,L,K
    1,J
@@ -389,10 +380,8 @@ EndRepeat
    1,R,K
    1,J
   19,R,J
-#dash
   10,R,X
   25,L,K
-#dash
   26,L,U,X
    1,L,K
    5
@@ -407,7 +396,6 @@ EndRepeat
   13,R,K
    1,L,J,G
    2,R,J
-#dash
   13,U,X
   23,L,K
    9,L,D
@@ -415,10 +403,8 @@ EndRepeat
    8,L,D
    1,L,K,G
   23,L,J,G
-#dash
   33,U,X
    8,R
-#dash
   15,U,X
    7,R
 Repeat 3
@@ -440,18 +426,16 @@ EndRepeat
    1,R,K
    1,R
   17,R,K
-#dash
   16,L,Z
    1,R,K
    8,R
   19,R,K
-#dash
   32,U,X
    3,L,K,G
   40
 
 #lvl_5
-#(10x)
+#10x
    1,L,K,G
    4,R,K
    3,L,K
@@ -470,8 +454,7 @@ EndRepeat
    1,R
    1,L
    1,R
-   1,L
-   3,L
+   4,L
    5,L,K
    4,L
   13
@@ -480,7 +463,6 @@ EndRepeat
    1,D
    1
    8,K
-#dash
   15,U,Z
    3,R
    1,L
@@ -495,54 +477,42 @@ EndRepeat
    2,L
    2,L,K
    2,L
-#dash
   13,L,Z
    1,R,K
    9,R
   23,R,K
-#dash
   17,R,U,Z
    4,L,G
-#dash
   12,L,X
    8,L,K
   18,L,J
-#dash
   14,U,X
   17,L,K
    1,L,J,G
    1,L,K,G
   20,L
    5,R
-#dash
   14,R,Z
   28,R,K
-#dash
   17,R,U,X
   23,L,K,G
-#dash
   13,L,U,X
    8,L,K
   36,L,J
-#dash
   37,U,X
    1,R,K,G
   11,L,K,G
-#dash
   20,U,X
   14,R
 
 #lvl_6
-#(13x)
+#13x
    6,R
-#dash
   18,U,X
-#dash
   30,R,U,Z
    1,L,J
    5,R,J
    8,J
-#dash
   15,U,X
    2
    8,L,J,G
@@ -554,7 +524,6 @@ EndRepeat
    2
    1,K
    3
-#dash
    4,Z
    1,L,J
    6,L
@@ -563,17 +532,14 @@ EndRepeat
    1,R,K
    1,R,J
   10,R,K
-#dash
   28,R,U,X
   12,J
   12,K,G
   12,J,G
-#dash
   13,R,U,X
    4,L,K
   30,L,J
    3
-#dash
   11,U,X
   15,R,J
    4,R
@@ -583,12 +549,10 @@ EndRepeat
    6,R
    1,L
    5,L,J
-#dash
   14,L,D,X
    4,L,K
    1,L,J
   17,L
-#dash
    9,L,Z
    1,L,K
    1,L
@@ -603,11 +567,9 @@ EndRepeat
   33,R,D
    1,R,K
    9,R
-#dash
   14,D,X
    5,L
    1
-#dash
   29,L,U,Z
   22,L,J
    2,J
@@ -674,21 +636,15 @@ EndRepeat
    1,K,G
    3,L,K
   10,K,G
-#dash
   36,U,X
-#dash
    6,U,C
   40
 
 #lvl_7
-#(1x)
+#1x
    8,U,C
   23,R,K
-#dash
   15,U,X
  135,R,D
 
-ChapterTime: 1:24.388(4964)
-#68 dashes
-
-#8+10+26+10+14
+ChapterTime: 1:26.105(5065)
