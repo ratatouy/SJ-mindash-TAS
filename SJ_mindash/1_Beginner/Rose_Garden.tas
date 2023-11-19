@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 825
+RecordCount: 826
 
 console load StrawberryJam2021/1-Beginner/Quinnigan
    1
@@ -9,7 +9,8 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
 #flowers have 42 frame cooldown including activation frame
 # on last use they're thrown on the 32nd frame
 
-#q00 - 0
+#Start
+#0x
  106
    5,R
    1,R,J
@@ -35,7 +36,8 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
    6,R
   40
 
-#q01 - 0
+#q01
+#0x
    8,R
    1,R,J
   18,R
@@ -65,7 +67,8 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
    1,R
   40
 
-#q02 - 0
+#q02
+#0x
   14,R
    1,R,J
   14,R
@@ -103,7 +106,8 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
    5,R
   40
 
-#q03 - 0
+#q03
+#0x
    4,R
    1
    1,R
@@ -151,7 +155,8 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
    5,R
   40
 
-#q04 - 0
+#q04
+#0x
    9,R
    4,R,J
   15,R
@@ -196,7 +201,8 @@ console load StrawberryJam2021/1-Beginner/Quinnigan
   13,R
   40
 
-# q05 - 0 dashes
+# q05
+#0x
    1,R
    1,R,J
   14,R
@@ -283,7 +289,8 @@ endrepeat
    2,R
   40
 
-# q06 - 0 dashes
+# q06
+#0x
   12,R
    1,R,J
   18,R
@@ -333,7 +340,8 @@ endrepeat
   78,R,D,G
   40
 
-# q07 - 0 dashes
+# q07
+#0x
   18,R,D,G
    1,R,J,G
   23,R,G
@@ -369,7 +377,8 @@ endrepeat
   23,R,G
   40
 
-# q08 - 0 dashes
+# q08
+#0x
   13,R,G
    1,R,J,G
   24,R,G
@@ -430,7 +439,8 @@ endrepeat
   13,R
   40
 
-# q09 - 1 dash
+# q09
+#0x
    1,R
    1,R,J
   14,R
@@ -482,7 +492,9 @@ endrepeat
    1,X,G
   32,G
    1,D
-   1,X
-  14,U
+  15,U,X
+ 135
 
-# 2:13.960 2880
+ChapterTime: 2:13.960(7880)
+#7880
+#1 dash
