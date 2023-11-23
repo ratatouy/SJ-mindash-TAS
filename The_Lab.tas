@@ -1,5 +1,5 @@
-# The Lab 43x
-RecordCount: 2553
+# The Lab 41x
+RecordCount: 2647
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -566,7 +566,6 @@ EndRepeat
   14,R
    1,R,J
   24,R
-
   28,R,J
    2
    5,R
@@ -624,7 +623,7 @@ EndRepeat
    1,L,J
    1,K,G
   14,J
-  15,U,C
+  15,U,X
    1
   20,R
    1
@@ -734,31 +733,46 @@ EndRepeat
    2
    1,R,J,G
    7,R
-  13,J
-  12,L,K,G
-   5,L,J,G
+   1,J
+   3,R,J
+   9,L,J
+  12,R,K
+   1,R,J,G
+   1,K
+   2,J,G
   40
 
 #lvl_escape-02-Worldwaker2
 
-  10
-  11,L,Z
-   1,L,J
-   2,J
-  15,L,U,X
-  26,R
+   1,L
+   1
+   8,L
+   1,L,J,G
+   1,L,K,G
+  12,L
+   7,L,J
   16,L
-  11,R
-  20,R,U,X
-  40,D
-   3,R,D
-   4,D
-  10,L
-  13,D
-   7,L,Z
-   1,R,J
-  12,R
-  27,R,J
+  15,L,U,X
+   5,L
+  16,R
+  16,L
+  13,R
+  15,R,U,X
+  38,D
+   8,L
+   7,G
+   2,R
+   3
+   6,R
+   2,D
+   4,R,D
+   1,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   8,R
+  30,R,J
   15,U,X
   31,D
   18,R,X
@@ -878,4 +892,4 @@ EndRepeat
   33,R,J,G
   10,R,K,G
 
-ChapterTime: 2:29.600(8800)
+ChapterTime: 2:23.939(8467)
