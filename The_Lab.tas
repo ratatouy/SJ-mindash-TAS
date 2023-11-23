@@ -1,5 +1,5 @@
-# The Lab 46x
-RecordCount: 2155
+# The Lab 43x
+RecordCount: 2553
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -379,28 +379,29 @@ EndRepeat
 
 #lvl_hub(1)
 
-   9,R,D
-  16,D
-  29,R,D
-   1,R,J
-   5,L
-   3
+  22,R,D
+   6,L,D
+  25,R,D
+## wait here to unlock door
+  33
+   6,R
+   4,L
 
 #lvl_evade-01-Quantum
 
-   6,L
-   2,L,J
+   3,L
+   1,L,J
   15,L
-  13,R,D
-  10,R
-  24,L,G
-   4,U,G
+  23,R,D
+   6,L
    1,L,J,G
-   6,L,K,G
-   1,L,J,G
-  13,R,J
+   7
+  15,G
+   3,J,G
+   8,K
   15,D,X
-  15,U,C
+   1,L
+  13,U,C
   49,R,U,X
    1
    8,R,J,G
@@ -505,10 +506,10 @@ EndRepeat
    5
    8,D
   21,L,D
-   3
 
 #lvl_move-01-TiltTheStars
 
+   3
   14,R,D,X
    1,R,J
    7,R
@@ -517,31 +518,24 @@ EndRepeat
    3
    3,R
    1,R,J,G
- 188,R,G
-   8,D,G
-   1,R,J,G
-  12,R,J
-   1
-   1,R,G
+   8,R
+   1,G
+   9,R
+  30,G
    1,D,G
-  21,R,J,G
-   1,K
-  17,R,K
-  12,R,J
+   1,G
+   1,U,G
+   1
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  36,R
+   5,R,D
+  23,R,D,J
+   3,J
+  12,R,K
   17,L,U,X
   33,R,D
-  15,L,X
-  14,J
-  40,L,U,X
-   5,L,D
-  17,R,D
-   3,D
-   2,R,D
-   4,R,J,G
-  17,R
-   1,R,J
-  22,R
-  35,R,J
   15,R,X
   13,R,D
   18,R,Z
@@ -572,53 +566,93 @@ EndRepeat
   14,R
    1,R,J
   24,R
-  39,R,J
-   2,J
-   3,R,K,G
+
+  28,R,J
+   2
+   5,R
+   3,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,J,G
+   2,R,K,G
   15,R
    1,R,J
   21,R
-  50,R,J
+   3
+  43,R,J
   12,R,K,G
-  12,R,J,G
-   3,R,K,G
    9,R,J,G
+   9,R,K,G
   13,R,U,X
-  15,L
-  14,L,Z
-   7,L,J
-   1,L
-  19,L,J
-   2,J
+  31,L
+   5,L,Z
    2,L,J
-  12,L,K,G
-   6,L,J,G
-  20,R,K
-  18,R,U,X
-  20,R,U,Z
-  11,R,J
-   6,R,K
-   1,R,J,G
-  13,J
-   1,R
-   1
-  12,R,J
-  10,U,X
-  15,U,C
-  22,R
-  14,R,J,G
+   4,L
+   1,L,J
+   5,L
+  10,L,J
+   5
+  11,L,K,G
+   9,J,G
    1,K
-  25,R,K
-  20,J
-  27,R,J
-   6,L,G
-  37,L,J,G
-   1,L,K,G
+   2,J,G
+  12,R,J
+  28,R,U,Z
+  11,R,J
+   1,R,K,G
+   1,R,J,G
+   9,R
+   7,R,J
+   1,J
+   1,R,J
+   4,R,K,G
+   7,K
+   1,R,K
    1,L,J,G
-  33,R,J
-  17,R,X
-   7,R,J,G
-  18,L,K
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   2,R,J
+   1,L,J
+   1,K,G
+  14,J
+  15,U,C
+   1
+  20,R
+   1
+   6,J,G
+  11,R,J
+   2,R,K,G
+   2,L,K
+   1,R,K
+   3,L,K
+   3,R,K
+   1,K
+   5
+   8,J
+   4,K,G
+   3,R
+   2
+   1,R
+   1,L
+  36,L,J,G
+  33,U,G
+   1,J,G
+   1,K,G
+   1,L,J,G
+   9,R,J
+  14,R,U,X
+   4,L
+   6,L,J
+  11,L
    5
   11,L,D,X
    1,L,J,G
@@ -656,13 +690,14 @@ EndRepeat
   14,R
    3,R,J
   36,R,D
-  15,R
-  92
-  14,U,X
- 134,R,J,G
- 100,R,K,G
-   3,G
-   6,L,J
+   3,R,J
+  25,R,U,X
+  11,L,K
+  12,R,J
+ 100,G
+  12,J,G
+  83,G
+   7,L,J
   11,R,D,X
    1,R,J
    7,R
@@ -843,4 +878,4 @@ EndRepeat
   33,R,J,G
   10,R,K,G
 
-ChapterTime: 2:30.892(8876)
+ChapterTime: 2:29.600(8800)
