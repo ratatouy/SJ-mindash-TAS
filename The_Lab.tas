@@ -1,5 +1,5 @@
-# The Lab 41x
-RecordCount: 2647
+# The Lab 39x
+RecordCount: 2935
 
 console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
    1
@@ -8,7 +8,7 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
   90
 
 #lvl_start-01-Radley(0)
-
+#4x
    5,R
    9,R,J
   21,R,D
@@ -54,12 +54,12 @@ console load StrawberryJam2021/3-Advanced/RadleyMcTuneston
   40
 
 #lvl_start-02-Radley(0)
-
+#0x
   90,D
   40
 
 #lvl_start-03-Radley/Worldwaker2
-
+#0x
   47,D
   29,R,D
    1,R,J
@@ -102,7 +102,7 @@ EndRepeat
   40
 
 #lvl_start-04-Radley(0)
-
+#0x
    6,R
    1,R,J
    9,R
@@ -147,7 +147,7 @@ EndRepeat
   40
 
 #lvl_start-05-TiltTheStars
-
+#2x
   36,R
    1,R,J
    4,R
@@ -202,7 +202,7 @@ EndRepeat
   40
 
 #lvl_hub(0)
-
+#0x
    8,L,J
   11,R,K,G
    2,L,K
@@ -213,7 +213,7 @@ EndRepeat
    3
 
 #lvl_cross-01-Worldwaker2
-
+#1x
    4,R,J
   15,R
    1,R,J
@@ -221,61 +221,75 @@ EndRepeat
    1,R,J
   10,R
    1,R,J
-   8,R
+   7,R
   15,R,D,X
-   9,R,D
-   5,R,U,Z
-   4,L
-   5,J,G
-   6,R
-  31,R,J
-  15,D,X
-  44,L,C
-  58,R,D
-  18,U,X
-   7,L
+   1,R
+   2,R,D
    1
-   8,L
-   1,L,J,G
-   4,L,K,G
-   8,L
-   1,J
-  15,L,J
-  29,L,K
-   8,R,U,X
-   9,R,J,G
-  16,R
-   8,R,D,J
-   4,R
-  19,R,J
-  21,R
-   5,J
-   1,L,J
-  15,L
-   2
-   2,L
-   1,L,J,G
-   9,L,K,G
-  19,L
-  12,L,J
-   9,L,K,G
-  15,R,X
+   2,R
+  15,R,Z
+  24,R
+  16,R,D,X
+  13,L,J
+  15,R,U,X
+  33,R,D
+   6,L,D
+   1,J,G
    1,R,J
-  13,R
+   1,L,K,G
+  15,L
+   1,L,K,G
+   5,L,J,G
+   5,L
+   8,L,J
+   8,L
+   7,J
+   3,L,J
+   8,L,K,G
+   9,L,X
+   1,L,J,G
+   9,K,G
+   2,R,K
+  21,R
+   3,R,J
+
+  15,R,U,X
+   9
+  15,R,D
+   1,R,J,G
+   3,R,K,G
+   7,R
+   1,R,J,G
+   1,R,K,G
+   5,R
+   1,R,J
+   5,R
+  17,R,D
+   1,R
+   1,G
+  10,R,J,G
+   6,R
+   1,R,J,G
+   1,R,K,G
+   7,R
+   2,R,J
+   1,R
+   3,R,J
+  10,R
    1,R,J
   18,R
    1,R,J
-  21,R,D
+  21,R
    1,R,J
-   2,R
+   3,R
   40
 
 #lvl_cross-02-TiltTheStars
-
-  12,R
+#2x
+  11,R
    1,R,J
   18,R
-  11,R,J
+  12,R,J
   15,R,U,X
   27,L,J
   21,R,D
@@ -363,7 +377,7 @@ EndRepeat
   40
 
 #lvl_cross-03-TiltTheStars
-
+#0x
    9,R
    1,R,J
   18,R
@@ -373,12 +387,12 @@ EndRepeat
   40
 
 #lvl_start-02-Radley(1)
-
+#0x
    8,R,D
    3
 
 #lvl_hub(1)
-
+#0x
   22,R,D
    6,L,D
   25,R,D
@@ -388,7 +402,7 @@ EndRepeat
    4,L
 
 #lvl_evade-01-Quantum
-
+#1x
    3,L
    1,L,J
   15,L
@@ -426,6 +440,7 @@ EndRepeat
   40
 
 #lvl_evade-02-TiltTheStars
+#1x
    1,L
   10,L,J,G
   26,L,D,X
@@ -480,14 +495,14 @@ EndRepeat
   40
 
 #lvl_start-01-Radley(1)
-
+#0x
   13,L
   13,L,J
    8,L,K
   40
 
 #lvl_evade-03-Worldwaker2
-
+#0x
   12,L
    1,L,J
   23,L
@@ -497,7 +512,7 @@ EndRepeat
    3
 
 #lvl_hub(2)
-
+#0x
    8,R
    1,R,J
   14,R
@@ -508,7 +523,7 @@ EndRepeat
   21,L,D
 
 #lvl_move-01-TiltTheStars
-
+#3x
    3
   14,R,D,X
    1,R,J
@@ -560,7 +575,7 @@ EndRepeat
   40
 
 #lvl_move-02-Worldwaker2
-
+#3x
    2,R
    1,R,J
   14,R
@@ -673,7 +688,7 @@ EndRepeat
   40
 
 #lvl_start-04-Radley(1)
-
+#1x
    3
    5,L,J
   20,U,X
@@ -683,7 +698,7 @@ EndRepeat
    1,R
 
 #lvl_hub(3)
-
+#1x
   10,R
    1,R,J
   14,R
@@ -709,7 +724,7 @@ EndRepeat
    3
 
 #lvl_escape-01-Worldwaker2
-
+#5x
   12,L,J
   18,U,X
   17,L,D,C
@@ -743,7 +758,7 @@ EndRepeat
   40
 
 #lvl_escape-02-Worldwaker2
-
+#5x
    1,L
    1
    8,L
@@ -805,18 +820,19 @@ EndRepeat
   40
 
 #lvl_escape-03-Worldwaker2
-
+#8x
   12,R
   12,R,J,G
   12,R,K,G
   32,R
-  24,L,G
+  18,L,G
+   2
+   1,L,J,G
+   1,K,G
    1,L,J,G
    1,L,K,G
-   1,L,J,G
-  49,R,J
-  11,K,G
-   3,J
+   8,R,J
+  17,R
   15,U,X
   35,L,U,G
   12,L,K,G
@@ -855,15 +871,17 @@ EndRepeat
   24,R,D
   27,R,J
    7,R,K,G
-  14,R,D,X
-  20,R,J
-  21,R,U,X
-  50,R,D,C
-  12,L,D,X
- 100,R,J
+  12,R,D,X
+   1,L,J
+   7,R
+  18,R,U,X
+  15,R,D,C
+  35,R,D
+  10,L,D,X
+  97,R,J
 
 #lvl_start-00-Radley
-
+#0x
   10,K
    9,J
   12,R,K,G
@@ -877,7 +895,7 @@ EndRepeat
   40
 
 #lvl_end_HideInMap
-
+#2x
   19,R
    1,R,J,G
    1,R,K,G
@@ -892,4 +910,4 @@ EndRepeat
   33,R,J,G
   10,R,K,G
 
-ChapterTime: 2:23.939(8467)
+ChapterTime: 2:21.338(8314)
