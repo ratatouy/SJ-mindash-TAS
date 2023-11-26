@@ -1,12 +1,14 @@
-# StrawberryJam2021
-# https://gamebanana.com/mods/424541
+# Pointless Machines 81x
 
-RecordCount: 1313
+RecordCount: 1601
 
 console load StrawberryJam2021/2-Intermediate/vitellary
- 191
+   1
 
 #Start
+ 190
+
+#lvl_01
 #6x, no extra
   15,R,X
   15,L,U,C
@@ -60,8 +62,7 @@ console load StrawberryJam2021/2-Intermediate/vitellary
    2
    1,R,J,G
    1,R,K,G
-  17,R
-  10,R
+  27,R
   22,R,J
   12,R,K,G
   12,R,J,G
@@ -80,7 +81,7 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   40
 
 #lvl_03
-#7x
+#4x
   10,R
    1,R,J
    2,J
@@ -92,27 +93,57 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   12,R,J
    7,R,K
   34,R
-  52,D,X
-  20,R,D
+   7,J
+   6,R
+  20,D
+   1,R,D
+   4,R
+   9,R,D
+   4,R,J
+   9,R
    1,R,J
    5,R
-  15,R,J
-   1,J
-   5,R,K,G
-  15,R
-   9,D,X
-  10,R
-  15,R,X
-  21,L
-  22,U,X
-  27,R
-  15,R,X
-  10,R
-   3
+   1,R,J,G
+   1,R,K,G
+   5,R
+   1,R,J
+   7,R
+  16,R,J
+  20,R,X
+  14
+  15,R,D,X
+   3,R,D
+   2,R
+   1,R,D
+   2,D
+   1
+   1,R,J,G
+   1,R,J
+   1
    1,R
-   4,D
-  16,R,V
-   5,R,J
+   5,L
+   3,R,J,G
+   4,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,R,K,G
+   6,R
+   6,R,K
+  10,R
+  15,R,Z
+   4,R
+   3,R,J
+   3,R
   15,R,X
   28,R,D
    1,R,J
@@ -121,7 +152,6 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   14,R
    1,R,J
   14,R
-   1,R
   40
 
 #lvl_04
@@ -159,7 +189,7 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   40
 
 #lvl_05
-#16x, 3 extra
+#15x, 2 extra
    3,R,J
   27,R,D
   10,R,Z
@@ -195,23 +225,29 @@ console load StrawberryJam2021/2-Intermediate/vitellary
    9,R
    5,R,J
   11,L,X
-   5
+  25
+   7,L
+   2
+   2,L,J,G
+  17,L,D,X
+  33,R
+  30,R,U,Z
+   5,R,J
    5,R
-  11,L,D,X
-  46,R
-  56,R,U,X
-  15,R,C
-   2,R,J,G
-  11,R
+  10,R,J
+  28,R
+   2,R,D
    1,R,J
   14,R
+   1,R,J
+  22,R
   40
 
 #lvl_06
 #13x, 6 extra
+   1,R
    1,R,J
-   7,R
-  10,L,D,X
+   5,L,D,X
    3,R,J
    6,R
    3,R,J
@@ -224,8 +260,7 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   27,R
   21,L
   15,U,X
-  45,L
-  53,L
+  98,L
    1
   20,R,X
   15,R,C
@@ -271,7 +306,7 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   40
 
 #lvl_08
-#18x, 4 extra
+#16x, 2 extra
    4,R
    1,R,J
   14,R
@@ -314,33 +349,77 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   10,R
    4
    1,R
-  39,R,J
-  30,R,U,X
-   5,R,J,G
-   9,R
-   8,R,J
-   4,R,K
-   6,R
-  38,R,J
-   3,R,D
-  19,R,U,X
-  33,R,J,G
-  14,R,U,X
-   5,R,J,G
-  17,R
-  33,R,J
-   1,K
-  25,R,K
-   1,J
+   1,R,J
+  19,R
+   2,R,D
+   1,G
+   1,R,J,G
+   3,R,K,G
+   5,R
+   2,R,K
+  10,R
+##
+#  14,R,J
+#   9
+#   4,L
+#   3,R
+#   2,R,D
+#   1,D
+#   1,R,D
+#   1,D
+#   1,R,D
+#   1,D
+#   1,R,D
+#   1,D
+#   1,R,D
+#   3,R
+#   1,J
+#   7,R,J
+#   1,L,J
+#   5,L
+# 100,L,J
+##
+   4,R,J
+  40,R
   10,R,J
-  18,R
+   3,J
+  12,R,Z
+   9,R,J,G
+  30,R
+   2,R,D
+   1,R,J,G
+   3,R,K,G
+  12,R
+   5
+   1,R
+   5,R,J
+   5,R
+   9,R,J
+   9,R
+   1,G
+   3,R,J,G
+   5,R
+   1,R,J
+  10,R
+  15,R,J
+   2,J
+Repeat 3
+   1,K,G
+   3,R,K
+   5,K
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+EndRepeat
+  12,R,K,G
+   7,R
    1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
-  14,R
-   6,R
+  22,R
   40
 
 #lvl_09
@@ -356,6 +435,7 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   12,R,J
   23,R
   43,R,U,X
-  49,R,C
- 999,R,D
-ChapterTime: 1:11.536(4208)
+  21,R,C
+ 135,R
+
+ChapterTime: 1:11.961(4233)
