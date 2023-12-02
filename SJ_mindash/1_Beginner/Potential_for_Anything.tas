@@ -6,7 +6,8 @@ RecordCount: 3694
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
 
-#Start - 2 dashes
+#Start
+#2x
   80
    4,J
    9,R,J
@@ -31,7 +32,8 @@ endrepeat
    1,R,J
 
 
-#lvl_SS2-1 - 1 dash
+#lvl_SS2-1
+#1x
   53
    1,R
    1
@@ -94,7 +96,8 @@ endrepeat
    1,J
 
 
-#lvl_SS2-2 - 0 dashes(0)
+#lvl_SS2-2(0)
+#0x
   40
    1,S
    1,D,J
@@ -122,7 +125,8 @@ endrepeat
    2,R
 
 
-#lvl_SS2-3 - 0 dashes(0)
+#lvl_SS2-3(0)
+#0x
   40
   12,R
    1,R,J
@@ -151,7 +155,8 @@ endrepeat
    8,L
 
 
-#lvl_SS2-2 - 0 dashes(1)
+#lvl_SS2-2(1)
+#0x
   40
    6,L
    1,L,J
@@ -182,7 +187,8 @@ endrepeat
   40
 
 
-#lvl_SS2-4 - 1 dash
+#lvl_SS2-4
+#1x
    2,R
  163
    9,R
@@ -244,13 +250,15 @@ endrepeat
   40
 
 
-#lvl_SS2-3 - 0 dashes(1)
+#lvl_SS2-3(1)
+#0x
   74,U
   11,L,U
   40
 
 
-#lvl_SS2-5b - 0 dashes
+#lvl_SS2-5b
+#0x
   10,L,U
 repeat 2
    1,L,J
@@ -280,7 +288,8 @@ endrepeat
   40
 
 
-#lvl_SS2-3 - 0 dashes(2)
+#lvl_SS2-3(2)
+#0x
   55,D
   12,L,D
    7
@@ -298,7 +307,8 @@ endrepeat
    1,R,J
 
 
-#lvl_SS2-7 - 0 dashes
+#lvl_SS2-7
+#0x
   40
   12,R,J
    1,L,K,G
@@ -314,7 +324,8 @@ endrepeat
    6,R,D
 
 
-#lvl_HUB - 0 dashes(0)
+#lvl_HUB(0)
+#0x
    8,R,D
 repeat 8
    1,R,J
@@ -325,7 +336,8 @@ endrepeat
   40
 
 
-#lvl_Lab-0 - 0 dashes(0)
+#lvl_Lab-0(0)
+#0x
    9,R
   19,R,D,J
    1,R,K
@@ -350,7 +362,8 @@ endrepeat
   40
 
 
-#lvl_Lab-1 - 0 dashes(0)
+#lvl_Lab-1(0)
+#0x
    6,R
 repeat 2
    1,R,J
@@ -370,7 +383,8 @@ endrepeat
   11,L
   40
 
-#lvl_Lab-2 - 0 dashes(0)
+#lvl_Lab-2(0)
+#0x
    3,L
    1,L,J
   14,L
@@ -382,7 +396,8 @@ endrepeat
    2,L
   40
 
-#lvl_Lab-3 - 0 dashes(0)
+#lvl_Lab-3(0)
+#0x
   35,L,U
    5,L,J
    5,L
@@ -414,7 +429,8 @@ endrepeat
    3,R
   40
 
-#lvl_Lab-4 - 0 dashes(0)
+#lvl_Lab-4(0)
+#0x
   11,R
    1,R,J
   76,R
@@ -427,7 +443,8 @@ endrepeat
   37,R,D
   40
 
-#lvl_Lab-5 - 0 dashes(0)
+#lvl_Lab-5(0)
+#0x
    6,R,J
    9,R
    1,R,J
@@ -440,11 +457,13 @@ endrepeat
   17,D
   40
 
-#lvl_Lab-6 - 0 dashes(0)
+#lvl_Lab-6(0)
+#0x
   43,D
 
 
-#lvl_Lab-7 - 0 dashes
+#lvl_Lab-7
+#0x
   40
   15,D
   20,R,D
@@ -458,7 +477,8 @@ endrepeat
   12,J,G
 
 
-#lvl_Lab-6 - 0 dashes(1)
+#lvl_Lab-6(1)
+#0x
   40
    1,R,J,G
    3,L,J
@@ -476,7 +496,8 @@ endrepeat
    1,R,J
 
 
-#lvl_Lab-secret - 0 dashes
+#lvl_Lab-secret
+#0x
   40
    4,R,D
    5,R,J
@@ -511,7 +532,8 @@ endrepeat
    1,L
 
 
-#lvl_Lab-6 - 0 dashes(2)
+#lvl_Lab-6(2)
+#0x
   40
    3,L
 repeat 5
@@ -526,7 +548,8 @@ endrepeat
    9,U
    8,L,U
 
-#lvl_Lab-5 - 0 dashes(1)
+#lvl_Lab-5(1)
+#0x
   40
    2,U
    6,L,U
@@ -543,7 +566,8 @@ endrepeat
    5,L
 
 
-#lvl_Lab-4 - 0 dashes(1)
+#lvl_Lab-4(1)
+#0x
   40
    9,L
    1,L,J
@@ -562,7 +586,8 @@ endrepeat
    7,L
 
 
-#lvl_Lab-3 - 0 dashes(1)
+#lvl_Lab-3(1)
+#0x
   40
    7,L
 repeat 3
@@ -597,7 +622,8 @@ endrepeat
    9,R,D
 
 
-#lvl_Lab-2 - 0 dashes(1)
+#lvl_Lab-2(1)
+#0x
   40
   24,R,D
   37,R,U
@@ -612,7 +638,8 @@ endrepeat
   11,R
 
 
-#lvl_Lab-1 - 0 dashes(1)
+#lvl_Lab-1(1)
+#0x
   40
    3,R
 repeat 3
@@ -639,7 +666,8 @@ repeat 4
 endrepeat
 
 
-#lvl_Lab-0 - 0 dashes(1)
+#lvl_Lab-0(1)
+#0x
   40
 repeat 2
    1,L,J
@@ -669,7 +697,8 @@ endrepeat
   13,L
 
 
-#lvl_HUB - 0 dashes(1)
+#lvl_HUB(1)
+#0x
   40
  256
   36,O
@@ -683,7 +712,8 @@ endrepeat
   40
 
 
-#lvl_WZ-0 - 0 dashes
+#lvl_WZ-0
+#0x
    4,L
    1,L,J
   22,L
@@ -713,7 +743,8 @@ endrepeat
   23,R,D
 
 
-#lvl_WZ-1 - 0 dashes
+#lvl_WZ-1
+#0x
    5,R,D
 repeat 13
    1,D
@@ -748,7 +779,8 @@ endrepeat
    7,R
 
 
-#lvl_WZ-2 - 0 dashes
+#lvl_WZ-2
+#0x
    2,R
    1,R,J
   16,R
@@ -869,7 +901,8 @@ endrepeat
   17,R,U
 
 
-#lvl_WZ-3a - 0 dashes
+#lvl_WZ-3a
+#0x
    6,R,U
   17,L,U
    2
@@ -919,7 +952,8 @@ endrepeat
   10,L,D
 
 
-#lvl_WZ-4 - 0 dashes
+#lvl_WZ-4
+#0x
    5,L,D
    1,L,J
   13,L,D
@@ -944,7 +978,8 @@ endrepeat
   13,R
 
 
-#lvl_WZ-5a - 0 dashes
+#lvl_WZ-5a
+#0x
   39,L,U
    6,U
    1,L,U
@@ -969,7 +1004,8 @@ endrepeat
    3,R
   40
 
-#lvl_WZ-Tele - 0 dashes
+#lvl_WZ-Tele
+#0x
   11,R
    1,R,J
   22,R,D
@@ -982,7 +1018,8 @@ endrepeat
    7,R,D
 
 
-#lvl_HUB - 0 dashes(2)
+#lvl_HUB(2)
+#0x
   16,R,D
    1,R,J
   14,R
@@ -1067,7 +1104,8 @@ endrepeat
   40
 
 
-#lvl_FinalChallenge - 0 dashes
+#lvl_FinalChallenge
+#0x
    4,L
    1
    1,L,U
@@ -1234,7 +1272,8 @@ EndRepeat
   16,U
   40
 
-#lvl_ESCAPE - 0 dashes
+#lvl_ESCAPE
+#0x
 repeat 91
    1,L,U
    1,R,U
@@ -1242,14 +1281,16 @@ endrepeat
   40
 
 
-#lvl_HEART - 1 dash
+#lvl_HEART
+#1x
 repeat 12
    1,R,U
    1,L,U
 endrepeat
 #dash
    4,U,X
+ 135
 
 ChapterTime: 3:10.179(11187)
-#11146
+#11187
 #9 -> 5 dashes
