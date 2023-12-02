@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2232
+RecordCount: 1676
 
 console load StrawberryJam2021/3-Advanced/Nic
    1
@@ -559,8 +559,7 @@ console load StrawberryJam2021/3-Advanced/Nic
   35,R
    1,R,J
   65,R,D
-  20,R,J
-  39,R,J
+  59,R,J
   32,R
    2
    1,R,K,G
@@ -678,7 +677,7 @@ console load StrawberryJam2021/3-Advanced/Nic
   40
 
 #lvl_06-b
-#1x
+#2x
    7,R
    1,R,J
   24,R
@@ -855,7 +854,7 @@ EndRepeat
   40
 
 #lvl_08-a
-#0x
+#1x
 Repeat 4
    2,J
    2,K
