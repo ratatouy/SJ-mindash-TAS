@@ -1,12 +1,13 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1440
+RecordCount: 1442
 
 console load StrawberryJam2021/1-Beginner/Ceph
    1
 
 #Start
+#0x
   94
    1,R,J
   21,R,D
@@ -30,6 +31,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   40
 
 #lvl_2
+#0x
   16,L,J
    1,K,G
    1,R,K
@@ -69,6 +71,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   40
 
 #lvl_3(0)
+#1x
    6,L
   10,L,J,G
    4,L,K,G
@@ -89,12 +92,14 @@ console load StrawberryJam2021/1-Beginner/Ceph
   27,D
    9,R,D
   25,L,J
+#dash
   15,L,X
   16,L,D
    8,R,D
   40
 
 #lvl_4
+#0x
   49,R
    1,R,J
    1,R,K
@@ -150,6 +155,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   40
 
 #lvl_5
+#0x
    1,S
    1,D,J
    1
@@ -162,6 +168,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   40
 
 #lvl_3(1)
+#1x
    5,R
    6,R,J
   14,R
@@ -169,6 +176,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   11,R
    5
   10,R,J
+#dash
   13,R,X
    1,R,J,G
   30,R,K,G
@@ -208,6 +216,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   40
 
 #lvl_6
+#0x
   11,R
    1,R,J
   28,R
@@ -253,6 +262,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   40
 
 #lvl_7(0)
+#0x
    1,R,D
    1,R,J
   17,R
@@ -278,6 +288,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   40
 
 #lvl_8
+#0x
    7,R
    1,R,J
   14,R
@@ -340,13 +351,13 @@ console load StrawberryJam2021/1-Beginner/Ceph
   40
 
 #lvl_7(1)
+#0x
   17,R,K
   20,L,U,G
   20,L,G
    5,L,J
    5,L
   10
-###
    7,R,J
   30,R,U,G
   32,R,G
@@ -358,11 +369,13 @@ console load StrawberryJam2021/1-Beginner/Ceph
   40
 
 #lvl_9
+#0x
    1,R,K
   12,L,K
   40
 
 #lvl_7(2)
+#0x
    1,S
    1,D,J
    1
@@ -409,6 +422,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   40
 
 #lvl_10
+#1x
   32,D
   27,R
   31,R,U
@@ -466,6 +480,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   13,L,J,G
   11,R,K
   17,R
+#dash
   13,R,U,X
    1,L,J,G
   40,R,J
@@ -474,6 +489,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   40
 
 #lvl_11c
+#2x
    6,R
    1,R,J
   14,R
@@ -503,6 +519,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
    5,U,G
   30,J
   10,K
+#dash
   11,U,X
   40,L
    9,L,J
@@ -563,6 +580,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   11,L
   13,R
    7
+#dash
   13,U,X
   36,R,J
    7,R,K,G
@@ -587,6 +605,7 @@ console load StrawberryJam2021/1-Beginner/Ceph
   40
 
 #lvl_12
+#1x
    3,R
    1,R,J
   14,R
@@ -607,7 +626,9 @@ console load StrawberryJam2021/1-Beginner/Ceph
    1,R,J
    3,R,K
   10,R,J,G
-  15,R,X
-9999
+#dash
+   5,R,X
+ 135
 
 ChapterTime: 2:14.793(7929)
+#6 dashes
