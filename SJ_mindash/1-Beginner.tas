@@ -3,117 +3,121 @@ console clrsav
 console load StrawberryJam2021/0-Lobbies/1-Beginner
    1
 
-Read,1_Beginner_Lobby/0-Loopy_Lagoon
-Read,Enter_Level
+Read,1_Beginner_Lobby/0-Loopy_Lagoon,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Loopy_Lagoon
-Read,Exit_Level
-Read,1_Beginner_Lobby/1-Loopy_Lagoon-Forest_Path
-Read,Enter_Level
+Read,1_Beginner/Loopy_Lagoon,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/1-Loopy_Lagoon-Forest_Path,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Forest_Path
-Read,Exit_Level
-Read,1_Beginner_Lobby/2-Forest_Path-Azure_Caverns
-Read,Enter_Level
+Read,1_Beginner/Forest_Path,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/2-Forest_Path-Azure_Caverns,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Azure_Caverns
-Read,Exit_Level
-Read,1_Beginner_Lobby/3-Azure-Caverns-If_my_driveway
-Read,Enter_Level
+Read,1_Beginner/Azure_Caverns,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/3-Azure-Caverns-If_my_driveway,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/if_my_driveway
-Read,Exit_Level
-Read,1_Beginner_Lobby/4-if_my_driveway-Treehive
-Read,Enter_Level
+Read,1_Beginner/if_my_driveway,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/4-if_my_driveway-Treehive,Start
+Read,Enter_Level,Start
 
-#Read,1_Beginner/Treehive
-#Read,Exit_Level
-#Read,1_Beginner_Lobby/5-Treehive-Rose_Garden
-#Read,Enter_Level
+Read,1_Beginner/Treehive,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/5-Treehive-Rose_Garden,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Rose_Garden
-Read,Exit_Level
-Read,1_Beginner_Lobby/6-Rose_Garden-Switchtube_Vista
-Read,Enter_Level
+Read,1_Beginner/Rose_Garden,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/6-Rose_Garden-Switchtube_Vista,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Switchtube_Vista
-Read,Exit_Level
-Read,1_Beginner_Lobby/7-Switchtube_Vista-Over_The_City
-Read,Enter_Level
+Read,1_Beginner/Switchtube_Vista,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/7-Switchtube_Vista-Over_The_City,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Over_the_City
-Read,Exit_Level
-Read,1_Beginner_Lobby/8-Over_The_City-Collapsing_Skyline
-Read,Enter_Level
+Read,1_Beginner/Over_the_City,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/8-Over_The_City-Collapsing_Skyline,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Collapsing_Skyline
-Read,Exit_Level
-Read,1_Beginner_Lobby/9-Collapsing_Skyline-A_Gift_From_the_Stars
-Read,Enter_Level
+Read,1_Beginner/Collapsing_Skyline,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/9-Collapsing_Skyline-A_Gift_From_the_Stars,Start
+Read,Enter_Level,Start
 
-#Read,1_Beginner/A_Gift_From_the_Stars
-#Read,Exit_Level
-#Read,1_Beginner_Lobby/10-A_Gift_From_the_Stars-Troposphere
-#Read,Enter_Level
+Read,1_Beginner/A_Gift_From_the_Stars,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/10-A_Gift_From_the_Stars-Troposphere,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Troposphere
-Read,Exit_Level
-Read,1_Beginner_Lobby/11-Troposphere-Potential_for_Anything
-Read,Enter_Level
+Read,1_Beginner/Troposphere,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/11-Troposphere-Potential_for_Anything,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Potential_for_Anything
-Read,Exit_Level
-Read,1_Beginner_Lobby/12-Potential_for_Anything-The_Squeeze
-Read,Enter_Level
+Read,1_Beginner/Potential_for_Anything,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/12-Potential_for_Anything-The_Squeeze,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/The_Squeeze
-Read,Exit_Level
-Read,1_Beginner_Lobby/13-The_Squeeze-Strawberry_Orchard
-Read,Enter_Level
+Read,1_Beginner/The_Squeeze,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/13-The_Squeeze-Strawberry_Orchard,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Strawberry_Orchard
-Read,Exit_Level
-Read,1_Beginner_Lobby/14-Strawberry_Orchard-Paint
-Read,Enter_Level
+Read,1_Beginner/Strawberry_Orchard,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/14-Strawberry_Orchard-Paint,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Paint
-Read,Exit_Level
-Read,1_Beginner_Lobby/15-Paint-Coresaken_City
-Read,Enter_Level
+Read,1_Beginner/Paint,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/15-Paint-Coresaken_City,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Coresaken_City
-Read,Exit_Level
-Read,1_Beginner_Lobby/16-Coresaken_City-Dropzle
-Read,Enter_Level
+Read,1_Beginner/Coresaken_City,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/16-Coresaken_City-Dropzle,Start
+Read,Enter_Level,Start
 
-#Read,1_Beginner/Dropzle
-#Read,Exit_Level
-Read,1_Beginner_Lobby/17-Dropzle-Soap
-Read,Enter_Level
+Read,1_Beginner/Dropzle,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/17-Dropzle-Soap,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Soap
-Read,Exit_Level
-Read,1_Beginner_Lobby/18-Soap-Seeing_is_Believing
-Read,Enter_Level
+Read,1_Beginner/Soap,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/18-Soap-Seeing_is_Believing,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Seeing_is_Believing
-Read,Exit_Level
-Read,1_Beginner_Lobby/19-Seeing_is_Believing-Cassette_Cliffs
-Read,Enter_Level
+Read,1_Beginner/Seeing_is_Believing,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/19-Seeing_is_Believing-Cassette_Cliffs,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Cassette_Cliffs
-Read,Exit_Level
-Read,1_Beginner_Lobby/20-Cassette_Cliffs-Midnight_Spire
-Read,Enter_Level
+Read,1_Beginner/Cassette_Cliffs,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/20-Cassette_Cliffs-Midnight_Spire,Start
+Read,Enter_Level,Start
 
-Read,1_Beginner/Midnight_Spire
-Read,Exit_Level
-Read,1_Beginner_Lobby/21-Midnight_Spire-Bench
-Read,1_Beginner_Lobby/22-Bench
-Read,1_Beginner_Lobby/23-Bench-Heartside
-Read,Enter_Level
+Read,1_Beginner/Midnight_Spire,Start
+Read,Exit_Level,Start
+Read,1_Beginner_Lobby/21-Midnight_Spire-Bench,Start
+Read,1_Beginner_Lobby/22-Bench,Start
+Read,1_Beginner_Lobby/23-Bench-Heartside,Start
+Read,Enter_Heartside,Start
 
-Read,1_Beginner/Blueberry_Bay
+Read,1_Beginner/Blueberry_Bay,Start
 
-FileTime: 4:58.979(17587)
+#to end on the lobby complete screen : uncomment both lines
+#Read,Load_Lobby_from_Heartside,Start,6
+#  40
+
+FileTime: 45:40.944(161232)
 #4:58.979(17587)
