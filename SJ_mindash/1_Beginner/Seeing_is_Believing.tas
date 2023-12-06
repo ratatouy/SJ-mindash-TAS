@@ -6,7 +6,8 @@ RecordCount: 685
 console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1
 
-#Start - 0 dash
+#Start
+#0x
   88
    5,R
    1,R,J
@@ -31,7 +32,8 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
    2,R
 
 
-#lvl_a_02 - 0 dash
+#lvl_a_02
+#0x
   40
   12,R
    1,R,J
@@ -71,7 +73,8 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
    6,R
 
 
-#lvl_a_03 - 0 dash
+#lvl_a_03
+#0x
   40
    8,R
    2,R,J
@@ -97,7 +100,8 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
    6,R
 
 
-#lvl_a_04 - 0 dash
+#lvl_a_04
+#0x
   40
   18,R
    1
@@ -147,7 +151,8 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
   12,R
 
 
-#lvl_a_05 - 0 dash
+#lvl_a_05
+#0x
   40
    2,R
    1,R,J
@@ -193,7 +198,8 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1,R
 
 
-#lvl_a_06 - 2 dashes
+#lvl_a_06
+#2x
   40
   15,R
    5
@@ -264,7 +270,8 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
    9,R
 
 
-#lvl_a_07 - 0 dash
+#lvl_a_07
+#0x
   40
   15,R
    2
@@ -306,7 +313,8 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
    2,R
 
 
-#lvl_a_08 - 0 dash
+#lvl_a_08
+#0x
   40
   12,R
    1,R,J
@@ -376,7 +384,8 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
    8,R
 
 
-#lvl_a_09 - 1 dash
+#lvl_a_09
+#1x
   40
    6,R
    1,R,J
@@ -391,6 +400,5 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
 
 
 ChapterTime: 0:49.793(2929)
-#total dashes : 3
-
-
+#2929
+#3 dashes
