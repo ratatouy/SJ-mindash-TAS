@@ -6,7 +6,8 @@ RecordCount: 838
 console load StrawberryJam2021/1-Beginner/Eclipse
    1
 
-# a_01 - 8 dashes
+# a_01
+#8x
  190
    5,R
    7,R,J
@@ -62,7 +63,8 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   85
   40
 
-# a_02 - 6 dashes
+# a_02
+#6x
   69
    5,R
   13,R,J
@@ -110,7 +112,8 @@ console load StrawberryJam2021/1-Beginner/Eclipse
  116
   40
 
-# a_03 - 11 dashes
+# a_03
+#11x
   72
   14,R
   29,R,J
@@ -192,7 +195,8 @@ console load StrawberryJam2021/1-Beginner/Eclipse
  205
   40
 
-# b_01 - 4 dashes
+# b_01
+#4x
   69
    5,R,J
 #dash
@@ -221,7 +225,8 @@ console load StrawberryJam2021/1-Beginner/Eclipse
    4,R
   40
 
-# b_02 - 9 dashes
+# b_02
+#9x
   19,R,D
    1,R,J
   14,R
@@ -291,7 +296,8 @@ console load StrawberryJam2021/1-Beginner/Eclipse
    4,R,J
   40
 
-# b_03 - 3 dashes
+# b_03
+#3x
    2,R,J
    2,R
    1,R,K
@@ -314,7 +320,8 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   17,R,Z
   40
 
-# b_04 - 11 dashes
+# b_04
+#11x
   34,R,D
    1,R,J
   10,R
@@ -386,7 +393,8 @@ console load StrawberryJam2021/1-Beginner/Eclipse
  249
   40
 
-# b_05 - 15 dashes
+# b_05
+#15x
   74
   13,R,J
   12,R,K,G
@@ -468,7 +476,8 @@ console load StrawberryJam2021/1-Beginner/Eclipse
  118
   40
 
-# c_01 - 5 dashes
+# c_01
+#5x
   65
    7,L,J
 #dash
@@ -496,7 +505,8 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   30,R,D
   40
 
-# c_02 - 9 dashes
+# c_02
+#9x
    1,R,D
    1,R,J
   18,R
@@ -569,7 +579,8 @@ console load StrawberryJam2021/1-Beginner/Eclipse
  125
   40
 
-# c_03_end - 2 dashes
+# c_03_end
+#2x
   72
 #dash
  146,U,X
