@@ -14,10 +14,12 @@ UNSAFE (it can delete files if not careful)
 
 Read,Start
 
-Read,Prologue
+Read,Prologue,Start
 
-Read,Load_Beginner_Lobby
+Read,Load_Beginner_Lobby,Start
 
 Read,1-Beginner
 
-FileTime: 4:26.968(15704)
+Read,Load_Lobby_from_Heartside,Start
+
+FileTime: 46:17.154(163362)
