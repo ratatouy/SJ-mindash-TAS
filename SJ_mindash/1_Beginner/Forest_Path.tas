@@ -1,7 +1,8 @@
 console load StrawberryJam2021/1-Beginner/asteriskblue
    1
 
-#Start - 1 dash
+#Start
+#1x
   76
    5,R
    1,R,J
@@ -26,7 +27,8 @@ console load StrawberryJam2021/1-Beginner/asteriskblue
    5,R
 
 
-#lvl_a-02 - 1 dash
+#lvl_a-02
+#1x
   40
    9,R
    1,R,J
@@ -62,7 +64,8 @@ console load StrawberryJam2021/1-Beginner/asteriskblue
    9,R
 
 
-#lvl_a-03 - 1 dash
+#lvl_a-03
+#1x
   40
    4,R
   15,R,J
@@ -94,7 +97,8 @@ console load StrawberryJam2021/1-Beginner/asteriskblue
    1,R,J
 
 
-#lvl_a-04 - 3 dashes
+#lvl_a-04
+#3x
   40
   12,R
   10,R,J
@@ -128,7 +132,8 @@ console load StrawberryJam2021/1-Beginner/asteriskblue
   10,R,D,X
 
 
-#lvl_a-05 - 1 dash
+#lvl_a-05
+#1x
   40
    5,R,D,X
   33,R,J
@@ -139,7 +144,8 @@ console load StrawberryJam2021/1-Beginner/asteriskblue
    1,R
 
 
-#lvl_a-06 - 1 dash
+#lvl_a-06
+#1x
   40
   11,R
 #dash
@@ -150,7 +156,8 @@ console load StrawberryJam2021/1-Beginner/asteriskblue
    1,R,J
 
 
-#lvl_a-07 - 6 dashes
+#lvl_a-07
+#6x
   54,R
    1,R,J
   14,R
@@ -198,7 +205,8 @@ endrepeat
    9,R
 
 
-#lvl_a-08 - 1 dash
+#lvl_a-08
+#1x
   40
    6,R
    3,R,J
@@ -213,7 +221,8 @@ endrepeat
   16,R,D
 
 
-#lvl_a-09 - 1 dash
+#lvl_a-09
+#1x
   40
    4,R,D
   29,R
@@ -228,7 +237,8 @@ endrepeat
    7,R,D
 
 
-#lvl_a-10 - 1 dash
+#lvl_a-10
+#1x
   40
   21,R,D
    7,R,J
@@ -248,7 +258,8 @@ endrepeat
    7,R
 
 
-#lvl_a-11 - 2 dashes
+#lvl_a-11
+#2x
   40
    2,R
    2,R,J
@@ -272,7 +283,8 @@ endrepeat
    3,R
 
 
-#lvl_a-12 - 1 dash
+#lvl_a-12
+#1x
   40
   14,R
    4,R,D
@@ -301,7 +313,8 @@ endrepeat
    2,R
 
 
-#lvl_a-13 - no dash
+#lvl_a-13
+#0x
   40
   14,R
    2
@@ -347,7 +360,8 @@ endrepeat
    7,R
 
 
-#lvl_a-14 - 1 dash
+#lvl_a-14
+#1x
   40
    7,R
    2,R,J
@@ -396,7 +410,8 @@ endrepeat
    2,R
 
 
-#lvl_a-15 - 2 dashes
+#lvl_a-15
+#2x
   40
   12,R
    6,R,J
@@ -418,7 +433,8 @@ endrepeat
    4,R,K
 
 
-#lvl_a-17 - no dashes
+#lvl_a-17
+#0x
   40
    8,R,K
    1
@@ -430,7 +446,8 @@ endrepeat
    9,R
 
 
-#lvl_a-18 - 1 dash
+#lvl_a-18
+#1x
   40
    1,R
   21,R,J
@@ -466,7 +483,8 @@ endrepeat
   13,R
 
 
-#lvl_a-19 - 4 dashes
+#lvl_a-19
+#4x
   40
    1,R
    1,R,J
@@ -517,7 +535,8 @@ endrepeat
   10,R
 
 
-#lvl_20 - 1 dash
+#lvl_20
+#1x
   40
    4,R
    1,R,J
