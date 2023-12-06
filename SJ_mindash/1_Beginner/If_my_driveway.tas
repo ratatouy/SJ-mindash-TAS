@@ -6,7 +6,8 @@ RecordCount: 2383
 console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1
 
-#Start - 0 dashes
+#Start
+#0x
    5,L
    2
    3,L
@@ -37,7 +38,8 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    3,L
 
 
-#lvl_01- Crusher - 1 dash
+#lvl_01- Crusher
+#1x
   40
   11,L
    1,L,J
@@ -68,7 +70,8 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
   12,L
 
 
-#lvl_02- Bait N' Switch - 0 dash
+#lvl_02- Bait N' Switch
+#0x
   40
    2,L
    1,L,J
@@ -93,7 +96,8 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
 
 
 
-#lvl_03- Uberjump - 2 dashes
+#lvl_03- Uberjump
+#2x
   40
    6,R
    1,L
@@ -129,7 +133,8 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    8,L
 
 
-#lvl_04- Head Trauma - 0 dashes
+#lvl_04- Head Trauma
+#0x
   40
    3,L,J
    4,L
@@ -160,7 +165,8 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
 
 
 
-#lvl_05- Boing - 1 dash
+#lvl_05- Boing
+#1x
   40
   17,R
    1,L
@@ -209,7 +215,8 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    2,L,J,G
    9,L
 
-#lvl_06- Bubbles - 3 dashes
+#lvl_06- Bubbles
+#3x
   40
    2,L
    1,L,J
@@ -248,7 +255,8 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    6,L,J
 
 
-#lvl_07- Falling Cannon - 3 dashes
+#lvl_07- Falling Cannon
+#3x
   40
    2,L,J
   16,L
@@ -298,7 +306,8 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1,L
 
 
-#lvl_08- U Turn - 2 dashes
+#lvl_08- U Turn
+#2x
   40
   13,L
    4,J
@@ -383,7 +392,8 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    5,J
 
 
-#lvl_09- Fin - 1 dash
+#lvl_09- Fin
+#1x
   40
    1
    9,L
