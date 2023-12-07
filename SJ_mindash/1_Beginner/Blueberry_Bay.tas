@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 7830
+RecordCount: 7909
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -12,6 +12,7 @@ console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
  190
 
 #lvl_cp1_heartside_intro (0x)
+
   93,U
    7,L,U
 Repeat 3
@@ -92,17 +93,16 @@ EndRepeat
    1,K
    9,R,J
    8,R
-  20,L
-  29,R
-  66,R,J
-  12,R,K,G
-  10,R,J,G
-   2,R
-   4,R,K,G
+  32,L
+   6,R
+   1,R,K
+   6,R
+   1,R,J,G
    7,R
-  12,R,J
-  12,R,K,G
-   5,R,J,G
+  28,R,J,G
+  12,K,G
+  11,R,J,G
+   1,K,G
   40
 
 #lvl_cp1_20_heartside_hyperlife (2x)
@@ -121,58 +121,82 @@ EndRepeat
   14,R
    1,R,K
   14,R
-  12,R,K
+  11,R,K
+   6,R
+  13,L,X
+   1,R,J
+  16,R,K,G
+   3,R,J,G
+   4,J
+  27,R,J
+  11,K,G
+   1,L,K
+  14,R,J,G
+   1,K
+   6,L,K
+   1,L
+   1,J,G
+   5,L
+   1
+   2,R,D
+   3,R,K
+   3,R
+   1,R,J,G
+   1,K,G
+   1,L
+   1,R
+   2,J,G
+  22,L,J
+  12,R,K,G
+   7,J,G
+   1,L,J
+  14,R,K,G
+   1,R,J,G
   12,R
-  14,L,X
-  15,R,K
-  11,R,J,G
-  82,R,D
-   7,L
-   9,L,K
-  11,L
-  12,R,J,G
-  12,R,K,G
-  10,R,J,G
-   9,R
-   1,R,J
-  14,R
   12,R,K
-   4,J,G
+   1
+   2,J,G
+   2
   15,R,Z
-   6,L,D
-  10,D
+   5,L,D
+  11,D
   12,R,K,G
   12,R,J,G
-  12,R,K,G
+  11,R,K,G
    1,J
-   7,R
+   1,R
+   6,L,J
+   9,K
+   6,L,K
+  11,J,G
    1,R,J
-   9,R,J
-   3,J
-  12,R,K,G
-  12,R,J,G
-  12,R,K,G
-   8,R,J,G
-   9,R
-   2,R,J
-   9,R
-Repeat 3
+  14,L,K,G
+   4,J,G
    1,R,J
-  14,R
-EndRepeat
-   4,R
-   1,R,J
-  14,R
-   1,R,J
+   1,L,J
+   8,K,G
+   6,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+   1,R,K
+   1,R,J,G
+   1,R,K,G
+  11,R
+   1,R,K
   18,R
-   1,R,J
-   9,R
+   1,R,K
+  14,R
+   1,R,K
+  18,R
+   1,R,K
+   3,R
   40
 
 #lvl_cp1_19-heartside_cellularAutomaton (4x)
-   5,R
+  11,R
    1,R,J
-  33,R
+  26,R
   18,R,J
    1,R
   16,R,J
@@ -305,74 +329,82 @@ EndRepeat
 
 #lvl_cp2_checkpoint (0x)
   26,R
-   7,R,J
-  17,R
+   1,R,K
+  16,R
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   5,R,K,G
+   7,R,J,G
    1,R,K,G
-   5,R,J,G
-  12,R,K,G
-   8,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   8,R,D
-   8,D
-   8,R,D
+   3,L,K
    1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  21,R,K,G
-   4,K
-   3,R,J,G
-   9,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   5,R,J
-   8,R
-  14,J
-   4,R,K,G
-   1,J
-  15,R,K,G
-   1,K
    1,R,J,G
-   1,R,K,G
-  13,R
-   1,R,J
-  15,R
+   7,R
    1,R,K
-   6,R,J
+  14,R
+   1,R,K
+  23,R
+  12,R,D
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J,G
+  20,R,K,G
+   3,R,J,G
+   8,R
+   1,R,K
+  14,R
+   1,R,K
+  14,R
+   1,R,K
+  14,R
+   8,K
+   6,J,G
+   6,L,J
+   2,R,J
   12,R,K,G
    2,R,J,G
-   9,R
-   1,R,J
+   4,L,J
+   3,R,J
+   1,R,K,G
   14,R
-   1,R,J
-  18,R,D
-   1,R,J
-   5,R
+   1,R,K
+  14,R
+   6,R,K
+   8,R
+   6,J,G
+   3,R,J
+   1,J
+   1,R,K,G
+   1,R,J,G
+  10,R
+   1,R,K
+  18,R
+   1,R,K
+  14,R
   40
 
 #lvl_cp2-17-heartside_NotYourBadeline (3x)
-   9,R
+   1,R,K
+  14,R
    4,R,J
-  13,R
+  12,R
    5,R,J
-   5,R
    1
-   9,R,Z
+   7,R,Z
    1,R,J
-   8,R
-  17,R,K
+   8
+  19,R,K
   12,R,J,G
   12,R,K,G
   12,R,J,G
   12,R,K,G
    6,J
-  11,L
+  12,L
   10,L,Z
   31,L,K
    1,L,J
@@ -445,44 +477,42 @@ EndRepeat
   28,D
   66
   38,D,J
-  72,R,G
+  64,R,G
+   6,D,G
    1,R,J,G
    1,R,K,G
-  15,R,J,G
-  24,R,D
-   2,R,G
-  10,R,J,G
-   6,L,J
-   5,L,K
-   5,J
-   5
-   1,L
-  23
-  21,J,G
-  14
-  36,L,J,G
-  12,L,K,G
-  11,L,G
-   1,L,J,G
-  28,L,D
-  10,D
-  19,L
-  10,L,J,G
-   1,K,G
-   1,R,K
-   1,L,K
+   1,R,J,G
+   1,R,K,G
+   5,R
+   2
+  10,R,K
+  15,R
+  11,L,K
+   1,L,J
+  31,L,K
+   2
+  32,L,J,G
+  17,U,G
+   6,K
+   5,L
+   3,D
+   3,R,D
+  24,L,D
+   1,G
+  40,R,K
+  36,U,G
+   1
+   1,K
+  30,L,D
+   2,D,K
    1,J,G
-  54,R,J
-  38,R,U,G
-  40,L,J
-   1,K,G
+   1,R,J
+   1,L,J
+   2,K,G
+   9,R,K
+   4,R,J,G
+  26,R
    1,R,K
-   1,L,K
-   1,J,G
-  11,R,J
-   4,R,K,G
-  11,R,D
-   6,R,D,J,G
 
 #lvl_cp2_15_heartside_frozenflygone_a (0x)
    1,R,J
@@ -544,58 +574,65 @@ EndRepeat
    1,D
    5,L
    2,L,J,G
-  10,L,D
-   8,R,D
-   2
-   2,R,D
+  22,L,D
 
 #lvl_cp2_15_heartside_frozenflygone_d (0x)
-   8,R
-  11,R,K
-   8,R
-  11,L
-  15,L,J
-   1,K
-   3,R,K
-   6,K
-   1,J
-   6,K
-   6,R,K
+   6,L,D
+   1,L,D,K
    1,J,G
-   1,L,J
    1,R,J
-   1,K,G
-  29,L,K
    1,L,J
-  18,D
-   3,L,U
-  15,U
-  69,L,G
-   1,R,J
-  15,R
-  11,J
-   8,L,G
-   5,R,P
-   3,J
-   6,R,J
-   7,R,K
-   9,R
+   2,K,G
+  19,R,K
    5,L
-Repeat 15
+   1,K
+   8,R,K
+   5,L,J,G
+   6,J
+   5,L,J
+  11,L,K,G
+   7,L
+   1,K
+   6,D
+   2,L,D
+  10,D
+  17,U
+   9,L,U
+   1,U
+   4,L
+   2,L,U
+   2,L,K
+   2,L
+   1,J,G
+   1,R,J
+   1,L,J
+   2,K,G
+   9,R,K
    1,R
-   1,L
-EndRepeat
-   8,R
-  23,R,J
-   6,R,K,G
-  15,R
-   8,R,J
-  37,R,D
+  12,R,K
+   1,J
+   4,R,J
+   5,J
+   1,R,K
+  33,R
+  22,R,K
+   1,K
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   2,R,K,G
+   6,R
+  13,R,K
+  35,R,U
    1,R,J
   14,R
    1,R,J
-  42,R
+  14,R
+   1,R,J
+  28,R,D
+   1,R
 
+#1:44.329(6137)
 #lvl_cp3_checkpoint (0x)
   41,R,D
 Repeat 3
@@ -1971,13 +2008,15 @@ EndRepeat
    1,R,K
   14,R
   19,R,D,J
-   3,K
-   5,R,K
-   1,R,J,G
+   1,L,K,G
+   1,L,J,G
+   1,K
+   4,J,G
+   3
+   1,R
    1,R,K,G
-  10,R
-   1,R,J
-  14,R
+   1,R,J,G
+  13,R
    1,R,K
   14,R
    1,R,K
@@ -1985,7 +2024,7 @@ EndRepeat
    1,R,K
   14,R
    1,R,K
-   6,R
+   7,R
   40
 
 #lvl_cp6_02_heartside_Ceph (0x)
@@ -2126,17 +2165,15 @@ EndRepeat
   16,L,K
    4,R,K
   20,R,J,G
-  20,U,G
-  25,G
-   2,K,G
-  10
-   2,J,G
-   2
+  25,U,G
+  36,G
+   1,K,G
+   1
    1,K
-  12,J,G
-   6,L,K
-  20,R
-  22,U,X
+   1,R,J,G
+  16,L,J
+  21,R
+  19,U,X
   41
   18,R
   16,U,X
@@ -2156,7 +2193,7 @@ EndRepeat
   16,R
   15,U,X
   21,L,K,G
-   1,L,G
+   2,L,G
   39,R,J
   41
   17,R,G
@@ -2381,6 +2418,6 @@ EndRepeat
   22,L,K
   20,L,J,G
 
-ChapterTime: 7:40.938(27114)
+ChapterTime: 7:34.767(26751)
 #93 dash
 
