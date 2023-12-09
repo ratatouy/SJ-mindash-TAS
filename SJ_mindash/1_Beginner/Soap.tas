@@ -6,7 +6,8 @@ console load StrawberryJam2021/1-Beginner/Circumplex
 #Start
  104
 
-#lvl_01 (1X)
+#lvl_01
+#1x
    3,R
    1,R,J
   14,R
@@ -25,7 +26,8 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    1,R
   40
 
-#lvl_02 (1X)
+#lvl_02
+#1x
   14,R
    1,R,K
   14,R
@@ -53,7 +55,8 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    7,R
   40
 
-#lvl_03 (0X)
+#lvl_03
+#0x
    7,R
    1,R,K
   14,R
@@ -114,7 +117,8 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    9,R
   40
 
-#lvl_04 (4x)
+#lvl_04
+#4x
    6,R
    1,R,K
   14,R
@@ -178,7 +182,8 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    6,R,J,G
   43
 
-#lvl_05 (3x)
+#lvl_05
+#3x
    3,L
    1,R,J,G
    1,R,K,G
@@ -224,7 +229,8 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    2,R
   40
 
-#lvl_06 (2x)
+#lvl_06
+#2x
   12,R
    1,R,D,J
   14,R
@@ -282,7 +288,8 @@ console load StrawberryJam2021/1-Beginner/Circumplex
   20,D
   40
 
-#lvl_07 (2x)
+#lvl_07
+#2x
    8,L,D
    1,G
    1,L,J,G
@@ -327,7 +334,8 @@ console load StrawberryJam2021/1-Beginner/Circumplex
   13,R,D
   40
 
-#lvl_08 (2x)
+#lvl_08
+#2x
   30,R,D
    6,R,J
   33,R,D
@@ -374,7 +382,8 @@ console load StrawberryJam2021/1-Beginner/Circumplex
   11,L,K,G
   40
 
-#lvl_09 (3x)
+#lvl_09
+#3x
    5,L
    7,L,K,G
   10,U,X
@@ -422,7 +431,8 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    7,R
   40
 
-#lvl_10 (1x)
+#lvl_10
+#1x
    7,R
    1,R,K
   14,R
@@ -459,7 +469,8 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    8,R,K
   40
 
-#lvl_11 (2x)
+#lvl_11
+#2x
   34,R
    1,R,K
   14,R
@@ -540,7 +551,8 @@ console load StrawberryJam2021/1-Beginner/Circumplex
   14,R
   40
 
-#lvl_heart (2x)
+#lvl_heart
+#2x
    4,R
    8,R,D,J
   10,U,X
@@ -551,3 +563,4 @@ console load StrawberryJam2021/1-Beginner/Circumplex
  135,L,U,X
 
 ChapterTime: 1:52.965(6645)
+#23 dashes
