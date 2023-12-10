@@ -1,5 +1,5 @@
 #Intermediate Heartside, 104x
-RecordCount: 8254
+RecordCount: 8319
 console load StrawberryJam2021/2-Intermediate/ZZ-HeartSide
    1
 
@@ -1139,7 +1139,7 @@ EndRepeat
   40
 
 #lvl_cp2-5-bryse0n
-#2x
+#1x
    6,L
    2
    2,L
@@ -1161,13 +1161,23 @@ EndRepeat
   13,D,X
  113,L,D,C
   82,U,X
-   5,L,U,C
-  41,R,G
-  14
-  27,R,U,X
+   2
+  10,J
+   4
+   3
+   2,R
+   2
+   1,R
+   5
+   8,R
+   1
+  28,L,X
+   1,J,G
+  66,G
+  30,R,U,X
    1,R,J,G
   18
-   6,D
+   7,D
   49,R,U,X
   14,R
   13
