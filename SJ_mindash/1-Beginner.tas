@@ -1,5 +1,7 @@
 unsafe
 console clrsav
+Set,CollabUtils2.DisplayEndScreenForAllMaps,False
+
 console load StrawberryJam2021/0-Lobbies/1-Beginner
    1
 
