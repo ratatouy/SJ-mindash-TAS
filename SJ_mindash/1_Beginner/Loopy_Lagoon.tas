@@ -1,5 +1,5 @@
-# Loopy Lagoon 25x
-RecordCount: 7
+# Loopy Lagoon 24x
+RecordCount: 334
 
 console load StrawberryJam2021/1-Beginner/coffe
    1
@@ -84,7 +84,7 @@ console load StrawberryJam2021/1-Beginner/coffe
   40
 
 #lvl_c-03
-#2x
+#1x
   21,L,G
   10,J,G
    7,G
@@ -119,33 +119,46 @@ console load StrawberryJam2021/1-Beginner/coffe
    1,R
   30,R,J
   15,R,X
-  11,R
-  13,L,D,Z
-  15,R,J
-  34,R,D
+  21,L,D
+   3
+   1,D
+   1,J,G
+   3,L,J
+   1,J
+   1,L,J
+   6,L
+   1,R
+   1,L,D
+   1,J
+   2,K,G
+  41,R,K
+  27,R,D,X
+   1,R,J
+  13,R
   40
 
 #lvl_c-04
 #1x
+   5,R
    1,R,J
   14,R
    1,R,J
   14,R
-   6,R,J
-  15,R
+   4,R,J
+  14,R
   14,L,G
-   2
+   2,L,D
    2,L,G
    1,J,G
    1,R,J
    1,L,J
    1,K,G
-   8,R,K
-  27,R
-   1,R,D
-   7,D
+   7,R,K
+  13,R
+   2,R,J
+  14,R,D
+   8,L,D
    3
-   1,D
    1,L
   28,R,J
   23,R,X
@@ -695,6 +708,10 @@ console load StrawberryJam2021/1-Beginner/coffe
   22,R
   40,R,J
    1,G
+
+
+
+
    1
    1,L,J
   42,D
@@ -831,4 +848,4 @@ console load StrawberryJam2021/1-Beginner/coffe
    3,R
  135
 
-ChapterTime: 1:59.459(7027)
+ChapterTime: 2:00.360(7080)
