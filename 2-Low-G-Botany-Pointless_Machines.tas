@@ -7,7 +7,7 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 5096 792
    1
 
 #Start
-#   0,X
+#0x
   36
    1,L
    1,L,J
@@ -64,11 +64,7 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 5096 792
   35,R,D
   23,R,J
   11,R
-   1,X
-  60
 
-
-
-FileTime: 0:09.656(568)
-#
+FileTime: 0:09.656(507)
+#507
 #0 dashes
