@@ -1,5 +1,5 @@
 # Loopy Lagoon 24x
-RecordCount: 334
+RecordCount: 1020
 
 console load StrawberryJam2021/1-Beginner/coffe
    1
@@ -49,75 +49,82 @@ console load StrawberryJam2021/1-Beginner/coffe
    2,R
    1,R,J,G
    1,R,K,G
-  11,R
-   1,R,J
-   8,R
-   2,R,J
-  10,R,D
-   1,R,J,G
-   1,R,K,G
-  11,R
-  10,L
-   8,R
-  27,R,J
-  36,R
-   4,R,D
-   1,R,J,G
-   1,R,K,G
-   3,R
-   2
-  11,R
+  10,R
+   3,R,J
+   5,R
    1,R,J
   14,R
-  59,R,J
-   3,R,G
-   1,R,J,G
-   5
+   1,R,J
+  22,R
+  30,R,J
+  35,R
+   1
    1,R
-   7
-  10,J
+   1,R,J,G
+   1,R,K,G
+  16,R
+   1,R,J
+  12,R
+  59,R,J
+   2,R,G
+   1,J,G
+   5,R
+   4
+  11,J
    2,L,J
   14,U,X
-  13,J
+  13,R,J
   15,U,C
   14,U,X
   40
 
 #lvl_c-03
 #1x
-  21,L,G
-  10,J,G
-   7,G
-   2,J,G
-   1,R,J
-   1,R
-  30,R,K
-  11,R
-   2,L,D
-  12,R,X
-   1,R,J,G
-   1,R,K,G
-   1,J
-   1,R,J
-   2,R
-   1,R,J,G
+  15,L
+   1
+
+   1,L,J,G
+   4,J
+   1
    1,L,K,G
-   9,R
-   2,R,J
+   1,R
+   1,L
+   6,G
+   1,L,J,G
+   1,L
+   6,L,K,G
    5,L
+   3
+   6,R,Z
+   1,R,J
+   1
+   1,L,K,G
+   6,R,K
+  13,R
+   1
+   1,R
+   5,R,J
+   3,R
+   1,R,K,G
+   2,R,J,G
+   4,R
+   4,R,J,G
+   9,R
+   1,R,J
+   7,R
    4,R,J
-  35,R
+  15,R
+   1,R,J
+  17,R
   12,R,J
   17,R,G
-   1,J,G
-   1,L,J
-   1,R,K,G
    1,R,J,G
-  10,R,K,G
-   8,R
-  11,R,J
-   1,R
-  30,R,J
+   2,L,J
+   2,J
+   1,R,K,G
+   4,R,J,G
+   7,R
+  46,R,J
   15,R,X
   21,L,D
    3
@@ -146,38 +153,41 @@ console load StrawberryJam2021/1-Beginner/coffe
   14,R
    4,R,J
   14,R
-  14,L,G
-   2,L,D
-   2,L,G
-   1,J,G
+   9,L,G
+   2,J,G
+   2,L
+   2
+   2,L,J
+   2,J
+   1,R
+   7,R,J
+  18,R
    1,R,J
-   1,L,J
-   1,K,G
-   7,R,K
-  13,R
-   2,R,J
-  14,R,D
-   8,L,D
+   8,R,D
+   7,L,D
+   2,L
    3
-   1,L
   28,R,J
   23,R,X
   16,R,Z
   15,D,X
-  22,R
+  18,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
    7,R,D
    1,R,J
-  37,R
-   1,R,J
-  20,J
-   1,L,K,G
-   5,K
-   1,R,K
-   1,R,J
-  47,R,K
-   7,R
+  31,R
+   8,R,J
+  10,J
+   3,L,J
+   7,K,G
+   1,J
+   2,K,G
+  50,R,K
    2
-   2,R
+   4,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -193,12 +203,12 @@ console load StrawberryJam2021/1-Beginner/coffe
   13,R
    7,R,J
    8,R
-  10
-   2,R
-   5,L,Z
+   9
+   1,L
+   5,L,D,X
    1,R,J
-   8,R
-   7,R,J
+   3,R
+  11,R,J
   16,R
   15,R,U,X
   20,D
@@ -213,33 +223,41 @@ console load StrawberryJam2021/1-Beginner/coffe
    1,R,J
    1,K,G
   33,R,K
-   7,L,D,G
-   1,L,G
-   1,R,D
-  10,L,G
-   1,J,G
-   1,R,J
-   1,L,J
-   1,K,G
-  38,R,K,G
-   1,R,J,G
-   3,L,J
-   5,R,J
+  19,L,G
    1
-   7,R
-   2,R,J
-   2,R,K
-  28,R
+   1,J
+   2,K,G
+  37,R,K,G
+   1,R,J,G
+   1,L,J
+   3,R,J
+   2,R,K,G
+   3,K
+   1,R,K
+   2,R
+   1
+   4,R
+   4,R,J
+  25,R
   15,R,X
   15,R,C
   20,D
    1,J
-   9
+   3
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,J
    5,R
    1,R,J
-  39,R,D
+  34,R,D
    1,D
    1,R,D
+   2,D
+   2,R,D
    2,R
    1,R,J
    1,R,K,G
@@ -275,122 +293,131 @@ console load StrawberryJam2021/1-Beginner/coffe
    1,R,K,G
    1,R,J,G
   11,R
-   1,R,J
-   4,R
+   5,R,J
   40
 
 #lvl_c-07
 #3x
-   6,R
-   5,L
-   1,R,J
-   8,R,G
-   1,R,J,G
-   2
-  18,R
-  12,R,J
-   5,R
+   3,R,J
+  15,R
+   5
+   1,D
+  13,R
+  15,R,J
+   4,R
    1,R,K,G
-   1,R,J,G
-  10,R
-   2,R,J
-  17,R,U,Z
-   4,R,J
+   4,R,J,G
+   6,R
+   5,R,J
+  14,R,U,Z
+   1,R,J
+   3,R,K
   15,L,X
   23,R
   16,R,U,X
   20,L,C
   16,L,U,X
   13,L,U,C
-  47,L,D
-   6,R,G
-   1,J,G
-   4,K,G
-  35,R,J
+  34,L,D
+   1,R,D
+  16,D
+   2,J,G
+  10,R,J
+  25,R
   15,R,D,X
   12,R
    1,R,J
-  26,R
-  12,R,J
-  27,R
+   5,R
+   4,R,J
+   7,R
+   1,R,J
+   1
+   6,R
+  33,R,J
+   3,R
+   2
+   2,R
    1,R,J,G
    1,R,K,G
   13,R
    1,R,J
    5,R
   40
+
 
 #lvl_c-08
 #2x
-   9,R
-   1,R,J
-  14,R,G
-   1,J,G
-   1,R,K,G
-   1,R,J,G
-  11,R
-   1,R,J
-   8,R
-  27,R,J
-   4,R
+   1,R
    1,R,J
    7,R
+   6,R,J
+   5,R
+   5,R,J
+   5,R
+   3,R,J
+   8,R
+   1,R,J
+   7,R
+   9,R,J
+  15,R
+   2,R,J
+   4,R
    1,R,J,G
    1,R,K,G
-   6,R
-   3,R,J,G
-  13,R
+   2
+   3,R
    1
+   1,R,J,G
+   1,R,K,G
+  13,R
    1,R,J
    1,R,K,G
-   1,R,J,G
   11,R
    1,R,J
-   1,R,K,G
+   1,R
+   6,R,J,G
+  14,R
+   8,L
+#dash
+  12,L,D,X
+  34,R
+   3,L
+   4,R
+  10,R,J,G
+   5,R
+   1,R,J
    9,R
+  11,L,G
+   1,J,G
+   2,L
+   4
+   1,L
+   1,R
+  20,R,D,J
+  15,D,X
+  15,L,D,C
+   4,L
+  50,R
+   1
+   2,R
+   1,R,J,G
+   2,R,K,G
+   5,R
    1,R,J
    5,R
-  15,L,D
-  12,L,D,Z
-  35,R,J
-   4,L
-   2,R
-  12,R,J,G
-   9,R
-   2,R,J
-   2,R
-   4,L,G
-   1,R
-  12,L,G
-   4,D,G
-   1,J,G
-   1,R,J
-   1,L,J
-  19,R,K
-  15,D,X
-  19,L,D,C
-  52,R,D
-   2,D
-   2,K,G
-   1,L,K
-   1,R,J,G
-   1,R,K,G
-   4,R,J,G
-   5,R,K,G
-  14,R
-   1
-   1,R
    1,R,J
    1,R,K,G
-   1,R,J,G
   11,R
-   4,R,J
+   2,R,J
+   1,R
   40
+
 
 #lvl_c-09
 #1x
-   6,R,J
-  35,R,D
+   8,R
+   2,R,J
+  20,R,D
   10,L,X
   53,R,D
    3
@@ -401,24 +428,21 @@ console load StrawberryJam2021/1-Beginner/coffe
    7,J
   15,U,X
   10,L
-   1,K,G
-   1,R,K
-  11,R,J
-   9,R,G
-   1,J,G
-   1,L,J
-   1,R,K,G
-   1,R,J,G
-   2,R,K,G
-   1,R,J,G
-   7,R
+
+
+   9,J,G
    1,R,J
-  20,R,D
-   6,D
-   1,R,D
-   2,D
-  10,R,J
+   1,L,J
+   5,K,G
+  12,R,K
+   1,R,J,G
+  10,R,K,G
+   9,R
+   1,R,J
+   9,R
+  12,R,J
   18,R
+#dash
   24,R,U,Z
   15,U,X
   40
@@ -438,53 +462,43 @@ console load StrawberryJam2021/1-Beginner/coffe
   10,R
    2
    1,R
-   5,J,G
-   1,J
+   6,J,G
    1,K
   18,J
   12,L,X
-  44,R
-  11,R,J,G
-   1,R,D
-   1,J
-   2,K,G
-  30,L,K
-   1,J
-  21,L,J
-   1,G
-  10,R,J
-   5,R,U,X
-  42,R,D
-   1,R,D,J
-  21,R,D
-  19,R,J
-  10,R
+  39,R
+   4
+   7,J,G
+   3
+   1,K
+   2,J,G
+  30,L,J
+   1,K
+  22,L,K,G
    1,R,J
+   9,R,K
+  13,L,X
+  51,R,D
+   4,R,J
   16,R
-  24,R,D
+  24,R,J,G
   40
 
 #lvl_c-11
 #2x
-   6,R,D
-   2,R,J
-  14,R
-   8,R,J
-   8,R,G
-   5,J,G
-   8,G
-   1,J,G
-   1,L,J
-   1,R,K,G
-   1,R,J,G
-   5,R
-   8,R,K,G
-  37,R
-  13,R,D
+  12,R,J
+  26,R,G
+   8,K,G
+  10,R,K
    9,R
+   9,R,J
+  27,R
+   3,R,D
+  10,R
    4,R,D
-   2,R,J
-  11,R
+   1,R
+   1,R,J
+  11,R,D
   11,L,X
   39,R,G
   17
@@ -641,15 +655,16 @@ console load StrawberryJam2021/1-Beginner/coffe
   15,R
    7,R,J
    5,R
-  14,R,D,G
+  12,R,D,G
    1,D
    1,R,D
+   2,D
    1,J,G
    1,L,J
    1,R,J
-   1,R,K,G
+   3,R,K,G
    1,L,K
-  27,R,K
+  25,R,K
   15,R,D,X
    1,R,J
   14,R
@@ -657,13 +672,13 @@ console load StrawberryJam2021/1-Beginner/coffe
   15,R,D,X
    9,L,D
   14,L,D,X
-  47,R,G
+  48,R,G
    1,J,G
-   4
-   1,R
-   2,R,J
-   3,R
-   3,L,D
+   1,K,G
+   1
+   2,R
+   7
+   1,L
   18,L,D,J
   12,L,U,X
   53,R
@@ -684,38 +699,35 @@ console load StrawberryJam2021/1-Beginner/coffe
    4,Z
   44,R,J
    1,K,G
-   1,L,K
-   1,R,K
-  13,R,J,G
-   1
+   1,L
+  10,R,J,G
+   4,R
    1,R,K,G
    1,R,J,G
-  13,R
-   1,R,J
    9,R
+   1,R,J
+  12,R
   40
 
 #lvl_c-15
 #1x
-   5,R
+   3,R
    1,R,J
   14,R
    1,R,J
-  18,R
-   7,R,J
+  15,R
+   5,R,J
+  13,R
+   1,R,J
+   5,R
+   4,R,J
    7,R
    1,R,J
-  22,R
-  40,R,J
-   1,G
-
-
-
-
-   1
-   1,L,J
-  42,D
-   2
+   7,R
+  37,R,J,G
+  20,L,D
+  16,D
+  10
   11,L,X
   39,R,D
    1,R,G
@@ -738,39 +750,33 @@ console load StrawberryJam2021/1-Beginner/coffe
    7,J,G
    5
   16,L
-  20,R
-   4,R,D
-   1,D
-   2,R,D
-   1,R,J,G
-   1,R,K,G
-  10,R
-  14,R,Z
-  12,L,U,X
-  39,R
+  13
+  15,R
    2
-   8,R,D
+   2,R
    1,R,J,G
-   1,R,K,G
-  13,R
+  11,R,K,G
+   5,R
+  20,R,J
+  12,L,U,X
+  47,R,D
+   6,R,Z
    1,R,J
-   3,R
+   7,R
+   1,R,J
   40
 
 #lvl_c-16
 #2x
-  11,R
-   1,R,J
-  14,R
    8,R,J
-  23,R
-   1,R,J
-  16,R
-   7,R,J
-  26,R
-   4
-   3,J,G
-  18,R,J
+  24,R
+   9,R,J
+  13,R
+   2,R,J
+   1,J
+   3
+   4,J,G
+  19,R,J
   15,L,U,X
   47,R,J,G
    3,K,G
@@ -787,8 +793,10 @@ console load StrawberryJam2021/1-Beginner/coffe
    9,R
    1,L,G
    5,J
-   4,L,J
-  16,L
+   3,L,J
+   5,L
+   3,L,J
+   9,L
    6,L,J
    8,L,G
    3,J,G
@@ -800,27 +808,47 @@ console load StrawberryJam2021/1-Beginner/coffe
   39,R,K
   14,U,X
   34,R,J
-   9,R
+   9,R,D
+   1,R,J,G
+   2,R,K,G
+   6,R
+   1
+   4,R
+   2,R,J
+   5,R
+   1,R,J,G
    1,R,K,G
-   2,R,J,G
+   3,R
+   2
+   5,R
+   1,R,J
+   5,R
+   4,R,J
+   5,R
+   1
+   1,R
+   1,R,J
+  14,R
+   1,R,J
+   7,R
+   1,R,J
    8,R
    2,R,J
-   2,R
-   3,R,J
-   3,J
-   1,R,K,G
+  14,R
+   1,R,J
    1,R,J,G
-  11,R
-   8,R,J
-  20,R
+   2,R,K,G
+  21,R
+   4,R,D
+   1,R
+   1,L,D
+   1,J
+   1,K,G
+   1
+  21,R,D
+   2,D
    2,R,D
-   1,R,J,G
-   1,R,K,G
-  27,R
-   2,R,J
-   6,R
-   1,R,J,G
-  64,R
+   1,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -841,11 +869,12 @@ console load StrawberryJam2021/1-Beginner/coffe
    6,R,J
    7,R
    1,R,J
-  23,R
-   7,R,J
-   8,R
-  15,R,U,X
+  14,R
+   1,R,J
    3,R
+  16,R,K
+  20,R,U,X
  135
 
-ChapterTime: 2:00.360(7080)
+ChapterTime: 1:56.841(6873)
+#6873
