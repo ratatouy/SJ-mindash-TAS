@@ -1,4 +1,4 @@
-RecordCount: 1872
+RecordCount: 2268
 
 console load StrawberryJam2021/4-Expert/DanTKO
    1
@@ -6,7 +6,8 @@ console load StrawberryJam2021/4-Expert/DanTKO
 #Start
  667
 
-#lvl_DanTKO_Intro (0x)
+#lvl_DanTKO_Intro
+#0x
    7,R
    1,R,J
   10,R
@@ -25,7 +26,8 @@ EndRepeat
    3,R
   43
 
-#lvl_DanTKO_01 (0x)
+#lvl_DanTKO_01
+#0x
    4,R
 Repeat 2
    1,R,J
@@ -70,6 +72,7 @@ EndRepeat
   43
 
 #lvl_DanTKO_02
+#2x
    1,R
    1,R,J
   14,R
@@ -80,26 +83,37 @@ Repeat 2
    1,R,K
 EndRepeat
    1,R,J
-  14,R
-   7,R,J
+   9,R
+   1,R,J
    4,R
-  31,R,G
-   1,D,G
-   7,L,D
-   9,L,Z
-   1,L,J
-   7,L
-   6,L,D,J
-   5,L
    3,J
-   2
+   4,R,J
+   8,R
+  16,R,G
+  11,G
+  26,L
+  11,R
    2,L
-   7,L,K,G
-   8,L,G
-  22,L,U,G
+   1,R
+   1,J,G
+   6,R
+   1
+   6,L,D
+  25,L,D,J
+   1,K
+   7
+   2,L
+   1,L,J
+   6,L
+   1
+   1,L
+   1,L,K,G
+  27,L,J,G
+  15,L,U,G
+   6,G
+   1,D,G
    1,G
-   1,L,U,G
-   2,G
+   2,U,G
   25,R
    3,R,D,J
    4,J
@@ -107,7 +121,7 @@ EndRepeat
    2,J
    1,R,J
    6,J
-   1,L
+   1,L,J
    1,K,G
    1,R
   12,L,J,G
@@ -172,6 +186,7 @@ EndRepeat
   43
 
 #lvl_DanTKO_blueTutorial_2
+#1x
   14,R,D
    1,R,J
    1,R,K
@@ -208,6 +223,7 @@ EndRepeat
   43
 
 #lvl_DanTKO_03
+#4x
    6,R
 Repeat 5
    1,R,J
@@ -310,6 +326,7 @@ EndRepeat
   43
 
 #lvl_DanTKO_04
+#1x
    1,S
    1,D,J
   69,O
@@ -350,6 +367,7 @@ EndRepeat
   40
 
 #lvl_DanTKO_05
+#5x
    1,R
    2,R,J
   18,R
@@ -440,6 +458,7 @@ EndRepeat
   43
 
 #lvl_DanTKO_06
+#3x
   12,R
 Repeat 3
    1,R,J
@@ -525,6 +544,7 @@ EndRepeat
   43
 
 #lvl_DanTKO_06b
+#0x
    2,R
 Repeat 4
    1,R,J
@@ -576,6 +596,7 @@ EndRepeat
   43
 
 #lvl_DanTKO_07
+#3x
    1,S
    1,D,J
   72,O
@@ -645,6 +666,7 @@ EndRepeat
   43
 
 #lvl_DanTKO_08
+#6x
    8,R
    2,R,J
   21,R,D
@@ -762,6 +784,7 @@ EndRepeat
   43
 
 #lvl_DanTKO_09
+#2x
    8,R
    1,R,J
   28,R,D
@@ -887,6 +910,7 @@ EndRepeat
   43
 
 #lvl_DanTKO_Outro
+#1x
   14,R
    2,R,J
   27,R,D
@@ -947,5 +971,5 @@ EndRepeat
   14,R,U,X
  135,D
 
-ChapterTime: 2:23.480(8440)
-#29 dashes
+ChapterTime: 2:24.670(8510)
+#28 dashes
