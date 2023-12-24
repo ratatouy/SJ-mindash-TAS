@@ -1,9 +1,9 @@
-RecordCount: 2524
+RecordCount: 2921
 
 console load StrawberryJam2021/4-Expert/Skunkynator
    1
 
-#46x
+#45x
 #Start
  190
 
@@ -159,8 +159,7 @@ EndRepeat
    1,R,D
    1,R
    6,R,G
-   8,R,D,G
-   2,R,D,G
+  10,R,D,G
    6,R
   17,R,X
    4,R,J
@@ -220,45 +219,45 @@ EndRepeat
   10,R
   40
 
-#6x
+#5x
 #lvl_a-5
    5,R
-   8,R,D,J
-   3,J
-   1
-   1,K,G
+   8,R,J
   20,R,X
-   4,J
-  13,U,X
-  17,R,J
-   2,R
-  21,R,X
-   4,R,J
-  10,R,K
-  15,R,D,X
-   1,R
-   5,R,D
-   3,R,J
+   6,L,J
+   4,L,K
+  38,R,U,Z
+   5,R,J
+   3,R
+   5,R,J
    5,R
-   4,R,J
-   1,K,G
+   3,R,J
+  23,R,D
+   4,R
+  20,R,Z
+   4,J
+   1,R,J
+   2,J
    1
-   1,J,G
-   6
+   1,K
+   5,R
+   2,R,J
+   3,R,K,G
+   5,R
    5,J,G
-   5,L,J
-   5,L
+   4,L,J
    1,J
-   8,L,K,G
+   5
+   4,K,G
+   1,L,K
+   5,L
+   1
+   3,J,G
+   3,K,G
+  13,L,J,G
+   1,K,G
    6,L
-   3,L,J
-   5,L
-   1,J
-  25,L,K,G
-   2
-   4,J,G
-   1,L,J
-   1,J
+   1,R
    9,R,Z
    7,R,J
    1,R
@@ -266,10 +265,11 @@ EndRepeat
   12,R
   20,R,U,X
    8,J
-  11,R,K
-   1,J
-  21,R,J
-  34,G
+   4,K
+   8,R,K
+   6,R,J,G
+  36,R,U,G
+   7,G
    2,L,J
   16,L
   72,L,G
@@ -284,15 +284,17 @@ EndRepeat
    7,L,G
    1
    1,L
-  19
-  45,G
+  20
+  44,G
    1,R,J
    4,R,K
    5,R
    1,R,J
    8,R
    1,R,J
-  20,R
+  18,R
+   1
+   1,R
    1,R,J
    1,R,K,G
    2,R,J,G
