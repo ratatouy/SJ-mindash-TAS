@@ -1,4 +1,4 @@
-RecordCount: 1010
+RecordCount: 1029
 
 console load StrawberryJam2021/1-Beginner/skeleton
    1
@@ -152,17 +152,16 @@ EndRepeat
    1,K
   40
 
-#9x
+#8x
 #lvl_skeleton_02
-   5,R
-   6
-  21,U,X
-  27,R
-  40,R,Z
+   1,S
+   1,D,J
+  69,O
+   6,R,J
+  34,R,Z
    4,R,J
-  11,R,K
-   5,R
-  23,R,J
+  12,R,K
+  27,R,J
   30,R,U,X
    4,L,J
    1,R,K
@@ -510,4 +509,5 @@ EndRepeat
   16,U,X
  135,L,D
 
-ChapterTime: 1:28.825(5225)
+ChapterTime: 1:29.131(5243)
+#5243
