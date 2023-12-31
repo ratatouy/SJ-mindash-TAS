@@ -314,7 +314,7 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
 
 
 #lvl_a_08
-#0x
+#1x
   40
   12,R
    1,R,J
@@ -326,6 +326,7 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
   33,L,D
   30,R
    5,R
+#dash
   15,R,U,X
   14,R
    2
@@ -401,4 +402,4 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
 
 ChapterTime: 0:49.793(2929)
 #2929
-#3 dashes
+#4 dashes
