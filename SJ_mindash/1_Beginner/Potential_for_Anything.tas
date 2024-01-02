@@ -6,6 +6,7 @@ RecordCount: 3694
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
 
+#4x
 #Start
 #2x
   80
@@ -14,87 +15,108 @@ console load StrawberryJam2021/1-Beginner/frozenflygone
 #dash
   17,R,U,X
   27,R,U
-repeat 4
-   1,R,J
-  14,R
-endrepeat
-  13,R
-  11,R,J
-   1,R
-  10,L,D
-#dash
-  15,L,Z
-  34,R,D
 repeat 3
    1,R,J
   14,R
 endrepeat
    1,R,J
+   9,R
+   1
+   4,R
+   1,R,J
+   9,R
+   1
+  11,R
+   3
+   5,U
+   1,U,J
+   3,L,J
+   5,R,J
+   3,L,J
+   2,R,J
+   1,J
+   1,R,J
+   2,L,J
+   3,R,J
+   1,L,J
+   1,K,G
+   1,R,K
+   1,L,J,G
+   3,L,K,G
+   1,R,K
+   3,L,K
+   1,L
+   1,L,J,G
+  10,L,K,G
+   9,L
+   1,L,J
+   8,L
+#dash
+  15,D,X
+   1,L
+   9,R
+repeat 3
+   1,R,J
+  14,R
+endrepeat
+   1,R,J
+   3,R
+  40
 
 
 #lvl_SS2-1
-#1x
-  53
-   1,R
-   1
+#0x
+  11,R
    1,R,J
    5,R
-   2,R,J
-   8,R
-   2,R,J
-   7
-   1,R
-   1
-#dash
-  19,U,Z
-   1,L
-   1,J,G
-   3,L,J
-   1,L
-   5
-   1,R
-   1,L,J,G
-   3,L,K,G
-   1,R
-   1,L
-  11,J
    1,R,J
-   5,R
-   1,R,K,G
-   4,R,J,G
-  15,R,D
-  10,L,D
-  11,R,D
-  12,R
-   2,R,D
-   9,R,J
    1,R
-   7,R,J
-   1,L,K,G
-   3,L,K
-   1,R,K
-   1,L,K
+   3,R,J
+  13,R,U
+   7,U
+   3,R,U
+   1,U
+  11,R,U
+  17,R,U,J
+   2,L,J
+   2,L,K,G
    2,R,K
    1,L,K
-  13,J,G
-   1,L
-   1,K,G
-   1,K
-   1,L,K
-   1,K
+   1,J,G
+   8,R,J
+   4,J
+   3
    1,R
-   8,J
-   6,R,J
-   1,R,K,G
-  26,R
-  11,R,D,J
-   1,K
-  12,R,J
-  12,L,K
-   1,L,J,G
-   1,L,K,G
+   1,K,G
+   1,R,K
+   2,K
+   1,R
+   2
+   1,R
+   1
    1,J
-
+   1
+   1,L,J
+   1,R,J,G
+   3,R,K,G
+   1,L,K
+   1,R,K
+   1,J
+  25,R,J
+   8,R,K,G
+  19,R,U
+   8,U
+  15,R,U
+   1,U
+   1,R,J,G
+  13,R
+   6,R,U,J
+   6,R
+   1,R,J
+   1,R
+   1,R,J
+  11,R,U
+  14,U
 
 #lvl_SS2-2(0)
 #0x
@@ -302,8 +324,7 @@ endrepeat
    1,R,D,J
    1,R,K,G
    1,R,J,G
-  12,R
-   2,R
+  14,R
    1,R,J
 
 
@@ -699,8 +720,7 @@ endrepeat
 
 #lvl_HUB(1)
 #0x
-  40
- 256
+ 296
   36,O
    5,L
 repeat 15
@@ -1233,8 +1253,7 @@ endrepeat
    1,J
    2,R,J
    1,J
-   2,R,J
-   1,R,J
+   3,R,J
   10,J
    1,L,K
    3,R,K
@@ -1291,6 +1310,6 @@ endrepeat
    4,U,X
  135
 
-ChapterTime: 3:10.179(11187)
-#11187
-#9 -> 5 dashes
+ChapterTime: 3:10.400(11200)
+#11200
+#9 -> 4 dashes
