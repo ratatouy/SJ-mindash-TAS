@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2383
+RecordCount: 2515
 
 console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1
@@ -371,10 +371,10 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
   10,L,J
    1
   16,L
-   1,J,G
-   6,L
-   1,R
-  15,L,G
+   2,L,G
+   2,L
+   5,L,G
+   9,D,G
   11,J,G
    1,L,K,G
    1,J,G
@@ -431,5 +431,5 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
 
 
 #0:48.263(2839)
-ChapterTime: 0:48.263(2839)
+ChapterTime: 0:48.178(2834)
 #13 dashes
