@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 8651
+RecordCount: 8161
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -12,7 +12,6 @@ console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
  190
 
 #lvl_cp1_heartside_intro (0x)
-
   93,U
    7,L,U
 Repeat 3
@@ -36,8 +35,7 @@ EndRepeat
    1
   43,D
   77,L
-  50,U
-  75,U
+ 125,U
   35,R,U
   10,L,U
 Repeat 4
@@ -55,7 +53,7 @@ EndRepeat
    7,L
   40
 
-#lvl_cp1_21_heartside_Bing_Over_Google (4x)
+#lvl_cp1_21_heartside_Bing_Over_Google (3x)
    7,L
    1,L,J
   14,L
@@ -63,19 +61,21 @@ EndRepeat
    5,L
    1,L,J
    8,L,K,G
-  11,L
-  16
-  21,L
-   8,L,J
-  34,L,D
-  15,L,Z
-  16,R
-   5,L
-   4,R,Z
+   3,L
+  10
+   1,R,J
+   9,R
+  19,L,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+  69,L,K,G
+   8,R,Z
    1,L,J
    8,L
+   1,L,J
   11,L,D,J
-  12,L
+  11,L
   15,U,X
   13,L
   15,L,U,X
@@ -207,8 +207,7 @@ EndRepeat
    1,R,J,G
    1,R,K,G
   12,R,D
-   9,D,G
-   9,D,G
+  18,D,G
    1,J
    9,R,J
    1,J
@@ -546,8 +545,7 @@ EndRepeat
    9,D
   16,L
    3,D
-   2,L,D
-   1,L,D
+   3,L,D
    2,L
    1,L,J,G
    4,L,K,G
@@ -632,7 +630,6 @@ EndRepeat
   28,R,D
    1,R
 
-#1:44.329(6137)
 #lvl_cp3_checkpoint (0x)
   41,R,D
 Repeat 3
@@ -709,33 +706,33 @@ EndRepeat
   31,R
   11,R,J
   18,R
-  42,R,J,G
-   1,R,K
-   1,R,J
-   1,R,K
-  10,R,J
+  41,R,J,G
+   1,K
+   3,R
+   5
+   6,R
+  26,R,J
+   1,K
+   4,R,K
    4,R
-   3,K,G
-   4,R,K,G
    1,R,J,G
-  11,R
-  11,R,K
-   9,R
+   1,R,K,G
+  13,R
+  18,R,D,J
   63,R,X
    4,R,J
   27,R,K
    3
    4,R
-   4,R,K,G
-  10,R
+   3,R,K,G
+  11,R
   20,R,D,J
   12,R,D,K,G
   13,R,D,J,G
   21,R,D
    3,R,J
-  26,R,D
+  27,R,D
    5,R
-   1,R,D
    1,R,J
    1,R,K
    1,R,J
@@ -868,9 +865,7 @@ EndRepeat
    1,R,K,G
   19,R
   38,R,J
-   7,R,U,G
-   1,R,U,G
-   8,R,U,G
+  16,R,U,G
   13,R,J,G
    1,L,K,G
    7,L
@@ -998,8 +993,7 @@ EndRepeat
   15,R,X
   49,R
   15,K
-  14
-  26
+  40
   25,L,J
    1,K,G
    7,R,K
@@ -1091,7 +1085,7 @@ EndRepeat
    8,R
   43
 
-#lvl_cp4_checkpoint (2x)
+#lvl_cp4_checkpoint (1x)
    6,R
    3,R,K
    1,R,J,G
@@ -1138,49 +1132,63 @@ EndRepeat
    6,R,K,G
    3,J
    1,R,K,G
-   8,R,J,G
-  11,L,K
-   5,U,X
+  12,R,J,G
+   8,R,K,G
   40
 
-#lvl_cp4_10_heartside_Hanky (6x)
-  12,U,X
-   1,R
-  25,R,J
-   5,K
-   3,J
-   1,L,J
-   1,R,J
-   1,K,G
-   1,L,K
-  16,L,J
-   4,L,K,G
-   1,K
-   1,L,K
-   1,K
-   7,L,K
+#lvl_cp4_10_heartside_Hanky (7x)
+   8,R,J,G
+  11,R,K,G
+   4,R
   15,U,X
+   3,L
+  11,L,J
+  11,L
+   8,L,J
+  15,U,X
+   1,R
+   9,K,G
    1,R,J,G
-   3,L,J
-   3,R,J
    1,R,K,G
-   1,R,J,G
-   1,J
-   9,R,J
-  10,L,J
-  12,L,D
-  23,R,D
+  10,R
+   1,R,J
+  17,R
    1,R,J
    4,R
-  37,L,D
+   1,R,K,G
+   6,R
+   1,R,J
+   2,R,K,G
+  10,R
+   1,R,J,G
+  12,R
+   1,R,D,J
+   5,R
+   4,R,J
+  78,R
+   8,R,D,J
+   5,L,K
+  18,L,J
+  14,L,D
+   1,L,J
+  18,L
+   9,L,J
+   5,L
+   3,L,J
+  15,L,D
+   9,D
+  14,R,D
+   2,R,J
+   8,R
+  33,L,D
    1,L,J
   18,L
    1,L,J
   14,L
    1,L,J
   14,L
-   1,L,J
-  21,L,D
+   3,L,J
+  22,L,D
   45,L
   20,D
   56,R
@@ -1354,8 +1362,7 @@ EndRepeat
   16,R
   14,R,X
   29,R,G
-  16,R,D,G
- 104,R,D,G
+ 120,R,D,G
    1,R
   13,R,X
   84
@@ -1442,8 +1449,7 @@ EndRepeat
    6,R,G
    1,R
   13,R,D,G
-  43,R,J,G
-  61,R,J,G
+ 104,R,J,G
    1,R
   21,L,D,G
    7,D,G
@@ -1712,10 +1718,8 @@ EndRepeat
  162
   16,R,K,G
    6,R,J,G
-   7,L,K
-   1,L,K
-   1,L
-   1,L
+   8,L,K
+   2,L
    1
    1,L
    3
@@ -2422,6 +2426,7 @@ EndRepeat
   22,L,K
   20,L,J,G
 
-ChapterTime: 7:32.404(26612)
-#91 dash
+ChapterTime: 7:36.314(26842)
+#26842
+#90 dashes
 
