@@ -1,12 +1,12 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 5166
+RecordCount: 5521
 
 console load StrawberryJam2021/2-Intermediate/Luma
 
 
-#18x
+#12x
 #Start
  191,J
 
@@ -457,29 +457,64 @@ EndRepeat
    1,D
  101,D,N
  317,N
-  15,R,U
-  21,L,U
-  18,L,D
-  20,R,D
-  44,D
-   2,L,D
-   2,D
-  15,R,D
+  34,R
+  38,R,G
+   1,S,N
+   9,J
+  19,R,K,G
+   1,R,D
+   1,S,N
+   9,J
+  20,R,K,G
+   3,R,G
+   1,S,N
+   9,J
+  21,L,K,G
+   1,S,N
+   9,J
+   2,L,K
+  36,L,K
+  27,L,K,G
+   1,L,D
+   1,S,N
+   9,J
+  37,L,K,G
+  90,G
+   1,S,N
+   9,J
+  12,K,G
+   1,S,N
+   9,J
+  29,K,G
+   1
+   4,U
+   1,S,N
+   9,J
+   2,R,U,K
+   8,R,U
+   2,R,D
+   4,R,U
+   1,R,D
+   6,R,U
+  11,L,U
+   4,L,D
+  76,D
+  19,R,D
   40,R,U,G
-  40,R,D,G
-  30,R,U,G
+  35,R,D,G
+  35,R,U,G
    1,R,D
    6,R
-   3,G
-   1,S
+   5,G
+   1,S,N
    9,J
    3,R,K,G
-   3
+   1
   25,R,J,G
   40,K
 
 #lvl_5
-#1x
+#0x
   10,R,K,G
    5,R,J,G
   10,R,G
@@ -506,38 +541,38 @@ EndRepeat
  109,R,N
   25,R
    4,L
-   1,S
+   1,S,N
    9,J
    2,R,K
   18,R,U,K,G
   29,R,D,G
-   1,S
+   1,S,N
    9,J
    6,R,U,K,G
   15,R,U,G
   34,R,G
-   1,S
+   1,S,N
    9,J
    2,R,U,K,G
   74,R,G
   33,L,G
-   1,S
+   1,S,N
    9,J
    6,L,K,G
    2,K,G
    1,R,K,G
-   1,S
+   1,S,N
    9,J
   10,L,K,G
   25,L,D,G
-   1,S
+   1,S,N
    9,J
   12,L,K,G
    6,L,G
   10,R,D,G
    8,L,D,G
    4,R,D,G
-   1,S
+   1,S,N
    9,J
    3,R,K,G
    6,L,K,G
@@ -726,4 +761,4 @@ EndRepeat
 
 
 
-ChapterTime: 2:56.426(10378)
+ChapterTime: 3:03.991(10823)
