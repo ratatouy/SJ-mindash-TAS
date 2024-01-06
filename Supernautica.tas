@@ -1,0 +1,469 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 1104
+
+console load StrawberryJam2021/2-Intermediate/LegS
+   1
+
+#Start
+#lvl_LegS-0 (0)
+#(2x)
+  37,D
+   4
+#Dash
+   7,L,Z
+   1,R,K
+   7,R
+   2
+  28,R,K
+#Dash
+  11,R,U,X
+  51,R,U,G
+   1,R
+   7,R,D
+  13,D
+   4,R
+   1,R,K
+   2,K
+  20,R,K
+  15,J,G
+   6,K,G
+   1,J
+  19,R,J
+   5,R
+   1,R,K,G
+   1,R,J,G
+  13,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   2,R
+  40
+
+#lvl_LegS-1 (0)
+#(0x)
+  12,R
+   1,R,K
+  14,R
+   2,L,K
+   4,G
+  43,L,G
+   6,R,G
+  40
+
+#lvl_LegS-0 (1)
+#(0x)
+   9,R,G
+   1,R,K,G
+   9,R,G
+  40
+
+#lvl_LegS-1 (1)
+#(1x)
+  26,R,G
+   1,G
+   4,K,G
+   1,D,K
+  16,K,G
+   5,R,K,G
+   1,R,D,K
+  14,R,K,G
+   8,D,K
+  15,R,G
+   7,R
+   2,L
+   9,R,G
+   6,G
+  15,R,U,G
+   1,R
+  26,R,D
+   1,R,K
+  14,R
+   1,R,K
+  17,R
+  11,R,K
+#Dash
+   5,R,U,X
+  33,L,G
+   6,D
+  23,G
+   3,D
+Repeat 2
+  17,G
+   4,R,G
+   1,R,D
+  19,G
+   2,R,G
+   1,R,D
+EndRepeat
+  16,G
+   5,R,G
+   1,R,D
+  17,G
+   5,R,G
+   1,R,D
+  21,G
+   1,R,D
+  15,R,G
+   5,G
+  10,R,G
+   1,R,D
+Repeat 3
+  18,G
+   3,R,G
+   1,R,D
+  18,G
+   3,R,G
+   1,R,D
+EndRepeat
+  21,L,G
+   1,L,D
+  21,L,G
+   1,L,D
+  29,L,G
+   1,L
+  77,R,G
+   1
+  16,D
+  45,D,G
+  17,R,D,G
+  92,R,U,G
+   1,R,K,G
+  10,R,G
+  40
+
+#lvl_LegS-2
+#(1x)
+  26,R,G
+  11,R,K,G
+  71,R,U,G
+   1,D
+   8,K,G
+   3,R,K,G
+   4,R
+   3
+  17,R,G
+   1,R,D
+  20,R,K,G
+   1,R,D
+  21,R,K,G
+   1,R,D
+  17,R,G
+   4,L,G
+   1,R,D
+Repeat 2
+  18,G
+   3,R,G
+   1,D
+  18,G
+   3,R,G
+   1,D
+EndRepeat
+   1,L,D
+  23,R,G
+   2,L
+  56,L,U,G
+   1,R
+   9,L,D
+  10,L,Z
+   3,L,K
+   1,J
+   6,R,J
+   1,K
+  26,R,K
+   5,J
+  24,J,G
+  40
+
+#lvl_LegS-B1
+#(0x)
+  32,L,G
+   1,L,K,G
+  24,L,G
+   1,L,K,G
+   9,L,D,G
+  40
+
+#lvl_LegS-3
+#(2x)
+  18,L,D,G
+  68,L
+  86,L,U,G
+   1,L,D
+  12,L
+#Dash
+  64,L,X
+   6,L,K
+  11,L,J
+  43,L,D,G
+   1,R
+  24,L,D
+   1,L,K
+  14,L
+   1,L,K
+  25,L
+  26,L,K
+#Dash
+  11,L,U,X
+ 144
+   1,L,K
+  17,L,J
+  12,K,G
+  13,R,J
+  12,R,K,G
+   1,R,J,G
+  40
+
+#lvl_LegS-4
+#(4x)
+   4,R
+   1,R,K,G
+   8,R
+   1,R,K
+  26,R
+  23,R,K
+#Dash
+  21,R,U,X
+  37
+   2,R,K
+  47,R,J
+#Dash
+  11,R,U,X
+  21,R,G
+   1,L
+  18,D
+  20,R,D
+#Dash
+  76,R,X
+   1,R,K
+   4,L,K
+   1,J
+   3,L,J
+   5,R,J
+   7
+  31,R,U,G
+   1,R,D
+  10,R,K,G
+   6,G
+   1,K,G
+  15,J,G
+  94,R,U,J,G
+  22,R
+  12,R,K,G
+  16,G
+   7,R,K,G
+#Dash
+  14,R,D,X
+  91
+   1,L,K
+  40
+
+#lvl_LegS-B2
+#(0x)
+  31,L
+   1,L,K,G
+   1,L,J,G
+  11,L
+   1,L,K
+   5,L
+   4,L,K
+   7,L
+  40
+#lvl_LegS-5
+#(3x)
+   4,L
+   1,L,K
+   5,L
+   3,L,K
+   5,L
+  11,R
+   3,K
+   3,J,G
+   7
+   1,L,K
+   2,L
+   3
+   2,K
+   3,L
+   3
+   5,L
+   1
+   1,L,K
+   1,L,J,G
+   1,L,K,G
+  12,L
+  22,L,K
+#Dash
+  10,U,X
+  14
+  61,L,D,G
+  16,L
+   8,L,D
+   3,R
+   1,R,J
+   1,R
+   1,K,G
+   3,R
+   1
+   2,R
+   2
+   6,L,D
+   2,L,K
+   5,L
+   4,L,K
+#Dash
+  47,L,X
+  29,L,K
+#Dash
+   9,U,X
+  10,G
+  21,R,G
+   1,L
+  12,R,K,G
+  12,R,J,G
+  12,R,K,G
+   4,R,J,G
+  40
+
+#lvl_LegS-6
+#(0x)
+   5,L,K
+  11,L
+   1,L,K
+   1,L,J,G
+  10,L
+   1,N
+  24
+   1,S
+   1,D,J
+  18
+  33,L
+   1,G
+  10,R,U,G
+  43,R,U
+   1,S
+   9,O
+  15,R,K
+   1,S
+   9,O
+  16,R,K,G
+   1,S
+   9,O
+  12,R,K,G
+   1,S
+   9,O
+  24,L,J
+  62,R,U,G
+   2,G
+   1,D
+   1,S
+   9,O
+   6,R,K,G
+  33,R,G
+   1,S
+   9,O
+ 196,R,U,K,G
+  27,R,G
+   1,R,D
+   1,S
+   9,O
+  12,K,G
+  32,R,G
+  17,G
+   1,S
+   9,O
+   4,R,U,K,G
+  95,R,U,G
+  43,R,G
+   1,S
+   9,O
+  12,K,G
+   1,D,K
+   1,R,D
+   1,S
+   9,O
+   4,R,J,G
+   5,R,G
+   1,G
+   6,L,D,G
+   1,S
+   9,O
+   2,L,K,G
+  45,L,D,K,G
+   1,S
+   9,O
+  82,R,D,K,G
+   1,S
+   9,O
+  53,L,K,G
+   1,S
+   9,O
+  29,L,K,G
+   2,D
+   1,S
+   9,O
+  32,K,G
+  13,L,G
+   7,R,G
+   1,S
+   9,O
+   6,R,K,G
+  39,L,K,G
+   1,S
+   9,O
+  11,L,J,G
+   1,L,D,J
+   1,S
+   9,O
+  48,L,K,G
+   1,G
+   1,S
+   9,O
+  23,K,G
+   1,D,K
+   1,S
+   9,O
+  45,K,G
+   9,L,K,G
+   1,S
+   9,O
+ 107,U,K,G
+   1,J,G
+  24,U,G
+  36,R,U,G
+  60,U,G
+   5,R,U,G
+  40
+
+#lvl_LegS-7
+#(1x)
+  41,R
+   6,R,K
+  31,R,G
+   6,R,K,G
+  26,R,J,G
+  47,L,U,G
+  17,R,D
+  20,R,J,G
+  12,J,G
+   1,R,D
+  18,J,G
+   3,R,G
+   1,R,D
+  18,G
+   3,R,G
+   1,R,D
+  18,G
+   3,R,G
+   1,R,D
+  32,R,G
+   1,L
+  11,R
+  19,R,U,X
+ 135,D
+
+ChapterTime: 1:43.785(6105)
+#14 Dashes
