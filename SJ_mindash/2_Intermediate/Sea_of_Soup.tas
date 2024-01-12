@@ -1,14 +1,11 @@
-RecordCount: 3574
+RecordCount: 3591
 
 console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1
 
+#1x
 #Start
  190
-
-#Spinner Cycle
-   1
-##
 
 #lvl_soup-1 - 0 dashes
    8,R
@@ -286,30 +283,33 @@ endRepeat
   40
 
 #lvl_soup-7 - 1 dash
-  15,R,D
-stunpause
-  19,R,D
-skipinput,3
-  15,D,X
-endstunpause
-  10,L,D
-   8,R,J
-  25,R
-  21,L,X
-   3,J,G
-   1,R,J
-   1,K
-  51,R,J
-  22,R,D
-  11,D
-   1,L,D
+  34,R,D
+  15,R,X
+  11,R
+  24,R,U,X
+  39,D,C
+  14,R,Z
+   6,R,J
+  19,R,G
+   1,L,J
+   4,L
+  14,R
+   9,R,Z
+   1,R,J,G
+  22,D
+  41
+  56,R,D
+   8,D
+   1,R,D
+  13,D
+   1,R,D
    1,D
-   1,L,D
-   2,R,D
+   1,R,D
    2,D
    1,L,D
-  10,D
-   9,R,D
+   2,D
+   6,R,D
+  11,D
   50,R,U,X
   12,L
   35,L,D
@@ -317,8 +317,8 @@ endstunpause
   31,L,D,C
    9,R,Z
    6,R,J
-   1,R
    1,R,J
+   1,R
   10,R
    1,R,D
   23,L,D
@@ -326,21 +326,24 @@ endstunpause
    3,L,D
    2,D
    2
-   4,R
+   3,R
+   1,R,D
 Repeat 4
    1,R,J
    1,R,K
 EndRepeat
-   2,R,J,G
+   1,R,J,G
+   1,R
    3,R,K,G
    5,R
-   1,R,K
+   1,R
   12,R,D
   46,L,D,X
   23,D
 #dash
-  20,R,D,X
+  21,R,D,X
  135,R
 
-ChapterTime: 1:11.230(4190)
-#4205
+ChapterTime: 1:10.261(4133)
+#4133
+#1 dash
