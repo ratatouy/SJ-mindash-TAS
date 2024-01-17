@@ -1,0 +1,373 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 959
+
+console load StrawberryJam2021/3-Advanced/Roborb
+ 191
+
+#Start
+#lvl_1-intro
+#2x
+   6,L,Z
+   1,R,J
+   7,R
+  15,R,J
+  14,R
+  23,R,J
+  12,R,K,G
+   6,R,Z
+   3,R,J
+  40
+
+#lvl_1-a
+#6x
+   1,S
+   1,D,J
+ 103
+   9,R
+   6,R,J
+   2,R
+  15,R,Z
+  23,D
+  10,R,D
+  11,L,Z
+  23,R,J
+  29,R,U,X
+  12,L
+  15,U,X
+  22,L
+   6,R
+  15,R,U,X
+  28,R,D
+   1,R,J
+  14,R
+   6,R,X
+  40
+
+#lvl_1-b
+#7x
+   3,R
+  30,R,J
+   6,D
+  29,R,D
+  15,U,X
+   3
+   4,L
+  18,R
+  10,R,J
+  22,R
+  16,R,Z
+  14,R,D
+   1,R,J
+  10,L,D,X
+  18,R,J
+  28,R,U,X
+  15,U,C
+   5,L
+  10,L,J
+  40,L
+   1,J
+  27,L,J
+   1,K
+  26,L,K
+   2,J
+   5
+  34,J
+   4,L
+  21,R,J
+  23,R,Z
+   4,R,J,G
+   7,R
+   1,R,J
+  13,R
+  11,R,Z
+  40
+
+#lvl_1-c
+#4x
+   3,R
+   1,R,J
+   7,R
+   9,R,J
+   7,R
+   6,R,J
+  15,U,X
+   9,R
+  18,L
+  11,U,X
+  37,R,J
+  15,U,X
+   4,L
+  13,R,J
+  25,R
+  10,R,D
+  21,R,Z
+   1,R,J
+  12,R
+  40
+
+#lvl_1-e
+#6x
+   2,R
+   1,R,J
+  14,R
+#going up seems impossible
+#  12,R,J
+#***
+#  28,R
+#  12,R,J,G
+#   6,R,K,G
+#***
+#   3,L,K
+#   3,R,K
+#   5,J,G
+#   1,L,J
+#   2,K
+#   9,L,K
+#   2,L
+#***
+#  15,R,Z
+#  99,D
+  18,R,J
+  12,R
+  19,R,D,X
+  22,R,U,Z
+   2
+  37,R,U,X
+  25,R,U,Z
+  15,U,X
+  21,R
+   1,J
+  25,R,J
+  31,L,K
+  17,U,X
+  35,R,J
+   1,K
+  12,R,K
+  15,R
+   1,R,J
+  14,R
+   5,R,J
+  11,R
+   1,R,J,G
+   1,R,K,G
+  12,R
+   1,R,J
+   2,R
+  40
+
+#lvl_1-f
+#8x
+  12,R
+   1,R,J
+   2,R
+   1,L
+  14
+   1,G
+   1,K,G
+   7
+   1,L
+   6,R
+  44,R,J
+  55,R,D
+   2
+  25,R,Z
+  33,R,U,X
+  15,R,C
+  19,R,D
+   1,D
+   4
+  28,R
+  45,R,U,X
+   1,R,J,G
+   2,R,K,G
+   7,R
+   1,R,J
+  14,R
+   9,R,J
+   9,R
+  10,R,J
+  10,J
+   2,R,J
+  15,U,X
+   1
+   6,L
+  15,U,X
+  15,R,U,C
+  26,R,D
+   1,R,J
+  14,R
+   1,R,J
+  12,R,Z
+  40
+
+#lvl_1-g
+#7x
+   2,R
+   1,R,J
+   7,R
+  23,R,J
+  15,R,Z
+  13,L,G
+   1,J,G
+  10
+   3,L,G
+   1,L,J,G
+  13,L
+   1,L,J
+   5,L
+   5,R
+  35,R,J
+  38,R,U,Z
+  15,U,X
+  10,L
+  22,R,J
+  15,U,X
+  28,L,J
+  33,R,D
+  10,L,Z
+  27,R,J
+  53,R,U,X
+  38,R,U,C
+   1,R,J,G
+   1,R,K,G
+  14,R
+   1,R,J
+  13,R
+  40
+
+#lvl_1-h
+#3x
+   1,R
+   1,R,J
+  15,R
+  20,R,J
+  14,R,X
+   1,R,J,G
+  10,R
+  11,R,J
+  10,R
+   8,R,J
+  18,U,X
+   8,L
+  15,U,X
+   8,L
+  12,L,J,G
+   3,L,K,G
+  40,X
+
+#lvl_2-a
+#5x
+   1,R,J
+  23,R
+   2,R,J
+  15,R
+  24,R,U,Z
+  35,R,U,X
+  98,R,U,C
+ 106,R,U,X
+   7,D
+  27,R
+  26,R,U,Z
+   6
+  27,R
+   1,R,J
+  14,R
+   1,R,J
+   2,R
+  40
+
+#lvl_2-b
+#10x
+  19,R
+   9,R,J
+   1,R
+  15,R,Z
+  27,L
+  14,R,D,X
+  23,R,J
+  15,R,U,Z
+   9
+   3,R
+  15,U,X
+   3
+   4,L
+   1,R
+  44,R,U,X
+  11,L,D,C
+  26,R,J
+  32,R,U,C
+   5
+   4,R
+#~0.5ypx off to dave
+  14,U,X
+  27,L,J
+   9,L
+   4,R,J,G
+  14,R,K,G
+   1,J
+  24,R,J
+   9,L,K
+  21,L,U,X
+  18,R
+  27,R,U,X
+   1
+   6,R,J,G
+   7,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   7,R
+  40
+
+#lvl_2-c
+#7x
+   7,R
+   1,R,J
+  17,R
+  21,R,J
+  13,U,X
+  28,L,J
+  20,R,J
+  23,R,K
+  10,R
+  34,R,U,X
+  13,R,U,Z
+   9,R,J
+  16,U,X
+   6,L
+  15,R
+  34,R,J
+  36,R,U,X
+  20,R,U,C
+  61,R,U,X
+   1,R,J,G
+   1
+   1,R,J,G
+   1
+   2,R,J,G
+   7,R
+   1,R,J,G
+  14,R
+   1,R,J
+  12,R
+  40
+
+#lvl_2-d
+#1x
+   3,R
+   1,R,J
+  14,R
+   1,R,J
+  23,R
+   9,R,J
+   8,R
+  10,R,J
+  37,R,X
+  10,R,J
+  99,R,D
+
+ChapterTime: 1:14.732(4396)
