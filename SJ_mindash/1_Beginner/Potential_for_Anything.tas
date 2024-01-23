@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3694
+RecordCount: 3695
 
 console load StrawberryJam2021/1-Beginner/frozenflygone
    1
@@ -274,39 +274,25 @@ endrepeat
 
 #lvl_SS2-3(1)
 #0x
-  74,U
-  11,L,U
+  82,U
+   3,R,U
   40
 
 
 #lvl_SS2-5b
 #0x
-  10,L,U
-repeat 2
-   1,L,J
-  14,L
-endrepeat
-   5,L,J
-  43,L,U
-  11
-  21,R,D
-   4,R,J
-   8,R,D
-   4,R
+   1,R,U
+   4
+   1,O
+  68
+   1,R
    1,R,J
-  20,R
-   1,R,J,G
-  10,R,K,G
-  22,R,D
-   4,R
-   1,R,J,G
   14,R
-   5,R,J
-   5,R
-   2,R,J
-  17,R,U
-  13,L
-  52,D
+   1,R,J
+  14,R
+   1,R,J
+  20,R,U
+  66,D
   40
 
 
@@ -1310,6 +1296,6 @@ endrepeat
    4,U,X
  135
 
-ChapterTime: 3:10.400(11200)
-#11200
+ChapterTime: 3:08.462(11086)
+#11086
 #9 -> 4 dashes
