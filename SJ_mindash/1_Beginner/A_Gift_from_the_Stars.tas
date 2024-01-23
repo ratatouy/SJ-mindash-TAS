@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1146
+RecordCount: 1180
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
@@ -119,10 +119,13 @@ endrepeat
   11
 #dash
   15,L,U,X
-  23,L,D
-  32,D
-   9,R,J
-  19,R
+  19,L,D
+  14,R,D
+   1,D
+  10,R,D
+  11,R
+   2
+   1,R
   38,L
   10
 #dash
@@ -130,11 +133,14 @@ endrepeat
 #dash
   15,L,U,C
   23,L,D
-  12,D
+   9,L
 #dash
-   5,R,Z
-   7,L,J
-   2
+   9,R,D,X
+   1,L,J
+   1,J
+   5,L,J
+   1,L
+   1,L
   19,L,D
 #dash
   15,L,Z
@@ -143,13 +149,13 @@ endrepeat
    1,L,K,G
    1
   12,L
-   1,L,J,G
-   6,L,K,G
+   1,L,J
+   7,L,K,G
    1,S
    1,D,J
   34
    1,L,J
-  22,L,D
+  23,L,D
    1,J
   16,D
   12,R,D
@@ -613,6 +619,6 @@ endrepeat
   10,R,X
  135
 
-ChapterTime: 1:20.784(4752)
-#4732
+ChapterTime: 1:20.410(4730)
+#4730
 #25 -> 24 dashes
