@@ -1,14 +1,15 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2460
+RecordCount: 2567
 
 console load StrawberryJam2021/2-Intermediate/Arphimigon
- 101
+   1
 
 #Start
-#lvl_a_01(0)
+ 100
 
+#lvl_a_01 (0)
    5,R
    9,R,J
   32,R,U,J,X
@@ -50,7 +51,6 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
   40
 
 #lvl_a_02
-
    7,L
   59,L,X,G
   50,L,G
@@ -70,14 +70,13 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
   46,L,D,J
    1,S
    1,D,J
- 103
+  69,O
    5,R
    1,R,J
   10,R,D
   40
 
-#lvl_a_01(1)
-
+#lvl_a_01 (1)
   20,R,D
    1,R,J
    2,R
@@ -107,7 +106,6 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
   40
 
 #lvl_a_03
-
    9,L
   18,L,J
   42,U,X
@@ -180,7 +178,7 @@ EndRepeat
   16,G
    1,S
    1,D,J
- 103
+  69,O
    1,R,J
   33,R,D
    1,R,J
@@ -198,8 +196,7 @@ EndRepeat
   17,R
   40
 
-#lvl_a_01(2)
-
+#lvl_a_01 (2)
   19,R
   72,R,J
   38,R,D
@@ -233,7 +230,6 @@ EndRepeat
   40
 
 #lvl_a_04
-
   13,R,D
   19,R,D,G
    1,L,D,G
@@ -260,13 +256,12 @@ EndRepeat
   22,D
    1,S
    1,D,J
- 103
+  69,O
    3,R
   14,R,J
   40
 
-#lvl_a_01(3)
-
+#lvl_a_01 (3)
   14,R
    9,L,J
   13,L
@@ -309,7 +304,6 @@ EndRepeat
   40
 
 #lvl_a_05
-
    6,R
   18,R,J,G
   13,R,U,X,G
@@ -337,14 +331,13 @@ EndRepeat
   20,R,U,X
    1,S
    1,D,J
- 103
+  69,O
    5,L
    1,L,J
   10,L
   40
 
-#lvl_a_01(4)
-
+#lvl_a_01 (4)
   20,L
   76,L,J
   26,L,D
@@ -413,7 +406,6 @@ EndRepeat
   40
 
 #lvl_b_01
-
   26,R,D
   18,D
   21,J
@@ -438,7 +430,6 @@ EndRepeat
   40
 
 #lvl_b_02
-
   16
   16,U,X
   74,R,D,G
@@ -486,7 +477,6 @@ EndRepeat
   40
 
 #lvl_b_03
-
    6,R,D,G
    1,R,J,G
   51,R,D,G
@@ -616,7 +606,6 @@ EndRepeat
   40
 
 #lvl_b_04
-
   40,R
   13,R,D
   53,R,G
@@ -654,9 +643,10 @@ EndRepeat
   40
 
 #lvl_b_05
-
   12,R
    1,R,J
   12,R
-  99,R,U,X
-ChapterTime: 3:09.601(11153)
+  11,R,U,X
+ 135,R,D
+
+ChapterTime: 3:07.289(11017)
