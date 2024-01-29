@@ -1,10 +1,12 @@
-RecordCount: 3037
+RecordCount: 3039
 
 console load StrawberryJam2021/2-Intermediate/marlin
-  70
+   1
 
 #Start
+  69
 
+#lvl_1
    5,R
    3,R,J
   25,R
@@ -621,8 +623,7 @@ console load StrawberryJam2021/2-Intermediate/marlin
   89,R
   42,L,D
   86
- 156,U,X
+  21,U,X
+ 135
 
-#2:50.051(10003)
-
-
+ChapterTime: 2:50.051(10003)
