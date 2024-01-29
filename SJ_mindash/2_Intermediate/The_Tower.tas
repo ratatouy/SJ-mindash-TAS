@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 982
+RecordCount: 985
 
 console load StrawberryJam2021/2-Intermediate/pixelator
    1
@@ -382,8 +382,9 @@ repeat 4
    1,J,G
    8,R,J
    6,R
-   5,R,X
- 238,R,D
+  17,R,X
+  92,R,D
+  43,R,J
 
 ChapterTime: 1:11.995(4235)
 #23 dash
