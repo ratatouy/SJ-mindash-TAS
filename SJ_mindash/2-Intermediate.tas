@@ -1,1 +1,145 @@
+#Intermediate Lobby
+#640x
+
+unsafe
+console clrsav
+Set,CollabUtils2.DisplayEndScreenForAllMaps,False
+
+console load StrawberryJam2021/0-Lobbies/2-Intermediate
+   1
+
 #Start
+#42x
+Read,2_Intermediate_Lobby/int_0-1,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/Frosted_Fragments,Start
+   1,O
+  32
+
+#33x
+Read,2_Intermediate_Lobby/int_1-2,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/Low-G_Botany,Start
+   1,O
+  32
+
+#81x
+Read,2_Intermediate_Lobby/int_2-3,Start
+Read,Enter_Postcard,Start
+Read,2_Intermediate/Pointless_Machines,Start
+   1,O
+  32
+
+#24x
+Read,2_Intermediate_Lobby/int_3-4,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/Deep_Blue,Start
+   1,O
+  32
+
+#12x
+Read,2_Intermediate_Lobby/int_4-5,Start
+Read,Enter_Postcard,Start
+Read,2_Intermediate/Midnight_Monsoon,Start
+   1,O
+  32
+
+#32x
+Read,2_Intermediate_Lobby/int_5-6,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/Pufferfish_Transportation,Start
+   1,O
+  32
+
+#14x
+Read,2_Intermediate_Lobby/int_6-8,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/Supernautica,Start
+   1,O
+  32
+
+#44x
+Read,2_Intermediate_Lobby/int_8-7,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/Sleeping_Under_Stars,Start
+   1,O
+  32
+
+#31x
+Read,2_Intermediate_Lobby/int_7-9,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/Fifth_Dimension,Start
+   1,O
+  32
+
+#13x
+Read,2_Intermediate_Lobby/int_9-10,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/Honeyzip_Inc,Start
+   1,O
+  32
+
+#37x
+Read,2_Intermediate_Lobby/int_10-11,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/Vertigo,Start
+   1,O
+  32
+
+#23x
+Read,2_Intermediate_Lobby/int_11-14,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/The_Tower,Start
+   1,O
+  32
+
+#1x
+Read,2_Intermediate_Lobby/int_14-12,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/Sea_of_Soup,Start
+   1,O
+  32
+
+#16x
+Read,2_Intermediate_Lobby/int_12-13,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/In_Filtration,Start
+   1,O
+  32
+
+#38x
+Read,2_Intermediate_Lobby/int_13-16,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/Construction_Conundrum,Start
+   1,O
+  32
+
+#13x
+Read,2_Intermediate_Lobby/int_16-15,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/EAT_GIRL,Start
+   1,O
+  32
+
+#50x
+Read,2_Intermediate_Lobby/int_15-17,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/Temple_of_a_Thousand_Skies,Start
+   1,O
+  32
+
+#27x
+Read,2_Intermediate_Lobby/int_17-18,Start
+Read,Enter_Level,Start
+Read,2_Intermediate/Square_the_Circle,Start
+   1,O
+  32
+
+#102x
+Read,2_Intermediate_Lobby/int_18-19,Start
+Read,Enter_Heartside,Start
+Read,2_Intermediate/Raspberry_Roots,Start
+  61
+   1,O
+
+FileTime: 49:56.522(176266)
