@@ -1,0 +1,54 @@
+RecordCount: 54
+
+console load StrawberryJam2021/0-Lobbies/2-Intermediate
+   1,S
+
+#Start
+#0x
+ 190
+   5,R
+   1,R,J
+  21,R,D
+   1,R,J
+  19,R
+   1
+   1,R
+   1
+   1,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+  21,R,D
+  10,R,J
+   5,R
+   6,R,J
+  30,R
+   1
+   1,R,D
+   2,D
+   1,R,D
+   1,R
+   1,R,J
+   1,R,K,G
+   2,R,J,G
+  18,R,K,G
+   1,R,J,G
+   9,R,J
+   7,R
+   1,R,J
+  14,R
+   1,R,J
+  49,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   5,R
+   1,R,J
+   8,R
+
+
+FileTime: 0:07.735(455)
+#455
+#0 dashes
