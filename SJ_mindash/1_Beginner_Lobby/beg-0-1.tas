@@ -1,6 +1,7 @@
 console load StrawberryJam2021/0-Lobbies/1-Beginner
    1
 
+#1x
 #Start
  190
   12,R
@@ -76,4 +77,4 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner
 
 #575
 FileTime: 0:09.775(575)
-#Total dashes : 0
+#Total dashes : 1
