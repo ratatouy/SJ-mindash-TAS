@@ -1,11 +1,15 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1403
+RecordCount: 2065
 
 console load StrawberryJam2021/3-Advanced/Goldian
- 191
+   1
+
 #Start
+ 190
+
+#lvl_start
    1,R,J
   14,R
    1,R,J
@@ -42,6 +46,7 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R,J
   16,R
   40
+
 #[tutorial-1] - previous room: 0x 308f 
    1,R,J
   14,R
@@ -95,6 +100,7 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R,J
    7,R
   40
+
 #[goldian-1] - previous room: 1x 484f
    7,R
    1,R,J
@@ -155,6 +161,7 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R,J
   14,R
   40
+
 #[aiden-2] - previous room: 3x 556f
   13,R,Z
    1,R,J
@@ -195,6 +202,7 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R,J
    1,R
   40
+
 #[goldian-3] - previous room: 1x 362f
   13,R
    1,R,J
@@ -228,82 +236,125 @@ console load StrawberryJam2021/3-Advanced/Goldian
   21,K
    8,U,X
   23,L,G
-  26,R,G
-   1,R
-  12,R,D
-  18,L,D
+  32,R,D,G
+  10,D,G
+  22,R,D,G
    1,D
-   9,R,J
-  26,R
-   1,R,J,G
-   5,R
-   9
-   8,R,J
-   5,R
-  25,R,J
-   5,R,D
-  10,R,J,G
-  10,U,X
-  11,R,J
-  19,R
-  12,D
-   2,L
-   5,R,J
-   5,R
-  16,R,J
-   1
-  14,R,U,Z
+   1,R,K,G
   28,R,J,G
+  14,R,G
+  10,R,K,G
+   1,R,G
+  33,R,K,G
+   1,R,D
+   6,R
+  22,R,K,G
+  10,R,G
+   3,L,G
+   1,D
+   2
+   3,K,G
+   9,K
+  20,K,G
+   2,D,K
+   1,G
+   1,K,G
+  34,J,G
+   1,R,K,G
+  38,R,J,G
+  11,D,G
    1,R
-  25,R,D
+   1,L,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,L,G
+   1
+   1,G
+   1
+   1,K
+   2,J,G
+   3,R,J
+   5,R
+   8,R,J
+  21,R,J,G
+   2,L,J,G
+   3,L,D
+   8,R,U,X
+  18,R,J,G
+   1,K,G
+  26,L,K,G
+   1,L,D,K
+   4,J,G
+   1,R,K
+  15,R,J,G
+   7,R,G
+   1,R
+  13,R
+  13,R,D
+   5,R,K
+   5,R
+   2,R,K
+  15,R,D
+   1,D
+   1,R,K,G
+   6,R,J,G
+  14,R
+   1,R,K,G
+   1,R,J,G
+  23,R
+  27,R,K
+   1,K
+   1,R,K
+   2,K
+  15,U,X
+   5,L
+  15,R,K
+  47,R,D
+   2,L,D
+   1,J,G
+   3,R,J
+   7,R
+   1,R,J
+   1,R
+   1,R,K,G
+   6,R,J,G
+   5,R
+   7,R,J
+   7,R
+   1,K,G
+   1,L,K
+   1,R,K
+   1,J,G
+   1,L,J
+   2,R,K,G
+   2,R,J,G
+   1,L,J
+   2,J
+   2
+   6,R
+   1,R,K
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   6,R
+  40
+
+#[goldian-4] - previous room: 5x 952f
+   8,R
    1,R,J
   14,R
    1,R,J
    8,R
-   2,R,J
-   5,R
-  12,R,Z
-   1,R,J
-   6,R
-  18,R,J
-   1,L,K
-  22,L,J
-   1,K
-  25,L,K
-  35,R,J
-  15,R,D
-   7,R,J
-  19,R
-   7,R,D
-   1
-   1,R,J,G
-   6,R,K,G
-   6,R
-  13,R,J
-   1,K,G
-   1,L,K
-   4,R,K
-   4,R,J,G
-   1,J
-   2,R,J
-   2,R
-   1,R,K,G
-  13,R
-   1,R,J
-  14,R
-   1,R,J
-  10,R
-  40
-#[goldian-4] - previous room: 5x 952f
-   4,R
-   1,R,J
-  14,R
-   1,R,J
-   1,R
-  27,R,J
+  15,R,J
   32,R,K
-  25,R,U,Z
-   1
+  20,R,U,Z
+   2
+   3,R
+   2
    1,J
   29,L,J
   11,K
@@ -371,6 +422,7 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R,J
    4,R
   40
+
 #[tutorial-2] - previous room: 7x 743f
   10,R
    1,R,J
@@ -448,33 +500,37 @@ console load StrawberryJam2021/3-Advanced/Goldian
    5,R,D,J,X
    6,R
   43,R,J
-   6,K,G
+   3,K,G
+   1,R,K
+   2,K
    1,L,K
-   1,J
-  20,R,J
-  14,R,U,X
-  16,R
-   1,R,J,G
-   9,R,K,G
-   9,R
-   1,R,J
-   9,R,D
+   1,R,K
+   1,J,G
+  20,R,J,G
+   7,R,K,G
+   1,R,K,G
+  10,R,J,G
+   3,R
+   1,K
+  35,R,K
+  17,R,J,G
+  21,R,D
    4,D
-   4,R,D
-   2,D
-   7,R,D
-   4,R
-   3
-   1,D
+   3,R,D
+   7,R
+   6
+   1,R
    4,R,J
   13,R
    1
    1,R,J,G
-  13,R,K,G
-  20,R
-   5,R,J,G
-   4,J
-  12,L,K
+   8,R
+   5
+   8,R,J
+  17,R
+   8,R,J,G
+  13,L,K
+   1,K
    1,R,J
   12,R,K
   22,R,K,G
@@ -491,9 +547,10 @@ console load StrawberryJam2021/3-Advanced/Goldian
    8,R,J
    9,R
    2,R,J
-  12,R
-   2,R,D
+  10,R
+   1,R,D
    1,R
+   3,R,D
    6,L,Z
    1,R,J
    9,R
@@ -540,6 +597,7 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R,J
   10,R
   40
+
 #[goldian-6] - previous room: 5x 840f
    4,R
    1,R,J
@@ -627,6 +685,7 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R,J
   14,R
   40
+
 #[goldian-7] - previous room: 5x 826f
    1,R,J
   14,R
@@ -765,6 +824,7 @@ EndRepeat
    1,R,K
    8,R
  151,R,U,X
+
 #previous room: 1x 1012
-#33 dashes
-ChapterTime: 2:10.016(7648)
+#31 dashes
+ChapterTime: 2:13.739(7867)
