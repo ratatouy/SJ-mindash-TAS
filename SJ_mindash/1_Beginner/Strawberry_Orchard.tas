@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2839
+RecordCount: 2844
 
 console load StrawberryJam2021/1-Beginner/Jadeturtle
    1
@@ -621,8 +621,7 @@ endrepeat
    1,L,J,G
    1,L,K,G
   55,L,J,G
- 146,R,K
-
+  56,R,K
 
 ChapterTime: 2:05.273(7369)
 #6 dash
