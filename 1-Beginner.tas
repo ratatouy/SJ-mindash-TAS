@@ -1,0 +1,173 @@
+#Beginner Lobby
+#501x
+
+#Note:
+#Nx+Mx means that the lobby movement
+#uses N amount of dashes, and the level
+#after uses M amount of dashes.
+#This is only used if the lobby
+#movement uses a dash in the
+#first place.
+
+unsafe
+console clrsav
+Set,CollabUtils2.DisplayEndScreenForAllMaps,False
+
+console load StrawberryJam2021/0-Lobbies/1-Beginner
+   1
+
+#1x+24x
+Read,1_Beginner_Lobby/beg_0-1,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Loopy_Lagoon,Start
+   1,O
+  32
+
+#29x
+Read,1_Beginner_Lobby/beg_1-11,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Forest_Path,Start
+   1,O
+  32
+
+#16x
+Read,1_Beginner_Lobby/beg_11-12,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Azure_Caverns,Start
+   1,O
+  32
+
+#13x
+Read,1_Beginner_Lobby/beg_12-10,Start
+Read,Enter_Level,Start
+Read,1_Beginner/if_my_driveway,Start
+   1,O
+  32
+
+#42x
+Read,1_Beginner_Lobby/beg_10-D-9,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Treehive,Start
+   1,O
+  32
+
+#1x
+Read,1_Beginner_Lobby/beg_9-8,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Rose_Garden,Start
+   1,O
+  32
+
+#60x
+Read,1_Beginner_Lobby/beg_8-4,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Switchtube_Vista,Start
+   1,O
+  32
+
+#1x
+Read,1_Beginner_Lobby/beg_4-3,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Over_the_City,Start
+   1,O
+  32
+
+#12x
+Read,1_Beginner_Lobby/beg_3-2,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Collapsing_Skyline,Start
+   1,O
+  32
+
+#24x
+Read,1_Beginner_Lobby/beg_2-5,Start
+Read,Enter_Level,Start
+Read,1_Beginner/A_Gift_From_the_Stars,Start
+   1,O
+  32
+
+#83x
+Read,1_Beginner_Lobby/beg_5-6,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Troposphere,Start
+   1,O
+  32
+
+#4x
+Read,1_Beginner_Lobby/beg_6-7,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Potential_for_Anything,Start
+   1,O
+  32
+
+#1x
+Read,1_Beginner_Lobby/beg_7-13,Start
+Read,Enter_Level,Start
+Read,1_Beginner/The_Squeeze,Start
+   1,O
+  32
+
+#6x
+Read,1_Beginner_Lobby/beg_13-14,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Strawberry_Orchard,Start
+   1,O
+  32
+
+#41x
+Read,1_Beginner_Lobby/beg_14-15,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Paint,Start
+   1,O
+  32
+
+#3x
+Read,1_Beginner_Lobby/beg_15-16,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Coresaken_City,Start
+   1,O
+  32
+
+#11x
+Read,1_Beginner_Lobby/beg_16-17,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Dropzle,Start
+   1,O
+  32
+
+#22x
+Read,1_Beginner_Lobby/beg_17-18,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Soap,Start
+   1,O
+  32
+
+#4x
+Read,1_Beginner_Lobby/beg_18-19,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Seeing_is_Believing,Start
+   1,O
+  32
+
+#6x
+Read,1_Beginner_Lobby/beg_19-20,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Cassette_Cliffs,Start
+   1,O
+  32
+
+#7x
+Read,1_Beginner_Lobby/beg_20-21,Start
+Read,Enter_Level,Start
+Read,1_Beginner/Midnight_Spire,Start
+   1,O
+  32
+
+#90x
+Read,1_Beginner_Lobby/beg_21-F-D-22,Start
+Read,Enter_Heartside,Start
+Read,1_Beginner/Blueberry_Bay,Start
+  61
+   1,O
+
+FileTime: 44:31.516(157148)
