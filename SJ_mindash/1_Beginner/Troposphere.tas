@@ -1,24 +1,24 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 838
+RecordCount: 1214
 
 console load StrawberryJam2021/1-Beginner/Eclipse
    1
 
+#83x
 #Start
-#8x
  190
+
+#8x
+#lvl_a_01
    5,R
    7,R,J
-#dash
-  34,R,X
-   2,R,J
-  10,R,K
-#dash
+  35,R,X
+   4,R,J
+   7,R,K
   23,U,X
    4,L
-#dash
   25,L,X
    8,L,J
   12,L,K
@@ -36,75 +36,76 @@ console load StrawberryJam2021/1-Beginner/Eclipse
    3,L,J
    3,R,J
    1,R,K,G
-  23,R,J,G
-#dash
-  14,U,X
-  25,R
-  10
-  13,J
-#dash
-  14,U,X
-  20,R
-#dash
-  15,R,U,X
-#dash
-  15,U,C
-   7,R
-  12
-   2,R
-  12,L
-  24,L,J
-#dash
-  14,L,X
-   7,L
-  17
+   1,R,J,G
   11,R
+   1,R,J
+  14,R
+   1,R,J
+  23,R
+   1,R,N
+  10,L,J
+  15,U,X
+  32
+   1,R
+  12,R,J
+   2,J
+   1,R,J
+  24,U,X
+   4
+  15,R,U,C
+  15,U,X
+   6,R
+   5
+   2,R
+   2
+   1,R
+   4
+  14,L,X
+  12,L,J
+  23,L
+  22,R
   22,R,J
   85
   40
 
-# a_02
 #6x
-  69
+#lvl_a_02
+  10,L
+  15,R
+   1
    5,R
-  13,R,J
-#dash
-  14,R,X
-   6,R
+   1,R,N
    1,R,J
-   3,R
-   1,R,J
-  12,R
+  14,R
+   7,R,J
+  19,R,X
+   4,R,J
+   3,R,K
+  10,R
   25
   16
-#dash
   37,L,X
-   1,L,J
-   3
-  14,L,J
+   4,L,J
+  14,L,K
   25
   57,R
-#dash
   26,R,X
-   1,R,J
-   3
-  14,R,J
+   4,R,J
+  14,R,K
   25
   12
-#dash
   16,L,X
    1,L,J
    3,L
    1,L,J
   25
   39,L
-#dash
   28,L,U,X
-#dash
   41,L,C
   25
-  25,R
-  26,L,U
+  24,R
+  26
+   1,L,U
    5,U
    8,R,U
   19,R
@@ -112,16 +113,21 @@ console load StrawberryJam2021/1-Beginner/Eclipse
  116
   40
 
-# a_03
 #11x
-  72
-  14,R
-  29,R,J
+#lvl_a_03
+  15
+  19,R
+  23,R,J
+   8,L,J
+   1,N
+   1,J
+   8
+   1,R
+   5,J
+   7,L,J
+  21,L,K
+  15,U,X
   12,L
-  28,L,J
-#dash
-  14,U,X
-  10,L
   25
   46,R
    2
@@ -131,102 +137,80 @@ console load StrawberryJam2021/1-Beginner/Eclipse
    6,R,K
    1,R,J,G
    4,R,K,G
-  17,R
-   4,R,D
+  21,R,D
   25
   12
-#dash
   15,L,X
-   1,L,J
-   3
-   8,L,J
+   4,L,J
+   8,L,K
    1,L
   18,L,J
   25
   14,R
-#dash
   20,U,X
    6,R
-#dash
   21,R,X
-   1,R,J
-   3
-  10,R,J
+   4,R,J
+  10,R,K
    1,R
   12,R,J
   25
   33,L
-#dash
   17,R,U,X
-   1,R,J
-  20
-   2,D
+   4,R,J
+  19,D
   25
   14,L
-#dash
   21,L,X
-   1,L,J
-   3
-  10,L,J
+   4,L,J
+  10,L,K
    1,L
   19,L
   25
-  16
-#dash
+  17
   18,U,X
-#dash
-  16,U,C
+  14,U,C
   25
   53,R
-#dash
   26,R,U,Z
-   1,R,J
-   3
+   4,R,J
    4,R
   16,L,J
-#dash
   19,U,X
-#dash
   16,L,C
-   1,L,J
-   3
-   1,L,J
+   4,L,J
+   1,L,K
   14,L
  205
   40
 
-# b_01
 #4x
-  69
-   5,R,J
-#dash
-  11,R,X
-   1,R,J
-   3
-  15,R,J
-#dash
+#lvl_b_01
+  11,R
+   1,R,J,G
+   2,R
+  10,R,X
+   4,R,J
+  15,R,K
   19,R,X
-   1,R,J
-   3
+   4,R,J
    4,R
   18,R,J
-#dash
-  21,R,X
-  17,R
-   4,R,D
-  12,R
-#dash
+  25,R,X
+  17,R,D
+   8,R
+   3,R,D
+   1,R
   24,R,U,X
-   1,R,J
-   3
-   1,R,J
+   4,R,J
+   1,R,K
   31,R,D
    1,R,J
    4,R
   40
 
-# b_02
 #9x
+#lvl_b_02
   19,R,D
    1,R,J
   14,R
@@ -235,50 +219,36 @@ console load StrawberryJam2021/1-Beginner/Eclipse
    7,R,K,G
   12,J,G
    3,R,J
-#dash
   19,R,X
-   1,R,J
-   3
-   1,R,J
+   4,R,J
+   1,R,K
   22,R,D
    3,R
-#dash
   10,R,Z
-   1,R,J
-   3
-  11,R,J
+   4,R,J
+  11,R,K
    1,R
    8,R,J
-#dash
   22,R,X
-   1,R,J
-   3
-  41,R,J
-#dash
+   4,R,J
+  41,R,K
   18,R,X
-#dash
   68,R,C
-   1,R,J
-   3
-   9,R,J
-   1,R
-  31,R,D,J
-#dash
-  12,R,Z
-   1,R,J
-   3
+   4,R,J
+   9,R,K
+   5,R
   10,R,J
-#dash
+  17,R,D
+  12,R,Z
+   4,R,J
+  10,R,K
   10,U,X
    8,R
-#dash
-  12,R,X
-  30,R,D
-#dash
+  16,R,X
+  26,R,D
   57,R,Z
-   1,R,J
-   3
-   1,R,J
+   4,R,J
+   1,R,K
   22,R,D
    1,D
    4,R,D
@@ -294,11 +264,12 @@ console load StrawberryJam2021/1-Beginner/Eclipse
    1,R,J,G
    3
    4,R,J
+   1
   40
 
-# b_03
 #3x
-   2,R,J
+#lvl_b_03
+   1,R,J
    2,R
    1,R,K
    1,R,J,G
@@ -309,83 +280,61 @@ console load StrawberryJam2021/1-Beginner/Eclipse
    6,R,J
    1,R
   20,R,J
-#dash
   36,R,Z
-#dash
-  24,U,X
-  95,R
+ 100,U,X
+  19,R
    5
   10,R,D
-#dash
   17,R,Z
   40
 
-# b_04
 #11x
+#lvl_b_04
   34,R,D
    1,R,J
   10,R
    1,R,J,G
    3,R,K,G
   13,R
-#dash
   21,R,X
-   1,R,J
-   3
-   6,R,J
-#dash
+   4,R,J
+   6,R,K
   21,R,D,X
   25
   15
-#dash
-  52,U,X
-  28,L,D
+  56,U,X
+  24,L,D
   12,D
-   2
-   3,R
-#dash
-  17,L,D,X
-   8,L,D
+   5
+   4,X
+  21,L,D,X
    9,L,J
-   1,L
-  29,L,J
+   5,L
+  24,L,J
   25
   17,L
-#dash
-  21,L,U,Z
-   3
+  24,L,U,Z
    1,S
    1,D,J
   69,O
    5,R
   11,R,J
-  20,R
-   5,R
-#dash
+  25,R
   19,R,X
-   1,R,J
-   3
-  13,R,J
-#dash
+   4,R,J
+  13,R,K
   13,R,U,Z
-  25
-  29,L
-#dash
+  26
+  28,L
   23,L,D,X
-#dash
   15,L,Z
-   1,L,J
-   3
-  10,L,J
+   4,L,J
+  10,L,K
    1,L
   14,L,J
   25
   14
-#dash
-  15,U,X
-  38,R
-   3
-#dash
+  56,U,X
   60,R,C
    1,L,J
   38,D
@@ -393,131 +342,107 @@ console load StrawberryJam2021/1-Beginner/Eclipse
  249
   40
 
-# b_05
 #15x
+#lvl_b_05
   74
   13,R,J
-  12,R,K,G
-   9,J,G
-   1,K,G
-  19,L,K
-  12,J,G
   12,K,G
-  13,J
+   7,J,G
+   1,L,J
+   1,L,K
+  16,L,J
+   1,K,G
+   2,L,K
+   6,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
   12,K
-#dash
-  15,U,X
+  12,L,J
+  16,U,X
   25
   43,L
-#dash
   29,L,U,X
-#dash
   12,R,C
-   1,R,J
-   3
-  15,L,J
-#dash
+   4,R,J
+  15,L,K
   17,U,X
   25
   13,R
-#dash
   21,R,X
-   1,R,J
-   3
-   7,R,J
-#dash
+   4,R,J
+   7,R,K
   21,U,X
-#dash
-  20,U,C
-   8,L
-#dash
+  25,U,C
+   3,L
   15,L,X
-   1,L,J
-   3
-   6,L,J
+   4,L,J
+   6,L,K
   14,L
-#dash
   20,L,Z
-   1,L,J
-   3
-   1,L,J
-   3,J
-#dash
+   4,L,J
+   1,L,K
+   3,K
   15,U,X
   17,R
-#dash
   21,R,U,X
-   1,R,J
-   3,J
    4,R,J
-  12,R,K
+  16,R,K
   25
   18,R
-#dash
   35,R,U,Z
-   1,L,J
-   3
-   7,R,J
-#dash
+   4,L,J
+   7,R,K
   20,L,U,X
-   1,L,J
-   3
-  12,L,J
+   4,L,J
+  12,L,K
   25
   20
-#dash
   18,U,X
-#dash
   15,U,C
   25
-  42,R,U
+  15
+  26
+   1,R,U
   51,F,355
   25
  118
   40
 
-# c_01
 #5x
+#lvl_c_01
   65
    7,L,J
-#dash
   52,L,X
-   1,R,J
-   3
+   4,R,J
   10,J
-#dash
   22,R,U,X
-   1,R,J
-   3
-   1,R,J
+   4,R,J
+   1,R,K
   25
   18,R
-#dash
   18,U,X
-#dash
   15,U,C
   11,R
-#dash
   33,R,U,Z
-   1,R,J
-   3
-   1,R,J
+   4,R,J
+   1,R,K
   30,R,D
   40
 
-# c_02
 #9x
+#lvl_c_02
    1,R,D
    1,R,J
-  18,R
+  24,R
+   1,R,N
    5,R,J
    7,R
-#dash
-  17,R,U,X
-#dash
-  58,R,C
-   1,L,J
-  16
+  20,R,U,X
+  55,R,C
+   4,L,J
+  13
    3,R
    5
    4,D
@@ -525,36 +450,27 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   11,L,J
    1,L
   25,L,J
-#dash
-  90,U,X
-  30,L
+  94,U,X
+  26,L
   30,D
    1,R
    6,D
    5,R,D
    2,R
-#dash
   29,R,U,Z
    1,J
   12,R,J
   12,R,K,G
    6,R,J,G
-#dash
   62,R,X
-   1,R,J
-   3
-  13,R,J
-#dash
+   4,R,J
+  13,R,K
   62,R,X
-   1,L,J
-   3
-#dash
+   4,L,J
   18,L,U,X
-   1,L,J
-   3
-   1,L,J
+   4,L,J
+   1,L,K
    3,L
-#dash
   25,L,D,X
   19,R,D
    9,D
@@ -564,11 +480,9 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   20,R
   29,F,60
  109,R
-#dash
   22,R,X
-   1,R,J
-   3
-   1,R,J
+   4,R,J
+   1,R,K
   35,R,D
    1,R,J
    2,R
@@ -579,15 +493,11 @@ console load StrawberryJam2021/1-Beginner/Eclipse
  125
   40
 
-# c_03_end
 #2x
-  72
-#dash
- 146,U,X
-  13,R
-#dash
-  11,U,X
- 136
+#lvl_c_03_end
+  11,R
+ 151,U,X
+  15,U,C
+ 135,D
 
-#2:06.990(7470) - 83 dashes
-ChapterTime: 2:06.990(7470)
+ChapterTime: 2:03.879(7287)
