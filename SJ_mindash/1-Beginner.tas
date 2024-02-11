@@ -1,5 +1,5 @@
 #Beginner Lobby
-#501x
+#499x
 
 #Note:
 #Nx+Mx means that the lobby movement
@@ -163,7 +163,7 @@ Read,1_Beginner/Midnight_Spire,Start
    1,O
   32
 
-#90x
+#88x
 Read,1_Beginner_Lobby/beg_21-F-D-22,Start
 Read,Enter_Heartside,Start
 Read,1_Beginner/Blueberry_Bay,Start
