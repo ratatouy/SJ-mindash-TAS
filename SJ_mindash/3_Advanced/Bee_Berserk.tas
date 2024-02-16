@@ -3,7 +3,7 @@ RecordCount: 10251
 console load StrawberryJam2021/3-Advanced/TiltTheStars
    1
 
-#66x
+#65x
 #Start
  114
 
@@ -807,7 +807,7 @@ EndRepeat
    1,R
   41
 
-#23x
+#22x
 #lvl_badeline_v2
    5,R
    1,R,J
@@ -894,6 +894,7 @@ EndRepeat
   11,R
 
 #lvl_mini_heart_room
+#1x
   19,R,D
    4,R,D,X
  135
