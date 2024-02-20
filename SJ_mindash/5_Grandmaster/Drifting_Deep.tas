@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://fbanana.com/mods/424541
 
-RecordCount: 5294
+RecordCount: 5295
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -234,7 +234,7 @@ endrepeat
    5,R,X
   26
    1,R,U
-AnalogMode Precise
+AnalogMode Ignore
   22,F,115
    7,F,110
   22,F,108.269
@@ -745,7 +745,7 @@ endrepeat
   40
 
 #2x
-#lvl_a-05
+#lvl_a-06
    3,R
    1,R,J
    2,R,K,G
