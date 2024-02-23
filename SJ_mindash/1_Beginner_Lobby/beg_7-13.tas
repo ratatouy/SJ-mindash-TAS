@@ -11,12 +11,6 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 2288 608
   17,L,D
    5,L,J
   17,L
-
-
-
-
-
-
   19,D
   29,L,D
    1,D
@@ -46,6 +40,7 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 2288 608
    9,L
    1,L,J
   15,L,D
+   1,X
 
 #0x
 #315f
