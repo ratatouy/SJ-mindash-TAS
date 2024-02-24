@@ -1,92 +1,115 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 685
+RecordCount: 782
 
 console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1
+
+#4x
 
 #Start
 #0x
   88
    5,R
    1,R,J
-  16,R
+  14,R
+   2,D
    1,S
    1,D,J
-  35,R
+  34
+   1,R
    1,R,J
   14,R
    1,R,J
-  14,R
+  24,R
    1,R,J
-  25,R
+   7,R
+   2,R,J
+   6,R
    4,R,J
    1,R
    1,R,J,G
    1,R,K,G
-  10,R
+   9,R
    1,R,J
   14,R
-   1,R,J
-   2,R
+   3,R,J
+  40
 
 
 #lvl_a_02
 #0x
-  40
-  12,R
-   1,R,J
-   9,R
+   4,R,J
+   5,R
+   2,R,J
+  13,R
+   1,R,D,J
+   1,R,K,G
+   1,R,J,G
+   2,R
+   2
+   3,R
+   1
+   3,R
+   5,R,J
+   2,R
+   1
+  10,R
+   1,R,J,G
+   1,R,K,G
+   3,R
    1
    1,R
-   1,R,J,G
-  12,R
-   9,R,J
-   6,R
-   3,R,J
-   5,R
+   1
+   3,R
+   1,R,D,J
    2
-   2,R
+   1,R,K,G
+   6,R,J,G
+   5,R
+   2,R,J
+  13,R
+   1,R,D
+  39,R
    1,R,J,G
    1,R,K,G
-   9,R
-   1,R,J
-   2,R
-   9,R,J,G
-  60,R
-   1,R,K,G
-   1,R,J,G
   11,R
    1,R,J
   14,R
   11,R,J
-  22,R
+   8,R
+   1,R,J
+  11,R
    1
-   1,R
-   1,R,K,G
+   1,D
+   2,R,D
    1,R,J,G
+   1,R,K,G
    9,R
    1,R,J
   14,R
    1,R,J
    6,R
-
+  40
 
 #lvl_a_03
 #0x
-  40
    8,R
-   2,R,J
-  12,R
+  12,R,J
+   9,R
+   1,R,J
+  33,R,D
+   6,R
+   1,R,D
+   1,R,J
    1,R,K,G
-   1,R,J,G
-  44,R,D
-  11,R
-  25,R,J
+   9,R
+  17,R,J
+   3,J
   13,L
-   7,J,G
-  15,K,G
+   7,K,G
+  14,J,G
   30,R,D
    1,R,J
   39,R,D
@@ -98,82 +121,86 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
   14,R
    1,R,J
    6,R
-
+  40
 
 #lvl_a_04
 #0x
-  40
-  18,R
+   8,R
+   1,R,J
+   5
+   7,R
    1
    1,R
+   1,R,D,J
+   1,R,K,G
+   1,R,J,G
+   2,R
+   2
+   3,R
+   1
+   3,R
+   1,R,J
+  27,R
+   2,K,G
+   1,L,K
+   1,R,J,G
+   3,R,K,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+   7,R
+   1,R,J
+   6
+   4,R
    1
    1,R
    1
    1,R
    1,R,J
    1,R,K,G
-   6,R,J,G
-  33,R
-   1,J,G
-   1,L,J
-   2,R,K,G
-   2,R,J,G
-   1,R,K,G
-   1,R,J,G
-   7,R
-   2,R,J
-   9,R
-   2
-   2,R
-   1,R,J,G
-  10,R,K,G
-   8,R
-   4,R,J
-   6,R
-  21,R,D
+   7,R,J,G
+  35,R,D
   58,D
   47,R
    1,J,G
-   1,L,J
-   1,R,K,G
-   6,R,J,G
+   8,R,J
    5,R,K,G
-   1,J,G
-  10,R,J
-   1,L,J
-  11,R,K,G
-  12,L
-  13,J,G
-  38,R,D
+  12,R,J,G
+   6,K,G
+  13,L
+   8,K,G
+   9,J,G
+  37,R,D
    1,R,J
   14,R
    1,R,J
-  12,R
-
+  13,R
+  40
 
 #lvl_a_05
 #0x
-  40
-   2,R
+   6
+   9,R
+   1
+   1,R
+   1
+   1,R
    1,R,J
-   4,R
-   3
-   3,R
-   1,R,J,G
    1,R,K,G
-  23,R,D
-   1,R,J
-  40,R,D
+   9,R,J,G
+  30,R,D
+   1,R
+   7,R,D
+   4,R
    1,R,J
    5,R
-   3,R,J
-   6,K,G
-   7,L,K
-   8,J,G
-   1,R,J
-   1,L,J
-   5,K,G
-  13,L,J,G
+  10,R,J
+   9,L,K,G
+   4,J
+  11,L,K,G
+   1
+   1,J,G
+   1
   43,R
    1
    1,R
@@ -185,7 +212,7 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
    5,R,J,G
    1,R,K,G
    1,R,J,G
-  10,R
+   9,R
    1,R,J
   14,R
    1,R,J
@@ -195,39 +222,38 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1,R,J
   14,R
    1,R,J
-   1,R
-
+   2,R
+  40
 
 #lvl_a_06
 #2x
-  40
-  15,R
-   5
-   1,L
+  13
+  19,R
+   1,D
+   1,R
    1
-   1,L
-   1
-   1,L
-   1
-  13,R
+   1,D
+   2,R
    1,R,J
    1,R,K,G
-   3,R,J,G
-   9,R
-   1,R,J
+   2,R,J,G
+   7,R
+   4,R,J
    5,R
    1
    1,R
    1,R,J,G
    1,R,K,G
-  10,R
-   3,R,J
-  11,R,K,G
-  22,R
-  12,R,D
+   9,R
+   4,R,J
+  10,R,K,G
+   5,R,D
+   1,R,J
+  20,R,D
    1,R
+   6,R,D
+   3,R
    1,R,D
-   1,R
    1,L,J
   17,L
    2
@@ -243,23 +269,18 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
 #dash
   28,R,C
    1,J,G
-   7,R,J
-   1,J
-   1,R,J
-   1,J
+   5,R,J
+   5,J
    1,L,J
   14,R,K,G
-   8,J,G
-   1,R,J
-   1,J
-   1,R,J
+   3,J,G
    1,L,J
   14,R,K,G
-   8,J,G
+   3,J,G
    1,L,J
-   1,R,K,G
+  14,R,K,G
    1,R,J,G
-   9,R
+   7,R
    1,R,J
   14,R
    1,R,J
@@ -267,13 +288,14 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1,R,J
   14,R
    1,R,J
-   9,R
-
+   6,R
+  40
 
 #lvl_a_07
 #0x
-  40
-  15,R
+  13,R
+   1
+   1,R
    2
    2,R
    1,R,J
@@ -281,25 +303,29 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
    1,R,J,G
    9,R
   20,L,D
-  18,R,D
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-  12,R,D,J
+   6,D
+  12,R,D
+   4,R,J
    9,R
-  31,R
-   5,J,G
+   1,R,J
+   6,R
+   2
+   1,R
    1
-   1,J,G
    1,R,J
-   1,J
-   1,R,J
-   1,J
-   1,L
-  14,R,K,G
-   1,R,J,G
+   1,R
    1,R,K,G
+  11,R,J,G
+   4,R
+   2,R,J
+  31,R
+   1,J,G
+   1
+  11,K,G
+   1,L,K
+  14,R,J,G
+   1,R,K,G
+   1,R,J,G
    9,R
    1,R,J
   14,R
@@ -311,95 +337,97 @@ console load StrawberryJam2021/1-Beginner/NotYourBadeline
   14,R
    1,R,J
    2,R
-
+  40
 
 #lvl_a_08
 #1x
-  40
   12,R
    1,R,J
-  18,R
+  14,R
    1,R,J
-   1,R,K,G
+   3,R
    1,R,J,G
-   2,R
-  33,L,D
-  30,R
-   5,R
+  11,R,D
+  21,L,D
+   1,R
+   1
+  36,R
 #dash
   15,R,U,X
   14,R
    2
    2,R
    1,R,J,G
-   1,R,K,G
+   3,R,K,G
   10,R
-   1,R,J
-   7,R
-  55,R,J,G
-   1,K,G
-   1,L,K
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   8,R
-  12,R,J
-  19,R
-   5,R,D
-   4,R,J
-   1,R
-  28,R,J
-   2
-   1,R,J,G
-   4,L,J
-   2,J
-   1,L,J
-   2,J
-   1,L,J
-   1,R,J
-   1,K,G
-   1,J,G
-   3,K,G
-   2,R,K
+   1
    2,R
+   1,R,J
+   3,R
+   1,R,J,G
+  12,R,K,G
+   5,R
+   4,R,J
+  24,R
+   5,R,D
    1,R,J,G
    1,R,K,G
-   6,R,K
-   6,R
-   2,R,J
-  12,R
-  43,R,K
-   7,J,G
-   1,L,J
-   1,L
-  15,R,K,G
-   1,R,J,G
    9,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
+   6,J
+   1
+   1,R
+   1
+   2,R
    1,R,J
    8,R
-
+   1
+   1,R
+   1,R,D
+   4,R
+   3,R,J
+   5,R
+  25,R,J
+   2
+   5,J,G
+   1,L,J
+  14,R,K,G
+   8,R,J,G
+   7,R
+   1,R,J
+  12,R
+  44,R,J
+   9,K,G
+   1
+   1,L
+  14,R,J,G
+   1,R,K,G
+   7,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  12,R
+  40
 
 #lvl_a_09
 #1x
-  40
-   6,R
+   3,R
    1,R,J
-  34,R,D
+  37,R,D
    1,S
    1,D,J
-  43,R,D
+  34
+   6,R,D
   10,R,J
 #dash
-  19,R,X
- 134
+  20,R,X
+ 135
 
 
-ChapterTime: 0:49.793(2929)
-#2929
+ChapterTime: 0:48.858(2874)
+#2874
 #4 dashes
