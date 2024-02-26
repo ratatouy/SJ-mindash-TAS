@@ -1,18 +1,20 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2706
+RecordCount: 2708
 
 console load StrawberryJam2021/1-Beginner/Flagpole1up
    1
 
 #Start
-#lvl_a01 (1x)
+#lvl_a01
+#1x
   86
    9,R,K
   11,R,J,G
    1,R,K,G
    5,R
+#dash
   20,R,X
   60
    9,R,D
@@ -27,7 +29,8 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    7,R
   40
 
-#lvl_a02 (1x)
+#lvl_a02
+#2x
    7,R
    1,R,K
    1,R
@@ -55,6 +58,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   10,R
    2,R,K
    7,R
+#dash
   13,R,X
    3,L,K
   14,L
@@ -74,6 +78,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    7,L,K
    7,L
   21,L,K
+#dash
   18,L,X
   10,L,K,G
    7,L,J,G
@@ -105,7 +110,8 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    8,R
   40
 
-#lvl_a03 (2x)
+#lvl_a03
+#2x
   13,R
    1,R,K
    1,R,J,G
@@ -117,6 +123,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,L,J
   14,R,K,G
    1,R,J,G
+#dash
   47,R,U,X
    1,R,K
    1,R,J
@@ -133,6 +140,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,R
   21,R,K
   25,R,J
+#dash
    5,R,X
   13,R
   43
@@ -149,7 +157,8 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   11,R
   40
 
-#lvl_a04 (4x)
+#lvl_a04
+#5x
    4,R,K
   12,R
    3,R,J,G
@@ -157,18 +166,22 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
  118,R
    3,R,K
    1,R,J,G
+#dash
   14,R,D,X
  129
    3,R,K
    1,R,J
+#dash
   10,U,X
   31,R,D
+#dash
   17,R,U,X
  162
    5,L,K
    8,L,J
    4,L,K,G
    9,R,J
+#dash
    8,L,Z
   28,L,K,G
    5
@@ -177,6 +190,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   14,L
    1,L,K
   23,L,D
+#dash
    5,L,U,Z
   12,R
    1,L
@@ -201,7 +215,8 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    5,R,K,G
   40
 
-#lvl_a05 (2x)
+#lvl_a05
+#2x
    5
    5,R
    1,R,K,G
@@ -218,6 +233,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   10,R,K,G
    1,J
    5,K,G
+#dash
   21,L,U,X
  110
    8,R,K
@@ -226,6 +242,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,J
    2,K,G
    3,L,K
+#dash
   16,L,U,X
   99
    5,R,K
@@ -235,7 +252,8 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    5,J,G
   40
 
-#lvl_a06 (3x)
+#lvl_a06
+#3x
    1,L
    1,J
   14,L,K,G
@@ -250,6 +268,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   41
    6,L,K
   40,L,J
+#dash
   13,L,U,X
    1,L,K,G
   31,L,J,G
@@ -270,6 +289,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   15,R,J
    2,R
    6,R,K
+#dash
    6,L,U,X
   50
    1,R,K
@@ -286,6 +306,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   55
    6,R,K
   15,R,J
+#dash
   22,R,X
   45
    7,R,K
@@ -300,7 +321,8 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   23,R,D
   40
 
-#lvl_a07 (3x)
+#lvl_a07
+#3x
    4,R,D
   14,R
    1
@@ -312,6 +334,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   18,R
    1,R,J
   18,R
+#dash
   48,R,X
    7,R,K
   17,R,J,G
@@ -326,6 +349,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   15,L
    3
    4,R
+#dash
   25,R,U,Z
    3,L
    1,L,K,G
@@ -352,6 +376,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   12,L,K,G
   12,L,J,G
    2,L,K,G
+#dash
   91,R,U,X
    4,R
    6,R,K
@@ -359,7 +384,8 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   11,R
   40
 
-#lvl_a08 (6x)
+#lvl_a08
+#6x
    9,R
    1,R,K
   10,R
@@ -369,18 +395,22 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   21,R,K
   12,J,G
   15,L,K
+#dash
    5,U,X
    6,R,D
    8,D
   20,R,D
   14,D
    8,L,K
+#dash
    8,R,U,X
   36
    5,R,K
   10,R,J
+#dash
    5,U,X
   35,R,D
+#dash
   12,R,D,X
   28
   14,L,K,G
@@ -394,8 +424,10 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,R,J
    1,J
   19,K
+#dash
    5,U,X
   51,R
+#dash
   46,R,X
   25,R
    1,R,K
@@ -403,9 +435,10 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   40
 
 #lvl_a09 (0)
-#(0x)
+#1x
    2,R,D
    9,R,K
+#dash
    5,U,X
   43,R
   42,L,G
@@ -423,15 +456,17 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    7,R
   40
 
-#lvl_a09_b_s (1x)
+#lvl_a09_b_s
+#1x
    7,R
    6,R,J
+#dash
    5,U,X
   25,L,D
   40
 
 #lvl_a09_b (1)
-#(2x)
+#1x
    8,L,D
   35,L,J
    5,L,K
@@ -475,6 +510,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   10,L,K
    5,L
    2,L,K
+#dash
   13,L,X
   85
   12,L,K,G
@@ -499,20 +535,23 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
  155
 
 #lvl_a09 (1)
-#(3x)
+#3x
    1,L,K
   14,L
    1,L,K
    5,L
+#dash
    5,D,X
   33,R
    1,R,K
    8,R
+#dash
   17,R,U,X
   33,L,G
   10,R,D
    6,D
    6,R,D
+#dash
    9,R,Z
   27,L,G
   17,L,D
@@ -521,7 +560,8 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,R,K
   40
 
-#lvl_a10 (8x)
+#lvl_a10
+#8x
   14,R
   10,R,K
   10,R,J,G
@@ -529,14 +569,19 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   72
    9,R,K
   12,R,J
+#dash
   19,U,X
   15,R
+#dash
   41,R,X
    6
+#dash
   10,U,X
   19,R,D
   29,D
+#dash
   23,R,Z
+#dash
   60,U,X
   13
    4,R,K
@@ -544,6 +589,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,R
   12,R,K
   27,R,G
+#dash
   11,R,U,Z
    1,L
    1,R,K
@@ -551,15 +597,17 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   19,R,K
   26,R,J,G
   10,K,G
+#dash
   15,R,U,X
   21,D
   16,R,D
+#dash
    9,R,D,X
  111,L
   40
 
 #lvl_a11 (0)
-#(2x)
+#2x
   14,L
   10,L,J,G
    3,L
@@ -567,6 +615,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    7,L,J,G
   11,K,G
   12,R,J
+#dash
   17,U,X
   37,R,K
    8,J,G
@@ -594,6 +643,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,R,J
    1,L,J
   13,L,K
+#dash
   16,U,X
    2,L
   24,R,J
@@ -601,7 +651,8 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    4,R,J,G
   40
 
-#lvl_a12 (7x)
+#lvl_a12
+#7x
    1,R,K,G
   10,R
    1,R,K
@@ -616,14 +667,17 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,J,G
    7,R
    4,R,K
+#dash
   19,R,D,X
    3,K,G
    6,R
    2,L
    5,L,K
+#dash
   41,L,U,X
   10,R,K,G
    1,J
+#dash
   23,U,X
   26,L
    5
@@ -632,14 +686,18 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   20,L,K
    1,L,J
   10,L
+#dash
   76,L,X
   12,R,K,G
    1,J
+#dash
   16,U,X
   18,D
+#dash
   68,R,D,X
   15,L,K,G
   11,L,J,G
+#dash
   95,L,X
   27,L,D
    1,L,K
@@ -647,11 +705,12 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   40
 
 #lvl_a13 (0)
-#(5x)
+#4x
   11,L
   17,L,K
    5,L,J,G
    4,L
+#dash
   13,L,U,X
   16,L
    2,D,G
@@ -659,6 +718,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   11,J,G
    1,R,J
   15,L,K,G
+#dash
    5,U,X
   53,L
   75,G
@@ -667,10 +727,12 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,L,J,G
    2,R,J
   15,L,J
+#dash
    5,U,X
   30,L,D
    4,R,D
    8,R,K
+#dash
    5,U,X
   15,L,D
    1,L,K
@@ -679,7 +741,8 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,N
  155
 
-#lvl_a13_b (3x)
+#lvl_a13_b
+#3x
    7,R,K
   14,R
    1
@@ -691,14 +754,17 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   15,R
   10,D
   34,L
+#dash
   12,L,U,X
   22,D
    4,L,D
   10,D
-   5,R,X
-  13,R,D
+#dash
+  15,R,X
+   3,R,D
   22,D
   13,L,D
+#dash
   10,L,U,X
    1
   24,R,D
@@ -709,9 +775,8 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,N
  155
 
-#2:23.259(8427)
 #lvl_a13 (1)
-#(4x)
+#2x
   22,R,D
   17,R
    1,R,K,G
@@ -721,6 +786,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    2,K
    1,R
   24,R,J,G
+#dash
   22,R,U,X
   80
    1,R,G
@@ -730,6 +796,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,R,D
    1,D
   10,R,D
+#dash
   10,R,Z
    5,R,J,G
    1,R,K,G
@@ -737,8 +804,9 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   40
 
 #lvl_a11 (1)
-#(2x)
+#2x
    3,R
+#dash
   15,R,D,X
   29
    5,R,K
@@ -760,6 +828,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,K
    1,J,G
   14,R,J
+#dash
   18,R,X
   50
   25,R,D
@@ -767,7 +836,8 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   15,R,D
   40
 
-#lvl_a14_Outro (2x)
+#lvl_a14_Outro
+#2x
    6,R,D
    1,R,K
   14,R
@@ -786,8 +856,9 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    8,R,K,G
    1,J
   10,K,G
-   5,U,X
-  54,R,D
+#dash
+  15,U,X
+  44,R,D
    4,D
    1,R,D
    1,R,K
@@ -831,6 +902,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    4,R,K,G
    4,R
    1,R,J,G
+#dash
   13,R,U,X
  135,R,D
 
