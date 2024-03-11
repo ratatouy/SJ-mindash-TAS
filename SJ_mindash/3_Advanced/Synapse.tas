@@ -1,4 +1,4 @@
-RecordCount: 5610
+RecordCount: 5830
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -6,8 +6,12 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
 #Start
  264
 
-#lvl_intro_fall
 #spinner cycle
+   0
+#####
+
+#lvl_intro_fall
+   6,F,179
    1,R,K
    1,R,J
    1,R,K
@@ -15,28 +19,27 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
    1,R,K
    1,R,J
    1,R,K
-   4,R
+   1,R,J
+   2,R
    1,R,J,G
    3,R
    1,S
    1,D,J
-  45,R
+  34
+  10,R
    1,R,J
-  14,R
+  11,R
   40
 
-
 #lvl_intro_a1
+   3,R
    1,R,J
   14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  32,R
-  22,R,D
-   1,R
+   6,R,J
+  42,R,D
+   9,R
+   1,R,D
+   2,R
   17,R,J
    2,K,G
    2
@@ -145,39 +148,44 @@ EndRepeat
    2,L
    1,L,J,G
    1,L,K,G
-  11,L
-   3
+  13,L
   12,L,Z
    1,L,J
-   2,L
-   1
-   6,L,D
-   9,L,J
-  12,J
-   6,K,G
-   1,R,K
-   1,L,J,G
+   9,L,D
+   5,L,J
+   1,J
+   6,L,J
+   7,L
+#+3f
+#Grab to wait
+   3,L,G
+#####
+   6,J,G
+   1,R,J
    1,L,K,G
-   2,R,K
-  10,L,K
    1,L,J,G
+   2,R,J
+  10,L,J
    1,L,K,G
+   1,L,J,G
   14,L
    1,L,J
   14,L
    2,L,J
    9,L
    2
-   7,R
-   5,R
+   8,R
+
+#lvl_a2
+   4,R
    1,R,J
   23,R,D
    6,R,J
    9,R
    1,R,J
   10,R
-   7,R,D
-  22,R,Z
+  10,R,D
+  19,R,Z
    1
    1,R
    4
@@ -257,7 +265,8 @@ EndRepeat
    3,D
    1,L,D
    3,D
-   5,R,D,J,X
+   4,R,Z
+   1,R,J
    6,R
    4,D
    1,L,J
@@ -274,7 +283,10 @@ EndRepeat
    1,R,J
   14,R
    1,R,J
-  23,R
+  12,R
+
+#lvl_a3
+  11,R
   55
    6,R
    1,R,J
@@ -359,7 +371,8 @@ EndRepeat
    1,L,J
   13,L
   14,U,X
-  40
+  22
+  18
   19,L
    3,L,J
    3,L
@@ -378,7 +391,10 @@ EndRepeat
    1,L,J
   21,L
    1,L,J
-  43,L
+  11,L
+
+#lvl_a4
+  32,L
   35
   21,J
   79,U,G
@@ -477,7 +493,10 @@ EndRepeat
    1,L,J
   14,L
    1,R,J
-  23,R
+  12,R
+
+#lvl_a5
+  11,R
   20,R,J
    1,R
   14,U,X
@@ -498,8 +517,8 @@ EndRepeat
    1
   33,L
    1,D
-  14,L,Z
-   2,R
+  15,L,Z
+   1,R
    1,R,J,G
    5,R
    2,R,J
@@ -515,7 +534,8 @@ EndRepeat
    2,R,J,G
    1,S
    1,D,J
-  43,R
+  34
+   9,R
    1,R,J
   14,R
    1,R,J
@@ -556,7 +576,10 @@ EndRepeat
    1,R,J
   14,R
    1,R,J
- 110,R
+  76,R
+
+#lvl_b1
+  34,R
   33
    1,L,J
    9,L,G
@@ -684,7 +707,10 @@ EndRepeat
    1,R,J
   14,R
    1,R,J
-  22,L
+  11,L
+
+#lvl_b2
+  11,L
    3,L,J
    8,L
    1,L,J
@@ -713,7 +739,10 @@ EndRepeat
    1,R,J
   14,L
    1,L,J
-  23,L
+   1,L
+
+#lvl_b3
+  22,L
    1,L,J
   14,L
   10
@@ -737,7 +766,6 @@ EndRepeat
    8,K
    6
   13,L
-
    4,K
    3,L,J,G
    2,L
@@ -850,7 +878,10 @@ EndRepeat
    1,R,J
    6,R
    1,R,J
-  23,R
+  13,R
+
+#lvl_c1
+  10,R
    1,R,J
   14,R
    1,R,J
@@ -1065,16 +1096,35 @@ EndRepeat
    7,L,K,G
    7,L
    1,L,J,G
- 260,L
+  32,L
+   1,S
+   1,D,J
+  69,O
+   3,L
    1,L,J
   14,L
    1,L,J
   14,L
    1,L,J
-  14,L
-   4,L,J
-  30,L
-   4,L,J
- 149,L,U,X
-#2:43.302(9606) 49x
-  
+  21,L,D
+   4,L
+   5,L,D,J
+   1,J
+   1,L,K
+  14,L,J
+  41,R,D,X
+   9,R,J
+  18,R
+  11,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   8,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  45,R,J,G
+
+ChapterTime: 2:40.055(9415)
