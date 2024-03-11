@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1006
+RecordCount: 1036
 
 console load StrawberryJam2021/3-Advanced/Roborb
  191
@@ -112,7 +112,6 @@ console load StrawberryJam2021/3-Advanced/Roborb
    1,R,J
   12,R
   40
-
 #lvl_1-e
 #6x
    2,R
@@ -194,18 +193,19 @@ console load StrawberryJam2021/3-Advanced/Roborb
    9,R,J
    9,R
   10,R,J
-  10,J
-   2,R,J
+  12,J
   15,U,X
-   1
-   6,L
+   9,R
+  19
+  20,R,J
+  34,L,K
   15,U,X
-  15,R,U,C
-  26,R,D
+  27,R
    1,R,J
   14,R
    1,R,J
-  12,R,Z
+  14,R
+  10,R,Z
   40
 
 #lvl_1-g
