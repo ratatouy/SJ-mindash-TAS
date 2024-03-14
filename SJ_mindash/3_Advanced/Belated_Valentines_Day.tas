@@ -4,9 +4,10 @@
 RecordCount: 1078
 
 console load StrawberryJam2021/3-Advanced/Roborb
- 191
+   1
 
 #Start
+ 190
 #lvl_1-intro
 #2x
    6,L,Z
@@ -119,11 +120,9 @@ console load StrawberryJam2021/3-Advanced/Roborb
   14,R
 #going up seems impossible
 #  12,R,J
-#***
 #  28,R
 #  12,R,J,G
 #   6,R,K,G
-#***
 #   3,L,K
 #   3,R,K
 #   5,J,G
@@ -131,7 +130,6 @@ console load StrawberryJam2021/3-Advanced/Roborb
 #   2,K
 #   9,L,K
 #   2,L
-#***
 #  15,R,Z
 #  99,D
   18,R,J
