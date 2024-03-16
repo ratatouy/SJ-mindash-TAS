@@ -1,4 +1,4 @@
-RecordCount: 1798
+RecordCount: 1840
 
 console load StrawberryJam2021/3-Advanced/Jolly
    1
@@ -541,24 +541,24 @@ EndRepeat
    1,R,J
   18,R
    1,R,J
-   7,R
+   8,R
    1,R,X
   37,R
    1,J
-  34,D
+  35,D
    1,L,D
    1,J
-   1,L,K,G
-  13,R
-   1,R,J
-   3,J
-   7,R,J
+   2,R,J
    1,J
-   4,R,J
-  14,U,X
-  29,R
-  15,U,X
-   5,R
+   2,R,J
+   9,R
+   1,R,J
+   6,R
+   1,R,J
+  17,R
+  25,R,J
+  18,U,X
+   2,R
   14,L,J
    1,R,X
   20,R
@@ -586,7 +586,7 @@ EndRepeat
    1,R
    1,R,K,G
    3,R
-   9,L
+  12,L
    1,L,J,G
    9,L
    3,L,J
@@ -641,7 +641,7 @@ EndRepeat
   14,R
    1,R,J
   40
-#[brys3] - (6588) -933f -4x
+#[brys3] - (6587) -932f -3x
   18,R
   20,R,J
    5,R
@@ -729,7 +729,7 @@ EndRepeat
    1,R,J
   12,R
   40
-#[brys4] - (7714) -1126f -4x
+#[brys4] - (7713) -1126f -4x
    3,R
    1,R,J
    6,R
@@ -749,5 +749,5 @@ EndRepeat
   11,L,J
  152,L,U,X
 
-ChapterTime: 2:19.060(8180)
+ChapterTime: 2:19.043(8179)
 #30x
