@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1487
+RecordCount: 1739
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
@@ -38,6 +38,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J
    3,R
   40
+
 #[a-02] - 217 - 217f - 1x
   11,R
    3,R,J
@@ -124,6 +125,7 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J
   13,R
   40
+
 #[a-05] - 917 - 389f - 0x
    1,R
    3,R,J
@@ -425,56 +427,42 @@ console load StrawberryJam2021/3-Advanced/sp1029
   20,R,D
   11,L,D
    4,L
-  37,R,G
-   1,L
-  25,L,D
-   3,D
-   1,L,D
-  19,D
-   4,L,D
-   3,D
-   4
-   1,L
-   1,D
-   1,L
-   6,R,Z
-   1,L,J
-   6,L
-   1,L,J
-  27,L,G
-  25,R,D,G
-  29,L,D,G
-   1,R
-   9,L,X
-   5,R
-  20
-   9,L,D
-  20,R,D
-  29,D
-  34,L,D
-  38,L,U,X
-   2,R
-   5,R,D
-  52,R
-  28,R,U,X
-  28,R,J,G
+  25,R
+  39,D
+  15,L,D
+  13,L,D,X
+   8,L,J
+  15,L,D
+  28,D
+  17,L,D
    1,R,D
-   2,R,J,G
-  15,L,J,G
-   2,R,J,G
-   9,R,G
+  46,D
+  37,L,D
+  18,L,U,X
+  18,L
+  50,R
+  15,R,U,X
+  36,R,J
+   1,R,K,G
+   4,L,K
+   5,R,K
    1,R,J,G
-   4,R,G
-  10,R
+   1,R,K,G
+  12,R
    1,R,J
   14,R
+  15,R,J
+   8,L,K
+  11,R,D,X
+   7,L,D
+   1,L
+   6,R
    1,R,J
-   9,R
-   1,R,J,G
+   1,R,K,G
   15,R
   40
-#[a-13] - 4456 - 844f - 5x
-   2,R
+
+#lvl_a-13
    1,R,J
   14,R
    1,R,J
@@ -487,35 +475,30 @@ console load StrawberryJam2021/3-Advanced/sp1029
   14,R
    1,R,J
   14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-  24,R,J
-  11,K,G
-   1,L,K
-   1,J
-   5,R,J
-   1,K
-  11,R,K
-   4,L,J
-   2,L,K
-   4,L
-   1,L,J
-   1,L,K
-   4,L
-   1,L,J
-   1,L,K
-   4,L
-   1,L,J
-   1,L,K
-   4,L
-  12,L,J
-  21,L,D,X
- 139,L,Z
-#[end] - 4878 - 422f - 2x
-ChapterTime: 1:22.926(4878)
+  12
+  20,U,X
+   6
+   4,R,X
+ 135
+#1:19.339(4667)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
