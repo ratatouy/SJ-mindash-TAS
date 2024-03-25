@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3241
+RecordCount: 3450
 
 console load StrawberryJam2021/3-Advanced/pugroy
    1
@@ -146,7 +146,7 @@ console load StrawberryJam2021/3-Advanced/pugroy
    8,R
   40
 
-#lvl_BR-01 - 1 dash
+#lvl_BR-01 - 0 dash
    6,R
    1,R,J
   17,R
@@ -221,76 +221,93 @@ console load StrawberryJam2021/3-Advanced/pugroy
   70,G
   20,R,J,G
    1,K,G
-  25,R,K,G
+  24,R,K,G
+   1,K,G
    1,J,G
-   1,R,J,G
+   1,L,G
    1,R
-  31,R,D
-  29,R
-#dash
-   9,R,Z
-   8,R,J
-   9,R
+  29,L,D
+  17,L,J
+   1,L,K,G
+   3,R,K
+   5,L,K
+   1,L,J,G
+   1,L,K,G
+  11,L
+  21,L,J
+  25,L,G
+  12,L,J,G
+   7,K,G
+   1,R,K
    1,R,J
-   4,R
+  17,R,K
+  42,R,D,G
+   1,R
+  13,R,D
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  20,R
+  15,R,G
+   7,R,J
+   3,R
+   1
+  14,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+   1,R,J
   40
 
-#lvl_BR-08 - 5 dash
-   5,R
-   6,R,J
-  11,R,K
-   8,R
-   8,R,J
+#lvl_BR-08 - 3 dash
+  14,R
+  36,R,J
 #dash
-  15,U,X
+  15,R,U,Z
 #dash
-  17,L,C
+  17,L,U,C
   38,R,D
-  23,R
+   3
+  24,R
 #dash
   18,R,U,X
-  12,L,J,G
+  11,L,J,G
    5,K,G
    1,R,K
   12,R,J,G
-  39,L,J,G
-   6,L,D
-   6,K,G
-   1,R,K
-  30,L,J,G
-   8,R,K,G
-   1,R,D,K
-   6,R,K
-  40,R,K,G
-   1,R
-  10,R,K
-  13,L,D
-  50,G
-  20,R,K
-  16,R,K,G
-   6,R,D,K
-#dash
-  11,U,X
-   1,R,K
-  21,R,K,G
-   1,R,K
-  26,L,K
-   7,R,K
-   3
-   1,L
-   9,K,G
-   6
-   3,R
-   2
-   2,R
- 102,R,J
-   4,K,G
-  10,R
-   9,R,K
-#dash
-  28,R,U,X
+  23,L,J,G
    1,R,J
-  14,R
+  16,L,J
+   1,K
+  41,R,K
+  10,L
+   1,J,G
+   5,L,J,G
+   4,L
+   1,R
+  31,L,J,G
+   1,L,D
+   1,L,G
+   3,L
+  11,L,D,G
+  16,L,G
+   1
+   1,J
+   1,L,K,G
+  22,R,K,G
+   1,R,G
+  16,R,J,G
+   1,L,J
+  15,R,J
+   4,R,G
+   1
+   6,J
+  19,R
+   1,R,J,G
+   1,R,K,G
+  20,R
    1,R,J
    6,R
   40
@@ -525,39 +542,37 @@ console load StrawberryJam2021/3-Advanced/pugroy
    1,R,G
   56,R,J,G
    1,R
-  16,R,D
-   7,R,D
+  40,D
+  15,D,X
+   8,L,J
+  42,R,J
 #dash
-  10,L,Z
-  32,R,J
-#dash
-  30,R,U,X
-#dash
-  14,U,C
-  39,R,G
+  13,R,U,X
+  41,R,G
    1,R
 #dash
   14,R,U,X
   21,J,G
    1,R
   22,D
-  36,L
+  32,L
   11,L,J
    6,L
   18,L,J
-   3,R,D
+   3,R
    3,R,J,G
    5,R
-   7,R,J
-   8,R
+  14,R,J
    1,R,K
    6,R
-   8,R,J
-   2,J
+   7,R,J
+   1,R
+   2
+   1,R
    1,R,K,G
    5,R
-   6,R,J
-   2,R
+   5,R,J
+   3,R
    4
    3,R,K
    7,R
@@ -634,7 +649,7 @@ console load StrawberryJam2021/3-Advanced/pugroy
 #dash
   28,R,U,X
   84,R,D
- 129,R,J
+  38,R,J
 
-ChapterTime: 1:53.016(6648)
-# 44 - 33
+ChapterTime: 1:53.152(6656)
+#30x
