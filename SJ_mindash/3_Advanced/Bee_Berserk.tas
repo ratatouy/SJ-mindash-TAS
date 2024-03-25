@@ -1,4 +1,4 @@
-RecordCount: 10590
+RecordCount: 10768
 
 console load StrawberryJam2021/3-Advanced/TiltTheStars
    1
@@ -594,69 +594,53 @@ EndRepeat
   75,G
    7,R,G
   27,G
-  35,R,G
-  23,U,G
-   1,J
-   2
-   1,K
-   2,J,G
-  12,R,J
-   8,R
-   2,R,J
-Repeat,5
-   1,R,J
-  14,R
-EndRepeat
-   1,R,J
-  10,R
-   1
+ 171,R,G
+   8,U,G
+  11,L,J,G
+  40,L,G
+   1,K,G
    1,R
-   1
-   1,R
-   1
-   1,R
-   1
-   1,R
-   1,R,J
-   1,R,K,G
+Repeat, 9
    1,R,J,G
-  11,R
-   1,R,J
-   7,R
+   1,K
+EndRepeat
+Repeat, 5
+   3,R,D
+   1,J
+   1,R,K,G
+   1,J
+EndRepeat
+   6,R,D
+  18,R
   40
-
 #4x
 #lvl_a-07
-   7,R
-Repeat,3
-   1,R,J
-  14,R
-EndRepeat
-  11,R,J
-   7,R
-  43,L,X
-  12,R,D,C
-  41,R,J
-   6,K,G
-   1,J,G
-   2,K,G
-   1,R,K
-   1,K
-   1,R,K
-   1,L,K
-   1,R,K
-   1,R,J,G
-   1,L,J
-  15,R,J
+   6,R
+   9,R,D
+   1,R
+   2,R,J
+   4,R,K,G
+   5,R
+  27,R,J
+  32,R,G
+   2,R,U,G
+  12,R,J,G
    1,R,K,G
-  33,R,J,G
+  11,J,G
+   1,L,J
+   1,R,K,G
+   1,L,K
+  16,R,K
+   1,R,J,G
+  33,R,K,G
    3
   12,K,G
   10,J,G
    1,R,K,G
    1,J,G
    1,J
-   3,R,J
+   2,R,J
+   1,R
   15,U,Z
    2,R
   21,R,J
@@ -665,14 +649,15 @@ EndRepeat
    2,R
   14,R,Z
   23,R,J
-  20,R
+  17,R
+   3,R,D
   15,R,Z
   30,D
-   5,L,D
-   8,L
-   8,G
+   4,L,D
+   9,L
+  67,G
   12
-  45,G
+  46,G
    1,U,G
    1,K,G
    1,J,G
@@ -682,7 +667,8 @@ EndRepeat
    2,R
    1,R,D
   12,R,J,G
-  12,R,K,G
+  11,R,K,G
+   1,R
   10,J,G
    2
    4,R,K,G
@@ -695,7 +681,7 @@ EndRepeat
    9,R
   40
 
-#10x
+#3x
 #lvl_a-08
   12,R
    1,R,D
@@ -922,4 +908,4 @@ EndRepeat
    4,R,D,X
  135
 
-ChapterTime: 2:40.786(9458)
+ChapterTime: 2:42.520(9560)
