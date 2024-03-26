@@ -71,59 +71,64 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   10,L,J,G
   11,J,G
    1,L,D,J
-  18,L,J,G
-   3,J,G
+  16,J,G
+   2,L,J,G
+   1,R,J,G
+   2,L,J,G
    1,L,D,J
-  14,L,J,G
-   7,J,G
+  21,J,G
    1,L,D,J
-  10,L,J,G
-  11,J,G
-   1,R,J
+  22,L,J,G
+   1,R
   21,L,J,G
    1,R,J
-   1,L,J
-  15,L,X
-  18,L,J
-   1,K
-  21,L,K
-  14
-   8,J,G
-  18,D
-  30,J,G
+   8,L,J
+   9,L
+   1
+  16,L
+   1,G
+   1
+   1,G
+   1
+   1,J
+   1
+   1,G
+Repeat,19
+   2
+   1,J
+   1,G
+EndRepeat
+   1,R,J
+  17,R,K
+   3,K
+  25,L,K,G
+   1,L,D,K
+  21,L,J,G
+   1,L,D,J
+  15,L,J,G
+   6,J,G
+   1,D,J
+  21,J,G
+   1,D,J
+  21,J,G
    1,D,J
   21,R,J,G
    1,R,D,J
-  18,R,J,G
-   3,J,G
-   1,R,D,J
-  10,R,J,G
-  11,J,G
-   1,D,J
-  14,J,G
-   7,R,J,G
-   1,D,J
-  19,R,J,G
-   2,J,G
-   1,D,J
-  10,R,J,G
-  11,J,G
-   1,R,D
-  16,R,G
-   5,D,G
-   3,R,D
-  21,R,G
-   1,R,D
-  13,R,D,G
-   8,D,G
-   1,R,D
-  19,R,D,G
-   2,D,G
-   1,D
-  24,D,G
-   7,U,X
-  38,J,G
-  34,D
+  21,R,J,G
+   1,R,J
+  34,R,U,J,G
+  10,R,D
+   6,U,X
+  21,D,G
+   7,L,D
+   8,D
+   6,L,D
+   8,R,D
+  21,R,D,G
+   4,R,D
+   9,U,X
+  21,J,G
+  40,D
    5,U,X
   26,J,G
    1,D,J
@@ -346,80 +351,158 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    4,L,G
   15,U,X,G
   31,G
-  16,L
-  22,R
-  38,R,J,G
-   1,R,K
-  33,R
+#new
+   8,U,J,G
+  11,L,U,J,G
+   1,L,D
+   3,L,G
+   7,L,D,X
    1,R,J
-  14,R
-   2,R,J
-   9,R
-  13,R,D,X
+   9,D
+  30,D,G
+  30,R,G
+  19,R,D,G
+   1,R,J,G
+  52,R,D,G
+   1,R,J,G
+  20,R,G
+  15,R,D,G
+  16,R,J,G
+   1,R,J
+  70,R,U,J,G
+   1,R,J
+   9,R,U,X
+  21,R,J,G
+   1,R,J
+  39,R,J,G
+   1,L,D,J
+  21,L,U,J,G
+   1,L,D,J
+  21,L,U,J,G
+   1,L,D,J
+  14,U,J,G
+   7,L,U,J,G
+   1,L,D,J
+   5,L,J
+   1,R,K
+  21,J,G
+   1,D,J
+  17,J,G
+   4,R,J,G
+   1,D,J
+  15,J,G
+   6,R,J,G
    1,R,D,J
-  12,R,D
-  47,R,J,G
+  21,J,G
+   3,D
+  21,R,U,J,G
+   1,R,D,J
+  16,R,U,J,G
+   5,U,J,G
+   1,D,J
+  21,R,U,J,G
+   1,R,D,J
+  21,U,J,G
+   1,D,J
+  21,R,U,J,G
+   1,R,D,J
+  21,U,J,G
+   1,D,J
+  21,R,U,J,G
    1,R,J
-  15,R,U,Z
-   5,R
-  23
-   1,R,K
-   7,R,K,X
- 103,R,U,K,G
-   7,R,J
+  53,R,U,J,G
+  15,R,D
+   6,J
+  15,L,J,G
+   6,J,G
+   1,D,J
+  21,R,J,G
+   1,R,D,J
+  21,R,J,G
+   1,R,D,J
+  17,R,J,G
+   4,J,G
+   1,D,J
+  20,R,J,G
+   1,J,G
+   1,D,J
+  15,R,J,G
+   6,J,G
+   1,D,J
+  19,R,J,G
+   2,J,G
+   1,R,D,J
+Repeat,6
+  22,J,G
+   1,D,J
+EndRepeat
+  21,R,J,G
+   5,J,G
+   1,R,D
+  19,R,J,G
+   1,L,J,G
+   1,R,J,G
+   1,L,J,G
+   1,R,J,G
+   3,J,G
+   1,R,J,G
+   1,D
+  21,R,G
+   1,R,D
+  14,R,G
+  10,G
+   1
+   3,L
+  24,U,J,G
+  14,L,U,J,G
+   4,L,D,G
+  18,L,U,G
+   3,L,D
+  17,J
+ 168,U,J,G
+   1
+  17
+  34,R
+  14,R,Z
+  20,R,J
+  21,R,J,G
+  10,R,J
   14,U,X
-  39,R,U,J,G
-   5,R,D
-  10,D
-   6,U,X
-  32,R,D,G
-  15,L,D,G
-  23,D,G
-   1,L
-  19,L,D
-   6,R,D
-   4,R
-   2
-  40,R,J
-   2,R,G
-   2,R,K,G
-   4
-   2,R
-  10,L,D,X
+  24,R,J,G
+   5,J,G
+   1,D,J
+  17,J,G
+   4,R,J,G
    1,R,D,J
-   7,R,D
-  32,R,J
-  15,U,X
-  14,U,C
-  26,R,J,G
+  21,R,J,G
    1,L,J
-  35,R,J
-   1,R,K
-  14,R
-   3,R,K
-   1,R
+  21,R,J,G
+   1,L
+  19,R,D
+   1,R,J
+   2,R
   40
 
 #lvl_a-06 (0)
-  11,R
-   1,R,J,G
-  14,R
-  14,R,J
-  17,R
-   1,R,J,G
-  14,R
-   2,R,J
-  11,R
+   7,R
    1,R,J,G
   13,R
+  25,R,J
+  10,R
+   1,R,J
+  14,R
+   3,R,J
+  11,R
+   1,R,J
+  14,R
    1,R,J
   14,R
    6,R,J
-  31,R,D
-  30,D
+  21,R,D
+  40,D
   15,R,D,X
   30,R,D
-  33,R
+  35,R
   23,U
    1,R,J
   14,R,K
@@ -605,7 +688,6 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   23,R,D,G
    1,R
   28,R
-   0
   15,R,U,X
    8,R
   21,R,J,G
@@ -724,30 +806,37 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   21,J,G
    1,D
   21,R,J,G
-   1,R,D
+Repeat,2
+   1,D,J
   21,J,G
-   1,D
+EndRepeat
+   1,D,J
+  20,J,G
+   1,R,J,G
+   1,R,D,J
   21,R,J,G
-   1,R,D
-  21,J,G
-   1,D
-  21,J,G
-   1,D
-  21,J,G
-   1,R
-  21,J,G
-   1,R
-  20,D
-  20,R,D
-  15,R,Z
-   5,R
-  15,R,U,X
-   6,R
-  15,U,X
-   9
-  21,G
-   1,R
-  29,D
+   1,R,J
+  41,R,U,J,G
+   1,R,J
+  46,L,D
+  77
+  12,R
+  14,L,D
+  40,R,J
+  14,R,U,X
+  28,R,G
+   1,L
+   5,U,X
+  27,J,G
+   1,L
+  33,D
+   5,U,X
+  14,J,G
+   9,R,J,G
+   1,J,G
+   5,R,J,G
+   1,R,K
+  31,R,D
   15,U,X
    7,R,C
   13,R,G
@@ -796,7 +885,8 @@ console load StrawberryJam2021/4-Expert/rdoggo8
   55,R,U,G
   20,D,G
   16,G
-  19,L,G
+  16,L,G
+   3,G
   23,R,U,J,G
   13,U,J,G
    1,L,D
@@ -804,47 +894,48 @@ console load StrawberryJam2021/4-Expert/rdoggo8
    1,L,D
   21,L,U,G
    1,L,D
-  40,L,G
-  19,R,U,J,G
+  41,L,G
+  20,R,U,J,G
    1,L,D
   21,L,J,G
    1,L,D
-  17,R,J,G
-   4,J,G
-   1,L,D
-  21,J,G
+  16,R,J,G
+   5,J,G
+   1,D
+  15,R,J,G
+   6,J,G
    7,D
   21,R,U,J,G
    1,R,D
   19,R,U,J,G
    2,U,J,G
    1,R,D
-  14,R,U,J,G
-   7,U,J,G
-   1,D
+  13,R,U,J,G
+   8,U,J,G
+   1,R,D
   21,R,U,J,G
    1,R,D
-  19,U,J,G
-   2,R,U,J,G
+  20,U,J,G
+   1,R,U,J,G
    1,D
-  14,U,J,G
-   7,R,U,J,G
+  13,U,J,G
+   8,R,U,J,G
    1,R
   25,R,U,J,G
   17,R,D,G
    8,R
   14,R,U,X
- 114,R,G
+ 113,R,G
    1,L
-   8,R
+   6,R
    1,R,J
-   9,R
+  11,R
   40
 
 #lvl_a-10 (0)
-   5,R
+   3,R
    1,R,J
-  14,R
+  15,R
   27,R,J
    4,L
   10,L,J
@@ -1234,7 +1325,6 @@ EndRepeat
   15,R,U,X
    7,R
   13
-
  212
 
-ChapterTime: 4:19.318(15688)
+ChapterTime: 4:38.953(16409)
