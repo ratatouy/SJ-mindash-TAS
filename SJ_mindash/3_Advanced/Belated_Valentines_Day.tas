@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1211
+RecordCount: 1314
 
 console load StrawberryJam2021/3-Advanced/Roborb
    1
@@ -194,42 +194,54 @@ console load StrawberryJam2021/3-Advanced/Roborb
   14,R
    1,R,J
   14,R
-  10,R,Z
+   1,R,J
+  12,R
   40
 
 #lvl_1-g
 #7x
    2,R
    1,R,J
-   7,R
-  23,R,J
-  15,R,Z
-  13,L,G
-   1,J,G
-  10
-   3,L,G
-   1,L,J,G
-  13,L
-   1,L,J
-   5,L
-   5,R
-  35,R,J
-  38,R,U,Z
-  15,U,X
-  10,L
-  22,R,J
-  15,U,X
-  28,L,J
-  33,R,D
-  10,L,Z
-  27,R,J
-  53,R,U,X
-  38,R,U,C
-   1,R,J,G
-   1,R,K,G
   14,R
    1,R,J
-  13,R
+  14,R
+  22,R,J
+   9,U,X
+  14,R,J
+   8,R
+   1,R,J
+  24,R
+   1,R,D
+  10,D
+   1,L,J
+   3,J
+   2
+   2,L
+   5,R
+  35,R,J
+  15,U,Z
+   7,L
+   1,J,G
+   9
+   1,R
+   1,R,D
+   4,R
+  43,R,J
+  14,U,X
+  27,L,J
+  27,R,J
+   6
+   2,R
+   1
+  10,L,D,X
+  28,R,J
+  14,R,U,X
+  47,R
+  33,R,U,X
+   1,R,J
+  14,R
+   1,R,J
+  14,R
   40
 
 #lvl_1-h
@@ -385,4 +397,4 @@ console load StrawberryJam2021/3-Advanced/Roborb
   10,R,J
  109,R,D
 
-ChapterTime: 1:12.964(4292)
+ChapterTime: 1:13.712(4336)
