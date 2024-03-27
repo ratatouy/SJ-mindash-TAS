@@ -1,4 +1,4 @@
-RecordCount: 1358
+RecordCount: 1373
 
 console load StrawberryJam2021/3-Advanced/Viv
  111
@@ -393,12 +393,13 @@ EndRepeat
  118,K
   41,D,G
  200,U,G
-  49,J,G
-  17,K
-  14,U,X
-  37,R,J
-  28,R,D
-  14,R
+   1,L
+  45
+   1,J
+   1,L,K,G
+ 119,R
+   1,R,J
+  21,R
    1,R,J
   14,R
    1,R,J
@@ -416,4 +417,4 @@ EndRepeat
   28,L,J
  141,R,X
 
-ChapterTime: 2:21.525(8325)
+ChapterTime: 2:22.086(8358)
