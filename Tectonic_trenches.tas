@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1590
+RecordCount: 1854
 
 console load StrawberryJam2021/3-Advanced/Julia
    1
@@ -34,6 +34,7 @@ console load StrawberryJam2021/3-Advanced/Julia
    1,R,J
   10,R
   40
+
 #[a-02] - (249) -249f -0x
    4,R
    1,R,J
@@ -61,35 +62,57 @@ console load StrawberryJam2021/3-Advanced/Julia
    2,R,D
   22,R,U,G
    1,D
-  21,D,G
-  13,R,D,G
-   1,D,G
-  15,R,D,G
+  29,D,G
+   1,D
+  28,D,G
+   1,D
+  28,R,D,G
+   1,D
+  28,D,G
+   1,D
+  12,G
+   4,D,G
+   7,R,D,G
+   1,D
+  23,D,G
    1,R
-  26,D
-  15,R,D
-  14,R,Z
-  30,R,G
-   1,L,J
-  14,L,K
+  43,R,D,G
+  40,D,G
+  20,U,G
+  18,R,U,G
+   1,L
+  23,R,J
+  37,G
+  10,L,J
+   7,L
+   1
    1,R,J
    5,R,K,G
   39,R,G
   17,J,G
    5
-  11,R
+   8,R
    1,R,J
    1,R
-   4,R,J
+   3,R,J
+   1,R
    6,L,Z
    1,R,J
-  10,R
+  13,R
   19,R,J,G
   15,R,D,G
   23,L,D,G
   40,D,G
-   8,L,D,G
-  57,R,D,G
+   1,D
+   6,D
+  11,R,D
+   2,D
+  12,L,D
+  14,D
+   1,R
+  99,D
+  21,J
+  38,R,D,G
    1,R,J
   13,R
    1
@@ -366,6 +389,7 @@ EndRepeat
    1,R,J
    1,R
   61
+
 #[a-05] - (4445) -288f -0x
   16,R
    1,R,J
@@ -575,4 +599,4 @@ EndRepeat
   53,R,J,G
    1,L
  152,R,U,X
-ChapterTime: 2:16.306(8018)
+ChapterTime: 2:22.375(8375)
