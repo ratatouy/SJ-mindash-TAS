@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2718
+RecordCount: 2839
 
 console load StrawberryJam2021/3-Advanced/Maladroit
    1
@@ -135,22 +135,18 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    1,R,K,G
    2,L,K
   28,R,K
-   1,R,J,G
-   2,R
-   3,R,K
-   6,R
-   3,R,J
-  14,R
-   2
+  18,R,G
+   1,J,G
+  10
+   2,L
+  42,L,J
+
 #dash
-   6,L,Z
-   1,L,K
-  11,L,D
-  12,L,K
-#dash
-  17,U,X
-  86,R,K,G
-  15,R,D,G
+  15,U,X
+   5,L
+  15,R,K
+  76,R,K,G
+   9,R,D,G
   24,L,U,G
    1,L
 #dash
@@ -165,29 +161,15 @@ console load StrawberryJam2021/3-Advanced/Maladroit
   13,R
    7,L
   21,L,K
-   6,J,G
-   1,K
-   1,R,K
-   1,L,K
-   1,J,G
-   1,R,J
-   1,L,J
-   2,J
-   1,K,G
-   1,R,K
-   1,L,K
-   1,K
-   1,J
-   1,L,K,G
-   2,R,K
-   1,L,K
-   1,J
-   3,K,G
-   5
-   2,R
-  19,R,K
-   5,R,J,G
-   1,R,K,G
+   4,J,G
+   5,K
+   4,J
+   9,K
+   4,R,J
+   7,R
+  21,R,K
+   4,R,J,G
+   2,R,K,G
    6,R
    1,R,J,G
    1,R,K,G
@@ -635,5 +617,5 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    1,L,J,G
   42,L,K,G
 
-ChapterTime: 1:44.635(6155)
+ChapterTime: 1:44.941(6173)
 #28 dashes
