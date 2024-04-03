@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2839
+RecordCount: 2883
 
 console load StrawberryJam2021/3-Advanced/Maladroit
    1
@@ -151,17 +151,27 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    1,L
 #dash
    5,L,U,X
-  47,R,G
-  29,L,K,G
+  46,R,G
+   1,L
+   1,R,G
+   1
+   1,J
+   1,L,J
+   3,L
+   1,K
+   3,L,K
+  49,R,U,K,G
+   1,D
+   2,R,G
+   1
+   1,J
+  49,R,U,J,G
    1,R
-#dash
-  15,R,U,X
-  18,R,G
-   9,L
-  13,R
-   7,L
-  21,L,K
-   4,J,G
+  16,L,K
+
+
+
+   6,J,G
    5,K
    4,J
    9,K
@@ -617,5 +627,5 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    1,L,J,G
   42,L,K,G
 
-ChapterTime: 1:44.941(6173)
+ChapterTime: 1:45.332(6196)
 #28 dashes
