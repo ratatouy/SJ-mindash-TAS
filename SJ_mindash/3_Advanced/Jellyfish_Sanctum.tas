@@ -3,7 +3,7 @@
 
 #31x
 
-RecordCount: 2523
+RecordCount: 2864
 
 console load StrawberryJam2021/3-Advanced/BlueXans
   77
@@ -235,47 +235,67 @@ console load StrawberryJam2021/3-Advanced/BlueXans
   36,U,X,G
   12,L
   15,U,X,G
-  58,R,D,G
-  29,R,U,G
-   1,R
-  16,R,D
-   6,D
+  56,R,D,G
+  31,R,U,G
+  31,R
+  20,J
+  14,R,J
+  17,L,K
+  70,R,G
+  14,R,D,G
+  11,R,U,J,G
+  10,R,G
+  15,R,U,J,G
    1,R,D
-  14,R,Z
-   3,R,J
-  17,R
-  11,R,K,G
-  30,R,D
-  11,D
-  21,L
-  15,U,X
-  40,J,G
-   4,L,G
-  13,L
-  48,U,X,G
-  14,L,G
-  46,D,G
-   2,G
-  18,R,U,G
-   1,L,J
-   6,R,J
-Repeat 5
-   1,G
-   1
+  61,R,G
+  12,L
+   1,J
+   7
+   2,R
+   9
+   1,L
+   3,R
+  19,R,J,G
+  11,R,G
+  31,R,U,J,G
+  32,R,D,G
+  24,D,G
+   1,D
+Repeat, 9
+   1,R,G
+   1,R
 EndRepeat
    1
-   1,J
-   1,K
-  22,R,K
-  14,R,Z
-  27,R,J
-   2,J
-   4,R,K,G
-   7,R
+  31,J,G
+   2,L,J
+  16,L,J,G
+  13,J,G
+   1,D,J
+  21,R,J,G
+Repeat, 6
+   1,D,J
+  21,J,G
+EndRepeat
+   1,L
+  21,J,G
+   1,D,J
+  24,J,G
+Repeat, 4
+   1,D,J
+  21,J,G
+EndRepeat
+  10,R,D,G
+  94,D,G
+   1,R
+  28,R,J
+  12,R,Z
+   7,R,J
+  17,R
+   2,R,J,G
+  22,R
    1,R,J
-  14,R
-   1,R,J
-  12,R
+  11,R
+
   40
 
 #lvl_5
@@ -387,4 +407,4 @@ EndRepeat
   17,R,U,X
  135
 
-ChapterTime: 1:11.774(4222)
+ChapterTime: 1:21.107(4771)
