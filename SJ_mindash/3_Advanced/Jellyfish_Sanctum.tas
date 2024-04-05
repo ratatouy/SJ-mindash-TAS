@@ -1,9 +1,9 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-#31x
+#28x
 
-RecordCount: 3002
+RecordCount: 3011
 
 console load StrawberryJam2021/3-Advanced/BlueXans
   77
@@ -280,17 +280,15 @@ EndRepeat
   21,J,G
    1,D,J
   24,J,G
-Repeat, 4
    1,D,J
   21,J,G
-EndRepeat
   10,R,D,G
-  94,D,G
+  16,D,G
    1,R
-  28,R,J
-  12,R,Z
-   8,R,J
-  17,R
+  27,R,J
+  13,R,Z
+   9,R,J
+  16,R
    1,R,J
    7,R
 
@@ -398,4 +396,4 @@ EndRepeat
   17,R,U,X
  135
 
-ChapterTime: 1:19.067(4651)
+ChapterTime: 1:16.619(4507)
