@@ -1,14 +1,16 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 534
+RecordCount: 592
 
 console load StrawberryJam2021/3-Advanced/Oppen
    1
 
+#12x
+
 #Start
 #0x
-#lvl_oppen_intro (1)
+#lvl_oppen_intro (0)
 #Need to wait for cutscene
   23
    5,L
@@ -37,7 +39,9 @@ console load StrawberryJam2021/3-Advanced/Oppen
    4,R,J,G
    2,R
   40
-#lvl_oppen_1a (1)
+
+#lvl_oppen_1a (0)
+#0x
   19,R,D
    2,R,J
    8,R
@@ -52,13 +56,15 @@ console load StrawberryJam2021/3-Advanced/Oppen
    1,L,J
    3,L
 
-#lvl_oppen_1b (1)
+#lvl_oppen_1b (0)
+#0x
   11,L
    1,L,J
    5,L
    6,L,J,G
 
-#lvl_oppen_1c (1)
+#lvl_oppen_1c (0)
+#6x
    1,S
    1,D,J
   69,O
@@ -134,7 +140,9 @@ console load StrawberryJam2021/3-Advanced/Oppen
   23,L,D
    8,L
   10,L,J
-#lvl_oppen_1a (2)
+
+#lvl_oppen_1a (1)
+#3x
   12,L,J
   15,U,X
    1,L
@@ -183,7 +191,6 @@ console load StrawberryJam2021/3-Advanced/Oppen
   25,R,J
   10,K,G
    2,L,K
-   0,R,K
   31,L,J
   14,U,X
   26,L,K
@@ -216,7 +223,8 @@ console load StrawberryJam2021/3-Advanced/Oppen
   18,R,J
   36,R
 
-#lvl_oppen_1c (2)
+#lvl_oppen_1c (1)
+#0x
   10,R
    7,R,J
   13,R,K,G
@@ -232,12 +240,15 @@ console load StrawberryJam2021/3-Advanced/Oppen
    2,R,D
   16,D
    1,J,G
-#lvl_oppen_1a (3)
+
+#lvl_oppen_1a (2)
+#0x
   11,J
   12,K,G
    3,R,J,G
 
-#lvl_oppen_1b (2)
+#lvl_oppen_1b (1)
+#1x
   16,R,J
   11,R,K,G
    7,R
@@ -271,15 +282,26 @@ console load StrawberryJam2021/3-Advanced/Oppen
    3,R
    1,R,K,G
   10,R
-   1,R,J
-  17,R,D
-   3,D
-  11,L,D,X
-   8,R,D
-   5,R
-   3,D
-   5,R,D
-  29,D
+   4,R
+   9
+   1,R
+   3
+   1,L,G
+   2
+   1,G
+   5
+   2,G
+   1
+   1,R
+   1
+  13,R
+  10,D
+   1,S
+   1,K
+  11,J
+   7,L,J
+  16,R,D
+  26,D
    1,S
    1,D,J
   69,O
@@ -291,7 +313,8 @@ console load StrawberryJam2021/3-Advanced/Oppen
   50,L,D
   69,D
 
-#lvl_oppen_1a (4)
+#lvl_oppen_1a (3)
+#0x
   11,D
   65,L
    5,L,D
@@ -332,7 +355,6 @@ console load StrawberryJam2021/3-Advanced/Oppen
    4,K
   12,R,J,G
    1,K,G
-   0,L,K
    2,L
   62,L,J
    1,S
@@ -412,7 +434,8 @@ console load StrawberryJam2021/3-Advanced/Oppen
    5,L
   40
 
-#lvl_oppen_intro (2)
+#lvl_oppen_intro (1)
+#1x
   11,L
    1,L,J
   14,L
@@ -473,4 +496,5 @@ EndRepeat
   32,R,J
   28,L,K
 
-#1:13.610(4330)
+ChapterTime: 1:14.239(4367)
+#4330
