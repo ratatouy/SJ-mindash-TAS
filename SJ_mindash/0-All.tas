@@ -18,7 +18,7 @@ Read,Prologue,Start
 
 Read,Load_Beginner_Lobby,Start
 
-Read,1-Beginner
+Read,1-Beginner,Start
 
 Read,Load_Lobby_from_Heartside,Start
 
