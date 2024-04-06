@@ -6,10 +6,13 @@ RecordCount: 2065
 console load StrawberryJam2021/3-Advanced/Goldian
    1
 
+#31x
+
 #Start
  190
 
 #lvl_start
+#0x
    1,R,J
   14,R
    1,R,J
@@ -47,7 +50,8 @@ console load StrawberryJam2021/3-Advanced/Goldian
   16,R
   40
 
-#[tutorial-1] - previous room: 0x 308f 
+#tutorial-1
+#1x
    1,R,J
   14,R
    1,R,J
@@ -101,7 +105,8 @@ console load StrawberryJam2021/3-Advanced/Goldian
    7,R
   40
 
-#[goldian-1] - previous room: 1x 484f
+#goldian-1
+#3x
    7,R
    1,R,J
   15,R
@@ -162,7 +167,8 @@ console load StrawberryJam2021/3-Advanced/Goldian
   14,R
   40
 
-#[aiden-2] - previous room: 3x 556f
+#aiden-2
+#1x
   13,R,Z
    1,R,J
    7,R
@@ -203,7 +209,8 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R
   40
 
-#[goldian-3] - previous room: 1x 362f
+#goldian-3
+#5x
   13,R
    1,R,J
   14,R
@@ -343,7 +350,8 @@ console load StrawberryJam2021/3-Advanced/Goldian
    6,R
   40
 
-#[goldian-4] - previous room: 5x 952f
+#goldian-4
+#7x
    8,R
    1,R,J
   14,R
@@ -390,7 +398,6 @@ console load StrawberryJam2021/3-Advanced/Goldian
   11,J,G
    1,L,J
   31,L,G
-
   16,R,D,G
    4,R
    6,R,D
@@ -423,7 +430,8 @@ console load StrawberryJam2021/3-Advanced/Goldian
    4,R
   40
 
-#[tutorial-2] - previous room: 7x 743f
+#tutorial-2
+#5x
   10,R
    1,R,J
   14,R
@@ -487,7 +495,9 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R,J
   12,R
   40
-#[goldian-5] - previous room: 5x 424f
+
+#goldian-5
+#5x
    2,R
   10,R,Z
    1,R,J
@@ -598,7 +608,8 @@ console load StrawberryJam2021/3-Advanced/Goldian
   10,R
   40
 
-#[goldian-6] - previous room: 5x 840f
+#goldian-6
+#5x
    4,R
    1,R,J
   14,R
@@ -686,7 +697,8 @@ console load StrawberryJam2021/3-Advanced/Goldian
   14,R
   40
 
-#[goldian-7] - previous room: 5x 826f
+#goldian-7
+#3x
    1,R,J
   14,R
    1,R,J
@@ -793,7 +805,9 @@ console load StrawberryJam2021/3-Advanced/Goldian
    1,R,J
   10,R
   40
-#[end] - previous room: 3x 1141
+
+#end
+#1x
    4,R
    1,R,J
   14,R
@@ -825,6 +839,4 @@ EndRepeat
    8,R
  151,R,U,X
 
-#previous room: 1x 1012
-#31 dashes
 ChapterTime: 2:13.739(7867)
