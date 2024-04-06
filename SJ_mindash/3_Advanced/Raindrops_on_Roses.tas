@@ -6,10 +6,13 @@ RecordCount: 2814
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
 
+#27x
+
 #Start
  190
 
 #lvl_1
+#1x
   15,L,J
   18,U,J,X
   24,L,G
@@ -25,6 +28,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   40
 
 #lvl_2
+#2x
    6,R,D,G
    1,R,J,G
   20,R,D,G
@@ -149,6 +153,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   40
 
 #lvl_3 (0)
+#4x
   12,J
    3,R,J
   13,K
@@ -270,6 +275,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   40
 
 #lvl_4
+#2x
   14,R
    1,R,J
    3,R
@@ -362,6 +368,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   40
 
 #lvl_3 (1)
+#1x
   12,L
    3,L,J
   19,L
@@ -437,6 +444,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   40
 
 #lvl_5
+#0x
    9,L
    2,R
   12,R,J
@@ -473,6 +481,7 @@ endrepeat
   40
 
 #lvl_6
+#8x
   10
   11,R,J
   21,R,K,G
@@ -788,6 +797,7 @@ endrepeat
   40
 
 #lvl_7
+#8x
    3,R
    1,R,J,G
   11,R,J
@@ -1041,6 +1051,7 @@ endrepeat
   40
 
 #lvl_8
+#1x
   15,L
    1,L,J,G
   12,J
@@ -1083,9 +1094,6 @@ endrepeat
   15,L,U,X
  135
 
-#4:25.812(15636)
+ChapterTime: 4:25.812(15636)
 #27x
   
-
-
-
