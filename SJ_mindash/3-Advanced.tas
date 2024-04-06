@@ -1,1 +1,133 @@
 #Start
+#Advanced Lobby
+#566x for now
+
+unsafe
+console clrsav
+Set,CollabUtils2.DisplayEndScreenForAllMaps,False
+
+console load StrawberryJam2021/0-Lobbies/3-Advanced
+   1
+
+#Start
+#42x
+Read,3_Advanced_Lobby/adv_0-15.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Sands_of_Time.tas,Start
+   1,O
+  32
+
+#19x
+Read,3_Advanced_Lobby/adv_15-12.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Golden_Dawn.tas,Start
+   1,O
+  32
+
+#11x
+Read,3_Advanced_Lobby/adv_12-14.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Lost_Woods.tas,Start
+   1,O
+  32
+
+#59x
+Read,3_Advanced_Lobby/adv_14-13.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Bee_Berserk.tas,Start
+   1,O
+  32
+
+#58x
+Read,3_Advanced_Lobby/adv_13-11.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Belated_Valentines_Day.tas,Start
+   1,O
+  32
+
+#31x
+Read,3_Advanced_Lobby/adv_11-10.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Superstructure.tas,Start
+   1,O
+  32
+
+#34x
+Read,3_Advanced_Lobby/adv_10-9.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Toggle_Theory.tas,Start
+   1,O
+  32
+
+#17x
+Read,3_Advanced_Lobby/adv_9-8.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Forest_Rush.tas,Start
+   1,O
+  32
+
+#49x
+Read,3_Advanced_Lobby/adv_8-7.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Synapse.tas,Start
+   1,O
+  32
+
+#18x
+Read,3_Advanced_Lobby/adv_7-4.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Starry_Ruins.tas,Start
+   1,O
+  32
+
+#30x
+Read,3_Advanced_Lobby/adv_4-6.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Attack_of_the_Clone.tas,Start
+   1,O
+  32
+
+#58x
+Read,3_Advanced_Lobby/adv_6-5.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/The_Tower_XVI.tas,Start
+   1,O
+  32
+
+#30x
+Read,3_Advanced_Lobby/adv_5-3.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Starlight_Station.tas,Start
+   1,O
+  32
+
+#27x
+Read,3_Advanced_Lobby/adv_3-1.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Raindrops_on_Roses.tas,Start
+   1,O
+  32
+
+#39x
+Read,3_Advanced_Lobby/adv_1-2.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Call_of_the_Void.tas,Start
+   1,O
+  32
+
+#27x
+Read,3_Advanced_Lobby/adv_2-25.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Dusk_City.tas,Start
+   1,O
+  32
+
+#17x
+Read,3_Advanced_Lobby/adv_25-23.tas,Start
+Read,Enter_Level,Start
+Read,3_Advanced/Javas_Crypt,Start
+   1,O
+  32
+
+
+FileTime: 38:19.471(135263)
