@@ -1,9 +1,13 @@
 RecordCount: 2039
 
 console load StrawberryJam2021/3-Advanced/Viv
- 111
+   1
+
+#39x
 
 #Start
+#2x
+ 110
    1,S
    1,D,J
   34
@@ -55,7 +59,7 @@ console load StrawberryJam2021/3-Advanced/Viv
   40
 
 #lvl_viv1
-
+#5x
   10,R
    1,R,J
   14,R
@@ -106,7 +110,7 @@ console load StrawberryJam2021/3-Advanced/Viv
   40
 
 #lvl_viv2
-
+#7x
    1,S
    1,D,J
   69,O
@@ -139,7 +143,7 @@ console load StrawberryJam2021/3-Advanced/Viv
   40
 
 #lvl_viv3
-
+#3x
   12,R
    8,R,J
   12,R
@@ -186,7 +190,7 @@ console load StrawberryJam2021/3-Advanced/Viv
   40
 
 #lvl_viv3x
-
+#0x
 Repeat 21
    5,L
    5,R
@@ -195,7 +199,7 @@ EndRepeat
   40
 
 #lvl_viv4
-
+#8x
   12
   10,J
   15,R,Z
@@ -247,7 +251,7 @@ EndRepeat
   40
 
 #lvl_viv5(0)
-
+#5x
    2,R
    1,R,J
   14,R
@@ -274,7 +278,7 @@ EndRepeat
   40
 
 #lvl_viv5x
-
+#0x
    2,R
    1,R,J
   20,R,D
@@ -302,8 +306,8 @@ EndRepeat
    9,L,D,J
   40
 
-#lvl_viv5(1)
-
+#lvl_viv5 (1)
+#1x
    1,S
    1,D,J
   69,O
@@ -383,7 +387,7 @@ EndRepeat
   40
 
 #lvl_viv6
-
+#0x
   14,L
   11,L,J
  156,R,K
@@ -392,15 +396,13 @@ EndRepeat
   40
 
 #lvl_viv7
+#6x
    4,R,J
    5,R
    6,R,J
    1,R
    2,R,J
-  20,R
-
-
-  10,R
+  30,R
   17,R,D,X
   10,L
   17,L,J
@@ -409,7 +411,6 @@ EndRepeat
   24,R,J
   29,D,X
   19
-
    5,R,D,J,C
   53,R
    1,J
@@ -421,7 +422,6 @@ EndRepeat
    1,R,J,G
    1,R,K,G
    4
-#
   11,D,G
    1
    2,R
@@ -495,6 +495,7 @@ EndRepeat
   40
 
 #lvl_viv8
+#1x
   19,R,D
    2,R
    1,R,J
@@ -529,9 +530,6 @@ EndRepeat
    1,R,K,G
    1,R,J,G
  140,L
-
-
-#
  129,D,G
  103,R,J
   67,R,U,G
@@ -555,7 +553,7 @@ EndRepeat
   40
 
 #lvl_vivEnd
-
+#1x
   10,R
    2
    1,R
