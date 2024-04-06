@@ -3,10 +3,13 @@ RecordCount: 1072
 console load StrawberryJam2021/3-Advanced/Citrea
    1
 
+#34x
+
 #Start
  190
 
-#lvl_intro (4x)
+#lvl_intro
+#4x
   15,D,X
    1,R
   15,D,X
@@ -23,7 +26,9 @@ console load StrawberryJam2021/3-Advanced/Citrea
    1,R,J
   11,R
   40
-#lvl_a-1 (4x)
+
+#lvl_a-1
+#4x
    3,R
    1,R,J
   14,R
@@ -53,6 +58,7 @@ console load StrawberryJam2021/3-Advanced/Citrea
   40
 
 #lvl_a-2
+#5x
    5,R,J
   14,R,Z
   13,R,J
@@ -74,7 +80,9 @@ console load StrawberryJam2021/3-Advanced/Citrea
    3,R,J
    1,R
   40
+
 #lvl_a-3
+#6x
   14,R
    1
   13,L
@@ -115,6 +123,7 @@ console load StrawberryJam2021/3-Advanced/Citrea
   40
 
 #lvl_a-4
+#5x
    5,R,J
    1,J
    2
@@ -142,7 +151,8 @@ console load StrawberryJam2021/3-Advanced/Citrea
    7,R
   40
 
-#lvl_bhop (1x)
+#lvl_bhop
+#1x
    7,R
    1,R,J
   14,R
@@ -163,7 +173,9 @@ console load StrawberryJam2021/3-Advanced/Citrea
    1,R,J
   12,R
   40
-#lvl_a-5 (4x)
+
+#lvl_a-5
+#4x
    2,R
    1,R,J
   14,R
@@ -201,6 +213,7 @@ console load StrawberryJam2021/3-Advanced/Citrea
   40
 
 #lvl_a-6
+#4x
    5,R
    1,R,J
   14,R
@@ -246,7 +259,8 @@ console load StrawberryJam2021/3-Advanced/Citrea
    2,R
   40
 
-#lvl_epilogue (0x)
+#lvl_epilogue
+#0x
   12,R
    1,R,J
   14,R
@@ -266,7 +280,8 @@ console load StrawberryJam2021/3-Advanced/Citrea
    1,D,J
   18
 
-#lvl_heart (1x)
+#lvl_heart
+#1x
  206
    4,L
    1,L,J
@@ -308,6 +323,3 @@ console load StrawberryJam2021/3-Advanced/Citrea
 
 ChapterTime: 0:56.338(3314)
 #34 dashes
-
-
-
