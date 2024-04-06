@@ -16,6 +16,7 @@ Set,CollabUtils2.DisplayEndScreenForAllMaps,False
 console load StrawberryJam2021/0-Lobbies/1-Beginner
    1
 
+#Start
 #1x+24x
 Read,1_Beginner_Lobby/beg_0-1,Start
 Read,Enter_Level,Start
