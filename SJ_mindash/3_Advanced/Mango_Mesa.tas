@@ -1,16 +1,16 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 8589
+RecordCount: 8813
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
 
-#198x
+#196x
 #Start
   36
 
-#0x
+#1x
 #lvl_Start
    5,R
    1,R,J
@@ -64,97 +64,78 @@ EndRepeat
    1,R,J,G
   11,R
    1,R,J
-  26,R,D
-   8,R
-   1,R,D
-   1,R
-   1
-   1,R
-   1,R,J
-   1,R,K,G
-   3,R,J,G
-   5,R
-   3,R,J
-   1,R,K,G
-   6,R
-   1,R,J
-   1,R,K,G
-  13,R
-  12,R,J
+  21,R,D
    3,R
+   2,R,D
+   8,R,Z
+   1,R,J
+   1,R,K,G
+   1,R
+   1,R,K,G
+   5,R
+   1,R,J,G
+   2
+   3,R
+   1
+   1,R,J,G
+   9,R
+   2,R,J
+   5,R
 
 #0x
 #lvl_heartside_oppen_intro
    2,R
-   4,R,J
-   2
-   1,R
    1,R,J
-   1,R,K,G
-   4,R,J,G
-   8,R
-   2,R,J
-   2,R
-   1,R,K,G
-   4,R
-   1,R,J,G
-   6,R
+   2,R,K,G
+   1,K
+   4,R,K
+   3,R,J,G
+   5,R,K,G
+   3,R,J,G
+   1,R
   40
 
 #2x
 #lvl_heartside_oppen_a (1)
-   1,R
-   3
-   2,R
-   1,R,J
-  14,R,Z
-   1,R,J
-   7,R
+  13,R
   12,R,J
-   7,R
-  14,R,X
-
-#2x
-#lvl_heartside_oppen_b
-   1,R,X
-   1
   12,R
-  26,D
+   1,L
+  30,D
    1,J
   11,D
   19,R,D
-  15,D,X
-   3,D
-   1,L,D
-   2,D
+  20,D,Z
+   1,D
   14,R,Z
    3,R,J
-
 #1x
 #lvl_heartside_oppen_a (2)
-  23,R,J
-  20,U,X
-  28,R,J
-   2,J
-   2,K,G
-  14,R,K,G
-   2,J,G
-  12,R,J
-   8,K,G
-   1,R,K
-   1,K
-   1,R,K
-   1,L,K
-  14,R,J,G
-   1,K
-   7,R,K
-   1,J
-   1,L,J
-  10,R,J
-   3,K,G
-   1,L,K
+  21,R,J
+  16,U,X
+  33,R,J
+   1,R,K,G
+   2,L,K
+   4,R,K
   12,R,J,G
-  18,R
+   1,K,G
+   1,R,K,G
+   1,K
+   8,R,K
+   1,L,K
+  16,R,J,G
+   5,K,G
+   1,L,K
+  12,J
+   1,K
+   1,L,K
+   1,R,K
+   9,K
+   3,J,G
+   1,L,J
+  12,R,K,G
+  17,R
+   1
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -162,7 +143,6 @@ EndRepeat
    1,R,J
    7,R
   40
-
 #0x
 #lvl_heartside_Worldwaker2
    7,R
@@ -2770,4 +2750,4 @@ EndRepeat
   14,L,U,X
  135,L,D
 
-ChapterTime: 7:25.111(26183)
+ChapterTime: 7:23.904(26112)
