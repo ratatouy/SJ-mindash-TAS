@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 8470
+RecordCount: 8589
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -403,6 +403,8 @@ EndRepeat
    1
    1,R,D
    6,R,J
+
+
   15,R,X
   32,R
    1,D
@@ -743,7 +745,7 @@ EndRepeat
   10,R
   40
 
-#11x
+#10x
 #lvl_heartside_Meario
    4,R
    1,R,J
@@ -881,42 +883,41 @@ EndRepeat
    3,D,G
    2
   13,R,U,Z
-   5,L,J
+   4,L,J
+   1,L
    1,R,K
-   8,R
-   4,R,J
-   1
-   2,R
-  15,R,U,Z
-   3,L,K,G
-   5,L
-  18,U,X
-  15,L,G
-  12,J
-   8,R
-   9,D
-  10,R,D,X
-   4,R,K
-   1,R,J
-  41,R,D
-   2,R
-  31,R,G
-  10,R,X
-   6,R,J
-  12,R,K
-  13,R
-  10,R,J
-  20,R
-   1,R,D
+   2
+   6,R
+   2,R,J
+  10,R
+  15,U,Z
+   1,L
+  13,R,J
    1,R
-   1
-   1,D
-   2,R,D
+  16,R,J
+   2,R
+   2
+   1,R
    1,R,J,G
    1,R,K,G
-  15,R
+  16,R,U,G
+  22,R,G
+  10,R,Z
+   4,J
+   1,K
+  45,R,D
+  39,R,U,G
+  10,R,Z
+   5,R,J
+  56,R,K
+   5,R,D
+   1,R,J,G
+   1,R,K,G
+  14,R
    1,R,J
   13,R
+
+
   40
 
 
@@ -2769,4 +2770,4 @@ EndRepeat
   14,L,U,X
  135,L,D
 
-ChapterTime: 7:24.686(26158)
+ChapterTime: 7:25.111(26183)
