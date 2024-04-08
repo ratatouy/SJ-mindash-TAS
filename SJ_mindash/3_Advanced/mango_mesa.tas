@@ -1,12 +1,12 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 8895
+RecordCount: 9131
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
 
-#196x
+#192x
 #Start
   36
 
@@ -383,8 +383,6 @@ EndRepeat
    1
    1,R,D
    6,R,J
-
-
   15,R,X
   32,R
    1,D
@@ -418,7 +416,7 @@ EndRepeat
   11,R
   40
 
-#6x
+#3x
 #lvl_heartside_Galaksyz
    3,R
 Repeat,4
@@ -437,9 +435,6 @@ EndRepeat
    1
   31,R,J
   25,R,U,Z
-
-
-
   61,R,C
   15,R,D,X
    2,D
@@ -465,10 +460,57 @@ EndRepeat
   37,R
   13,R,X
   15,R,U,C
-  40,R,D
-  15,R,D,X
-   6,R
-  14,R,U,C
+  16,R,D
+  27,D
+   2,R,D
+   1,L,J,G
+   1,R,J
+   3,R
+  12
+   1,R,K
+  25,R
+   2,R,K
+  15,R
+   5,J
+   1,L
+   9,L,J
+  10,L
+   4,J
+   1,L
+  21,L,J
+   5,K
+   1,L
+  18,L,K
+   3,K
+   1,J
+  21,L,J
+  17,D,J
+   1,K
+  21,L,K
+  17,K
+   1,J
+  22,L,J
+  16,J
+   1,K
+  21,L,K
+  16,K
+   1,J
+  22,L,J
+  15,J
+   1,K
+  21,L,K
+  16,K
+   1,J
+  22,L,J
+  11,J
+   2,R,J
+   1,L,J
+   1,K,G
+   5,L
+   3
+   2,L
+   3,R
+  27,R,K
   15,R,U,X
   55,R,D
    1,R,J
@@ -2366,7 +2408,7 @@ EndRepeat
   10,R
   40
 
-#4x
+#3x
 #lvl_heartside_RadleyMcTuneston
    4,R
    9,R,J
@@ -2395,27 +2437,33 @@ EndRepeat
   14,D
    3
   15,L,U,C
-  33,D
-  21,R,D
-   6,R,Z
+  15,L,D
+  28,D
+   3,R,D
+   4,R,K
+   5,R
+  20,R,K
+   1,R,D
+   1,R,D
+   2,R,D
    1,R,J,G
-  10,R
-   2
-   5,L,Z
-   1,R,J
-   3,R
-   1,R,J
-   3,R
+   3,R,K,G
+  16,R
+   7,R,Z
+   1,R,K
+   6,R
   20,R,J
   14,U,Z
    9,R,J
-  11,R,D
-  24,R
-   1,R,J
-   1,L,K,G
+   8,R,D
+  25,R
+   1,L
+   1,K
    1,J,G
    1,K,G
+   1,J,G
    2
+   1,R
   15,D,X
    7,R,D
 Repeat,4
@@ -2777,4 +2825,4 @@ EndRepeat
   14,L,U,X
  135,L,D
 
-ChapterTime: 7:25.451(26203)
+ChapterTime: 7:33.203(26659)
