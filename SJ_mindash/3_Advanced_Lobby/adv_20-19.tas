@@ -1,0 +1,41 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 230
+
+console load StrawberryJam2021/0-Lobbies/3-Advanced 808 792
+   1
+
+#0x
+
+#Start
+  36
+   1,L,J
+  18,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+   2
+  10,L
+   1
+   1,L
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+  11,L
+   8,L,J
+   9,L
+   1,L,J
+  20,L,D
+  56,D
+   3,L,D
+   3,D
+   1,R,D
+  14,D
+   3,R,D
+   1,N
+
+
+FileTime: 0:03.961(233)
