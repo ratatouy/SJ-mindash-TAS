@@ -20,21 +20,21 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner
 #1x+24x
 Read,1_Beginner_Lobby/beg_0-1,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Loopy_Lagoon,Start
+Read,1_Beginner/loopy_lagoon,Start
    1,O
   32
 
 #29x
 Read,1_Beginner_Lobby/beg_1-11,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Forest_Path,Start
+Read,1_Beginner/forest_path,Start
    1,O
   32
 
 #16x
 Read,1_Beginner_Lobby/beg_11-12,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Azure_Caverns,Start
+Read,1_Beginner/azure_caverns,Start
    1,O
   32
 
@@ -48,126 +48,126 @@ Read,1_Beginner/if_my_driveway,Start
 #42x
 Read,1_Beginner_Lobby/beg_10-D-9,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Treehive,Start
+Read,1_Beginner/treehive,Start
    1,O
   32
 
 #1x
 Read,1_Beginner_Lobby/beg_9-8,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Rose_Garden,Start
+Read,1_Beginner/rose_garden,Start
    1,O
   32
 
 #60x
 Read,1_Beginner_Lobby/beg_8-4,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Switchtube_Vista,Start
+Read,1_Beginner/switchtube_vista,Start
    1,O
   32
 
 #1x
 Read,1_Beginner_Lobby/beg_4-3,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Over_the_City,Start
+Read,1_Beginner/over_the_city,Start
    1,O
   32
 
 #12x
 Read,1_Beginner_Lobby/beg_3-2,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Collapsing_Skyline,Start
+Read,1_Beginner/collapsing_skyline,Start
    1,O
   32
 
 #24x
 Read,1_Beginner_Lobby/beg_2-5,Start
 Read,Enter_Level,Start
-Read,1_Beginner/A_Gift_From_the_Stars,Start
+Read,1_Beginner/a_gift_from_the_stars,Start
    1,O
   32
 
 #83x
 Read,1_Beginner_Lobby/beg_5-6,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Troposphere,Start
+Read,1_Beginner/troposphere,Start
    1,O
   32
 
 #4x
 Read,1_Beginner_Lobby/beg_6-7,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Potential_for_Anything,Start
+Read,1_Beginner/potential_for_anything,Start
    1,O
   32
 
 #1x
 Read,1_Beginner_Lobby/beg_7-13,Start
 Read,Enter_Level,Start
-Read,1_Beginner/The_Squeeze,Start
+Read,1_Beginner/the_squeeze,Start
    1,O
   32
 
 #6x
 Read,1_Beginner_Lobby/beg_13-14,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Strawberry_Orchard,Start
+Read,1_Beginner/strawberry_orchard,Start
    1,O
   32
 
 #41x
 Read,1_Beginner_Lobby/beg_14-15,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Paint,Start
+Read,1_Beginner/paint,Start
    1,O
   32
 
 #3x
 Read,1_Beginner_Lobby/beg_15-16,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Coresaken_City,Start
+Read,1_Beginner/coresaken_city,Start
    1,O
   32
 
 #11x
 Read,1_Beginner_Lobby/beg_16-17,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Dropzle,Start
+Read,1_Beginner/dropzle,Start
    1,O
   32
 
 #22x
 Read,1_Beginner_Lobby/beg_17-18,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Soap,Start
+Read,1_Beginner/soap,Start
    1,O
   32
 
 #4x
 Read,1_Beginner_Lobby/beg_18-19,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Seeing_is_Believing,Start
+Read,1_Beginner/seeing_is_believing,Start
    1,O
   32
 
 #6x
 Read,1_Beginner_Lobby/beg_19-20,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Cassette_Cliffs,Start
+Read,1_Beginner/cassette_cliffs,Start
    1,O
   32
 
 #7x
 Read,1_Beginner_Lobby/beg_20-21,Start
 Read,Enter_Level,Start
-Read,1_Beginner/Midnight_Spire,Start
+Read,1_Beginner/midnight_spire,Start
    1,O
   32
 
 #88x
 Read,1_Beginner_Lobby/beg_21-F-D-22,Start
 Read,Enter_Heartside,Start
-Read,1_Beginner/Blueberry_Bay,Start
+Read,1_Beginner/blueberry_bay,Start
   61
    1,O
 
