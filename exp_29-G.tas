@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 34
+RecordCount: 68
 
 console load StrawberryJam2021/0-Lobbies/4-Expert 1568 544
    1
@@ -17,19 +17,24 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 1568 544
    5,R,K,G
    1,L,K,G
    7,R,K,G
-   2,R,J,G
+   1,R,J,G
+   1,J
+   1,R,J
+   1
   11,R
-   5,R
-  12,R,J
+   1,R
+  13,R,J
    1,L,J
-   8,K,G
-   1,R,K
+   7,K,G
+   2,R,K
    1,J
    8,R,J
    3,K
    2
-   6,R,J
-   4,R,K
+   1,J
+   4,R,J
+   3,K
+   2,R,K
    1,R,J
    5,R
    1,R,J,G
@@ -49,4 +54,4 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 1568 544
   20,R
    1,X
 
-FileTime: 0:04.097(241)
+FileTime: 0:04.080(240)
