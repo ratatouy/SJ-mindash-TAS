@@ -1,4 +1,4 @@
-RecordCount: 7548
+RecordCount: 7592
 
 console load StrawberryJam2021/3-Advanced/galaksyz
    1
@@ -264,42 +264,40 @@ console load StrawberryJam2021/3-Advanced/galaksyz
    6,J
    1,L,J
   14,R,K,G
-   6,R,J,G
-  21,R
-
-#bino clip spinner cycle
-#just in case
-   0
-
+   2,R,J,G
+   9,R
+   1,R,J
+   5,R
+  33,R,J
+  10,L
+   5,L,D
+   1,L,J
+   5,L
+   3,L,J
   11,R,X
    1,R,J,G
-   1
-   7,R,J,G
-   3,R
+   9,R
+   1,R,J
   40
 
 #8x
 #lvl_a_04-Gala
-  13,R
-   1
-   2,R,J
-   6,R,K,G
-  16,R
-  12,L,D
-   1,R,D
-   1,L,D
-   1,N
- 167,R
-   1,X
-  19
-   4,R,Z
+   1,R
    1,R,J
-  10,R
-  21,R,J
-   6,J
-   3,K,G
-   2,L,K
-  12,L,J
+  11,R
+   4,R,J,G
+  15,R
+  44,R,J
+  53,R,U,Z
+   2
+  12,R,J,G
+   7,K,G
+   1,L,K
+   1,L,J
+  11,K
+
+
+
   24,R,X
   17,U,C
    4,R
@@ -815,4 +813,4 @@ Repeat,42
 EndRepeat
    1,L,D
 
-ChapterTime: 2:08.690(7570)
+ChapterTime: 2:07.160(7480)
