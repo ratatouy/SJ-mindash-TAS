@@ -310,42 +310,40 @@ console load StrawberryJam2021/3-Advanced/Indecx
   10,K
    7,R,J
   61,R,D
-  86,L,G
-   2
-   1,K
-   1,L,J,G
-  20,R
-   1
-   1,R,K,G
-  14,R
-  29,R,J
-  18,R,D
-   6,R,K
-   8,R
-#dash
-  13,R,Z
-  20,R,K
-  11,R
+  40,L,G
+   2,J,G
+   1,R,J
+  22,L,K,G
    1,L
-   7,K,G
-  34,R,K
+   7
+   6,R,D
+   8,R,U,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   4,R,K,G
+   7,R
+   3,R,J
+  26,R
+   5,R,D
+  40,R,J
+   1
+   1,K,G
+   1,L,K
+  14,R,J,G
+   1,R,K,G
+  13,R
    1,R,J
   14,R
-   1,R,K
-  14,R
-   5,R,K
-   1,J,G
-   1,L,J
-  27,R,K,G
    1,R,J
-  14,R
-   1,R,J
-   2,R
+   1,R
   40
 
 #lvl_9
 #(2x)
-  20,R
+   1
+  19,R
    1
    1,R
    1
@@ -489,5 +487,5 @@ EndRepeat
   21,R,X
  135,R,D
 
-ChapterTime: 1:13.321(4313)
-#22x -> 18x
+ChapterTime: 1:11.145(4185)
+#18x -> 17x
