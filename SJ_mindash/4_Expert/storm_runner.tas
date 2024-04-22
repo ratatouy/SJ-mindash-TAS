@@ -484,110 +484,197 @@ EndRepeat
 
 #lvl_a-08
   42,R,G
-   1,R
-  11,L,D,X
-   1,R,D,J
-   6,R,D
-   3,R,J
-  20,R,J,G
-  28,R,D,G
-   1,R,J
-  14,R,D,X
-   1,R,J
+  43,R,U,J,G
+  24,R,J
+  15,R,U,X
+  21,R,J
+  10,J
+  13,K
+  10,R
+  10,D
+  23,R,J
+   2,J
+  13,R,D,X
+   7,R,J
+   2,R
+  27,R,J,G
+   1,L,J
+  12,R,J
+  15,R,U,X
+  15,R,J
+  31,L,J
+  15,R,U,X
+  19
+   5,R
+   8,R,J
    1,R
   10,R,J
-  32,R,K
-  15,R,U,Z
-  15,R,J
-  29,L,J
-  15,R,U,X
-  23,L,J
-  39,R
-   1,L,J
-  15,L,D,X
-  42,L,J
-   6,L,K
-   1,L
+Repeat,100
+   1,G
+   1
+EndRepeat
    7,L,J
-  65,L,U,J,G
-  12,D
-   9,U,X
-  36,J,G
-Repeat,5
+   1,L
+  52,L,J
+  52,L,G
+   7,L,J,G
+   1,L,G
+  53,L,U,J,G
+  10,D
+  11,U,X
+  24,L,J,G
+  10,J,G
+   1,D,J
+Repeat,9
+  21,J,G
+   1,D,J
+EndRepeat
+  21,R,J,G
+   1,D,J
+  21,R,J,G
+   1,D,J
+  17,R,J,G
+   4,J,G
+   1,D,J
+  21,R,J,G
+   1,R,J
+  84,R,U,J,G
+   1,R,J
+  70,R,U,J,G
+   4,R
+   9,R,J
+  73,R,G
+  11,L,D,G
+   9,L,U,G
+   6,L,D
+   7,D
+   1,G
+   3,J
+   1,R,J
+  19,R,J,G
+   2,J,G
    1,D,J
   21,J,G
-EndRepeat
-   1,L,J
-   6,U,X
-  20,U,J,G
-  16,L,U,J,G
-   9,R,U,K,G
-   1,L,U,G
-  65,L,U,J,G
-   1,R,U,K,G
-   7,R,U,G
-   3,R,U,J,G
+   1,D,J
+  21,R,J,G
+   1,D,J
+  15,R,J,G
+   6,J,G
+   1,D,J
+  22,R,J,G
+   1,R,J
+  85,R,U,J,G
+   1,U,J,G
+   1,D,J
+  21,J,G
+   1,D,J
+  21,R,J,G
+   1,D,J
+  16,R,J,G
+   5,J,G
+   1,D,J
    1,R,G
-  23,R,D,G
-  80,R,J,G
-  38,R,U,J,G
-  33,R,D,G
+  20,D,G
+   1,D,J
+  56,U,J,G
+   5,R,U,J,G
+   9,R,K,G
+   1,R,G
+  50,R,U,J,G
+  25,D,G
+   7,R,D,G
    1,R,J,G
-  43,R,G
+   1,R,G
+  53,R,G
+  19,R,J,G
+   1,J,G
+   1,D,J
+Repeat,4
+  21,J,G
+   1,D,J
+EndRepeat
+  21,R,J,G
+   1,D,J
+  21,R,J,G
+   1,D,J
   17,R,J,G
-   1,R,J
-  15,R,U,X
-  17,L,D
-  21,D,G
-  27,G
-   9,L,J,G
-   1,L,D
-  29,L
-  12,R,Z
-   1,R,J
-  63,R,G
-  28,R,U,J,G
-  11,R,J
-   9,U,X
-  47,R,J,G
+   4,J,G
+   1,D,J
+  19,R,J,G
+   2,J,G
+   1,D,J
+  16,J,G
+   5,R,J,G
    1,L,J
+ 130,R,U,J,G
    1,R,J
-  12,K,G
-  10,J
+  15,R,X
+  16
+   8,R
+   1,R,J
+  25,R,J,G
+  15,J,G
+   2,K,G
+   1,L,D,K
   40
 
 #lvl_a-09
   11,J
-  15,U,X
-  39,D
-  20,J
-  15,U,X
+  18,U,X
    6,J
-  33,J,G
-  40,D
-  14,U,X
-  21,J,G
+  15,U,C
+   6,J
+  23,J,G
+  49,D
+  12,U,X
+  21,L,J,G
    1,D,J
+  21,L,J,G
+   1,D,J
+Repeat,6
+  22,J,G
+   1,D,J
+EndRepeat
   24,J,G
    1,D,J
-Repeat,15
+Repeat,6
   21,J,G
    1,D,J
 EndRepeat
-  50,D,G
-  13,R,D,G
-  44,D,G
+  22,J,G
+   1,L,J
+  32,J,G
+  12,L,G
+  48,G
+   4,U,G
+   1,R,D,J
+  55,D,G
+   5,R,D,G
    1,R,J
-  14,U,X
-  21,L,G
-  40
-  25,L,G
-  22,G
-  30,J,G
-  15,U,X
-  23
+  20,R,D
+  44,D
+Repeat,174
+   1,D
+   1
+EndRepeat
+   3,R,J
+  11,R
+  20,L,J
+  18,L,J,G
+   3,J,G
+   1,D,J
+Repeat,24
+  21,J,G
+   1,D,J
+EndRepeat
+  21,R,J,G
+   1,L,J
+  21,J,G
+   1,R,J
+  18,U,X
+  25
   21,G
-   8,J,G
+  10,J,G
   52,G
   12,R,J,G
    5,J,G
@@ -602,6 +689,12 @@ EndRepeat
   15,J,G
    1,D,J
   15,U,X
- 225,D
+  69,D
+Repeat,31
+   1
+   1,D
+EndRepeat
+  93,J
 
-ChapterTime: 2:35.125(9125)
+
+ChapterTime: 3:07.782(11046)
