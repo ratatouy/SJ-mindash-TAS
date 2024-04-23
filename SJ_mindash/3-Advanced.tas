@@ -1,6 +1,6 @@
 #Start
 #Advanced Lobby
-#905x
+#899x
 
 unsafe
 console clrsav
@@ -38,21 +38,21 @@ Read,3_Advanced/bee_berserk.tas,Start
    1,O
   32
 
-#58x
+#57x
 Read,3_Advanced_Lobby/adv_13-11.tas,Start
 Read,Enter_Level,Start
 Read,3_Advanced/belated_valentines_day.tas,Start
    1,O
   32
 
-#31x
+#30x
 Read,3_Advanced_Lobby/adv_11-10.tas,Start
 Read,Enter_Level,Start
 Read,3_Advanced/superstructure.tas,Start
    1,O
   32
 
-#34x
+#33x
 Read,3_Advanced_Lobby/adv_10-9.tas,Start
 Read,Enter_Level,Start
 Read,3_Advanced/toggle_theory.tas,Start
@@ -73,7 +73,7 @@ Read,3_Advanced/synapse.tas,Start
    1,O
   32
 
-#18x
+#17x
 Read,3_Advanced_Lobby/adv_7-4.tas,Start
 Read,Enter_Level,Start
 Read,3_Advanced/starry_ruins.tas,Start
@@ -87,7 +87,7 @@ Read,3_Advanced/attack_of_the_clone.tas,Start
    1,O
   32
 
-#58x
+#56x
 Read,3_Advanced_Lobby/adv_6-5.tas,Start
 Read,Enter_Level,Start
 Read,3_Advanced/the_tower_xvi.tas,Start
