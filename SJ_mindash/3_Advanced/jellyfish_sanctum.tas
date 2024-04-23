@@ -6,11 +6,12 @@
 RecordCount: 3011
 
 console load StrawberryJam2021/3-Advanced/BlueXans
-  77
+  1
 
 #Start
 #lvl_intro
 #1x
+  76
    5,R
    1,R,J
   10,R,J
