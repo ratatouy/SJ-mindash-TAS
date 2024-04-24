@@ -1,5 +1,5 @@
-# The Tower XVI 56x
-RecordCount: 3178
+# The Tower XVI 55x
+RecordCount: 3465
 
 console load StrawberryJam2021/3-Advanced/JANisEXIST
    1
@@ -247,7 +247,7 @@ EndRepeat
   40
 
 #lvl_3
-#11x
+#10x
   15,L
    2,L,K,G
    7,L,J,G
@@ -281,54 +281,52 @@ EndRepeat
    2,J
    1,K
   26,R,K
-   4,D,J
-   3,R,J
-   1
-  18,R,K,G
-   2,L
-   1,L,K
-   2,K
-   1,L
-   1,K
-  16,L,U,Z
-   1,L,K
-   7,L
-  15,U,X
-  18,R,D
-   6,K
-   9,J,G
-  16,L,U,Z
-  10,L,K
-  41,L,J
-   7,K,G
-   2,L,K
-   2,L
-   2
-   1,R
-   5,R,J
    1,J
-   1,R,J
+   7,R,J
+   1,R,K,G
+   4,L,K
+   7,R,K
+   7,R,J,G
+   3,R
+  13,L,U,Z
+   3,L,J,G
+   2,L
+   3
+   9,J
+   2,R,K,G
+   1,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+  13,J
+   7,L,J
+   1,K
+   7,R
+  11,R,J
+  18,L,U,Z
+   8,L,K
+  38,L,J
+   2,L,D
+   7,K,G
+   2,L
+   1,L
+   5
    2,R
    1
-   1,R
-  19,R,K
-   3,L,K
+  19,R,J
+   1,L,K
    1,J,G
-   2,L,J
+  10,L,J
+   1,R,J
+   6,L,K,G
    7,L
-   1,R
-  15,L,K,G
-   2,L,J,G
-   2,R,J
-   1,J
+   1
+   2,L
+   1,J,G
    1,R,J
-   1,J
-   1,R,J
-   1,J
-   1,R,J
-   1,J
-   1,R,J
-   3,J
+  19,L,J
+   1,L
+   3
   15,U,X
    2,L
   12,R,J
@@ -346,7 +344,7 @@ EndRepeat
    1,K
    1,L,K
    1,J
-  25,R,J
+  26,R,J
    1,K
   20,R,K
    7,R
@@ -377,11 +375,6 @@ EndRepeat
    2,L,K
   18,L,J
   15,U,X
-
-
-
-
-
   17,L,K
    1,J
    6,L,J
@@ -771,4 +764,4 @@ EndRepeat
   15,U,X
  135,R,D
 
-ChapterTime: 1:31.545(5385)
+ChapterTime: 1:31.698(5394)
