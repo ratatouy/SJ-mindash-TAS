@@ -1,25 +1,23 @@
-# StrawberryJam2021
-# https://gamebanana.com/mods/424541
-
-RecordCount: 2507
-
-#190x
+RecordCount: 3089
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
+
+#187x
+#Start
  190
 
 #0x
-#Start
+#lvl_Insert Coin
    5,R
    1,R,J
   27,R
    8,R,J
   12,R,K
    1,R
-   3,R,J,G
-  18,R
-  10,R,D
+   2,R,J,G
+  19,R
+   9,R,D
    1,N
    1,S
    1,D,J
@@ -27,106 +25,119 @@ console load StrawberryJam2021/5-Grandmaster/maya
 
 #13x
 #lvl_Tutorial
-  41
    5,R
    1,R,J
   14,R
-   7,R,J
-   2,J
-  15,R,U,X
-  10
-   2,R
+   4,R,J
+   1,R
+  14,R,U,X
+  10,R
+  31,L
+  21,R
    1
-  12,L
-  50,L
-  15,U,X
-  10,R
-  19,L,U,X
-  60,R
-  15,R,U,X
-  15,R
-  15,U,X
-  15,R
-  14,R,Z
-   1,R,J
-  30,R
-  15,R,U,X
-  10,R
-  14,U,X
-  33
-  10,R,U,X
-   2,R,J,G
-  13,R
-   7,R,J
-   5,J
-  15,R,U,X
-  13,R
-   9
-  15,D
-   7,D,J
-  16,L,D,J
-  50,R
-   1,R,J
-  14,R
-  10,R,J
-   5,R
-  10,R,Z
-   1,R,J
-   4,R
-  15,R,D,X
-  15,R
-  45,R,J
-  15,R,U,X
-  21,R
-   1,R,J
-  14,R
-   1,R,J
-   7,R
-  40
-
-#14x
-#lvl_Ready?
-   7,R
-   1,R,J
-  14,R
-  12,R,Z
-   1,R,J
-  24,R
-  10,L,U,X
-   7,R
-  35
-   5,R,D,X
-  21,L
-  11,L,D
-  15,L,D,X
-   7,L
-  18,R
-  15,R,D,X
-  57,R,J
-
-#Hypothetical dave here, manip speed and height to hit the bumper after ultra without dashing
-  15,L,D,X
-  13
-  15,R,D,X
-  26,L
-  15,L,U,X
-  15
-  15,U,X
-  10
-   3,L
-  18,R
-  15,R,D,X
-   3,R,J
-  15,R,D,X
-  10,R
-  20,R,J
-  21,R
-  15,U,X
-   6,L
-  32,R
   15,U,X
    4,L
+   1
+  15,L,U,X
+   7,L
   59,R
+  15,R,U,X
+  19,R
+  15,U,X
+  10,R
+   1,R,J
+  14,R,Z
+   2,R,J
+  29,R
+  14,R,U,X
+  13,R
+   6,U,X
+  28
+  14,R,U,X
+   1,R,J,G
+  12,R
+   2,R,J
+   6,R
+  15,R,U,X
+  22,R,D
+   7,D
+   2
+   2,D
+   1,D,J
+   1,R,J
+   2,J
+  12,L,J
+  47,R
+## retry for moonblock cycle
+   1,S
+   1,D,J
+  69,O
+   2
+  11,R,J
+  14,R,Z
+   1,R,J
+   1,J
+  15,R,D,X
+   1
+   4,R
+   1,R,J,G
+  18,R
+  37,R,J
+   2,R,D
+  14,R,X
+   1,R,J,G
+  11,R
+   2,R,J
+   1,R
+  40
+
+#11x
+#lvl_Ready?
+  14,R
+  12,R,D,J
+  12,L,J
+  42,R
+   5,R,D,X
+  33,D
+   4,R,D
+   8,R
+   2,R,D
+   1
+   6,L,Z
+   1,R,J
+   6,R
+  35,R,J
+  15,R,X
+  11,R,D
+  12,L,D
+   7
+  10,R
+  15,R,D,X
+   3,R
+  15,L
+   9
+  12,L,U,X
+   7
+  11,R
+  15,U,X
+   2
+   4,L
+  17,R
+  15,R,D,X
+   2,R,J
+  15,R,D,X
+   4,R
+  45,R,J
+  15,U,X
+   5
+   1,L
+  31,R
+  15,U,X
+   4,L
+   1
+   1,L
+  54,R
+   4,R,D
   15,R,U,X
   21,R
    1,R,J
@@ -233,8 +244,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
 #lvl_Pursuit
   12,R
    1,R,J
-  14
-  25
+  39
    5,J
   12,R,J
    4,J
@@ -262,8 +272,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
   15,D,X
   23,L
   15,U,X
-  20,R
-   7,R
+  27,R
   15,U,X
   31,R,J
   39,L
@@ -299,8 +308,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
    7,R
    9,R,J
    3,J
-  11,R
-   2,R
+  13,R
    1
    5,R
   14,R,U,X
@@ -360,8 +368,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
    5
   15,U,X
   21
-   6,L
-   9,L
+  15,L
   25
    9,L
    2,L,D
@@ -550,16 +557,14 @@ endrepeat
   36,L
   13,R
   15,R,U,X
-  20,L
-  30,L
+  50,L
    6
   11,L
    1
    2,D
   25,R
   15,R,U,X
-  15,R
-  40,R
+  55,R
   30
   21,R
   15,R,U,X
@@ -663,12 +668,10 @@ endrepeat
   14,R
    1,R,J
   14,R
-   1,R,J
-  10,R,J
+  11,R,J
   15,R,U,X
    1,R,J
-  14,R
-   3,R
+  17,R
   15,U,X
   27
   24,L
@@ -861,4 +864,4 @@ repeat 62
    1
 endrepeat
 
-ChapterTime: 3:12.712(11336)
+ChapterTime: 3:10.876(11228)
