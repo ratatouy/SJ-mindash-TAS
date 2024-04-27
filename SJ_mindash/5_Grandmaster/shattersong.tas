@@ -1,4 +1,4 @@
-RecordCount: 473
+RecordCount: 625
 
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
@@ -364,37 +364,44 @@ Endrepeat
 #  61,R,G
 #lvl_B2
 #0x
-  76,R,G
-  17,G
- 111,R,U,G
-  28,U,G
-   4,D,G
-  25,U,J,G
-  16,R,U,J,G
-   1,R
-   3,R,U,J,G
-  40,R,G
- 100,U,J,G
-  47,L,U,J,G
- 150,U,J,G
-  65,G
-   5,U,G
-   7,R,U,G
-  30,U,G
+#new
+   1,R,J,G
+  28,R,D,G
+  10,R,J,G
+  15,R,U,G
+  23,R,D,G
+  15,R,U,G
+   8,R,U,G
+   1,R,D
+  29,R,J
+   5,K,G
+   2,R
+  29,D
+  20,L,U,J,G
+  38,R,U,J,G
+   1,U,G
+   1,R,D
+   7,D
+   2,G
+   5,R,J,G
+  28,R,U,G
+  15,R,U,G
+   8,R,D,G
+  10,R,U,J,G
+   9,R,G
+   4,L,K,G
    3,L,U,G
-   5,L,U,J,G
-   1,L,U,J
-  40,L,U,J,G
-  37,R,U,J,G
-  35,R,U,K,G
-   5,U,G
-   5,R,U,G
-   5,R,U,J,G
-  80,R,D,G
- 186,R,U,J,G
+   7,L,U,G
+   1,R,U,J,G
+   1,R,J
+ 129,R,U,J,G
+   1,R,K,G
+  38,R,D,G
+  44,R,G
 #lvl_B3
 #1x
- 290,R,U,G
+   1,R,U,G
+ 255,R,U,G
    6,R,U,J,G
  172,R,U,G
  147,R,U,J,G
@@ -416,8 +423,10 @@ Endrepeat
    6,J,G
   37,K,G
    1,D
-  83,R,K,G
-  49,R,G
+  16,R,K,G
+  61,R,U,K,G
+   9,R,D,G
+  47,R,G
 
 
 
@@ -692,7 +701,7 @@ Endrepeat
   15,R,X
   37,R
  135
-ChapterTime: 4:22.582(15446)
+ChapterTime: 4:12.008(14824)
 
 
 
