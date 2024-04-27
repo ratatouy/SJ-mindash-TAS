@@ -1,4 +1,4 @@
-RecordCount: 868
+RecordCount: 967
 
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
@@ -617,19 +617,8 @@ Endrepeat
   11,L,D,G
    1,L,U,J,G
   43,L,G
-
   58,R,G
   52,G
-
-
-
-#  77,L,U,J,G
-#   1,D
-#  98,L,U,J,G
-#  30,R,D,G
-#  55,G
-#   2,R,G
-#  46,G
   21,J,G
    1,D,J
    8,J
@@ -678,103 +667,82 @@ Endrepeat
    2,L,U,G
    5,U,G
   15,L,D,G
-  35,R,D,G
-   5,D,G
+  12,L,D,G
+  28,D,G
    1,J,G
    1,D,J
- 205,U,J,G
-   1,R,U,G
-  10,R,J,G
-  26,R,D,G
-  20,R,U,J,G
-  45,L,U,J,G
-  40,U,K,G
-  24,L,G
-  49,L,G
-  25,G
-  10,D,G
-  28,R,G
-  28,R,U,J,G
-  29,R,D,G
-   1,L,U,J,G
-   1,L,D,J
-  53,L,U,J,G
- 119,U,G
-  15,U,G
-  21,R,U,G
-  92,R,U,J,G
-   1,K,G
-  55,L,U,K,G
-  55,D,G
-   1,J,G
-   1,D,J
-  81,U,J,G
-  18,L,U,G
-  30,R,U,G
-   1,R
-   6,R,U
-  20,R,U,K,G
-  10,L,U,K,G
-  19,L,D,G
-  80,D,G
-  82,U,J,G
-  25,L,U,G
-  40,R,U,J,G
-   4,R,K,G
-  14,R,D,G
-  15,R,U,G
-  20,U,G
-  14,R,U,G
+ 100,U,J,G
+  30,R,U,J,G
+  62,U,J,G
+  16,R,U,G
+   6,R,J,G
+  30,R,D,G
+  48,R,U,J,G
+  10,R,J
+   1,R,K
+   1,R,K
+   5,L,U,K
+  47,L,U,K,G
+ 130,U,G
+  20,L,U,G
+  40,R,U,G
+   6,R,J,G
+  37,U,G
+   3,R,D,G
+  10,R,U,G
+  10,U,G
+  20,R,U,G
   30,R,U,J,G
   27,L,U,J,G
-   6,R,U,K,G
-   1,R,U,K
+   4,L,U,K,G
+   1,L,K
   55,R,U,K,G
- 120,U,G
-   4,R,U,G
-  60,L,U,J,G
-  20,U,G
-  19,L,U,G
-  40,L,U,J,G
-  37,R,G
-  50,U,G
-   3,R,D,G
-  29,D,G
-  90,U,G
+ 102,U,G
+   5,U,G
+  15,R,U,G
+   1,L,J,G
+  70,L,U,J,G
+   8,U,G
+   3,L,U,G
+  10,L,U,J,G
+  25,L,J,G
+  45,R,G
+  10,D,G
+ 135,U,G
   20,D,G
-  66,R,D,G
+   2,L,U,G
+  15,D,G
+   3,L,D,G
+  10,D,G
+  60,R,G
+
  400,G
  220,G
   65,L,G
   10,R,G
    1,R,U,J,G
-  28,R,D,G
+  24,R,D,G
    1,R,U,J,G
   24,R,D,G
-  84,R,U,J,G
+  43,R,U,J,G
+  42,R,U,K,G
 #lvl_Final Movement
 #0x
-#new
-  10,R,U,K,G
+  20,R,U,K,G
   16,U,K,G
-   2,L,K,G
-  40,R,U,K,G
-   1,D,K
-   4,G
-   2,K,G
-   4,J,G
-  10,K
-   5,D
-   2
-   9,J
+  10,L,K,G
+  26,R,U,K,G
+   1,D
    2,G
-  12,K,G
-   1
+   9,J,G
+  38,K,G
+   2,D
    1,K
-   7,R,K
-  54,R,U,K,G
-  11,R,U,J,G
- 104,R,D,G
+  15,R,U,K
+  47,R,U,K,G
+   6,R,J,G
+ 108,R,D,G
+
 
 
 
@@ -791,8 +759,8 @@ Endrepeat
 #1x
   15,R,X
   37,R
- 135
-ChapterTime: 3:55.824(13872)
+ 134
+ChapterTime: 3:41.850(13050)
 
 
 
