@@ -1,9 +1,9 @@
-RecordCount: 3320
+RecordCount: 3927
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
 
-#184x
+#177x
 #Start
  190
 
@@ -148,7 +148,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
    1,R
   40
 
-#18x
+#17x
 #lvl_Helix
   13,R
   10,R,J
@@ -188,70 +188,98 @@ console load StrawberryJam2021/5-Grandmaster/maya
   20,R,U,Z
   13,R
   15,R,D,X
-   3,R
-  25,R,J
-  15,R,U,X
+   2,R
+  12,R,J
+   2,R
+   2
+   1,K
+   6,L,J,G
+   1
+   7,L,Z
+   1,L,J
+   7,L
+  14,L,J
+   3,J
+   1,K
+   7,R,J,G
+   1,R
+  10,R,Z
+   1,R,J
+   7,R
+  11,R,J
+   5,R
+   3,R,J
+   8,R
+  15,R,X
+  17,R
+   2,R,D
+   1,J,G
    1,L
    1,R
-  18,L
-  15,L,D,X
-   3,L
-  15,L,J
+   4,R,J,G
+   9,R
+   1
+   1,R,J,G
+   4,R,K,G
+   5,R
+   2,R,J
+  14,R
+  12,R,J
+   5,R
+   4,R,J
+   1,J
+  19,R
+   1
    1,R
    1,R,J,G
-  23,L,J
-  20,R
-  15,R,D,X
-   4,R
-  36,R,D,J
-  15,R,X
-   1,R,J,G
-   1
-   1,R,K,G
-   1,R,J,G
-   1
-   4,R,J,G
-   5,R
-   5,R,J
-   4,R
-  16
-  16,L
-  12,L,J
-  29,L
-  12,L,J
-  13,L
-  14,L,U,X
+   5,R,K,G
+  17,R
+   1,J
+   2,R
+  11,L
+   1,L,J
+   7
+   5,L
+   1,L,J
+   6,L
    1,L,J,G
    1,L,K,G
-   1,L,K
+  17,L
+  29,L,J
+  14,L,U,X
+   1,L,J,G
+   2,L,K,G
    1,L,J,G
   12,L,K,G
-   5,L
-   3,L,J
-   9,L
-   2
+  17,L
   22,L,U,X
   15
   15,R,U,X
    1,L
-  78
-  18,R
+  73
+  14,R,D
+   3,R
+  14,R,D,X
+   1,R
   15,R,D,X
-  15,R,D,C
+   4,R,D
+   1,R
+  35,R,J
+   4,R,D
    7,R
-  46,R,J
-  10,R,U,X
-   3,R,J,G
-  12,R
+  12,R,U,X
+   1,R,J,G
+  13,R
    1,R,J
-   2,R
+   1,R
   40
 
-#17x
+#16x
 #lvl_Pursuit
-  12,R
-   1,R,J
-  39
+  17,R
+  14
+   1,R
+  19
    5,J
   12,R,J
    4,J
@@ -274,8 +302,8 @@ console load StrawberryJam2021/5-Grandmaster/maya
   50,R
   15,R,U,X
   28,R
-  13,U,X
-  35,R
+  14,U,X
+  34,R
   16,U,X
   35,R,J
   35,L
@@ -303,31 +331,49 @@ console load StrawberryJam2021/5-Grandmaster/maya
   50,L
   45,R
   15,U,X
-  15
-  10,L
-  39,R
-  14,R,Z
-   1,R,J
-  15,R,D,X
-   7,R
-  12,R,J
-  12,R,J
-   3,R
-   3
+  25
+   1,D
+  43,R,D
    1,R
-  11,R,U,X
+   1,R,D
+   1,R
+   2,J
+   1
+  13,R,D,X
    1,R,J,G
-  11,R
-  45,R,J
+   2,R,K,G
+   1,R,J,G
+   7,R
+   2,R,J
+  17,R,D,X
+  10,R,J
+   7,R
+   4,R,J
+   8,R
+   1
   14,R,U,X
    1,R,J,G
    9,R
+  36,R,J
+   5
+   1,K,G
+   1,L
+   1,R
+   4,R,J,G
+  10,R
+   1,R,J,G
+   1,R,K,G
+  10,R
    1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
   14,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
    1,R,J
   13,R
   40
@@ -416,7 +462,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
    1,R
   40
 
-#23x
+#18x
 #lvl_Delta
   13,R
    1,R,J
@@ -430,27 +476,32 @@ console load StrawberryJam2021/5-Grandmaster/maya
   15,D,X
   26,D
   15,D,X
-  28,D
-   6,R,D
-  15,R,X
-  28,L
+  21,D
+  13,R,D
+   2,D
+   1,R,D
+   1,J
+   4,R,J
+   4,R
+  33,L
   15,L,U,X
-  10
-  10,L
-  27,R,J
-  24,L
-  15,D,X
-  10,R
-   7
-  15,L
-  41,R
-   5
-  15,R,Z
+   4
+   1,J
+  12,R
+  23,L,D
+  12,L,J
+  22,L
+  44,R
+   3
+   3,R
+   1,R,J
+  15,R,D,X
   31,L
   15,L,X
   10
   15,D,X
-  10,D
+   7,D
+   3,L,D
   29
    8,R
    2
@@ -464,50 +515,57 @@ console load StrawberryJam2021/5-Grandmaster/maya
    5,R
    9
    7,D
-   8,L,D
-   5,D
-   2,R,D
-   5,R
+   7,L,D
+   3,D
+   1,L,D
+   3,D
+   1,R,D
+   4,R
   14,L,Z
   40,L,J
   15,L,X
-  20,R
-   3,R,D
-  37
-   2,L
-  10,R,X
-  20,L
+  23,R
+  24
+   2,R
+   2
+  11,R
+   8,R,X
+  21,R
   15,U,X
-  14,R,C
-  17
-  15,L,D,X
-  31,L
-  15,D,X
-  15
-   5,R
+  22,R
+  15,L,X
+  12,L
+  29,D
+   2,R,D
+   1,D
    8,L,J
-   4
+   5,L
    8,L,J
-  14,L
+  13,L,D
    1,J
-  38
+  38,D
   15,D,X
   20,D
-  36
-  15,R
-  31,L
-  15,L,X
-  17,R
-  15,R,D,X
-   7,R
-  51,R,J
-  10,R,U,X
+  58,R
+  12,U,G
+   1,J
+   2,L
+  14,R,Z
+  40,R,J
+  15,R,X
+  16,R
+   1
+   1,R
+   1
    1,R,J,G
-  12,R
+   4,R,K,G
+  13,R
    1,R,J
   14,R
    1,R,J
   14,R
+   1,R,J
+  15,R
    1,R,J
    9,R
   40
@@ -866,4 +924,4 @@ repeat 62
    1
 endrepeat
 
-ChapterTime: 3:07.969(11057)
+ChapterTime: 3:08.224(11072)
