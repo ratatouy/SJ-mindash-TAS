@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2708
+RecordCount: 2784
 
 console load StrawberryJam2021/1-Beginner/Flagpole1up
    1
@@ -561,7 +561,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   40
 
 #lvl_a10
-#8x
+#7x
   14,R
   10,R,K
   10,R,J,G
@@ -578,17 +578,19 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
 #dash
   10,U,X
   19,R,D
-  29,D
+  33,D
+   4,R,D
 #dash
-  23,R,Z
-#dash
-  60,U,X
-  13
-   4,R,K
-   9,R,J
+  15,R,U,Z
+   9,R
+  11,R,U,J
+  64
+   1,R,K
+  10,R,J
    1,R
-  12,R,K
-  27,R,G
+  11,R,K
+  20,R
+   7,R,D
 #dash
   11,R,U,Z
    1,L
@@ -600,10 +602,10 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
 #dash
   15,R,U,X
   21,D
-  16,R,D
+  17,R,D
 #dash
-   9,R,D,X
- 111,L
+   7,R,D,X
+ 114,L
   40
 
 #lvl_a11 (0)
@@ -907,5 +909,5 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
  135,R,D
 
 
-ChapterTime: 2:43.591(9623)
-#60 dash
+ChapterTime: 2:43.863(9639)
+#59 dash
