@@ -1,4 +1,4 @@
-RecordCount: 376
+RecordCount: 473
 
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
@@ -228,6 +228,7 @@ Endrepeat
   17,R,U,K,G
   25,U,G
   50,R,U,G
+
   28,L,G
   19,G
   10,D,G
@@ -251,23 +252,42 @@ Endrepeat
   18,L,G
   14,D,G
   14,R,G
+#new
    1,J,G
-  31,L,J,G
-   1,D
-  43,J,G
-  25,U,G
-   1,D
-   5,J,G
-   1,R,J
-   1,J,G
-  40,U,G
-   2,D,G
-  70,R,U,G
-  24,U,G
- 134,R,U,J,G
-  14,R,D,G
+   5,R,U,J,G
+   4,U,G
+  59,R,U,G
+   5,D
    5,R,J,G
-  83,R,G
+   7,R,U,K,G
+  30,U,K,G
+ 141,R,U,J,G
+  13,R,D,G
+   1,R,J,G
+  29,R,D,G
+  54,R,G
+#old
+
+
+
+
+#   1,J,G
+#  31,L,J,G
+#   1,D
+#  43,J,G
+#  25,U,G
+#   1,D
+#   5,J,G
+#   1,R,J
+#   1,J,G
+#  40,U,G
+#   2,D,G
+#  70,R,U,G
+#  24,U,G
+# 134,R,U,J,G
+#  14,R,D,G
+#   5,R,J,G
+#  83,R,G
 #lvl_Second Movement
 #0x
    5,R,G
@@ -284,7 +304,7 @@ Endrepeat
   20,R,U,J,G
   39,R,U,G
    1,R,U,J,G
-  72,L,U,J,G
+  69,L,U,J,G
   95,L,U,K,G
   95,G
    1,U,J,G
@@ -293,41 +313,60 @@ Endrepeat
    5,L,U,J,G
    1,R,U,J,G
   20,L,U,J,G
-  18,R,U,K,G
-  41,R,U,J,G
-   1,D
-  50,U,J,G
-   1,D
- 220,U,J,G
-   1,D
-  11
-  33,U,J,G
+  19,R,U,K,G
+  10,R,U,J,G
+  26,R,K,G
+   5,D
+  35,U,J,G
    5,R,D,J,G
-  56,D,G
-  13,U,J,G
-   1,D,J
-  90,U,J,G
-  24,L,U,G
-  27,R,U,G
-   1,R,J,G
-  20,L,U,J,G
-  25,U,G
-  15,D,G
-  48,L,U,J,G
-  30,R,U,J,G
-  10,U,J,G
-  11,R,U,G
-   1,L,U,J,G
-  78,L,U,J,G
-  40,R,U,K,G
-  71,R,U,J,G
-   2,R,K,G
-  61,R,G
+  10,D,G
+   7,L,G
+  37,L,U,J,G
+   1,D
+   1,K
+  41,L,U,K,G
+   1,L
+   3,K,G
+   1,K
+  14,R,J
+  39,R,U,J,G
+  30,R,U,K,G
+   2,R,J,G
+ 106,R,G
+
+#   1,D
+#  50,U,J,G
+#   1,D
+# 220,U,J,G
+#   1,D
+#  11
+#  33,U,J,G
+#   5,R,D,J,G
+#  56,D,G
+#  13,U,J,G
+#   1,D,J
+#  90,U,J,G
+#  24,L,U,G
+#  27,R,U,G
+#   1,R,J,G
+#  20,L,U,J,G
+#  25,U,G
+#  15,D,G
+#  48,L,U,J,G
+#  30,R,U,J,G
+#  10,U,J,G
+#  11,R,U,G
+#   1,L,U,J,G
+#  78,L,U,J,G
+#  40,R,U,K,G
+#  71,R,U,J,G
+#   2,R,K,G
+#  61,R,G
 #lvl_B2
 #0x
   76,R,G
-  20,G
- 110,R,U,G
+  17,G
+ 111,R,U,G
   28,U,G
    4,D,G
   25,U,J,G
@@ -342,49 +381,78 @@ Endrepeat
    5,U,G
    7,R,U,G
   30,U,G
-   3,L,G
+   3,L,U,G
    5,L,U,J,G
    1,L,U,J
   40,L,U,J,G
   37,R,U,J,G
   35,R,U,K,G
    5,U,G
-   6,R,U,G
+   5,R,U,G
    5,R,U,J,G
   80,R,D,G
- 188,R,U,J,G
+ 186,R,U,J,G
 #lvl_B3
 #1x
- 290,R,G
- 200,G
-  10,U,J,G
-  16,R,U,J,G
-   1,K,G
-  62,L,U,K,G
-  20,R,U,G
-  34,U,G
-   1,L,G
-   6,R,J,G
-  48,R,U,G
+ 290,R,U,G
+   6,R,U,J,G
+ 172,R,U,G
+ 147,R,U,J,G
    1,R
-  10,R
-  11,R,J
-  55,R,U,J,G
-   1,L
-   7,D
-  15,U,X
-  50,R,U,J,G
-  50,U,G
-  18,R,U,G
-  65,R,U,J,G
-  20,U,G
-  15,R,U,G
-  68,R,U,J,G
-  25,R,D,G
-  25,D,G
-  20,R,D,G
-  67,R,U,G
-  51,R,G
+  17,R,U,X
+  83,R,U,J,G
+   1,D
+  10,R,G
+   1
+   1,K
+  20,L,U,K,G
+  26,R,U,K,G
+   1,R,D,K
+   6,R,K,G
+   1,D
+   2,L,J
+  51,R,U,J,G
+   5,D
+   6,J,G
+  37,K,G
+   1,D
+  83,R,K,G
+  49,R,G
+
+
+
+#this might actually be faster but I can't get it to resync lol
+
+# 290,R,G
+# 200,G
+#  10,U,J,G
+#  16,R,U,J,G
+#   1,K,G
+#  62,L,U,K,G
+#  20,R,U,G
+#  34,U,G
+#   1,L,G
+#   6,R,J,G
+#  48,R,U,G
+#   1,R
+#  10,R
+#  11,R,J
+#  55,R,U,J,G
+#   1,L
+#   7,D
+#  15,U,X
+#  50,R,U,J,G
+#  50,U,G
+#  18,R,U,G
+#  65,R,U,J,G
+#  20,U,G
+#  15,R,U,G
+#  68,R,U,J,G
+#  25,R,D,G
+#  25,D,G
+#  20,R,D,G
+#  67,R,U,G
+#  51,R,G
 #lvl_Third Movement
 #0x
   40,R,G
@@ -624,7 +692,7 @@ Endrepeat
   15,R,X
   37,R
  135
-ChapterTime: 4:39.395(16435)
+ChapterTime: 4:22.582(15446)
 
 
 
