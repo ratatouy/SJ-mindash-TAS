@@ -1,4 +1,4 @@
-RecordCount: 714
+RecordCount: 868
 
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
@@ -504,6 +504,8 @@ Endrepeat
  121,R,U,G
 #lvl_C1
 #0x
+
+
   35,R,G
    1,R,J,G
   35,R,D,G
@@ -741,31 +743,45 @@ Endrepeat
   90,U,G
   20,D,G
   66,R,D,G
- 855,G
+ 400,G
+ 220,G
+  65,L,G
+  10,R,G
    1,R,U,J,G
- 104,R,G
+  28,R,D,G
+   1,R,U,J,G
+  24,R,D,G
+  84,R,U,J,G
 #lvl_Final Movement
 #0x
-  19,R,G
-   3,R,J,G
-  30,R,G
-  40,R,J,G
-   1,S
-   1,D,J
-  50,G
-  74,R,G
- 106,R,U,J,G
-  13,R,D,G
-  13,R,J,G
-  10,D
-   1,K
-   1,R,K
-  44,R,K,G
+#new
+  10,R,U,K,G
+  16,U,K,G
+   2,L,K,G
+  40,R,U,K,G
+   1,D,K
+   4,G
+   2,K,G
+   4,J,G
+  10,K
    5,D
-  96,R,J,G
+   2
+   9,J
+   2,G
+  12,K,G
+   1
+   1,K
+   7,R,K
+  54,R,U,K,G
+  11,R,U,J,G
+ 104,R,D,G
+
+
+
 #lvl_SHATTER
    #1x
-  33,R,G
+  11,R,D,G
+  20,R,G
   95,R,U,J,G
   49,R,K,G
   55,R,D,G
@@ -776,7 +792,7 @@ Endrepeat
   15,R,X
   37,R
  135
-ChapterTime: 4:01.502(14206)
+ChapterTime: 3:55.824(13872)
 
 
 
