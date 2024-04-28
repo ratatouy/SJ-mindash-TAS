@@ -1,9 +1,9 @@
-RecordCount: 4171
+RecordCount: 4269
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
 
-#174x
+#173x
 #Start
  190
 
@@ -858,7 +858,7 @@ endrepeat
   11,R
   40
 
-#32x
+#31x
 #lvl_pumber
    3,R
    1,R,J
@@ -940,25 +940,28 @@ endrepeat
   15,U,X
   19,R
    6,R,X
-  17,L
-  15,L,U,X
-  18
-  15,R,U,Z
-  25
+  19,L
+  15,U,X
+   1
+  10,L
+   1
+  10,L
+  10
+  82,R
   15,U,X
   15,R,C
-   4,R
+   1,R
   14
    1,R
    1
-   1,R
-  15
-  10,L
+   2,R
+  21
+   7,L
    4
   15,U,X
-  12
+  11
   15,U,X
-   7
+   9
   15,U,X
   21
   15,L,U,X
@@ -969,13 +972,14 @@ repeat 36
    1,D
    1
 endrepeat
-   9,J
-  10,K
-  37,R,X
-  54
-repeat 24
+   9,D,J
+   1,K,G
+   8,L,K
+  37,D,X
+repeat 51
    1,D
    1
 endrepeat
+   1,D
 
-ChapterTime: 3:19.818(11754)
+ChapterTime: 3:20.770(11810)
