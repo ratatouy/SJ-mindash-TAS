@@ -1,12 +1,15 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2120
+RecordCount: 2384
 
 console load StrawberryJam2021/5-Grandmaster/tobyaaa
- 191
+   1
 
 #Start
+ 190
+
+#lvl_Bill
    1,S
    1,D,J
    1
@@ -354,7 +357,7 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
    7,R
   40
 
-#lvl_Kathy - 10x
+#lvl_Kathy - 9x
   10,R
    1,R,J
   15,R
@@ -403,21 +406,25 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
    3,R,J
   25,R
   30,R,K
-   9
-  21,U,X
-  23,R
-  15,R,U,X
-   4,J,G
-  12,R
-  11,J
-   2,R,J
+   9,R,D
+   2,D
+   3
+  14,U,X
+   2,L
+  26,R,G
+  16,R,J
+   4,R,K,G
+   5,R
+   7
+  13,J
   14,U,X
    6,L,U,J
    2,R,K
+   1,K
   40
 
-#lvl_Phil - 15x
-   6,R
+#lvl_Phil - 14x
+   5,R
    1,R,J,G
    4,R,K,G
   16,R
@@ -468,7 +475,7 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
    6,R
   40
 
-#lvl_Susan - 17x
+#lvl_Susan - 16x
   11,R
    1,R,J
    7,R
@@ -524,9 +531,9 @@ console load StrawberryJam2021/5-Grandmaster/tobyaaa
    6,R
   40
 
-#lvl_Todd - 18x
+#lvl_Todd - 17x
    6,R
   26,R,U,Z
  123
 
-#1:51.979(6587)
+ChapterTime: 1:52.098(6594)
