@@ -1,9 +1,9 @@
-RecordCount: 3927
+RecordCount: 4171
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
 
-#177x
+#174x
 #Start
  190
 
@@ -574,7 +574,7 @@ console load StrawberryJam2021/5-Grandmaster/maya
 #lvl_Symbiosis
    1,S
    1,D,O
- 103
+  69,J
    1,D
    1
    1,D
@@ -599,57 +599,88 @@ endrepeat
   19,L
   35,R
   15,R,U,X
-  49
-  48,R
-  12,R,U,X
-  12,J
-  22
-  32,L
-  13,L,X
-  40
+  20,R
+  24
+   7,L
+   3
+   2,L
+   6,R
+  29,R
+  13
+  10,L
+   2
+  13,J
+  10,L
+   9
+  64,R,J
+  10
+  21,J
+  13,L
+repeat 7
+  25,J
+  13,L
+endrepeat
+  21,J
+  13,L
+repeat 3
+  25,J
+  13,L
+endrepeat
+  24,J
+  13,L
+   1,L,J,G
+   1,L,K,G
+  13,L
+   1,L,J
+  16,L
+  12,L,J
+   5,L,J
+   9
+  10,R
+  41,L
+  15,L,U,X
+  43,L
+   2,D
   15,U,X
-   3,R
-  48
-  15,R
-  16
+  50
+   8,L
   15,U,X
   20
   36,L
   13,R
   15,R,U,X
-  50,L
-   6
   11,L
-   1
-   2,D
-  25,R
+   6
+  50,L
+  24,R
   15,R,U,X
-  55,R
-  30
-  21,R
+  17,R
+  11
+   5,L
+  14
+  24,R
+  11
+   2,L
+   2,L,D
+  22,R
+   3
   15,R,U,X
   55,R
   10
   15,L,U,X
-  66,R
+  68,R
   14,R,Z
-   1,R,J,G
-  11,R
+   1,R,J
+   7,R
    1,R,J
   14,R
    1,R,J
-   5,R
   40
 
-#26x
+#25x
 #lvl_Haste
-   9,R
-   4,R,Z
-   1,R,J
-   5,R
-   2
-   8,R,J
-  16,R
+  14,R
+  35,R,J
   14,R,Z
    1,R,J
   15,R,D,X
@@ -722,16 +753,35 @@ endrepeat
   14,R
   40
 
-#15x
-#lvl_Recoil
+#0x
+#lvl_Recoil (0)
    1,R,J
   14,R
    1,R,J
   14,R
-  11,R,J
-  15,R,U,X
    1,R,J
-  17,R
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  23,R
+
+#0x
+#lvl_Extra Ball
+   1,L,J
+  26,L
+   1
+
+#14x
+#lvl_Recoil (1)
+   1,L,J
+  30,J
   15,U,X
   27
   24,L
@@ -910,18 +960,22 @@ endrepeat
   15,U,X
    7
   15,U,X
-  22
+  21
   15,L,U,X
- 137
-repeat 50
+  88
+  29,R
+  20
+repeat 36
    1,D
    1
 endrepeat
-  13,D,J
-  15,D,X
-repeat 62
+   9,J
+  10,K
+  37,R,X
+  54
+repeat 24
    1,D
    1
 endrepeat
 
-ChapterTime: 3:08.224(11072)
+ChapterTime: 3:19.818(11754)
