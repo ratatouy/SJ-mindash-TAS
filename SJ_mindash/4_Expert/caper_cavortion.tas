@@ -1,4 +1,4 @@
-RecordCount: 1601
+RecordCount: 1609
 
 console load StrawberryJam2021/4-Expert/Stotch
    1
@@ -15,9 +15,7 @@ console load StrawberryJam2021/4-Expert/Stotch
   15,U,X
    5,R
    5,L
-  39,L,U,J,G
-   4
-  91,L,U,J,G
+ 125,L,U,J,G
    1,J,G
    1,L,U,J,G
  131,R,J
@@ -321,4 +319,4 @@ console load StrawberryJam2021/4-Expert/Stotch
   20,R,U,J,X
  135
 
-ChapterTime: 1:25.986(5058)
+ChapterTime: 1:25.833(5049)
