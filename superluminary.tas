@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 873
+RecordCount: 876
 
 #53x
 
@@ -105,7 +105,7 @@ console load StrawberryJam2021/5-Grandmaster/alisticious
 #lvl_a-02 (0)
    1,S
    1,D,J
- 103
+  69,O
    5,L
    1,L,J
    8,L
@@ -194,7 +194,7 @@ endrepeat
   10,D,X
    1,S
    1,D,J
- 103
+  69,O
    5,L,J
    5,D,X
    5,L,D
@@ -361,4 +361,4 @@ repeat 36
    1
 endrepeat
 
-ChapterTime: 0:56.542(3326)
+ChapterTime: 0:55.386(3258)
