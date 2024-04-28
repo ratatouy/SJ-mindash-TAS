@@ -103,12 +103,14 @@ console load StrawberryJam2021/4-Expert/alicequasar
    6,K,G
    1,L
   24,D
-  21,R,D
-   1,R,D,G
-   2,R,J,G
+  14,R,D
+   2,D
+   2
+   3,R
+   1,R,J,G
    1,R
-  22,R,J
-  12,U,X
+  21,R,J
+  11,U,X
   36,R,J,G
   20,R,G
   16,D,X
@@ -438,4 +440,4 @@ console load StrawberryJam2021/4-Expert/alicequasar
 
  135
 
-ChapterTime: 1:17.503(4559)
+ChapterTime: 1:17.435(4555)
