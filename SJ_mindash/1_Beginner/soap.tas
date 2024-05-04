@@ -1,4 +1,4 @@
-RecordCount: 1655
+RecordCount: 1844
 
 console load StrawberryJam2021/1-Beginner/Circumplex
    1
@@ -196,8 +196,8 @@ console load StrawberryJam2021/1-Beginner/Circumplex
    6,R,J,G
   43
 
-#lvl_05
-#3x
+#lvl_05(0)
+#2x
    3,L
    1,R,J,G
    1,R,K,G
@@ -227,30 +227,159 @@ console load StrawberryJam2021/1-Beginner/Circumplex
   21,R,D
   82,D
    8,R
-  27
-  18,L
-#dash
-   7,L,Z
-   1,R,J
-   8,R,K,G
-   2,R
+  26
+  44,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  40
+
+#lvl_05b
+#0x
+  14,L
+   1,L,J
+  14,L
+  10,L,J
+   7,L
+  14,R,D,X
    1,R,J,G
+  12,R
+   1,R,J
+   6,R
+   2,R,J
+   2,R
+  40
+
+#lvl_05(1)
+#0x
+   5,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+  20,R,J
+  18,R,D
+ 100,D
+   1
+  31,J
+  11,K
+  14
+   4,R
+   2,R,K
+   9,R
+   1,R,J,G
+   1,R,K,G
   10,R
    1,R,J
   14,R
    1,R,J
-  14,R,D
-  40
-
-#lvl_06
-#2x
-   4,R,D
+  14,R
    1,R,J
   14,R
-   9,R,J
-   5,R
    1,R,J
-  54,R
+   8,R
+   1,R,J
+   9,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   5,R
+  40
+
+#lvl_06(0)
+#0x
+   1,L,J
+   8,L
+   1,L,J
+   6,L
+  40
+
+#lvl_05(2)
+#0x
+   8,L
+   1,L,J
+  14,L
+   1,L,J
+   2
+  12,L
+   1,L,J
+   2,L
+   1,L,K,G
+   1,L,J,G
+  13,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+  12,L,J
+   1,L,K,G
+   1,K
+   7
+   1,R,G
+   1,L
+  15
+   1,L,G
+   2
+   1,L,G
+   2
+Repeat,3
+   1,L,G
+   1
+EndRepeat
+  10,R
+ 123,D
+  21,J
+  10,L,J
+   2,K
+  30,K
+   3,L,K
+   2
+   3,L,U,G
+   4
+   3,R
+   3
+   1,R,J
+   1,K
+   1,R,J
+   2,R,K
+   1,R
+   1,R,J
+   1,R
+   2,R,J
+   1,R,K
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+  12,R
+   1,R,J
+  18,R
+   1,R,J
+  12,R
+  40
+
+#lvl_06(1)
+#2x
+   2,R
+   1,R,D,J
+  14,R
+   1,R,D,J
+   8,R
+   1,R,J
+   5,R
+  38,R,J
+  40,R
   32,D
    7
   15,R,U,X
@@ -657,6 +786,6 @@ console load StrawberryJam2021/1-Beginner/Circumplex
   69,R,K
 
 
-ChapterTime: 1:50.517(6501)
+ChapterTime: 2:09.064(7592)
 #6501
-#23 -> 22 dashes
+#23 -> 21 dashes
