@@ -522,12 +522,11 @@ EndRepeat
   40
 
 #lvl_a05
-  10,L
-Repeat,8
-   1,L,J
-  14,L
-EndRepeat
-  20,L,J
+   1,S
+   1,D,J
+  69,O
+  10,J
+  10,R,J
   14,U,X
   29,L,J,G
   13,J,X,G
@@ -930,4 +929,4 @@ EndRepeat
   34,R,D
  212
 
-ChapterTime: 3:39.300(12900)
+ChapterTime: 3:38.297(12841)
