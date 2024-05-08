@@ -1,4 +1,4 @@
-RecordCount: 10963
+RecordCount: 11037
 
 console load StrawberryJam2021/4-Expert/fonda1515
    1
@@ -6,7 +6,7 @@ console load StrawberryJam2021/4-Expert/fonda1515
 #Start
   98
 
-#lvl_a-00 (1)
+#lvl_a-00 (0)
 #0x
    1,R
    1,R,J
@@ -57,7 +57,7 @@ console load StrawberryJam2021/4-Expert/fonda1515
    1,R,J
    7,R
 
-#lvl_a-00 (2)
+#lvl_a-00 (1)
 #3x
    7,R
    1,R,J
@@ -474,8 +474,8 @@ EndRepeat
  157
   40
 
-#lvl_a-05
-#23x
+#lvl_a-05 (0)
+#8x
   69
   13,R,J
   12,K,G
@@ -500,133 +500,125 @@ EndRepeat
   14,R
    7,R,J
   12,R
-#smuggle the jelly from the other room
-#  16,L
-#  16,R,J
-#  15,L,U,X
-#  29,L,D
-#   1,L,J
-#  14,L
-#   2,L,J
-#  15,L
-#Repeat,4
-#   1,L,J
-#  14,L
-#EndRepeat
-#   1,L,J
-#   3,L
-#  40
-#lvl_a-05b
-#  11,L
-#   1,L,J
-#  14,L
-#  36,L,J
-#   5,R,U,X
-#  30,R,D,G
-#  35,D,G
-#   3,R,G
-#   5,G
-#  26,J,G
-#  22,D
-#  11,J
-#   3
-#  14,G
-# 100,R,U,J,G
-  27,L
-  14,R,D,X
-  31,R,J
-  32,R
-  18,R,D,X
-  40,R,J
-  18,R,X
-  15,L,U,Z
-  16,R
-   1,J
-   9,R,J
-   1,K
-   8,R,K
-   1,J
-  11,R,J
-   8,L,K
-  36,L
-  10,L,D
-   1,L
-  14,L,Z
-   1,R,J
-   6,R
-   8,R,J
-  19,R
-  22,R,U,Z
-  11,U,X
-  15,R,J
-   8,R
-  10,R,J
-   7,R
-  15,R,U,Z
-  37,L
-  10,L,D,X
-  12,R,J
-   1,R
-   3,R,J
-   2,J
-   1
-   2,J
-   1,R,J
-   1,J
-  15,U,X
-   1,L
-  38,J,G
-  12,K,G
-   5
-   6,J
-   1
-   2,J
-   4
-   1,R
-   6
-   1,L
-   1,L,J,G
-   5,L,K,G
-  13,L
-  18,R,X
-  19,R,Z
-  19,R,X
-  15,L,C
-  20,D
-  30,R,D
-   1,D
-   1,R,D
-   1,D
-   9,R,D
-  14,R,X
-  12,L
-  36,L,X
-  15,L,C
-  30,L
-   1,R,J
-   5,J
-   6
-   3,R
-  12
-   1,R,J
-  14,R,Z
-   3,R,J
-   2,R
-  17,R,D,X
-   1,R
-  37,R,J
-  49,L
+  16,L
+  16,R,J
   15,L,U,X
-  25,L
-   1,L,J,G
-   1,L,K,G
+  29,L,D
+   1,L,J
+  14,L
+   2,L,J
+  15,L
+Repeat,4
+   1,L,J
+  14,L
+EndRepeat
+   1,L,J
+   3,L
+  40
+#lvl_a-05b
   11,L
-  32,L
-  19,L,X
-  15,U,C
+   1,L,J
+  14,L
+  17,L
+  11,L,J
    9,R
-   4,L
+  43,R,J,G
+  26,K,G
+  22,D
+   5,J
+   6,R,J
+   3,R
+  14,G
+  19,R,U,J,G
+  40
+#lvl_a-05 (1)
+  24,R,D,G
+  13,R,J,G
+  11,L,K,G
+  10,R,J,G
+   1,R,G
+   6,R,J,G
+  46,R,D,G
+  10,R,J,G
+  17,R,D,G
+  23,L,D,G
+   1,D,G
+   1,L,D,G
+   9,R,D,G
+  77,R,J,G
+  95,R,U,G
+   7,R,J
+  15,R,U,X
+   9,R
+  53,R,D,G
+  10,R,J,G
+  45,U,J,G
+  20,R,U,G
+  10,U,G
+ 170,G
+  12,R
+   1,R,J
+  10,L,J
+   8,U,X
+  70,R,U,J,G
+  14,D
+   2,J
+   5,U,X
+  24,R,J,G
+  26
+  21,R,G
+   1,R,D
+  14,L,D,X
+   8,R,J
+  38,R,G
+   1,L,J
+   1,R
+  14,L
+   1,J
+  70,L,U,J,G
+  35,R,U,G
+  22,R,D,G
+   9,R,J
+  14,R,U,X
+  16,R,J,G
+  50,L,U,J,G
+  80,D,G
+  36,R,U,G
+  58,L,U,G
+  11,D,G
+   6,L,J,G
+   1,L,G
+   5,L,G
+  43,L,U,J,G
+   7,U,G
+  13,D,G
+   3,L,U,G
+  78,R,U,G
+   6,R,G
+   9,R,D,G
+  15,G
+  34,R,G
+  70,R,U,J,G
+  12,U,G
+   2,R,U,G
+   3,U,G
+  15,R,U,G
+  25
+  18,L,G
+  14,R,G
+   1,L,J
+   3,R,J
+  14,L,J
+  52,R,D,G
+   1,L,J
+   6,R,J
+  14,L,U,X
+  58,L,U,J,G
+   1,L,J
+   7,J
   15,U,X
+  20,R,J,G
+  14,J,G
   91
   40
 
@@ -985,5 +977,6 @@ EndRepeat
    5,J
   15,U,X
  137
-ChapterTime: 3:42.394(13082)
-#157x
+
+ChapterTime: 4:04.919(14407)
+#142x
