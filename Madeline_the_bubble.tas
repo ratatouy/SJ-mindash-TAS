@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 4626
+RecordCount: 4951
 
 console load StrawberryJam2021/4-Expert/Vina
    1
@@ -611,6 +611,9 @@ EndRepeat
    1,J
    8,R,J
    7,J
+
+
+
   26,R,U,X
    4,L
   16,L,X
@@ -645,13 +648,31 @@ EndRepeat
    1,L,J
   14,R,K,G
    1,R,J,G
+#   9,R,K,G
+#   5,R
+#   7
+#  10,R
+#  30,L
+#   2
+#  15,U,X
+#  15,R
+#  25,L,J
+# 100,L,K
+
+
+
+
+
    6,R,K,G
    5,R
    7,R,J
    4,R
+
+
   40,L
   12,U,X
-  33,R
+
+  33,R,J,H
   14,R,U,X
    1,J,G
   10
@@ -694,7 +715,7 @@ EndRepeat
    1,R,J
    8,R
   40
-#[Vina-08](0) -6x
+#[Vina-08](0) -5x
    4,R
   10,L
    1,S
@@ -708,62 +729,85 @@ EndRepeat
   26,R,K,G
    1,J,G
   25,L,J,G
+#new strat
    2,R,K,G
-  14,R
-  22,R,X
-   1,R,G
+   1,R,D,K
+  26,R,K,G
+   1,R,D,K
+  33,R,K,G
+   1,R,D
+  27,R,G
+  17,G
+   1,J,G
+  10,R,J,G
+   9,R,G
+   1,L,G
+   1,L,J,G
+  20,R,J,G
+   1,R,J
+   5,R,J
+  13
+   1,J
+  16,L,J
+  14
+   2,L
+  10
+  23,L
+
+
+
+
   26,R
-  14,L,D
-  11,L
-   1
-   1,L
-   1
-   1,L
-  29,R
-  47,R,G
+  49,R,G
    1,L
    5,R
   34,R,J,X
-   4,R
+
+   3,R
+   2
+
   14,U,C
   44,L,J,G
    1
    5,U,X
   17,J,G
   16,L,J,G
-   4,R,J,G
+   5,R,J,G
   13,R,D,J
-   2,L,J
    1,L,K,G
-   4,L
-   8
+   6,L
+   6
    1,G
    1,J,G
-  14
-Repeat, 22
-   1,G
+   2,L
+  26,J,G
+   1,D
+   3
+   2,J,G
+  26,G
+   1,D
    1
-EndRepeat
-   4,J
-  54,L,J,G
-  32,R,J,G
-  20,J,G
-  26,R,J,G
-  30,J,G
+   2,J,G
+  14,R,G
+   2,L,G
+  30,L,J
+  99,R,J,G
+   5,J,G
+  12,L,J,G
    1,D
   10,U,X
-  24,G
-   2,L,G
-  17,L,Z
-   3,J
-  15,L,K,G
-   1,R,K,G
-   1,L,K,G
-   7,K,G
+  31,L,J,G
+   1,L,J
+  15,L,Z
+   1,L
+   1,J
+   1,J,G
+   2,K,G
+  27,L,K,G
    1,D
-   4,J,G
-  25,K,G
+  31,J,G
   40
+
 #zoo wee mama
 #[Vina-08~b] -0x
  
@@ -959,4 +1003,4 @@ Repeat, 12
    1,R,K
 EndRepeat
 
-ChapterTime: 2:36.213(9189)
+ChapterTime: 2:38.865(9345)
