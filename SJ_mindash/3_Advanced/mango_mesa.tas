@@ -1,12 +1,12 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 14028
+RecordCount: 14220
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
 
-#188x
+#187x
 #Start
   36
 
@@ -143,6 +143,7 @@ EndRepeat
    1,R,J
    7,R
   40
+
 #0x
 #lvl_heartside_Worldwaker2
    7,R
@@ -776,7 +777,8 @@ EndRepeat
    1,R,J
   10,R
   40
-#10x
+
+#9x
 #lvl_heartside_Meario
    4,R
    1,R,J
@@ -813,36 +815,47 @@ EndRepeat
   11,R
   31,R,J,G
    1,R,G
-   6,L,K
-  24,L
-   4,K
+   1,J
+   6,R,J
    1,R
-  20,R,K
-  23,R,J,G
-  14,R
-   1,L,K,G
-   6,L
-   2
-   1,K
-   5
-Repeat 34
+  11,R,J
+   9,R
+   7,L
+   1,J
+   4,L,J
+   1,L
+  12,L,J
+   7,L
+   1
+   1,G
+Repeat 67
    1,G
    1
 EndRepeat
-   1
    4,R
    7,K
-  57,L,G
-   9,U,G
+  11,L
+   1,G
    1
    1,J
+   5,L,J
+  10,R,J
+   2,L,J
+   9,L
+   1,G
+   1
+   1,J,G
    1,L,K,G
-   4,R,K
-  18,R
-  15,R,X
-   4,L,J
-   1,L,K
-  25
+   8,R,K
+  23,R
+  15,U,G
+   4,G
+   1,R,J,G
+   5
+   5,L
+   1,R,D
+   8,D
+   5,R,D
   10,R,D,X
    4,R,J
   14,R
@@ -856,8 +869,8 @@ EndRepeat
   31,R,K
   11,G
    6,U,G
-  21,R,K,G
-  13,R,D
+  26,R,K,G
+  10,R
    1,G
   12,R,K
    1,L,K
@@ -1515,9 +1528,6 @@ EndRepeat
    1,L,J,G
    1,L,K,G
    8,L
-
-
-
    6,D,X
    2,L,K
    7,L
@@ -1552,6 +1562,7 @@ EndRepeat
    1,R,J,G
    7,R
   40
+
 #18x
 #lvl_heartside_bluexans
    7,R
@@ -1671,6 +1682,7 @@ EndRepeat
   26,R,U,J,G
    2,R,D,G
   40
+
 #6x
 #lvl_heartside_Vamp
   16,R,D,G
@@ -1728,31 +1740,6 @@ EndRepeat
   24,R,G
   71,R,D,G
   63,R,U,G
-#
-   
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-   
-
-   
    3,R,J,G
   50,R,G
    2,R,U,G
@@ -1869,8 +1856,6 @@ EndRepeat
    5,J,G
    3,L,J
    5,R,X
-
-
   18,R,X,G
    4,R,J,G
    3,R,K,G
@@ -2135,8 +2120,6 @@ EndRepeat
    9,L,K,G
   22,R,K,G
    7,K,G
-
-
    3,D,K
    7,L,J,G
    1,J
@@ -2270,7 +2253,6 @@ EndRepeat
    8,L,J,G
    8,L,K,G
   40
-
 
 #7x
 #lvl_heartside_Jan
@@ -2501,6 +2483,7 @@ EndRepeat
    1,R,J
   14,R
   40
+
 #8x
 #lvl_heartside_Goldian
    1,R,J
@@ -2575,6 +2558,7 @@ EndRepeat
    1,R,J
    3,R
   40
+
 #11x
 #lvl_heartside_jolly
   12,R
@@ -2846,4 +2830,4 @@ EndRepeat
   14,L,U,X
  135,L,D
 
-ChapterTime: 8:29.082(29946)
+ChapterTime: 8:29.269(29957)
