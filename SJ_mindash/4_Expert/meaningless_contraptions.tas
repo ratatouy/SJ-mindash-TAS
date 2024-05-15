@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2002
+RecordCount: 2207
 
 console load StrawberryJam2021/4-Expert/powerav
    1
@@ -527,61 +527,154 @@ EndRepeat
    2,R,J
    1,R
   22,R,K
-Repeat,4
+Repeat,3
    1,R,J
   14,R
 EndRepeat
-   1,R,J
+#new
+   9,R,J
+   7,R
   40
 #lvl_a-5-b (0)
 #2x
-  14,R
-   8,R,J
-   7,U,X
-  10,R,J
-  14,R,D
-  15,R,Z
-  28,R
-  16,R,J
-  14,R,K,G
-   2,L,J
-  31,L
-  16,L,J
+   5,R
+  14,R,U,X
+   1,L,J,G
+   1,L,K,G
+   3,L,J,G
+  10,R,K
+   7,R
+   6,R,Z
+  30,R,D,J
+  13,R,K,G
+   6,R,J,G
+   4,K,G
+   4,J,G
+   5,K
+   6,R,J
+   3,L,K
+   1,L,J,G
+   2,L,K,G
+  14,L
+  13,L,J
+   2,R,K,G
+
 Repeat,3
-  14,R,K
-  14,L,J
+   1,J,G
+   3,R,J
+   5,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
 EndRepeat
-   6,R,K
-  40
+   2,K,G
+  13,L,J
+  40,L,J
+#lvl_a-5-berry
+#0x
+   1,J,G
+   3,L,J
+   5,J
+   1,L,J
+   1,R,J
+   1,L,J
+   3,L,K,G
+  13,R,J
+  10,L,K
+   1,L,J,G
+   1,L,K,G
+   2,L,J,G
+  14,L
+   1,L,J
+  14,L
+   7,L,D,J
+   3,L,D,K
+  33,R,G
+   1,R
+   4,R,J
+  19,R
+  11,R,D,J
+  17,R,D
+  42,L,G
+  40,L,G
+#lvl_a-5-b (1)
+#12x
+  33,L,G
+  38,R,G
+  12,R,J,G
+  27,R,G
+   1,L,J,G
+   1,L,K,G
+  25,L,G
+   7,L,J,G
+  29,L,G
+   1,R,J,G
+  34,R,G
+   1,R,J,G
+  20,R,G
+  35,R,J,G
+   5,R,J,G
+  26,R,G
+
+
+
+
+
+#old
+#   1,R,J
+#  14,R
+#   1,R,J
+#  40
+
+#2x
+#  14,R
+#   8,R,J
+#   7,U,X
+#  10,R,J
+#  14,R,D
+#  15,R,Z
+#  28,R
+#  16,R,J
+#  14,R,K,G
+#   2,L,J
+#  31,L
+#  16,L,J
+#Repeat,3
+#  14,R,K
+#  14,L,J
+#EndRepeat
+#   6,R,K
+#  40
 
 #  14,R,K
 #  14,L,J
 #  18,L,K
 
-#lvl_a-5-berry
-#0x
-  11,L,K
-  13,R,J
-  14,L,K
-   2,L,J,G
-  53,L
-  10,J
-  18,G
-  85,R,G
-  27,G
-  40
 
-#lvl_a-5-b (1)
+#0x
+#  11,L,K
+#  13,R,J
+#  14,L,K
+#   2,L,J,G
+#  53,L
+#  10,J
+#  18,G
+#  85,R,G
+#  27,G
+#  40
+
+
 #12x
-  55,G
-  49,R,G
-  78,L,G
-   2,G
-  27,R,G
-  10,R,J,G
-  35,R,G
-  10,R,J,G
-  48,R,G
+#  55,G
+#  49,R,G
+#  78,L,G
+#   2,G
+#  27,R,G
+#  10,R,J,G
+#  35,R,G
+#  10,R,J,G
+#  48,R,G
   32,R,J,G
    1,R,J
   10,R,U,X
@@ -594,17 +687,16 @@ EndRepeat
    1,L,K,G
   12,L,K
   28,L,K,G
-  12,R,G
-   7,G
-  10,R,G
-  12,R,J,G
+  27,G
+  11,R,G
+   6,R,J,G
    1,R,K,G
    4,R,J,G
-  26,R,K,G
-  10,R
+  25,R,K,G
+   7,R
   15,R,U,Z
-  13,R,D
-  62,D
+  17,R,D
+  56,D
   13,G
   18,R,J,G
    1,D
@@ -612,19 +704,23 @@ EndRepeat
   20,R,J,G
    5,J,G
    7,L,J,G
-  17,R,J,G
+  14,R,J,G
    1,R,J
-   5,R,U,X
+  14,R,U,X
   33,R,G
   11,G
    1,D
-  45,J,G
-  30,G
-  14,R,G
-  43,R,J
-  15,U,X,G
-  30,R,J,G
-  45,G
+   2,G
+  14,G
+   1
+  40,G
+  17,R,G
+  33,R,J
+  13,R,U,X,G
+  21,R,J,G
+  17,R,G
+  18,G
+
   29,R,G
   39,G
    1,R
@@ -651,13 +747,17 @@ EndRepeat
    4,J,G
    3,R,G
   15,D,X
-  15,D
-  30,R
-  20
-  20,R,J
-  10,U,X
-   8,R,J
-  11,R,D
+#new
+   8,D
+  20,R
+   6,R,J
+   1,R,K,G
+   1,R,J,G
+  17,R,K,G
+   8,U,X
+   9,R,J
+  11,R
+
   37,D
    1,R
    1,R,J
@@ -899,5 +999,5 @@ EndRepeat
    5,J
   15,U,X
  135
-ChapterTime: 3:13.290(11370)
+ChapterTime: 3:09.958(11174)
 #93x
