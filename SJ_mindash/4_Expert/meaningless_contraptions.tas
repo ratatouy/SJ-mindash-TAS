@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2483
+RecordCount: 2825
 
 console load StrawberryJam2021/4-Expert/powerav
    1
@@ -102,19 +102,33 @@ console load StrawberryJam2021/4-Expert/powerav
 
 
 #   1,R,D
-#  42,R,J,G
-#   5,R,D,J
-#   2,D,J
-#  13,U,X
-#  20,J,G
-#   2,R,J,G
-#  30,R,J
-#  15,R,U,X,G
-# 100,R,G
-
-
-
-
+#  37,R,J,G
+#   1,R,J
+#  14,R,U,X
+#  39,L,J,G
+#   1,D
+#   5,U,X
+#  36,L,G
+#  11,G
+#  40,R,J
+#  59,R,J,G
+#   1,R,J
+#  14,R,U,X
+#  55,R,J,G
+#  20,R,K,G
+#   1,D
+#  44,R,J,G
+#   1,D
+#  74,R,J,G
+#  16,R,K,G
+#   1,R,D,K
+#  20,R,K
+#  45,R,K,G
+#   1,R,K
+#  14,R,U,X
+#  40,R,J,G
+#   1,R,D,J
+#1000,R,J
 
 
 
@@ -142,6 +156,27 @@ EndRepeat
    4,R,J
   15,R,U,X
   24,R,D
+#   4,R,Z
+#   1,R,J
+#   7,R
+#   1,R,J
+#  54,R
+#   7,R,D,J
+#  17,R,D
+#  15,U,X
+#   4,L
+# 100,R,J
+#  14,R,X
+#   5,R,J
+#   7,L,J
+#   5,R,J
+#   1,R,K,G
+#   1,R,J,G
+#   5,R,K,G
+
+
+
+
    1,R,J
   14,R
    1,R,J
@@ -153,7 +188,13 @@ EndRepeat
 #lvl_a-2
 #11x
 #-18f
+
   10,R
+
+
+
+
+
    1,R,J
   14,R
    1,R,J
@@ -216,6 +257,17 @@ EndRepeat
   46,R
    2
   31,G
+#   3,U,G
+#   1,L,J,G
+#  24,R,J,G
+#   2,K,G
+#   1,J,G
+#   1,L,J
+#  21,R,J
+# 100,R,K,G
+
+
+
    5,L,J,G
   15,J,G
   14,R,U,Z
@@ -291,6 +343,24 @@ EndRepeat
   15,L,U,X
    9,L
   36,R
+#  86,G
+#  45,R
+#  13
+#   2,R,J,G
+#   4,R,J
+#  43,R
+#  15,R,U,Z
+#   1,L,D,J,G
+#   9,L,D,K,G
+#   1,D,J,G
+#  12,R,D,J,G
+#  10,L,J,G
+#   4,R
+#   1,R,D,J
+# 100,R,D
+
+
+
   45,G
    9,R,J,G
    3,R,K,G
@@ -533,10 +603,12 @@ EndRepeat
 
 
 #old
-
   14,L,D,X
    1,R,J
    1,R
+
+
+
   26,R,J
   11,R,D
   14,R,D,X
@@ -584,7 +656,6 @@ Repeat,3
    1,R,J
   14,R
 EndRepeat
-#new
    9,R,J
    7,R
   40
@@ -653,7 +724,6 @@ EndRepeat
   40,L,G
 #lvl_a-5-b (1)
 #11x
-#-31F
   33,L,G
   38,R,G
   12,R,J,G
@@ -670,65 +740,6 @@ EndRepeat
   35,R,J,G
    5,R,J,G
   26,R,G
-
-
-
-
-
-#old
-#   1,R,J
-#  14,R
-#   1,R,J
-#  40
-
-#2x
-#  14,R
-#   8,R,J
-#   7,U,X
-#  10,R,J
-#  14,R,D
-#  15,R,Z
-#  28,R
-#  16,R,J
-#  14,R,K,G
-#   2,L,J
-#  31,L
-#  16,L,J
-#Repeat,3
-#  14,R,K
-#  14,L,J
-#EndRepeat
-#   6,R,K
-#  40
-
-#  14,R,K
-#  14,L,J
-#  18,L,K
-
-
-#0x
-#  11,L,K
-#  13,R,J
-#  14,L,K
-#   2,L,J,G
-#  53,L
-#  10,J
-#  18,G
-#  85,R,G
-#  27,G
-#  40
-
-
-#12x
-#  55,G
-#  49,R,G
-#  78,L,G
-#   2,G
-#  27,R,G
-#  10,R,J,G
-#  35,R,G
-#  10,R,J,G
-#  48,R,G
   32,R,J,G
    1,R,J
   10,R,U,X
@@ -771,34 +782,11 @@ EndRepeat
    5,J,G
    5,L
   27,R,J,G
-
-
-
-
-
-#  18,R,J,G
-#   1,D
-#  11,U,X
-#  20,R,J,G
-#   5,J,G
-#   7,L,J,G
-#  14,R,J,G
-#   1,R,J
-#  14,R,U,X
-#  33,R,G
-#  11,G
-#   1,D
-#   2,G
-#  14,G
-#   1
-#  40,G
-#  17,R,G
   33,R,J
   13,R,U,X,G
   30,R,J,G
   11,R,G
   16,G
-
   29,R,G
   39,G
    1,R
@@ -827,15 +815,6 @@ EndRepeat
    9,L,K
   15,D,X
   15,D
-
-
-# 104,L,G
-#   2,L,G
-#   4,J,G
-#   3,R,G
-#  15,D,X
-#new
-#   8,D
   20,R
    6,R,J
    1,R,K,G
@@ -857,8 +836,7 @@ EndRepeat
   12,R
   40
 #lvl_a-6
-#12x
-#+55F
+#11x
    9,R
    1,R,J
   14,R
@@ -908,44 +886,35 @@ EndRepeat
   36,L,J,G
   14,R,K,G
   33,L,J,G
-
-
-
-
-#  28,L,J
-#  14,L,U,X
-#  23,L,G
-#  12,L,J,G
-#   1,L,D
-#   1,L,J,G
-#   1,L,J
-#   3,L,J,G
-#  32,L,G
   16,L,G
    1,L
   15,L,U,X
    5,L
   63,R
-  14,R,D,X
-   2,R,J
-   8,R
-  25,R,J
-  18,U,X
-  15,U,C
-  24,D
-  17,R,D
-  60,R
-  31,D
-  12,L,D
-   2,L
+  28,R
+   3,R,J
+  16,R
+  42
+   5,R
+  15,R,J
+  15,R,U,X
+  38,R,J
+  15,U,X
+  28
+  15,R
+  17,R,J
+  55,D
+   7,R,D
+   8,D
+   4,L,D
+  10,D
+   2,L,D
+   2,D
   15,R,X
    6,R
   15,U,X
    5
   15,U,X
-
-
-
   26,L
   18,R
   15,R,D,X
@@ -969,7 +938,7 @@ EndRepeat
   40
 
 #lvl_a-7
-#18x
+#17x
   11,R
 Repeat,6
    1,R,J
@@ -981,16 +950,16 @@ EndRepeat
   37,R,J
   15,U,X
    3
-  23,L,J
-  15,L,X
-   8,R
-   7,R,X
+  40,L,J
+  13,L
   20,R,J
+  15,R,U,Z
+  11,R,J
+  15,R,U,Z
+   1,L,J
+  15,R,J
   15,U,X
-   6,L
-   7
-  15,U,X
-  30,L
+  31,L,J
   30,R,D
   14,R,Z
    1,R,J
@@ -1103,9 +1072,6 @@ EndRepeat
    5,J
   15,U,X
  135
-ChapterTime: 3:10.060(11180)
-#90x
-#11174
-#11156
-#11125
-#11180
+ChapterTime: 3:12.321(11313)
+#88x
+
