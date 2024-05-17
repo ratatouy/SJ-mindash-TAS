@@ -1,12 +1,12 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1194
+RecordCount: 1361
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
 
-#13x
+#12x
 #Start
  190
 
@@ -79,7 +79,7 @@ EndRepeat
   68,R,X
   40,X
 
-#4x
+#3x
 #lvl_r2
    8,R,X
    3,L,J
@@ -88,35 +88,43 @@ EndRepeat
   12,R
   12,R,J
   17,R
-  48,R,X
-  14,R,D,C
-  14,R,J
-   7,J
-   2,K,G
-   5
-   9,R,Z
-   7,R,G
-   1,R,J,G
-   1,R
-   7,R,G
-   1,R,J,G
-   1,R
-   7,R,G
-   1,R,J,G
-   9,R
+  37,R,X
+  11,R,D,C
    1,R,J
    7,R
-   7
-   1,R
+   8,R,J
+ 150,R,G
+   2,R,D,G
+   8,R,G
+   2,R,J,G
+   8,R
    2
-  13,U,X
-  19,R,J
+  34,R,J
+  17,L,J
+  12,R,J
+Repeat,5
+   7,R,G
+   1,R,J,G
+   1,R
+EndRepeat
+   1,R,J,G
+   1,R
+   7,R,G
+   1,R,J,G
+   1,R
+   8,R,G
+   1,R,D
+  14,R
+  11,U,X
+  18,R,J
   17,U,X
   40
 
 #lvl_r3
   42,R
-   2
+   1
+   1,R
+   1
    2,R
    1,R,J
    1,R,K,G
@@ -712,4 +720,4 @@ EndRepeat
    1,R,J
   37,R
 
-ChapterTime: 1:46.913(6289)
+ChapterTime: 1:50.772(6516)
