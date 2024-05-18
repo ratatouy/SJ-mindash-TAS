@@ -1,12 +1,13 @@
-RecordCount: 2354
+RecordCount: 2662
 console load StrawberryJam2021/2-Intermediate/Jems
    1
 
-#16x
+#14x
 #Start
   82
 
 #lvl_btd-00
+#0x
    5,R
    1,R,K
   22,R
@@ -156,6 +157,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
   40
 
 #lvl_btd-02
+#3x
   13,R
    1,R,K
   14,R
@@ -199,6 +201,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
   45
 
 #lvl_btd-02a
+#1x
    1,L
    1,R
    1
@@ -844,7 +847,6 @@ endrepeat
   11,R,D
   40
 
-
 #lvl_btd-11(1)
 #0x
    7,R,G
@@ -963,7 +965,7 @@ endrepeat
 
 
 #lvl_btd-20
-#x
+#2x
    9,L,D
    4,L,J
    5,L
@@ -1170,9 +1172,8 @@ endrepeat
    2,R,J
   40
 
-
 #lvl_btd-33
-#4x
+#2x
    1,R,J
    6,R
    1,R,J
@@ -1229,15 +1230,12 @@ endrepeat
   21,R
    1,J
    1,L,K,G
-  26,R,K
-#dash
-  15,R,Z
-  17,L,D
-   2,R,D
-   1,L,D
-  21,R,D
+  14,R,K
+  34,R
+  42,R,J
+  78,R,D
    1,R,J
-   5,R
+  14,R,D
   40
 
 #lvl_btd-35
@@ -1303,7 +1301,7 @@ endrepeat
   40
 
 #lvl_btd-42
-#3x
+#2x
    2,R
    1,R,J
   14,R
@@ -1315,40 +1313,65 @@ endrepeat
   12,L,K,G
   10,L
   17,R
-   5
-   4,R
-   6,D
-  15,R,D
-  40,R,G
-   2,R
-   2,R,D,J
-   5,J
-   2
-   1,R,K,G
-   2,K
-   3,R,K
-   5,R
-   4,R,J
-  31,R,D
-  35,D,G
-   4,R,D
-   1,R
+ 290
+   1,J
    1,R,J
-   1,R,K,G
+   6,R
+   2,R,J
+  14,R
+   1,R,D
    1,R,J,G
-   1,R,K,G
-#dash
-   6,R,U,Z
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   2,K,G
+   5,R,K,G
+  13,R
+   7,L
+   1,J,G
+   1,K,G
+   3,L
    1
-   3
-   4,R
-  11,R,J
-  20,L
- 151,R,D
+   1,L
+   2
+   1,R
+   5,R,D
+   8,R,J
+  15,L,J
+   1,R,K,G
+   1,L,K,G
+   1,R,K,G
+   1,L,K,G
+   1,R,K,G
+   1,L,K,G
+   1,R,K,G
+   1,L,K,G
+   1,R,K,G
+   1,L,K,G
+   1,R,K,G
+   1,L,K,G
+   1,R,K,G
+   1,J
+  20,R,J
+   9,R
+ 170
+  28,J
+   1,K
+   1,R,J,G
+  50,L
+   1,J
+  23,R,J,G
+ 374,R,G
+  47,L
+   1,J
+   4,L
+  11,R
+  12
+   9,R
+  61,R,J
+  96,R,D
+   2,D
+   2,R,D
+   2,D
+   8,R,D
+   2,D
+   8,R,D
    1,R,J
   35,R
   22,R,J
@@ -1373,15 +1396,17 @@ endrepeat
    2,R,J
   18,R
    3,R,J
-   7,R
+   8,R
    2,R,J
    7,R
    4,R,J
    7,R
-   3,R,J
+   2,R,J
   30,R,D
-   5
-  62,R,D
+   2
+   3
+  51,R,D
+  11,D
 #dash
   27,R,U,Z
 #dash
@@ -1432,6 +1457,6 @@ endrepeat
   17,U,X
  135
 
-ChapterTime: 3:06.405(10965)
+ChapterTime: 3:24.544(12032)
 #11065
-#16 dashes
+#14 dashes
