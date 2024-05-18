@@ -1,187 +1,108 @@
-RecordCount: 3847
+RecordCount: 3969
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
 
+#51x
 #Start
   92
 
 #lvl_a-00-start
-#1x
-   5,Z
-  28,R,J
-   1,K
-  20,R,K
-   2,K
-   2,R,K
-   2,J,G
-   4,R,J
-   8,R,K,G
-   1,R,J,G
-  12,R
-   5,R,J
-  21,R
-   1,R,J
-  31,R
-Repeat 3
-  23,J
-  13,R
-EndRepeat
-   4,R,J,G
-   3,R,K,G
-  20,R
-  27,R,J
-  22,R
-   2
-   1,R
-   2,K,G
+#6x
+   4,L,J
+  10,J
+  15,L,U,X
+   3,L
+  11,L,J,G
+   1,L
+   6,L,K,G
+   1,L
+   1,L,J,G
+   6,L
    2,L,K
-   7,R,J,G
-  11,R
-   2
+   1,L,J
+   1,L
+   4,L,J,G
+   2,L
+   5,L,X
+   1,L,J,G
+   2,L,K,G
+   4
+  12,L
+   3
+   1,D
+   1
+  11,R,Z
+   1,R,J
+   1,R,K,G
    1,R
    1,R,J,G
-   5,R
-   2
-   1,R
+   5,R,D,X
    1,R,J,G
    1,R,K,G
-  14,R
+   5
+   1,S,N
+  10,J
+   1,J
+   1
+   2,R
    1,R,J
-  13,R
+  15,R,D,X
+   8,R,D
+   5,R,D,X
+   1,R,J
+   2,R,K,G
+   1,R,J,G
+   1,R,K,G
+   5,R
+   2,R,K
+  12,R,D
   40
 
 #lvl_a-01
-#10x
+#2x
+   1
+   6,D
+   2,R,D
    1,R
-   4,R,J
-  15,R
-  14,R,D,X
-   1,R,J
-   7,R
-  11,R,J
-  15,R
-  34,R,K,G
-  13,U,X
-   1,J
-  26,L,J
-  11,L,D,X
-   4,R,J
-  17,R,D,X
-  14,R,J
-  21,J
-  13,D
-   2,L,D
-  10,R,D,X
-   6,R,J
-   2,R
-   1,R,J
-   9
-   6,R,J,G
+   1,D
+  18,R,D,X
+   4,D
+   9,R,U,X
+   2,J,G
+   9,R,J,G
    5,R
-   3,R,J
-   3,R
-  15,U,Z
-   4,R
-  22,R,J
-  31,R
-   1,J
-  10,R,J
-   5,R
-   1,R,J
-   6,R
-   2
-   1,R
-   1,R,J,G
-  13,R
-   4,Z
-  12,R,J
-   6,R
-   9
-  10,D
-  10,L,J
-  17,L
-  15,L,U,Z
-  23,L
-  28,L,J,G
-  11
-   1,L
-   1,R,J,G
-  35,J
-   2,L
-   1,R,J,G
-   8,J
-  10,L,Z
+   4,R,J
+   3,K,G
+   8,J,G
    9,R,J
-  21,R,D,X
-  53,R,J
-   1,K
-  12,R,K
-   4,R
-   1,R,J
-   8,R
-   1,R,J,G
-   1,R,K,G
-   6,R
-   6,R,J,G
-   7,R
-   4
-   5,R,J,G
-  14,R
-   1,R,J,G
-   6,R,K,G
-  21,R
-  24,R,J
-  28,R
-   2,R,J
-   7,R,K,G
-   1,J
-   9,R,K,G
-   5,R
-   2,R,J
-   5,R
-   1,R,J,G
-   1,R,K,G
-  13,R
-   1,R,J
-  14,R
-   1,R,J
-   7,R
+  10,R,K,G
+   1,J,G
+  10,R,J
   40
 
 #lvl_a-02
-#6x
-   7,R
-   1,R,J
-  14,R
-   1,R,J
-   2,R
-   6,R,D,X
-   1,R,J
-   7,R
-  29,R,J
-   1,J
-  15,Z
-  11,R
-  24,R,J
-   4,R
-  15,R,U,Z
+#4x
+   5,R
+  15,R,U,X
   12
-  13,G
-  19,D,G
-   1,G
-  28,R,G
-  41,R,U,G
-   1,R,G
-   1,R,U,G
-   1,R,G
-  31,R,U,G
-   7,R,D
-   2,D
+  15,D,G
+   3,L,D,G
+   2,D,G
+  18,R,D,G
+  85,R,U,G
+   1,D
+   8
   12,U,X
-  13,G
- 110,R,G
+ 110,R,U,G
+  10,R,G
+   2,G
+   2,R,G
   30,R,D,G
+   1,R,G
+   1,R,D,G
+   1,G
+   1,R,G
    3,R,J,G
   41,R,G
   11,R,J,G
@@ -319,7 +240,8 @@ EndRepeat
  100,R,U,G
   13,R,D,G
   16,R,U,G
-  13,R,D,G
+  11,R,D,G
+   2,R,G
    1,R,D
    1,L,J,G
   10
@@ -1138,7 +1060,6 @@ EndRepeat
   25,R,G
   18,R,J,G
   13
-
  135
-   1,O
-ChapterTime: 4:03.593(14329)
+
+ChapterTime: 3:45.012(13236)
