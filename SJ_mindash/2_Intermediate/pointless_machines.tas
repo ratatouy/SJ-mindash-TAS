@@ -1,6 +1,6 @@
-# Pointless Machines 81x
+# Pointless Machines 74x
 
-RecordCount: 1601
+RecordCount: 1864
 
 console load StrawberryJam2021/2-Intermediate/vitellary
    1
@@ -189,29 +189,54 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   40
 
 #lvl_05
-#15x, 2 extra
+#14x, 1 extra
    3,R,J
   27,R,D
   10,R,Z
    4,R,J
    1,L,J
-   2,K,G
-   5
-   5,J
-   6,R
-  15,R,U,Z
+   1,L,K,G
+   5,R,K,G
+   5,R
+  10,R,K
+  19,R,D
+   9,R,U,Z
+   1,J,G
+  10,R
   15,D,X
-  22,R,D
-   5,R,X
-  13,L
-   8,L,J,G
-  35,R,K
-   9,R,D
-   9,L,D
-  11,L,J,G
-  21,L,X
-  23,R
-  45,R,X
+   3,D
+   1,R
+  12,L,J,G
+   5,K,G
+   1,R,K,G
+  15,L,J,G
+   1,L,K,G
+   5,L
+   5,L,J
+  10,L
+  14,R,D
+   4,D
+  15,R,X
+   2
+   1,L,J,G
+   4
+   1,R
+   1
+   1,R
+   4
+   1,L
+   1,J
+   1,K
+   2,R
+   5,L,C
+  11,R
+   1,R,J,G
+  20,R
+   4,R,J,G
+   5,R
+  20,R,D
+   7,D
+   1,R,D
   15,R,U,C
   29,R,X
   15,L,U,C
@@ -219,24 +244,24 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   15,R,C
   18,R
    5,R,J
-  22,R,D
+  20,R,D
+   2,R
    5,R,U,X
    1,R,J,G
-   9,R
+   7,R
    5,R,J
+   2,R
   11,L,X
   25
    7,L
    2
-   2,L,J,G
   17,L,D,X
   33,R
   30,R,U,Z
    5,R,J
    5,R
   10,R,J
-  28,R
-   2,R,D
+  31,R
    1,R,J
   14,R
    1,R,J
@@ -244,7 +269,7 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   40
 
 #lvl_06
-#13x, 6 extra
+#8x, 1 extra
    1,R
    1,R,J
    5,L,D,X
@@ -257,61 +282,70 @@ console load StrawberryJam2021/2-Intermediate/vitellary
    9,R,J,G
   20,R,D
    5,L,X
-  27,R
-  21,L
-  15,U,X
-  98,L
-   1
-  20,R,X
+  47,R,D
+   1,J
+  25,R,J
+   1,K
+   4,R,K
+  42,R
+   6,U,Z
+   7,L
+   8
+  10,R,J,G
+   1,K
+  27,R,X
   15,R,C
-  40,L,X
-   5,L,D,C
-   9
+  38,R
+   5,R,D
+  15,R,J
+  15,L,X
+  15,L,D,C
+  41,R,U,X
+   1,R,J
+   2,R
+   1,R,J,G
   16,R
-  42,R,U,X
-  25,R,U,Z
-  10,L
-  35,R,U,X
-   3
-   1,R
-  15,R,Z
-  15,U,X
-  15,R,U,C
-  20,R,D
    1,R,J
-  14,R
-   1,R,J
-   3,R
   40
 
 #lvl_07
 #5x
-  11,R
+  14,R
    1,R,J
-   6,R
+   3,R
   10,L,D,X
    1,R,J
-  16,R
-  30,R,J
-  37,R,U,Z
-  15,R,U,X
-   7,D
-  29,R,D
-  11,R,U,Z
-  36,L,D
-  28,R,D
-  23,R,X
+   1
+  11,R
+  26,R,J
+   1,J
+   6,R,J
+  21,R,U,X
+  15,R,U,C
+  33,R,D
+  15,R,U,Z
+   1,J
+   1,K
+  34,R,K
+  10,R,D
+   1,R
+  14,R,D
+  15,R,Z
+  11,R
    1,R,J
-  10,R
+  14,R
+   1,R,J
+   5,R
   40
 
 #lvl_08
-#16x, 2 extra
+#15x, 1 extra
+   9,R
+   3,R,J
+  12,R
+   1,J
+   2,R,J
    4,R
-   1,R,J
-  14,R
-   1
-  11,R,J
    2,R,K,G
   10,R
    1,R,J
@@ -319,7 +353,8 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   15,R,Z
   15,U,X
    0
-  32,R,D
+  24,R,D
+   8,D
   15,L,D,X
   43,R,D
   10,D
@@ -329,7 +364,7 @@ console load StrawberryJam2021/2-Intermediate/vitellary
   17,R,U,Z
   40,R,D
   13,D
-   8,L,D
+  10,L,D
   15,L,Z
   15,L,D,X
   25,R,D
@@ -354,72 +389,83 @@ console load StrawberryJam2021/2-Intermediate/vitellary
    2,R,D
    1,G
    1,R,J,G
-   3,R,K,G
+   4,R,K,G
    5,R
-   2,R,K
-  10,R
-##
-#  14,R,J
-#   9
-#   4,L
-#   3,R
-#   2,R,D
-#   1,D
-#   1,R,D
-#   1,D
-#   1,R,D
-#   1,D
-#   1,R,D
-#   1,D
-#   1,R,D
-#   3,R
-#   1,J
-#   7,R,J
-#   1,L,J
-#   5,L
-# 100,L,J
-##
-   4,R,J
-  40,R
-  10,R,J
-   3,J
-  12,R,Z
-   9,R,J,G
-  30,R
-   2,R,D
-   1,R,J,G
-   3,R,K,G
-  12,R
-   5
-   1,R
-   5,R,J
-   5,R
-   9,R,J
-   9,R
-   1,G
-   3,R,J,G
-   5,R
-   1,R,J
-  10,R
-  15,R,J
-   2,J
-Repeat 3
-   1,K,G
-   3,R,K
-   5,K
-   1,R,K
-   1,L,K
-   1,R,K
-  13,R,J,G
-EndRepeat
-  12,R,K,G
+   8,R,K
    7,R
+   4,R,J
+  29,R
+   1
+   1,R
+   5,L
+   3,L,D
+   1,L
+   1,L,G
+   1,L
+   1,L,G
+   1,L
+   1,L,G
+   5,R
+   2,L
+   1,J,G
+   4,L
+   2
+   1,L
+   1,S
+  11,L,J
+   1,J
+   3,R,J
+  28,R,K
+   1,R,J,G
+   1,R,K,G
+   5,R
+   1,R,J
+   8,R
+   4,R,J
+  12,R
+   8,L
+   1,K
+   5,R,K
+   5,R
+  27,R,J
+  10,R,K,G
+  14,R
+   8,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,J
+   8,R,J
+   5,R
+  13,R,J
+  35,R,K,G
+  10,J,G
+   1,L,J,G
+  15,R,K,G
+  10,J,G
+   1,L,J,G
+  16,R,K,G
+   1,J
+   1,K
+  25,R,K
+   1,J
+  25,R,J
+   1,K
+  25,R,K
+   1,J
+   9,R,J
+  18,R
    1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
-  22,R
+  21,R
   40
 
 #lvl_09
@@ -438,4 +484,4 @@ EndRepeat
   21,R,C
  135,R
 
-ChapterTime: 1:11.961(4233)
+ChapterTime: 1:12.879(4287)
