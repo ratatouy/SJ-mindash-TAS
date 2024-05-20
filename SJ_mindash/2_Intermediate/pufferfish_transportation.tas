@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1352
+RecordCount: 1556
 
 console load StrawberryJam2021/2-Intermediate/Rocketguy2
    1
@@ -30,7 +30,7 @@ EndRepeat
   11,R
   40
 
-#4x
+#2x
 #lvl_RG2-1
    3,R
    1,R,J
@@ -41,26 +41,46 @@ EndRepeat
    3,R
   67,R,J
   20,R
-  34,G
-  19,R,D
-  16,R,Z
-  38,R
-  38,R,J
-  15,R,X
-  18,R,D
-  20,R,J
-  15,R,X
-  16,D
-  14,R,D
-  25,R
-  15,R,U,X
-  24,R
+  15,G
+  12,D,G
    1,R,J,G
-   3,R,K,G
-  12,R
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  25,R,D
+   4,R
+  15,R,U,Z
+  23,R,D
+  30,R,J
+  15,R,U,X
+  62,R
+  15,R,U,X
+   4,R
+  52,D
+  10,J
+   5,R,J
+  18,R,D
+  55,R
+   1,J,G
+   1,L,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,J
+   6,R
   40
 
-#2x
+#1x
 #lvl_RG2-2
   20,R
    5,R,J
@@ -73,43 +93,80 @@ EndRepeat
   40,R
   15,R,D
    1,R,J
-  14,R
+  16,R
    1,R,J
-  10,R
-   1
-   1,R
-   1
-   2,R
-   3,R,J
-   5,R
-   2,R,J
-   7,R
-  10,R,J
-   7,R
-  17,R,J
-  15,U,X
-  21,D
-   8,R,D
-  12,R
-  11,R,J
-  10,R
-  16,R,J
-  48,R,K
+   9,R
+   1,R,J
+   7,L
+   1,J,G
+   4,L
+   4
+   1,J
+   2,R,D
+  35,R,D,J
   15,R,U,X
-  24,R
-   8,R,D
+  16,R
+   6,R,J,G
+   1,K
+   1,J
+   7,L,J
+   5,L
+   6,L,J
+  28
+   1,K
+  19,L
+  15,R
+   1,R,J,G
+ 117,R,G
+   6,R,D,G
+   1,R,G
+   1
+   1,K
+   2,J,G
+   5,L,J
+   5,L
+   9,L,J
+  32,L
+   1,L,J,G
+   9,L,D
+ 146,L,G
+   1,J,G
+   1,L
+   5
+   1,L
    1,R
-   1,R,D
+   1,R,J
+  12,R
+  10,R,J
+   5,R
+  15,R,J
+   2,J
+   1,K,G
+   1,L,K,G
    1,R,J,G
    1,R,K,G
-   9,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  13,R
+   9,R,J
+  18,R
+   3,L,D
+  28,L
+   1,J,G
+  10
+   2,R
+  18,R,D,J
+  64,R,D
    1,R,J
-   9,R
+  14,R
+   1,R,J
+   5,R
   40
 
 #6x
 #lvl_RG2-3
-   6,R
+   9,R
    1,R,J
   14,R
   12,R,J
@@ -630,4 +687,4 @@ EndRepeat
   51,L
   21,L,J
 
-ChapterTime: 1:53.271(6663)
+ChapterTime: 2:02.757(7221)
