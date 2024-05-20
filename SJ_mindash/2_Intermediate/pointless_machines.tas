@@ -1,6 +1,6 @@
 # Pointless Machines 73x
 
-RecordCount: 1919
+RecordCount: 1920
 
 console load StrawberryJam2021/2-Intermediate/vitellary
    1
@@ -442,8 +442,9 @@ console load StrawberryJam2021/2-Intermediate/vitellary
    5,R
   15,R,J
    1,R,K,G
-  12,K
+  11,K
    1,R,K
+   1,K
   27,R,J
   11,K,G
    1,L,K
