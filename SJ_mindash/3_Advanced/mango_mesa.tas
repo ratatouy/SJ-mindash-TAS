@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 17949
+RecordCount: 17950
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
@@ -200,7 +200,7 @@ EndRepeat
    6,J,G
    2,L,J
   12,L,K
-  69,L,U,G
+  72,L,U,G
    1,L
    2,L,J,G
   11,L
