@@ -1,7 +1,4 @@
-# StrawberryJam2021
-# https://gamebanana.com/mods/424541
-
-RecordCount: 1104
+RecordCount: 1386
 
 console load StrawberryJam2021/2-Intermediate/LegS
    1
@@ -86,8 +83,8 @@ console load StrawberryJam2021/2-Intermediate/LegS
   17,R
   11,R,K
 #Dash
-   5,R,U,X
-  33,L,G
+  15,R,U,X
+  23,L,G
    6,D
   23,G
    3,D
@@ -218,7 +215,7 @@ EndRepeat
   40
 
 #lvl_LegS-4
-#(4x)
+#(1x)
    4,R
    1,R,K,G
    8,R
@@ -228,37 +225,73 @@ EndRepeat
 #Dash
   21,R,U,X
   37
-   2,R,K
-  47,R,J
-#Dash
-  11,R,U,X
-  21,R,G
-   1,L
-  18,D
-  20,R,D
-#Dash
-  76,R,X
    1,R,K
-   4,L,K
+  49,R,J
+   1,L
+  13,G
+  47,L,U,G
+  10,D,G
+   1,L,D
+  17,J,G
+  13,G
+  22,L,G
+   7,L,D,G
+   2,L,G
+   1,R,J,G
+  18,R,J
+  13,G
+  50,R,U,J,G
+  12,R,D,G
+  44,R,G
+   2,R
+   1,X,G
+  65
+   6,J
+   9,R
+  13,G
+  24,R,U,G
+   1,D
+   9,J,G
+  15,U,G
+   1,J,G
+  13,K,G
+  10,L,K,G
+   1,L
+  17
+  10,R,D
+  26,J
+  13,R,J
+  26,K
+  13,R,K
+  25,J
+  12,R,J
+   1,K
+  24,R,K
+  24,L,J
+   5,R
+  13,G
+  42,R,U,G
+   1,D
+  17,J,G
+  13,G
+  19,R,J,G
+  74,R,U,G
+   1,R
+   3,R,J
+  19,R
+   1,J,G
+   3,R,J
+   5,J
+   1,R,J
+   1,L,J
+   1,R,J
+   8,R,K,G
+   8,R
    1,J
-   3,L,J
-   5,R,J
-   7
-  31,R,U,G
-   1,R,D
-  10,R,K,G
-   6,G
-   1,K,G
-  15,J,G
-  94,R,U,J,G
-  22,R
-  12,R,K,G
-  16,G
-   7,R,K,G
-#Dash
-  14,R,D,X
-  91
-   1,L,K
+  24,R
+   1,X,G
+  92
+   1,L,J
   40
 
 #lvl_LegS-B2
@@ -272,6 +305,7 @@ EndRepeat
    4,L,K
    7,L
   40
+
 #lvl_LegS-5
 #(3x)
    4,L
@@ -295,10 +329,19 @@ EndRepeat
    1,L,J,G
    1,L,K,G
   12,L
-  22,L,K
+   1,J
+  14,L
+  19,L,J
+   1,L
+   1,L,J
 #Dash
-  10,U,X
-  14
+  15,U,X
+   1,L
+   1
+   1,L
+   1
+   1,L
+   4
   61,L,D,G
   16,L
    8,L,D
@@ -311,7 +354,7 @@ EndRepeat
    2,R
    2
    6,L,D
-   2,L,K
+   2,L,D,K
    5,L
    4,L,K
 #Dash
@@ -402,40 +445,19 @@ EndRepeat
    1,S
    9,O
   29,L,K,G
-   2,D
+   4,L
+  10,Z,G
+ 107
+   3,R
    1,S
    9,O
-  32,K,G
-  13,L,G
-   7,R,G
-   1,S
-   9,O
-   6,R,K,G
-  39,L,K,G
-   1,S
-   9,O
-  11,L,J,G
-   1,L,D,J
-   1,S
-   9,O
-  48,L,K,G
-   1,G
-   1,S
-   9,O
-  23,K,G
-   1,D,K
-   1,S
-   9,O
-  45,K,G
-   9,L,K,G
-   1,S
-   9,O
- 107,U,K,G
-   1,J,G
-  24,U,G
-  36,R,U,G
-  60,U,G
-   5,R,U,G
+   1,R,J,G
+  13,J,G
+  13,R,J,G
+   3,R,G
+ 187,U,G
+   1,U,J,G
+  82,U,G
   40
 
 #lvl_LegS-7
@@ -465,5 +487,5 @@ EndRepeat
   19,R,U,X
  135,D
 
-ChapterTime: 1:43.785(6105)
-#14 Dashes
+ChapterTime: 1:50.874(6522)
+#11 Dashes
