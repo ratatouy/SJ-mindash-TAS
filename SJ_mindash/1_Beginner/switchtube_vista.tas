@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3445
+RecordCount: 3446
 
 console load StrawberryJam2021/1-Beginner/Flagpole1up
    1
@@ -956,5 +956,5 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   13,R,U,X
  135,R,D
 
-ChapterTime: 2:51.581(10093)
+ChapterTime: 2:52.295(10135)
 #36 dash
