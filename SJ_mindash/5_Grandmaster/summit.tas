@@ -1,4 +1,4 @@
-RecordCount: 11838
+RecordCount: 12037
 
 console load StrawberryJam2021/5-Grandmaster/math
    1
@@ -308,7 +308,6 @@ EndRepeat
   16,L
  349
    7
-
 #9x
 #lvl_1000M
   11,L
@@ -404,29 +403,47 @@ EndRepeat
   18,R,D,X
    3,R
    1,R,J
-   1,R,K,G
-   5,R
-  10,R,K
+   2,R,K,G
+   9,R
+   1,R,J
    1,R
-  16,R,U,Z
-   4,R,J
-  17,R,K
-   9,R,J,G
-   6,J
-  24,L,U,X
-   5,L,J
-   3,R,J
-   8,R,K
-   3,L,K
-  14,J
-  12,R,K,G
-  20,L,J
-   1,L
-   3,L,J
-   1,L,G
+   1,G
+  12,R,J,G
+   2,L
+   2,R,J
+  12,R
+   3
+   6,J,G
+   1,L,J
+  11,R,K
+  25,R
+   1,J
+   7,R,J
+  10,L,J
+   4,K
+   1,R,K
+   8,J,G
+   1,L,J
+   1,K
+  10,R,K
+  14,R
+  20,R,J,G
+  23,L,U,X
+   8,R,J
+   6,L,K
+   5,K
+   1,L,K
+  13,J
+  13,R,K,G
+  19,L,J
+   2,L
+   1,L,J
+   2,L
+   1,G
    3,R,J
   41
    4,L
+#x
   15,L,D,X
    4,R,J
    5,R,K
@@ -603,7 +620,6 @@ EndRepeat
   20,U,X
  301
    4
-
 #14x
 #lvl_2000M
   33,R
@@ -831,7 +847,6 @@ EndRepeat
    2
  297
    7
-
 #20x
 #lvl_2501M
 #BIS messes up wind OoO
@@ -1555,4 +1570,4 @@ AnalogMode,Ignore
   15,R,U,X
  135,R,D
 
-ChapterTime: 3:48.854(13462)
+ChapterTime: 3:50.588(13564)
