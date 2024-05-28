@@ -1,4 +1,4 @@
-RecordCount: 1400
+RecordCount: 1578
 
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
@@ -165,107 +165,199 @@ Endrepeat
   38,R,J
   12,R,K,G
   12,R,J,G
-  22,R
-  40
+  11,R
+  53,R,J
+   1,K
+   4,L,K
+  10,L,J,G
+   2,L,K,G
+   2,L,K
+
+
+
+   4,J
+   4,L,K
+   3,R,J
+   8,L,K
+   4,R,J
+   9,R,K
+   2,J,G
+
+  40,J
+  10,J
+  12,K,G
+  12,J,G
+   6,K,G
+   9,R,J,G
+  40,R
+  61
+   5,J
+  21,R,J
+   2,K,G
+   5
+   5,L
+  31,L,D,G
+  12,L,G
+   2,L,D,G
+  26,R,D,G
+  31,D,G
+  40,D,G
+#  24,D,G
+#1000,R,U,G
+
+
+
+
+
+
+
+
+#  22,R
+#  40
    
 #lvl_A2 (0)
    #0x
 
-  13,J
-   1,K
-  20,L,K
-  12,J,G
-   4,L,D
-   5,D
-   8,R,J
-  10,K,G
-  48,J,G
+#  13,J
+#   1,K
+#  20,L,K
+#  12,J,G
+#   4,L,D
+#   5,D
+#   8,R,J
+#  10,K,G
+#  48,J,G
 #lvl_Dissonance
 #0x
-  13,K,G
-  13,J,G
-  13,R,K,G
-  41,R,J,G
-   1,R,K
-  11,R
+#  13,K,G
+#  13,J,G
+#  13,R,K,G
+#  41,R,J,G
+#   1,R,K
+#  11,R
 #change for cassette cycles
-  38
-   5,L,J
-  10,L,J
-  13,R,K
-  72,L,D,G
-  28,R,D,G
-  70,D,G
+#  38
+#   5,L,J
+#  10,L,J
+#  13,R,K
+#  72,L,D,G
+#  28,R,D,G
+  #70,D,G
 #lvl_A2 (1)
 #0x
+
+
+
+
+
   60,R,D,G
 #change for cassette cycles
+# 113,G
+#  30,G
+#   6,R,J,G
+#  64,R,U,G
+#   1,R,J,G
+#  31,R,D,G
+#  33,R,U,G
+# 100,R,U,J,G
+  24,G
  123,G
    6,R,J,G
   57,R,U,G
   10,R,U,J,G
   55,R,D,G
-  10,R,J,G
-  10,U,G
-  24,R,U,G
-
-
-
-
-
-  30,R,U,J,G
-  33,L,U,J,G
-  20,L,K,G
-   1,D
-  23,J,G
-  47,R,G
-  19,R,D,G
-   1,R,G
-  50,U,G
-  57,R,G
-
-  10,R,J,G
-   9,U,G
-   6,R,U,G
-   1,L
-   1,R
-   3,R,D
-   5
-  16,R
-   1,R,J,G
-  25,U,J,G
-  15,R,K,G
-  21,R,U,G
-   5,G
-  12,L,D,G
-   5,D,G
-  14,R,G
-   1,R,J,G
-  46,L,J,G
-   1,D
-   1,K
-  15,L,K
-  55,L,U,G
-  47,R,G
-   1,R,J,G
-  23,R,G
-  10,U,G
-   1,D,G
-   5,G
-   6,R,G
-   7,G,P
-   7,L,J,G
-   2,R,U,K,G
-   1,R,K
- 136,R,U,K,G
-  11,R,G
-   1,R
-   8,R
+   7,R,J,G
+  38,R,U,G
+   5,R,U,J,G
    1,R,J
+  63,R,U,J,G
+  10,R,K,G
+ 126,U,G
+  12,D,G
+  59,R,U,G
+  54,R,U,J,G
+  44,R,U,K,G
+  13,L,G
+  11,D,G
+  16,R,G
+   8,R,U,J,G
+  57,R,U,G
+   1,R
+   1,R,J,G
    1,R,K,G
-   3,R,J,G
-  61,R,G
+   6,R,U,J,G
+  24,U,J,G
+  20,R,U,K,G
+ 132,R,U,G
+   2,R,J,G
+  43,R,G
   40,R,G
+
+
+
+
+
+#  10,R,J,G
+#  10,U,G
+#  24,R,U,G
+
+
+
+
+
+#  30,R,U,J,G
+#  33,L,U,J,G
+#  20,L,K,G
+#   1,D
+#  23,J,G
+#  47,R,G
+#  19,R,D,G
+#   1,R,G
+#  50,U,G
+#  57,R,G
+
+#  10,R,J,G
+#   9,U,G
+#   6,R,U,G
+#   1,L
+#   1,R
+#   3,R,D
+#   5
+#  16,R
+#   1,R,J,G
+#  25,U,J,G
+#  15,R,K,G
+#  21,R,U,G
+#   5,G
+#  12,L,D,G
+#   5,D,G
+#  14,R,G
+#   1,R,J,G
+#  46,L,J,G
+#   1,D
+#   1,K
+#  15,L,K
+#  55,L,U,G
+#  47,R,G
+#   1,R,J,G
+#  23,R,G
+#  10,U,G
+#   1,D,G
+#   5,G
+#   6,R,G
+#   7,G,P
+#   7,L,J,G
+#   2,R,U,K,G
+#   1,R,K
+# 136,R,U,K,G
+#  11,R,G
+#   1,R
+#   8,R
+#   1,R,J
+#   1,R,K,G
+#   3,R,J,G
+#  61,R,G
+#  40,R,G
 
 
 
@@ -357,6 +449,11 @@ Endrepeat
 #lvl_B1
 #0x
   63,R,G
+
+
+
+
+
  243,G
   20,R,U,J,G
   39,R,U,G
@@ -559,6 +656,10 @@ Endrepeat
   35,R,G
    1,R,J,G
   35,R,D,G
+
+
+
+
    1,R,J,G
   20,R,U,G
   61,R,U,G
@@ -865,11 +966,12 @@ Endrepeat
   15,R,X
   39,R
  135
-ChapterTime: 3:51.999(13647)
+ChapterTime: 3:49.092(13476)
 
 
 
-
+#3:51.999(13647)
+#3:49.092(13476)
 
 
    
