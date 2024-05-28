@@ -139,33 +139,38 @@ console load StrawberryJam2021/4-Expert/alicequasar
 #lvl_a-03 (0)
    5,R
   32,R,J
-  15,U,X
-   8,R,J
+  13,U,X
+  10,R,J
   24,R,J,G
-   1,R,D
+   1,D
   10,U,X
-  21,R,G
-   1,L
-  10,R
+  21,R,J,G
+   1,L,J
+   8,R,J
+  15,R,X
+   3,R
+   8,U,X
+  21,R,J,G
+   1,L,J
+  19,R,J
+  12,R,U,Z
+  21,L,G
+   1,R
+   5,L,D
+  26,D
+  11,L,D
+   8,R,D
+  15,R,J
+
+
 
   
 
 
 
 
-  15,R,X
-   1,R
-   8,U,X
-  25,R,G
-   1,L
-  17,R
-  14,R,U,Z
-  21,G
-   1,R
-  10,L
-  30,D
-   7,L,D
-  21,R
+
+
    9,R,X
   10,R,D,C
   21,R,J
@@ -213,23 +218,31 @@ console load StrawberryJam2021/4-Expert/alicequasar
    1,R,G
 #lvl_a-04 (1)
   40
-  48,R,G
-   1,D
-  28,L
-  37,R,G
+  13,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+   9,R,G
    1,R
-  22,R,G
+   4,L
+   1,L,J
+   7,L
+   7,R
+   1,R,J
+  34,R,G
   31,R,J,G
    1,R
 
   11,R,U,X
-  55,R,J,G
+  53,R,J,G
   12,U,X
   11,L,J,G
    4,L,G
    1,L
   15,R,D
    4,D
+
+
   19,R,D
   16,R,G
    2,J,G
@@ -274,22 +287,27 @@ console load StrawberryJam2021/4-Expert/alicequasar
 
 
 
-
   11,L,D,X
    1,R,J
    9
    6,R,Z
    1,R,J,G
    6,R
-  31,R,J
-  10,U,X
-  37,R,G
-   1,R
+  20,R,J
+  12,R,U,X
+  23,R,J,G
+   1,R,J
   12,U,X
-  37,R,G
-  10,G
-   4,R,J,G
+  39,R,J,G
+  10,L,G
+   3,R,J,G
   25,R,G
+
+
+
+
+
+
   14,R,U,Z
    1,J,G
   24,L,J,G
@@ -488,11 +506,17 @@ console load StrawberryJam2021/4-Expert/alicequasar
    2,R
   40
 #lvl_a-08b
-
   12,R
    1,R,J
   14,R
    1,R,J
+
+
+
+
+
+
+
   14,R
    1,R,J
   27,L,G
@@ -516,4 +540,5 @@ EndRepeat
    7,R
   56,R,J
 
-ChapterTime: 1:28.315(5195)
+ChapterTime: 1:27.040(5120)
+
