@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2567
+RecordCount: 2951
 
 console load StrawberryJam2021/2-Intermediate/Arphimigon
    1
@@ -303,32 +303,121 @@ EndRepeat
    8,R
   40
 
-#lvl_a_05
-   6,R
+#lvl_a_05(0)
+   5,R
+  18,R,J
+  10,L,J
+ 199,L,U,J,G
+   1,R,K,G
+   9,K,G
+   5,G
+  13,L,G
+  18,L,K,G
+  40
+
+#lvl_a_01(4)
+  19,R,D
+   8,D
+   7,J
+   6
+  20,G
+   7,R,G
+  40
+
+#lvl_a_05(1)
+   2,R,G
+  10,R,J,G
+  29,R,G
+  20,L,D
+   3,D
+   7,J
+  16,R,J
+  13,G
+  45,R,J,G
+  12,L,J,G
+   1,L,D,J
+  13,G
+  20,L,J,G
+   1,L,D,J
+Repeat,5
+  17,G
+   4,L,J,G
+   1,L,D,J
+EndRepeat
+  13,G
+  14,L,G
+  26,R,G
+   4,R,J,G
+   1,R,G
   18,R,J,G
-  13,R,U,X,G
-  57,R,D,G
-  17,R,D,G
+   1,R,D,J
+  21,G
+   1,R,D,J
+  17,G
+   5,R,G
+   1,R,D,J
+Repeat,5
+  17,G
+   4,R,G
+   1,R,D,J
+EndRepeat
+  21,G
+   6,L,D
+   2,R
+  13,G
+  15,R,J,G
+   1,R,D,J
+Repeat,10
+  17,G
+   4,R,G
+   1,R,D
+EndRepeat
+  17,G
+   4,R,G
    1,R
-  12,R,D
-  50,D
-  36
-  20,R
-  22,U,X,G
- 155,R,G
-  18,R,D,G
-  23,R
+  24,G
+  53,R,G
+  58,G
+  18,R,G
+  51,G
+  12
+  34,L
+  13,R
+  13,G
+  16,R,J,G
+   1,R,J
+  31,R,J,G
+   1,D,J
+  21,L,G
+   1,D,J
+  13,G
+   8,R,J,G
+   1,D,J
+Repeat,3
+  17,J,G
+   5,R,J,G
+   1,D,J
+EndRepeat
+  13,G
+  50,R,J,G
+  17,R,D,G
+  29,R
   15,R,X
-   4,R
+   6,R
   15,R,C
-  30,R,D
-   5
-  26,L
-  49,R,U,J,X
-  46,R,U,C
-  49,R,U,X
+  27,R
+   8,L
+   5,L,D
+  27
+  15,R,U,X
+  39,R
+  15,R,U,C
+  24,R
+  15,R,U,X
+  34,R
    4,R,J
-  20,R,U,X
+  15,R,U,X
+   8,R
    1,S
    1,D,J
   69,O
@@ -337,7 +426,7 @@ EndRepeat
   10,L
   40
 
-#lvl_a_01 (4)
+#lvl_a_01 (5)
   20,L
   76,L,J
   26,L,D
@@ -649,4 +738,4 @@ EndRepeat
   11,R,U,X
  135,R,D
 
-ChapterTime: 3:07.289(11017)
+ChapterTime: 3:30.630(12390)
