@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2951
+RecordCount: 3114
 
 console load StrawberryJam2021/2-Intermediate/Arphimigon
    1
@@ -138,6 +138,10 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
    5,L,J
    4,J,G
    3,L,J,G
+ 
+
+
+
   11,J,G
   19,L,G
    1,L
@@ -541,6 +545,10 @@ EndRepeat
   12,J
    4,U,X
   39,U,X,G
+
+
+
+
    2,R,G
    3,R,G
   43,R,G
@@ -554,6 +562,7 @@ EndRepeat
   10,L,G
   14,L
   32,L,X,G
+
    4,L,J,G
    9,R,K,G
   14,L,J
@@ -565,7 +574,7 @@ EndRepeat
   43,R,D,G
   40
 
-#lvl_b_03
+#lvl_b_03 (0)
    6,R,D,G
    1,R,J,G
   51,R,D,G
@@ -694,48 +703,155 @@ EndRepeat
    7,R
   40
 
-#lvl_b_04
+#lvl_b_04 (0)
   40,R
   13,R,D
-  53,R,G
+  16,R
+   6,L,X
+  50,L,U,G
+  10,R,U,G
+  23,R,U,J,G
    1,L
-  71,L,U,X,G
-  67,R,D,G
-  62,D,G
-  26,L,D,G
-  70,R,G
+  72,L,U,J,G
+   4,R,U,G
+  40,R,U,G
+#lvl_b_03 (1)
+  38,R,U,G
+  40,R,U,G
+#lvl_b_04 (1)
+  99,R,U,G
+
+
+
+
+ #221,R,U,G
+   5,R,U,G
+  61,R,D,G
    1,R
-  42,R,U,X,G
+  21,L,U,G
    1,R
-   8,R
-  37,D
-  32,L,D
-  15,D
-  12,L,D
-  15,R,X
-  25,R,D
-  17,R,G
-  14,R,U,X
- 234,R,U,G
-  18,L,D
-   5,D
+  40,R,U,G
+   1,R,D
+  22,L,U,J,G
    1,L,D
-   4,D
-  27,J,G
-  15,R,J,G
-   1,L
-  23,R,D
-  12,R,Z
-   1,R,J
+  23,L,U,J,G
+  
+
+
+
+
+   1,L,D
+  72,L,G
+  82,R,D,G
+  27,D,G
+   1,D
+  26,L,U,G
+   8,L,D,G
+  27,L,U,G
+  29,R,U,G
    1,R
-   2,R,J
+  23,R,U,G
+   1,R
+  77,R,U,G
+   1,R
+   5,R,U,X
+  24,R,U,G
+   1,R
+  40,R,U,G
+  25,R,D,G
+   1,R
+  17,L
+  20,L,D
+  46
+  15,R,Z
+  32,D
+  31,R,U,J,G
+   1,R
+  15,R,U,J,G
+  11,L,U,J,G
+   1,L,D
+  21,L,U,J,G
+   1,R,D
+Repeat,1
+  16,R,U,J,G
+   5,U,J,G
+   1,R,D
+EndRepeat
+  16,R,U,J,G
+   5,U,J,G
+   1,R
+  99,R,U,J,G
+  26,R,D,G
+  19,R,G
+   1,R,D
+  21,G
+   1,D
+Repeat,12
+  16,R,U,J,G
+   5,U,G
+   1,R,D
+EndRepeat
+  21,R,U,J,G
+   1,R
+  35,R,G
+  12,D,G
+  43,L,G
+  10,R,G
+   1,L,J
+  22,R,J,G
+   1,L,J
+  38,R,J
   40
-
 #lvl_b_05
-  12,R
-   1,R,J
-  12,R
-  11,R,U,X
- 135,R,D
 
-ChapterTime: 3:30.630(12390)
+  32,R,J
+  13,R,X
+ 135,R
+
+
+
+
+#  40,R
+#  13,R,D
+#  53,R,G
+#   1,L
+#  71,L,U,X,G
+#  67,R,D,G
+#  62,D,G
+#  26,L,D,G
+#  70,R,G
+#   1,R
+#  42,R,U,X,G
+#   1,R
+#   8,R
+#  37,D
+#  32,L,D
+#  15,D
+#  12,L,D
+#  15,R,X
+#  25,R,D
+#  17,R,G
+#  14,R,U,X
+# 234,R,U,G
+#  18,L,D
+#   5,D
+#   1,L,D
+#   4,D
+#  27,J,G
+#  15,R,J,G
+#   1,L
+#  23,R,D
+#  12,R,Z
+#   1,R,J
+#   1,R
+#   2,R,J
+#  40
+
+
+#  12,R
+#   1,R,J
+#  12,R
+#  11,R,U,X
+# 135,R,D
+
+ChapterTime: 3:47.851(13403)
