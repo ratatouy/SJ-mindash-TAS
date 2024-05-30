@@ -1,4 +1,4 @@
-RecordCount: 4124
+RecordCount: 4333
 
 console load StrawberryJam2021/5-Grandmaster/Ecl1psed
    1
@@ -547,11 +547,12 @@ EndRepeat
   40
 
 #lvl_a-05
-#6x
+#5x
   11,G
    3,R,J,G
   12,R,U,G
   41,L,U,G
+
   15,D,G
    3,R,D,G
   10,R,G
@@ -578,6 +579,24 @@ EndRepeat
    1,L,J,G
   13,G
   15,G
+
+
+
+#  30,L,G
+#  47,L,U,G
+#   1,L,D
+#   2,L,J
+#   7,L,G
+#   1
+#   4,R,J
+#  70,R,U,G
+#   5,R,D
+#   5,R,J,G
+#  38,R,D,G
+#  34,D,G
+#  40,L,D,G
+# 100,L,U,G
+
   44,L,G
   24,L,U,G
    1,G
@@ -592,10 +611,60 @@ EndRepeat
    1,R,J
    1,R,K,G
    3,R,J,G
+#new
+#  12,R,G
+#  52,L,D,G
+#   1,D
+#   1,J
+#  56,L,J
+#   1,K
+#  55,L,K
+#   2,G
+#  25,R,J
+#  40,L
+#  15,D,G
+#  21,L,U,G
+#  30,R,U,G
+#   1,L
+
+#  34,R,J
+
+#  17,L,U,G
+#   8,R,U,G
+#   1,L,J
+#  26,R,J
+#  17,L
+#  10
+#   1,J
+#  22,R,J
+#  14
+#Repeat,3
+#   1,J
+#  21,R,J
+#  15
+#EndRepeat
+#   3,R
+#Repeat,3
+#   1,J
+#  22,R,J
+#  14
+#EndRepeat
+#1000,R,G
+
+
+
+
+
+
   13,R,G
   13,G
    5,R,D,G
   58,D,G
+
+
+
+
+
   82,L,U,G
   19,U,G
    1,L,U,G
@@ -658,26 +727,50 @@ EndRepeat
   15,R,D,G
   13,R,G
   20,R,G
-   1,R
-  15,R,U,X
-   5,R
-  13,G
-  22,R,D,G
-  30,D,G
-  20,L,D,G
-  16,D,G
-  18,R,G
-   2,R,U,G
-  11,R,G
-  15,L,G
-  20,L,G
-   3,L,U,G
-  16,L,G
-  20,R,D,G
+#new strat
+  69,R,U,G
+   1,D
+   1,K
+  11,R,J,G
+  35,R,G
+   2,L,K,G
+   1,D,K
+  52,R,J,G
+   1,D
+   1,J
+  26,R,J
+  31,D,G
+  27,L,D,G
+  58,R,U,G
+  10,L,D,G
+  46,L,U,G
+  25,R,D,G
   18,R,U,G
-  15,R,D,G
+  12,R,D,G
+
+
+#old strat
+#   1,R
+#  15,R,U,X
+#   5,R
+#  13,G
+#  22,R,D,G
+#  30,D,G
+#  20,L,D,G
+#  16,D,G
+#  18,R,G
+#   2,R,U,G
+#  11,R,G
+#  15,L,G
+#  20,L,G
+#   3,L,U,G
+#  16,L,G
+#  20,R,D,G
+#  18,R,U,G
+#  15,R,D,G
    1,R,J,G
-  32,R,G
+  #32,R,G
+  31,R,G
   40
 
 #lvl_a-06
@@ -1077,4 +1170,6 @@ EndRepeat
   13
  135
 
-ChapterTime: 3:45.794(13282)
+ChapterTime: 3:48.718(13454)
+
+
