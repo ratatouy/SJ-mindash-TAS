@@ -1,0 +1,58 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 70
+
+console load StrawberryJam2021/0-Lobbies/4-Expert 2664 -792
+   1
+
+#Start
+#0x
+  36
+   5,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   3,R,J
+   6,R
+   1,J
+   1,R,K,G
+   1,R,J,G
+  12,R
+   1,R,D
+  15,R,D,J
+  26,R
+  54,R,J
+   1
+  11,R,K,G
+  15,R
+   1,R,D
+  14,R,D,J
+   1,L
+   1,J,G
+   8,R
+  10,R,J
+   1,R
+  28,R,J
+  10,R
+  27,L,J
+  10,L,K,G
+   2,R,K
+   1,L,J,G
+   1,L,K,G
+  26,L
+   1,L,J
+  14,L
+   1
+   1,L
+   1
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+  11,L
+   1,L,J
+  18,L
+   1,N
+
+#0:06.375(375)
