@@ -1,4 +1,4 @@
-RecordCount: 4852
+RecordCount: 4853
 
 console load StrawberryJam2021/4-Expert/nyan
    1
@@ -669,8 +669,8 @@ EndRepeat
    3,R,J,G
    9,R,K,G
   16,R
- 139,L,D,X
+ 140,L,D,X
 
 ChapterTime: 1:58.065(6945)
-#1:48.443(6379)
+#1:58.065(6945)
 #42x
