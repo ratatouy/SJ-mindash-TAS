@@ -1,4 +1,4 @@
-RecordCount: 30
+RecordCount: 33
 
 console load StrawberryJam2021/0-Lobbies/4-Expert 2216 448
    1
@@ -61,8 +61,9 @@ console load StrawberryJam2021/0-Lobbies/4-Expert 2216 448
    4,L
    2,L,D
   11,L,J
-   7,L
+   5,L
    1,N
 
-#0:05.916(348)
+#0:05.882(346)
+
   
