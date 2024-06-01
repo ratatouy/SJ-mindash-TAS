@@ -5,9 +5,10 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 1520 552
 
 #Start
   36
-   1,L
-   1
-   7,L
+   3,L
+   1,L,D
+   3,L
+   1,L,D
    1,L,J
    1,L,K,G
    1,L,J,G
@@ -141,5 +142,5 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 1520 552
    5,R
    1,X
 
-FileTime: 0:14.076(828)
+#0:13.464(792)
 #Total dashes : 0
