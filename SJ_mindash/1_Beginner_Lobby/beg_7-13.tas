@@ -39,9 +39,10 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 2288 608
    1,L,J,G
    9,L
    1,L,J
-  15,L,D
+  10,L,D
+   1,D
+   4,L,D
    1,X
 
-#0x
-#315f
-FileTime: 0:05.355(315)
+#0:04.760(280)
+#0x Dashes
