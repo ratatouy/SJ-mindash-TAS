@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3326
+RecordCount: 3402
 
 
 console load StrawberryJam2021/4-Expert/Yoshachobi7
@@ -270,6 +270,10 @@ EndRepeat
   10,L,D,X
   14,R,J
   30,R,J,G
+#new
+
+
+#old
    1,R,J
   23,R,J,G
    4,L,J,G
@@ -770,7 +774,7 @@ EndRepeat
   40
 
 #lvl_a7
-#6x
+#5x
    3
   45,R,U,J,G
    5,R,D,G
@@ -883,21 +887,23 @@ EndRepeat
   18,R,K,G
    4,K,G
    1,D,J
-Repeat,3
+#new
+Repeat,5
   18,G
-   4,R,G
-   1,D,J
+   4,L,G
+   1,D
 EndRepeat
-  17,G
-   4,R,G
+  18,G
+   4,L,G
+   1,L
+  97,U,G
+  40,R,U,G
    1,L,J
-  21,R,J,G
-   5,R
-  15,R,Z
-  21,R
-  15,R,D
-  27,L
-Repeat,90
+  12,R,J
+  56,R,G
+   1,L,D
+  42,L
+Repeat,33
    1,G
    1
 EndRepeat
@@ -1003,5 +1009,5 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 4:27.750(15750)
-#31x
+ChapterTime: 4:29.178(15834)
+#30x
