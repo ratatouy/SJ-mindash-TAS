@@ -3,10 +3,9 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 1844 1712
 
 #Start
   36
-   1,R
-   8,R,J
+  11,R,D,J
    1,K
-   9,J
+   6,J
    1,R,J
    1,J
    1,R,J
@@ -110,6 +109,5 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 1844 1712
    9,R
    1,X
 
-#439
-FileTime: 0:07.463(439)
-#Total dashes : 0
+#0:06.851(403)
+#0x Dashes
