@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 32
+RecordCount: 75
 
 console load StrawberryJam2021/0-Lobbies/2-Intermediate 4560 848
    1
@@ -56,7 +56,7 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 4560 848
    1,R,K,G
    5,R
    2,R,J
-   1,R,J,G
+   1,R,K,G
    3,R
    3
    3,R
@@ -64,23 +64,29 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 4560 848
    1,R,K,G
    9,R
    1,R,J
-  34,R,D
-   2,D
-   2,R,D
-   1,R,J,G
-   1,R,K,G
-   5
-   3,R
    1
-   1,R,J,G
+  29,R,D
+   1,D
+   1,R,D
+   3,R
+   1,R,D
+   3,R
+   1,R,J
    1,R,K,G
-  10,R
+   1,R,J,G
+   6,R
    1,R,J
-  18,R,D
+   1,R,K,G
+   9,R
+   2,R,J
+   5,R
+   2,R,J
+   1,R
    1,R,J
-  15,R
+   2,R
+   1,R,J
+  17,R
    1,X
 
-FileTime: 0:05.117(301)
-#301
-#0 dashes
+#0:04.420(260)
+#0x Dashes
