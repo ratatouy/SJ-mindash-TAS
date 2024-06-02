@@ -1,4 +1,4 @@
-RecordCount: 354
+RecordCount: 389
 
 console load StrawberryJam2021/0-Lobbies/2-Intermediate 2840 928
    1
@@ -7,7 +7,6 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 2840 928
   36
 
 #lvl_01
-   5,L
 Repeat,4
    1,L,J
   14,L
@@ -17,23 +16,34 @@ EndRepeat
    1,L,J
   14,L
    1,L,J
-  28,L
-   1,L,D
+   7
+   6,L
+   2
+   1,L
+   1
    1,L
    1,L,J
    1,L,K,G
    1,L,J,G
-  11,L
+   8,L
+   1,L,J
+   2,L
+   1,L,J
+   1,L,K,G
+   9,L
    1,L,J
   18,L
    1,L,J
   26,L,D
-   1,L,J
-  14,L
-   3,L,J
-  69,L,D
-  30,L
-   2,L,D
+   4,L,J
+   5,L
+   2,L,J
+  61,L,D
+   1,L
+   1,L,D
+  29,L
+   2
+   2,L
    1,L,J,G
    1,L,K,G
    9,L
@@ -63,6 +73,5 @@ EndRepeat
   27,L
    1,X
 
-FileTime: 0:08.160(480)
-#480
-#0 dashes
+#0:07.259(427)
+#0x Dashes
