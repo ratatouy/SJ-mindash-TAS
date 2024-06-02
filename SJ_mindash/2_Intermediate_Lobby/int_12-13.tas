@@ -1,4 +1,4 @@
-RecordCount: 300
+RecordCount: 303
 
 console load StrawberryJam2021/0-Lobbies/2-Intermediate 3408 800
    1
@@ -43,12 +43,9 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 3408 800
    1,L
    1,L,J,G
   10,L
-   1,L,J
+  10,L,J
   18,L
-   6,L,J
-   6,L
    1,X
 
-FileTime: 0:04.913(289)
-#289
-#0 dashes
+#0:04.267(251)
+#0x Dashes
