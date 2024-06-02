@@ -1,4 +1,4 @@
-RecordCount: 220
+RecordCount: 311
 
 console load StrawberryJam2021/0-Lobbies/2-Intermediate 3528 1280
    1
@@ -15,58 +15,59 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate 3528 1280
    1,L,J
   18,L
    3,L,J
-   1,L,K,G
-   7,L,J,G
-   2,L
-   1,L,K,G
-   3,K
-   3,R,K
-   5,L,K
-  19,L
-   1
-   1,L
-   1
-   1,L
-   1,L,J
+  13,L,K,G
+   1,L,J,G
+   3,R,J
+   5,L,J
    1,L,K,G
    3,L,J,G
-   5,L
-   1,L,K,G
+   7,L
+   3,L,J
    6,L
    1,L,J
    1,L,K,G
-  12,L
-   5,L,J
+   1,L,J,G
+   6,L
+   1,L,J
+   1,L,K,G
+   9,L
+   1,L,J
+   1,L,K,G
+   9,L
+   2,L,J
+   6,L
+   3,L,J
+  10,L
+   1,L,J,G
+   9,L
+   1,L,J
+  12,J
+   9,R,K
+   2,R
+  10,L,J
    5,L
    1,L,J
-   4,L
-   1,L,J
-  10,L
-   1,L,J,G
    1,L,K,G
-   9,L
-  16,L,J
-  11,R,K
-   8,L,J
-   8,L
    1,L,J,G
-   1,L,K,G
    9,L
    1,L,J
    1
-  11,L
-   3,L,J,G
-   4,L
+   9,L
    1
-  10,L
+   1,L
+   1,L,J,G
+   1,L,K,G
+  12,L
    1,L,J
    1,L,K,G
+   9,L
+   2,L,J
+   7,L
+   1
+   5,L
    1,L,J,G
-  11,L
-   9,L,J
-  18,L
+  12,L
    1,X
 
-FileTime: 0:05.865(345)
-#345
-#0 dashes
+#0:04.964(292)
+#0x Dashes
