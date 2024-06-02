@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1903
+RecordCount: 1978
 
 console load StrawberryJam2021/4-Expert/hivemindsrule
    1
@@ -31,27 +31,23 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
   40
 
 #lvl_a2
-#5x
+#4x
    2,R
    1,R,J
   14,R
    6,R,J
-  18,R,D
-  13,L,D
-  18,L,X
-  20,G
-  13,D,G
-   1,J
-   1,L,K,G
-   1,L,J,G
    1,R,J
+  59,R
+  31
+   9,R,Z
+  14,R,J
+   5,R
    1,R
-   2,L
-   1,R
-  15,R,D,X
-   4,L
+  12,R,J
+   4,J
+  12,R,K,G
    6,R,J,G
-  17,R
+  15,R
   11,D
    1,R
   13,D
@@ -59,19 +55,19 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
    1,R,J
    7,R
   39,R,J
-   1
+   1,D
    3,D
    6
    1,L,J
   13
    1,R,J
    5,R
-   3,R,J
-   7,R
+   5,R,J
+   5,R
    2,R,J
-  30,R,K
-   6
-  12,U,X
+  31,R,K
+   5
+  12,U,Z
   15,J
    5,R
    7,G
@@ -386,4 +382,5 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
   15,D,X
  141
 
-ChapterTime: 1:02.713(3689)
+ChapterTime: 1:03.444(3732)
+#25x
