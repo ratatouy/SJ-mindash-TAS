@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://fbanana.com/mods/424541
 
-RecordCount: 5295
+RecordCount: 5751
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -228,68 +228,56 @@ endrepeat
    1,R
   15
    1,R
+   1,D
    1,R,D
    1,R
 #dash
-   5,R,X
+   6,R,U,X
   26
-   1,R,U
-AnalogMode Ignore
-  22,F,115
-   7,F,110
-  22,F,108.269
-   1,F,109.579
-   5,F,157.6
-   2,F,138.056
-   1,F,141.523
-  11,F,202
-   5,F,227.023
-   1,F,224.356
-  10,F,164
-  11,F,127
-  10,F,121.249
-   1,F,123.916
-  20,F,140
-   6,R
+StartExportGameInfo infodump.txt
+   1,R,D
+FinishExportGameInfo
+  20,F,98.26815
+  12,F,98.87280
+  20,F,104
+  16,F,166.5
+  16,F,211.3
+  31,F,110.6
+  24,F,142.39
+   7,R
+
+#3.70 speed - 469.39 y pos after jump
    1,R,J
-   3,R,K,G
-   1,R
-   1
-   3,R
-   1,R,J,G
-  19,R,D
-   1,R,J
-   1,R,K
+   2,R,K,G
    5,R
-  44
+   1,R,J,G
+   9,R
+   1,R,J
+  10,R
+   1,R,J,G
+   1,R,K
+   1,R,J
+   4,R
+  43
 
 #13x
 #lvl_a-03
-   3
-   1,R
-   1,K,G
-   5,R
-   9
-   7,L,D
-   2,R,D
-repeat,3
+   4,R
    1,R,J
-   1,R,K
-endrepeat
+   7,R
    1,R,J
-   1,R,K,G
-   9,R
+  11,R,D
    2,R,D,J
+   1,R
+   1,R,J,G
    5,R
-   1,J
-   9,R,J
+  11,R,J
    5,R,K,G
    9,R
 #dash
   19,R,Z
    9,D
-   1,R
-   2,R,D
+   3,R,D
 #dash
   20,R,Z
   15,L,D,X
@@ -682,12 +670,12 @@ endrepeat
   11,F,271
   11,F,211
   18,F,177.255
-   6,D
+   1,D
    1,F,181.455
    8,F,192.405
    1,F,188.035
    9,F,128
-  23,R
+  22,R
   33,R,X
    2,R,J,G
   20,R,K,G
@@ -706,16 +694,15 @@ endrepeat
   18,R,Z
   15,L,D,X
   13,R,D
-  15,L,X
-  15,D,C
-  15,R,X
-  15,R,Z
+  13,L,X
+  13,D,C
+  14,R,X
+   9,R,Z
   16,R,X
-  15,L,C
-  24,L,Z
-   1
-  15,U,X
-  15,R,C
+  20,L,C
+  27,L,Z
+  13,U,X
+  13,R,C
   22,R,X
 #dash
   15,R,U,C
@@ -1092,18 +1079,10 @@ endrepeat
   34,F,36.418
   13,F,32.031
    1,F,33.252
-   1,F,79.602
-  18,F,75
-   3,R
-   1,F,92
-   1
-   1,R
-   1,R,D
-   2,F,107
-  12,F,118.041
-   1,F,116
-   4,R
-  15,F,90
+   1,F,31
+  21,F,95
+  11,F,119.5
+  17,R
    4,D
    1,G
    8,L,J
@@ -1113,7 +1092,7 @@ endrepeat
   21,D
   22,R,U
   57
-   5,F,82.2
+   5,F,79.7
    1,U
   20,F,81.5
    1,R,J
@@ -1797,6 +1776,6 @@ endrepeat
  135
   10
 
-ChapterTime: 7:10.253(25309)
+ChapterTime: 7:09.743(25279)
 #25309
 #119 Dashes -> 98 Dashes
