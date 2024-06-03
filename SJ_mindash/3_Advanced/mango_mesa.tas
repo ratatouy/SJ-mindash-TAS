@@ -1,12 +1,12 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 18584
+RecordCount: 18604
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
 
-#187x
+#119x
 #Start
   36
 
@@ -113,11 +113,15 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,R
   40
 
-#2x
+#0x
 #lvl_heartside_oppen_a (0)
   13,R
   12,R,J
-  12,R
+   7,R
+
+#2x
+#lvl_heartside_oppen_b
+   5,R
    1,L
   30,D
    1,J
@@ -127,6 +131,7 @@ console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1,D
   14,R,Z
    3,R,J
+
 #1x
 #lvl_heartside_oppen_a (1)
   21,R,J
@@ -371,7 +376,7 @@ EndRepeat
   11,R
   40
 
-#3x
+#4x
 #lvl_heartside_Galaksyz
    3,R
 Repeat,4
@@ -539,27 +544,36 @@ EndRepeat
    1,R,J
   14,R
   12,R,J
-  14,R,U,X
-  13,R
+  13,R,U,X
+   2,R
+   4,R,J
+   3,R
   33,R,J
-   8,R,D
-   9,R,D,J
+   2,R
+   3,R,D
+   8,R,D,J
    5,R,D
-  35,R,D,J
-   8,R
+  34,R,D,J
+   0,R
    1,R,K
-  12,R
-  67,L,D
-  60,L,K
+  56,R,D
+   6,D
+  11,L,D
+  12,L,K
+  49,L
+   3,R
   10,J
-   1,R,K
-  22,R
+   3,R,K
+  10,R
+  10,R
    1,R,K
    7,R
   11,R,K
   16,R
    1,R,K
-  14,R
+   9,R
+   1,R,J
+   4,R
   33,R,K
    6,R,J
   33,R
@@ -914,11 +928,9 @@ EndRepeat
   14,R
    1,R,J
   13,R
-
-
   40
 
-#12x
+#11x
 #lvl_heartside_YaGrillRobib
    1,R
    1,R,J
@@ -987,11 +999,9 @@ EndRepeat
   13,R
    1,R,J
    5,R
-
-
   40
 
-#9x
+#7x
 #lvl_heartside_maladroit
    1,R
 Repeat,3
@@ -1103,8 +1113,8 @@ EndRepeat
   14,R
    2,R,J
   17,R
-
   40
+
 #1x
 #lvl_heartside_pugroy
    2,R
@@ -1359,7 +1369,8 @@ EndRepeat
    1,R,J,G
   10,R
   40
-#8x
+
+#7x
 #lvl_heartside_Tortoise
    1,R,J
   14,R
@@ -1511,7 +1522,7 @@ EndRepeat
    7,R
   40
 
-#18x
+#8x
 #lvl_heartside_bluexans
    7,R
 Repeat,5
@@ -1793,7 +1804,7 @@ EndRepeat
   16,R,D,G
   40
 
-#7x
+#5x
 #lvl_heartside_Julia
   12,R,D,G
    1,R,J,G
@@ -1924,6 +1935,7 @@ EndRepeat
    1,R,J,G
    5,R,D,G
   40
+
 #0x
 #lvl_Aquifer
   33,R,D,G
@@ -1951,7 +1963,7 @@ EndRepeat
    6,R,D,G
   40
 
-#4x
+#2x
 #lvl_heartside_sp1029
    3,R,D,G
    1,R,J,G
@@ -2048,9 +2060,6 @@ EndRepeat
    4,L,D,G
    1,R,J,G
   20,R,D,G
-
-
-
    1,R,J,G
    6,R,D,G
   40
@@ -2133,14 +2142,11 @@ EndRepeat
   16,R,G
    1,R,J,G
   28,R,D,G
-
-
-
    1,R,J,G
   23,R,D,G
   43
 
-#2x
+#0x
 #lvl_heartside_Indecx
    5,R,D,G
    1,R,J,G
@@ -2354,7 +2360,7 @@ EndRepeat
    8,L,K,G
   40
 
-#7x
+#2x
 #lvl_heartside_Jan
   15,L,J,G
    1,R,K,G
@@ -2473,7 +2479,7 @@ EndRepeat
   22,K,G
   40
 
-#3x
+#2x
 #lvl_heartside_citrea
   11,G
    1,R,J,G
@@ -2576,10 +2582,9 @@ EndRepeat
   28,R,D,G
    1,R,J,G
   19,R,D,G
-
-
   40
-#3x
+
+#0x
 #lvl_heartside_RadleyMcTuneston
    9,R,D,G
    1,R,J,G
@@ -2810,7 +2815,7 @@ EndRepeat
    3,R
   40
 
-#11x
+#7x
 #lvl_heartside_jolly
   12,R
    1,R,J
@@ -2906,6 +2911,7 @@ EndRepeat
   16,R
   40
 
+#10x
 #lvl_heartside_Viv
    6,R
   16,R,J
@@ -3067,4 +3073,4 @@ EndRepeat
   14,L,U,X
  135,L,D
 
-ChapterTime: 8:26.464(29792)
+ChapterTime: 8:26.124(29772)
