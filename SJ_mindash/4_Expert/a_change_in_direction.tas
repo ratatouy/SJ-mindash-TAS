@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3773
+RecordCount: 3931
 
 console load StrawberryJam2021/4-Expert/Agent
    1
@@ -181,13 +181,6 @@ console load StrawberryJam2021/4-Expert/Agent
   17,R
    1,R,J
   16
-
-
-
-
-
-
-
   16,R
   10,R,J
   12,R
@@ -195,7 +188,6 @@ console load StrawberryJam2021/4-Expert/Agent
    1,R,J
   11,L,J
   12,L,D,X
-
   17,L,J
   11,U,X
    1,J
@@ -225,9 +217,6 @@ console load StrawberryJam2021/4-Expert/Agent
   15,R
   29,R,J
   31,R,U,X
-
-
-
    2,G
   10,J
   19
@@ -462,7 +451,7 @@ console load StrawberryJam2021/4-Expert/Agent
   40
 
 #lvl_Agent_04(0)
-#3x
+#2x
   11,L
    1,L,J
   18,L
@@ -498,28 +487,68 @@ console load StrawberryJam2021/4-Expert/Agent
   37,L,J,G
   17,R
   15,U,X
-  25,R
-  10,L,X
-  30,L,J
-  25,L,U,X
+  45,R
+  10,R,J
+   8,R
+   1,R,J
+  12,R
+Repeat 8
+   1,G
    1
+EndRepeat
+   1,G
+   1,J,G
+   6
+   2,L
+   5
+   1,L,J
+   1,L
+  13
+   1,L,J
+   6,L
+   6
+   1,L
+   1
+   1,L,J
+   5,L
+   6
+   1,L
    2
-   4
-  16
+   1,L,J
+   5,L
+   6
+   1,L
+   2
+  11,L,J
    7,L
-  11
-Repeat 117
+   1,J
+  12
+   1,L
+   1,L
+   1,J
+   1,R,K,G
+  34,L,K
+  34,L,U,X
+   1,J
+  17
+   5,L
+   2
+   1,L
+   3
+Repeat 123
    1,G
    1
 EndRepeat
    1,G
    6,J,G
-   5,R,J
+   6,R,J
    1,K,G
-   7,R
-   6,L
-  20,L,J
-  17,L
+   6,R
+   6,L,D
+  22,L,J
+  12,L
+   2,D
+   2,L
    1,L,J,G
    1,L,K,G
   10,L
@@ -697,5 +726,5 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 1:48.579(6387)
-#48x
+ChapterTime: 1:51.707(6571)
+#44x
