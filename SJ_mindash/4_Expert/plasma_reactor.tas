@@ -1,13 +1,11 @@
-# StrawberryJam2021
-# https://gamebanana.com/mods/424541
-
-RecordCount: 2597
+RecordCount: 3038
 
 console load StrawberryJam2021/4-Expert/hivemindsrule
    1
 
 #Start
  190
+
 #lvl_a1
 #0x
    7,R
@@ -35,14 +33,12 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
    2,R
    1,R,J
   14,R
-   6,R,J
-   1,R,J
+   7,R,J
   59,R
   31
    9,R,Z
   14,R,J
-   5,R
-   1,R
+   6,R
   12,R,J
    4,J
   12,R,K,G
@@ -55,8 +51,7 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
    1,R,J
    7,R
   39,R,J
-   1,D
-   3,D
+   4,D
    6
    1,L,J
   13
@@ -102,16 +97,9 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
    1,J,G
   21,L,D
    1,G
-
-
-
   12,R,D
    5,R,J
    4,R
-
-
-
-
    1,L,G
    2
    1,G
@@ -161,42 +149,54 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
   40
 
 #lvl_a5
-#2x
+#0x
    3,R
    4,R,J
    9,R
   10,R,J
-  12,D
-   2,J
-   1,R,K
-  20,R,D
-   3,R,J
-  15,R,D,X
-  18,R,J
-  21,R,D
+  11
+   4,R
+   1,L,J
+   1,K
+  12,R
+   1
+   1,R
+   3,L
+   1,R
+   9,R,J
+   1,L,K,G
+   4,R,K
+  42,R
+   3,D
    1,G
   12,J,G
   11,K
    3,L
    4,R
    4,L
-   2,J
+   1,R,J
+   1,R
   29,L,K
    1,G
-   1,J,G
-   1,K,G
-   1,J,G
-   1,K,G
-   1,R,K
-   5,L,K
-  17,L
-   1,J
+   1
+  25,G
+   2,D,G
+   1,L,J,G
    1,L,K,G
-  26,R,J
-  10,R,D
-  18,R,Z
-  15,D
-  13,R,D
+   1,L,J,G
+   1,L,K,G
+  21,R,D
+   2,R
+   1
+   1,R,D
+   1,D
+   4,R,J
+   1,J
+  13,R,J
+  22,R
+   1
+   1,R
+   1
    1,G
    1,R,J,G
   20,R
@@ -228,11 +228,9 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
   37,R,J
   15,U,X
    5,R
-  12,L,J
-   5,L,J
+  17,L,J
   11,L
-  11,R
-   1,R
+  12,R
   37,R,J
    5
    1,R,J,G
@@ -333,7 +331,7 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
   40
 
 #lvl_a8
-#5x
+#4x
    8,R
    1,R,J
   14,R
@@ -347,18 +345,25 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
    1,R,J
    1,R,K,G
   31,R
-  12,U,X
-  36,R,J
+   1,J
+   9,R,J
+  16,R
+   1,K
+  24,R,K
+   1,J
+  30,R,J
   15,R,U,X
-  37,R,D
-  10,D
-  12,R
+  30,R
+   1
+   1,G
+   1,R,J,G
+  21,R
    1,R,J
   14,R
    7,R,J
+  10,R
    1
-   3,R
-  27,R
+  20,R
   10,R,D
   61,R,U,J,G
   10,L,K
@@ -433,5 +438,5 @@ console load StrawberryJam2021/4-Expert/hivemindsrule
   17,R,U,X
  141
 
-ChapterTime: 1:11.570(4210)
-#20x
+ChapterTime: 1:12.182(4246)
+#17x
