@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2169
+RecordCount: 2259
 
 console load StrawberryJam2021/5-Grandmaster/Linj
    1
@@ -62,26 +62,34 @@ console load StrawberryJam2021/5-Grandmaster/Linj
   43
 
 #lvl_Crowley Scales
-   8,R,D
-   6,R,J
-  10,R,Z
    1,R,J
-   6,R
-   1,R,J
-  15,R,D,X
-   1,R,J
-  11,R,D,X
-   4,R,J
+  20,R,J
+   2,R,K
+   4,R
+   1,R,J,G
+   2,R,K,G
+   5,R
    1,R,K
-   2,R
-  18,R,D,X
-   2,R,J
-   9,R
-  15,R,U,Z
-  11,R,C
+  10,R
+  14,R,D,X
+   1,R,J
+  20,R,D,X
    4,R,J
-  22,R,K
-   2,J
+   3,R,K
+  18,R,D,X
+  23,R,J
+  30,R,X
+   7,R,J
+  14,R,K
+   1,K
+   3,R,K
+   1,R
+   7,R,K
+  10,R
+   1,G
+   1,L,J
+  13,K
+   7,J
    7,K
    9,J
    1,K
@@ -1361,5 +1369,5 @@ EndRepeat
   15,R,U,X
  135
   
-ChapterTime: 34:15.674(120922)
-#18x
+ChapterTime: 34:17.000(121000)
+#16x
