@@ -1,11 +1,11 @@
-#Starry Ruins in 22 Dashes
+#Starry Ruins in 17 Dashes
 console load StrawberryJam2021/3-Advanced/Indecx
    1
 
 #Start
  190
 
-#Spinner
+#Spinner Cycle
    2
 
 #lvl_1
@@ -34,11 +34,18 @@ console load StrawberryJam2021/3-Advanced/Indecx
    7,R,J,G
    2,R,K,G
    4,L,K
-   2,R,J,G
-  10,R
-   1,R,K
-   7,R,D
-  27,D
+   1,R,J,G
+   3,R,K,G
+  11,R
+  15,D
+   1,R,D
+   7,D
+#   2,R,J,G
+#  10,R
+#   1,R,K
+#   7,R,D
+#  27,D
+#pos 450.45, 143.67
    2,R,D
    2,R
   12,R,D
@@ -487,5 +494,5 @@ EndRepeat
   21,R,X
  135,R,D
 
-ChapterTime: 1:11.145(4185)
+ChapterTime: 1:10.992(4176)
 #18x -> 17x
