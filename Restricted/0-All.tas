@@ -1,0 +1,37 @@
+UNSAFE (it can delete files if not careful)
+
+#Use the bindings in the CelesteTAS readme
+#Latest tested everest version : 4265
+#Turn on speedrun timer
+#Turn on Dash Count Mod to File + Chapter, not reset on death (optional)
+#Turn on show Mod Options in game
+#Change your default map to Strawberry Jam Collab
+#Start from file creation "Begin"
+#Make sure map select shows up
+#Open and close Mod Options if it doesn't
+
+#Start
+
+Read,../Start
+
+Read,../Prologue,Start
+
+Read,../Load_Beginner_Lobby,Start
+
+Read,1-Beginner,Start
+
+Read,../Load_Lobby_from_Heartside,Start
+
+Read,2-Intermediate,Start
+
+Read,../Load_Lobby_from_Heartside,Start
+
+Read,3-Advanced,Start
+
+Read,../Load_Lobby_from_Heartside,Start
+
+Read,4-Expert,Start
+
+Read,../Load_Lobby_from_Heartside,Start
+
+FileTime: 1:09:01.472(243616)
