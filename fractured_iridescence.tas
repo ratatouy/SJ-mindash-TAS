@@ -1,7 +1,4 @@
-# StrawberryJam2021
-# https://gamebanana.com/mods/424541
-
-RecordCount: 1980
+RecordCount: 2529
 
 console load StrawberryJam2021/5-Grandmaster/xplosives
    1
@@ -170,8 +167,7 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
    6,D
   10,R,D
    3,R,J
-   4,R
-   2,R
+   6,R
    1,R,J
   13,R,G
    9,L
@@ -313,7 +309,7 @@ endrepeat
   40
 
 #lvl_a3
-#9x
+#8x
    8,R
    1,R,J
   16,R
@@ -356,40 +352,51 @@ endrepeat
    3,L
   22,L,J
    6
-   1,G
-   8
+  14,G
   12,D,G
-   6,G
-   1,L
+   2,L
    1,L,J
-  52,L
-  15,L,X
-   6,L
-  32,L,J,G
+  55,L
+## could skip upright if we could jump off falling block with more height
+#   6
+#  10,J,G
+#  18
+#  18,G
+#   1
+#   1,K
+#   1,J,G
+#   1,L,K,G
+#  17,R,J
+#  15,R,D,X
+#  20,R,J
+# 100,R,U,J,G
+##
+   2,L
+   4
+  18,G
+   1
    1,K
-  23
-   3,R,J
-   8,R,K
+   1,J,G
+   1,L,K,G
+  10,R,J
+   6,R
   15,R,D,X
-   5,R,J
-   1,R
-  22,R,J
+   2,R,D
+   3,R,J
+   6,R
   14,R,U,X
- 103,R,U,J,G
-   1,L,J
-  27,R
-   1,R,J
-  14,R
-   1,R,J
-   4,R
+  45,R,G
+   9,R
+  27
   40
 
 #lvl_a4
-#6x
-  10,R
-   4,R,J
+#5x
+   6
+   2,L,J
   15,R,D,X
-  11,R
+   4,L
+   1,R
   51,U,G
    6,R,J,G
   21,R
@@ -401,37 +408,46 @@ endrepeat
    1,L,J
   16,L
    5,L,J
-  22,L
+  21,L
+   1,L,D
 Repeat,53
    1,G
    1
 EndRepeat
-   1,J
-   1
-   1,K
-  32,R
-   2
+   5
+  31,R
+   1,R,D,J
+  25,L,J
+   9,J,G
+   1,U,J,G
+   2,J
+  11,K,G
+   4,J
    1,R,J
-  24,L,J
-   1,G
-  29,J,G
-   8,R,K
-   7,R,J
-  15,R,D,X
-   9,R
-   2,R,J
-  15,R,D,X
-  15,R
-   1,G
-   1,J,G
-  18,R,D
-   9,R
+   5,R
    1,J
+   5,R
+   1,S
+  10,J
+## y-manip can remove pause
+   1,R,J
+   1
+   1,R
+   2,R,J
    4,R
-  18,D
-  38,L
-   1,L,J
+  15,R,D,X
+  24,R
+   1,G
+   1,R,J,G
+   2,L,J
+   1,L
+   9,R,D
+  13,R
+   7
+   8,L
+  25,L,D
   25,L
+   1,R,D
    1,R
    1,J
    1,K,G
@@ -454,24 +470,17 @@ EndRepeat
    1,K
    1,L,J,G
   12,R,J
-  16,R
-   1,R,J
-   2,R
-   1,J
-   1,L
-  26,R,D
-  17,D
+  17,R
+  27,D
   40
 
 #lvl_a5
 #3x
    2,G
    1,R,J,G
-  12,R
-   1,R,J,G
-   6,R
-   4
-  11,D,G
+  11,R
+   2
+   1,R,G
    3,R,J,G
   14,R
    1,G
@@ -491,5 +500,5 @@ EndRepeat
   10
   80,G
 
-ChapterTime: 1:17.112(4536)
-#37x
+ChapterTime: 1:13.712(4336)
+#35x
