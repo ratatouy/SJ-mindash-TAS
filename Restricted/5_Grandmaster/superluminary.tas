@@ -1,0 +1,371 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 948
+
+#52x
+
+console load StrawberryJam2021/5-Grandmaster/alisticious
+   1
+
+#Start
+  86
+
+#2x
+#lvl_a-00
+   6,R
+  12,R,J
+  13,R
+  10,R,X
+   5,U
+  18
+   4,R,J
+  12,R,K
+  21,R
+  10,R,Z
+  14,U
+  10,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   5,R
+  40
+
+#17x
+#lvl_a-01
+   9,R
+  10,R,Z
+   1,D,J
+   8,R
+   8,R,J
+  18,R
+   9,R,U,X
+  20,U
+   4,L,Z
+  32,L,J
+  10,L,X
+  11,U
+  16
+   4,L
+   5,R,Z
+   3,U
+   9
+   4,R,J
+   8,R,K
+   5,R,U,X
+  35,R
+  76,L,J
+   5,L,U,X
+  37,U
+   4,R,Z
+  25,R,J
+   7,R,U,X
+  21,R
+   4,R,J
+  10,R,K
+   5,L,U,Z
+  11,U
+   8,J
+   5,R,K
+  42,L,K
+   7,R,U,Z
+   8,R
+   1,U
+  20
+   4,R,J
+  14,R,K
+  65,L
+   6,L,U,X
+   8,U
+  41,L
+  49,R
+  11,U,X
+  25,L
+   4,L,J
+  43,L,K
+  10,L,U,X
+  20,U
+   4,R,Z
+  36,R,J
+   5,R,U,X
+  10,R
+   5,R,D
+  11,R
+   4,R,J
+   1,R,K
+  17,R
+   1,R,J
+   9,J
+  11,R,U,Z
+  40
+
+#0x
+#lvl_a-02 (0)
+   1,S
+   1,D,J
+  69,O
+   5,L
+   1,L,J
+   8,L
+  40
+
+#0x
+#lvl_a-03
+   6,L
+  13,L,J
+   1,R,K,G
+   7,K
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  12,R
+   1,R,J
+   5,R
+  40
+
+#0x
+#lvl_a-02 (1)
+   5,R
+   4
+   1,R,J
+  12,R
+   2
+  15,R,J
+   2
+   1,R,K,G
+   1,R,J,G
+  11,R
+  12,R,J
+   1,L
+  10,J,G
+   5,L,J
+   8,L,K,G
+   4,R,J
+  40
+
+#5x
+#lvl_a-04a
+
+  32,R
+  15,R,J
+   7,R,U,X
+   8,U
+  19,R
+   1,R,J,G
+   1,R,K,G
+  12,R
+   1,R,J
+  14,R
+   1,R,J
+  17,R
+  39,R,J
+   4
+   1,R
+   1
+  29,R,J
+   8,R,U,X
+  11,U
+   8,L,U
+  48,R
+  18,R,Z
+   9,D
+   5,R,Z
+   1,D,J
+  13,R
+   4,R,J
+   5,R,U,X
+  14,U
+  12,R
+   3
+repeat 25
+   1,G
+   1
+endrepeat
+   1
+
+#2x
+#lvl_b-04b
+  18,R
+   4,R,J
+   1,R,K,G
+   3,R,J,G
+   8,R
+  10,D,X
+   1,S
+   1,D,J
+  69,O
+   5,L,J
+   5,D,X
+   5,L,D
+  37
+  15,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   4
+   4,D
+   4,R,D
+  40
+
+#8x
+#lvl_b-05a
+   5,D
+  23,L,D
+   5,R,Z
+   1,D,J
+   8,R
+   1,R,J
+   5,R,U,X
+   7
+  15,R,D
+   1,R,J
+   5,R,U,X
+   1,U
+   7
+  18,R,D
+  27,R
+   8,R,U,X
+  32,R
+   8,R,J
+  36,R,K
+   4
+   1,J,G
+  10
+   3,L
+   5,R,Z
+   1,J
+  11,R
+  38,R,J
+  47,L
+   1,L,J
+  21,L
+  22,L,J
+  39,L
+   8
+   6,R
+   4,L,Z
+   2,L,J
+   7,L
+  27,L,J
+  22,L
+   7,L,U,X
+  14,L
+   2,D
+  15,L
+   1,L,J
+  24,L
+  51,L,J
+  21,L,K
+  26,L,X
+   1,R,G
+
+#3x
+#lvl_b-05b
+   4
+   1,R,J
+  14,R
+   1,R,J
+  15,R
+   1,R,J
+   1
+   1
+   2
+   7,J
+   2
+   2,R
+   2
+   4,D,X
+   1,L
+   1
+   3,L,D
+   2,L,U
+   1
+   1,R,J
+   4,R
+   1,R,J
+   5,R,U,X
+   3,U
+   1
+   2,R,D
+   1
+   6,R,D
+   3
+   2,R,U
+   1
+   1,R,D
+   1,R,D,J
+   5,R,D,X
+  10,U
+   2
+   3,R
+
+
+#1x
+#lvl_a-05c
+   1,R
+   4,X
+   1,R,U
+  40
+
+#13x
+#lvl_a-06
+  12,U
+   2,R
+   5,L,X
+   6,L,D
+  17,L,U
+   7,L,U,X
+   4,U
+   4
+   1,U
+  23
+   4,L,Z
+  12,L,J
+   7,L
+  25,R
+   5,R,U,X
+  10,R
+   5,R,D
+  12,R
+  13,R,J
+   5,R,U,X
+  21,U
+   8,L
+  15,L,U,X
+  15,L
+   6,L,Z
+  15,U
+  14,L
+  25,U,X
+   2,L
+  15,L,Z
+   5,R,J
+  29,R
+   7,R,U,X
+  10,U
+   7,L,U
+  18
+  22,R
+   5,R,U,X
+  21,U
+   5,L,U,X
+   1,L
+  15,L,U
+   5,L
+  15,U,X
+
+#1x
+#lvl_end
+   1,L
+  22,L,X
+
+  63
+repeat 36
+   1,D
+   1
+endrepeat
+
+ChapterTime: 0:57.562(3386)
