@@ -1,0 +1,53 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 34
+
+console load StrawberryJam2021/0-Lobbies/2-Intermediate 5928 1184
+   1
+
+#Start
+#0x
+  36
+  14,L
+   4,L,J
+   1,L,K,G
+   3,L,J,G
+  12,L
+   5,L,J
+  16,L
+   1
+   1,L
+   2
+   2,L
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+  11,L
+   1,L,J
+  53,L,D
+   5,L,J
+   9,L
+   1,L,J
+  10,L
+   2,L,D
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+   5,L
+   1,L,J,G
+  14,L
+   1,L,J
+  18,L
+   3,L,J
+  13,L
+   1,L,J,G
+  18,L,K,G
+   2
+   1,L,J,G
+   5,L
+   1,X
+
+#0:04.267(251)
+#0x Dashes
