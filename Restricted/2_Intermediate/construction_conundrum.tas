@@ -1,4 +1,4 @@
-RecordCount: 7372
+RecordCount: 7466
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
@@ -757,7 +757,7 @@ endrepeat
    1,R,D,J
   40,J
 
-#lvl_a-008
+#lvl_a-008(0)
   27,R,J
   11,R,K
   12,R
@@ -798,103 +798,44 @@ endrepeat
    9,L,J
   36,R
    8,R,J,G
-  40,R,D
-  14,D
-   7,L,D
-   1
-   1,L
-   4,L,Z
-   1,L,J
-   6,L
-  20,L,J
-  13,L
-  44,L,J,G
-   6,L,D
-  21,L,J,G
-   9,L
-   1,L,J,G
-  27,L,K,G
-  12,L,J
-   7,L
-   4,L,J
-  31,L
-  32,L,J,G
-  29,L,K
-  23,L,J
-  20,L,U,X
-   1
-  21,L,U,X
-  10
-   9,R
-   4,R,D
-   3,R
-   1,R,G
-  32,R,J,G
-  11,K,G
-   1,L,K
-  16,R,J,G
-  21,K
-  20,J
-   1,R,J
-  12,R,K
-   9,R
-   7,R,J
-   1,R,K,G
-  24,R,J,G
-  27,R,D
-   1,R,K
-   8
-   7,R
-   8,R,J,G
-  19,R
-  20,R,J
-  33,R,K
-  21,L,J
-  63,R
-  35,R,J
-  11,L,K
-  36,R
-  38,R,J,G
-  12,R,K
-   6,R,J,G
-  14,R
-  15,L
-  43,R
-   1,R,J
-   2,R
-   5,R,J,G
-  17,R,D
-  22,D
-   7,R,D
-  15,R
-  17,R,D
+  19,R,D
+  19,L,D
+  28,D
+   9,R,D
+  12,R,Z
   40
 
-#lvl_a-005(1)
-#0x
+#lvl_a-005 (1)
+   6,J,G
+  40
+
+#lvl_a-008 (1)
+ 294
   12,R,D
-   1,R,J
-  21,R
-   1,R,J
-   3,R
   40
 
+#lvl_a-005(2)
+  16,R,D
+   1,R,J
+  18,R,D
+  40
 #lvl_a-009
-#0x
-  11,R
+   1,R
    1,R,J
   14,R
    1,R,J
-  24,R
+  23,R,D
    1,R,J
   14,R
-   4,R,J
-  15,R,D
+   1,R,J
+  14,R
+   1,R,J
+   1
+  12,R
   14,L,D
   40
 
 #lvl_a-010
-#2x
    8,L,D
    1,L,J
   14,L
@@ -1100,4 +1041,4 @@ Repeat 22
    3
 EndRepeat
 
-ChapterTime: 2:42.299(9547)
+ChapterTime: 2:31.861(8933)
