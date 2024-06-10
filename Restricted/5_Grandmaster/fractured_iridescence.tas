@@ -1,4 +1,4 @@
-RecordCount: 2529
+RecordCount: 2997
 
 console load StrawberryJam2021/5-Grandmaster/xplosives
    1
@@ -112,7 +112,6 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
    1,R,J
    9,R
   40
-
 #lvl_a1
 #6x
    5,R
@@ -166,34 +165,26 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
   15,R,D,X
    6,D
   10,R,D
-   3,R,J
+   4,R,J
    6,R
+  21,R,G
+   1,L
+  15,R,D,X
+   1,R,D
+  30,R,J
+  19,R,D,X
    1,R,J
-  13,R,G
-   9,L
-  15,R,D
-   1,D
-   2,R,D
-  22,R,J
-   1,R
-   3,R,J
-  10,R
-  21,R,X
-   5,R,D
-   1,R,J
-   8,R
-   2,R,J
-   5,R
-  10,R,Z
-   1,R,J
+   7,R
   40
-
 #lvl_a2
-#11x
-   6,R
-  43,R,J
+   1,R,J
+  15,R
+   9,R,J
+   9,R
+   1,R,J
+  14,R
   15,R,X
-  17,R,D
+  18,R
   12,L
    1,R,J
   11,R
@@ -215,73 +206,52 @@ console load StrawberryJam2021/5-Grandmaster/xplosives
   11,R,Z
    1,L,J
    6,L
-  23,L,J
-  15,U,X
+  24,L,J
+  18,U,X
+  15,L
   15,L,C
-  35
-   1,R,J
-  21,R
- 150
-   2,J
-  24,R,J
-   1,R,J,G
-  14,K
-   1,J
+  11,L
+  17,R
+   1,G
+  13,J
+   1,K
   15,L,D,X
-   1,L
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-  10,L,K
-  41,L,G
+   6,L,J
+   2,L
+  11,L,J
+  19,L
+  25,L,G
    2,L
   11,L,J
   28,L
   35,L,J
-   1,G
-   8,R
-   1
-repeat 78
-   1,G
-   1
-endrepeat
-   1,G
-   4,J,G
-   4,R,J
-   3,J
-   2,L,J
-   5,K
-  14,R,G
-   6,G
-  51,U,G
-   1,R,J,G
-   2,R,J
-   2,J
-   2,R,K,G
    1,K
-   1,R,K
-  15,R,D,X
-  10,R
-   9,R,D
-   5,R,J
-   5,R
-   9,R,J
-   4,R
-   6
-   8,U,X
-  36,L,J,G
-   6,L,G
-   2,L
-   1
-   1,L
+  25,L,K
    1,G
-   2,L
-  13,L,G
-   8,D,G
+   1,J
+  11,L,J
+  12,R,K
+   3,J
+  15,U,X
+   3,R
+  13,R,J
+  44,L,J
+  12,D,G
+  14,G
+   1
+   1,J
+   1,L,K,G
+   1,L,J,G
+  39,R,J
+   9,U,X
+  31,L,J
+   2,J
+   1,L,J
+  16,D,G
+  16,G
+   1,D,G
+   1,G
+   1,D,G
    1,L,K,G
    1,L,J,G
    1,L,K,G
@@ -307,7 +277,6 @@ endrepeat
    1,R,J
    6,R
   40
-
 #lvl_a3
 #8x
    8,R
@@ -389,7 +358,6 @@ endrepeat
    9,R
   27
   40
-
 #lvl_a4
 #5x
    6
@@ -473,7 +441,6 @@ EndRepeat
   17,R
   27,D
   40
-
 #lvl_a5
 #3x
    2,G
@@ -484,21 +451,19 @@ EndRepeat
    3,R,J,G
   14,R
    1,G
-   1,L,J
-  31,L,D
-  15,L
-  14,R,Z
+   1
+   1,J
+  30,L,D
+  13,L
+  14,R,D,X
    1,R,J
   15,R,D,X
    1,R,D
-   7,R,J
-  15,R,U,X
-   5,R
-#heartcollect
-  30
-  15,R
-  10
+   9,R,J
+  30,R,U,X
+   3,R
+  52
   80,G
 
-ChapterTime: 1:13.712(4336)
+ChapterTime: 1:07.779(3987)
 #35x
