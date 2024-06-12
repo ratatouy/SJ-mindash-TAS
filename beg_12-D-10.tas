@@ -1,5 +1,3 @@
-console wipedebug
-console cu2_lobby_map_debug 1
 console load StrawberryJam2021/0-Lobbies/1-Beginner 912 664
    1
 #gets bench
