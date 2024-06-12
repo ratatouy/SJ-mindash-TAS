@@ -39,14 +39,14 @@ Read,1_Beginner/azure_caverns,Start
   32
 
 #13x
-Read,1_Beginner_Lobby/beg_12-10,Start
+Read,1_Beginner_Lobby/beg_12-D-10,Start
 Read,../Enter_Level,Start
 Read,1_Beginner/if_my_driveway,Start
    1,O
   32
 
 #42x
-Read,1_Beginner_Lobby/beg_10-D-9,Start
+Read,1_Beginner_Lobby/beg_10-9,Start
 Read,../Enter_Level,Start
 Read,1_Beginner/treehive,Start
    1,O
