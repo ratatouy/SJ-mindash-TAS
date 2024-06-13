@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2515
+RecordCount: 2597
 
 console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1
@@ -77,67 +77,57 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1,L,J
   14,L
    1,L,J
-  12,L
-   8,R
-   7
-   1,L,G
-  10,L,D,G
+  15,L
+   1,R,J
+  12
+   2,L
+   7,L,D,G
    4,L,J,G
    1,L,K,G
    1,L,J,G
   11,L
-   1,R
-   3,R,D,J
-   1,R,K,G
-   5,L,K
-   8,L
-  23,L,K
+   1,L,D,J
    2,R
-
-
+   4,R,K,G
+   3,L,K
+   5,L
+  22,L,J
 
 #lvl_03- Uberjump
 #2x
   40
-   6,R
-   1,L
-   1,L,J,G
-   2,R,J
-   2,L,J
-   7,L
-  13,L,J
-#dash
+   3,L
+   1
   15,L,U,X
-  31,L
-   7,R
-   2,R,D
+  20,L,D
+  14,D
+   2
    1,L,D
-   7,G
-   9,L,D,G
+   1,L
+   1,G
+   3,L,G
    1,L,J,G
    1,L,K,G
-   1,L,J,G
-   7,L,K,G
-   1,L
-  10,R
-  12,L
+   2,L,J,G
+   1,K,G
+   4,K
+   2,L,K
+  23,L
 #dash
   15,L,Z
-  30,L,D
+  29,L,D
    1,L,J
   14,L
-   1,L,J
-  14,L
-   2,L
-   1,L,J
-   8,L
+   7,L,J
+   5,L
+   3,L,J
+   5,L
 
 
 #lvl_04- Head Trauma
 #0x
   40
-   3,L,J
-   4,L
+   7,L
    7,L,J
    3,L
    1,L,K,G
@@ -430,6 +420,6 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
  135
 
 
-#0:48.263(2839)
-ChapterTime: 0:48.178(2834)
+#0:48.178(2834)
+ChapterTime: 0:47.226(2778)
 #13 dashes
