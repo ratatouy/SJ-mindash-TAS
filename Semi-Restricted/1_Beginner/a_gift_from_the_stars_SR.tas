@@ -1,8 +1,9 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2169
+RecordCount: 2214
 
+#StunPauseMode,Simulate
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
 
@@ -109,7 +110,7 @@ endStunPause
    1,L,J
    3,L
 #lvl_Double Vision
-#1x
+#0x
   40
   11,L
    1,L,J
@@ -127,18 +128,21 @@ StunPause
 EndStunPause
    2,D
    5,L,D
-   7,L,J
+   5,L,J
 stunPause
-  48,L,J
+  50,L,D
+   7
+  15,L
+   1,L,J,G
+   1,K
+   1,L,J,G
+   3,L,J
    1,R,J
-skipInput,3,1
-#dash
-  13,L,U,Z
-endStunPause
-   2,L
-stunPause
-   4,R
-  88,L,D
+  30,L,J
+   6,D
+   4,L,D
+   1,L,J
+  72,L,D
    3
    5,L
   42,L,D,J
@@ -610,5 +614,5 @@ endrepeat
   10,R,X
  135
 
-FileTime: 2:59.486(10558)
-#10 dashes
+FileTime: 3:03.855(10815)
+#9 dashes
