@@ -1,0 +1,373 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 202
+
+console load StrawberryJam2021/1-Beginner/Owen-Shirrell
+   1
+#Start
+#0x
+ 110
+   1,S
+   1,D,J
+  34
+   1,R,J
+  12,R
+  13,D
+
+
+#lvl_01 - Lockdown
+#0x
+  40
+  15,D
+   1,L,D
+   1,D
+   1,L,D
+   1,D
+   4,R,D
+   1,R,J
+   1,R,K
+  11,R,D
+   1,R
+   6,R,D
+   1,R,J
+  26,R,D
+repeat 4
+   1,R,J
+  14,R
+endrepeat
+   3,R,J
+  14,R
+   7,D
+  40
+
+#lvl_02 - Breadth
+#1x
+   1,D
+   8,R,D
+  16,R
+   6,R,J
+   6,R
+  12,R,J
+StunPause
+  35,R
+   5,R,D
+   8,D
+   6,R,J
+EndStunPause
+   3,R,J
+   9,R
+   6
+   1,R
+   8,D
+  40
+#lvl_03 - Labyrinth
+   1,D
+   9,L,D
+   7,L
+  54,D
+  40
+
+#lvl_04 - Widdershins
+  14,L,D
+   4,L
+repeat 2
+   4,L,J
+   6,L,D
+endrepeat
+   1,L,J
+  21,L,D
+  29,D
+
+#lvl_05 - Symmetry
+#0x
+  40
+   3
+   5,R,D
+repeat 4
+   1,R,J
+  14,R
+endrepeat
+  33,L,D
+  36,D
+
+
+#lvl_06 - Socket
+#6x
+  40
+   7,R,D
+repeat 4
+   1,R,J
+  14,R
+endrepeat
+   1,R,J
+  12,R
+#dash
+  15,D,X
+   1,L,J
+  15,L
+   5
+   1,L
+  20
+#dash
+   5,R,X
+   1,L,J
+  15,L
+   1,L,J
+   8,L
+   6
+   4,D
+  31,R,G
+#dash
+   5,U,X
+   5,L,D
+  11,R,D
+#dash
+  21,R,Z
+   1,L,J
+  14,L,D
+   7,L
+   5,L,J
+   1,L
+   4,L,J
+   1,R,K,G
+   3,L,K
+   6,R,K
+   1,K
+   7,R,K
+   1,R,J,G
+   1,R,K,G
+   9,R
+   4,R,J
+   7,R
+   6,R,J
+   7,R,D
+#dash
+  16,D,X
+  21,L
+  23,R
+   1,R,D
+   1,R,D,J
+   1,R
+#dash
+  11,D,X
+  32,L
+  19,R
+   1,R,D
+   1,R,D,J
+  15,R,D
+  22,D
+  40
+#lvl_07 - Ferry
+   1,R,D
+   1,D
+   1,R,D
+   4,D
+  10,L,D
+   1,R,D
+   1,L,J
+  12,L
+   1,L,J
+   4,L
+   2
+   4,R,J
+   7,R
+StunPause
+  13,R
+   6,R,J
+   8,R
+   2,R,J
+   4,R
+  48,R,K
+   8,R,J
+  19,R
+EndStunPause
+  11,R,J
+  19,R
+   1,R,J
+  14,R
+  11,R,J
+  15,R
+   1,R,J,G
+  12,R
+  36,D
+  40
+
+#lvl_08 - Daedalus
+  11,R,D
+   6,R
+  17,R,D
+   8,D
+   1,L,D
+  24,D
+  40
+#lvl_09 - Perpendicular
+   3
+  17,R,D
+   1,R,J
+  14,R
+   7,R,J
+  15,R
+   7,D
+   1,R,D
+   4,D
+  18,L,D
+   1,L,J
+  14,L
+   1,L,J
+  21,L
+  21,L,J
+  11,K,G
+   6,J,G
+  20,D
+   4
+#dash
+   5,L,Z
+  10
+   7,L
+   1
+   1,L
+   1
+   1,L
+   1
+   5
+   1
+   2,L
+   2
+  42
+  18,L
+   5,L,J
+   8
+  24,R,D
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+  21,R,J
+  11,K,G
+   1,J,G
+   1,R,J
+   1,J
+   1,R,J
+   2,J
+   7,D
+  25,L,D
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   5,L,J
+  13,L
+   6
+   1,L
+   5,R,D
+  20,L,D
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   8,L
+  21,L,J
+  11,K,G
+   6,J,G
+  20,D
+   4
+#dash
+   5,L,Z
+  10
+   7,L
+   1
+   1,L
+   1
+   1,L
+   7
+   2,L
+   2
+  22
+  18,L
+   5,L,J
+   7,L
+  25,R,D
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  16,R
+  21,R,J
+  11,K,G
+   6,J,G
+   1,R
+   1
+   1,R
+   4
+  25,L,D
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  12,L
+   6
+   1,L,D
+   7,D
+
+
+#lvl_10 - Downfall
+#1x
+  40
+   8,L,D
+   5,L
+  10,L,J
+   5,L
+  47,L,J
+   1,L,K,G
+   3,R,K
+   2,K
+   1,R,K
+   3,K
+   1,L,J,G
+   1,L,K,G
+   3,L,J,G
+  22,L,D
+   3,D
+#dash
+  16,D,X
+ 135
+
+#1:11.196(4188)
+
+
+
+
+
+
+
+
+
