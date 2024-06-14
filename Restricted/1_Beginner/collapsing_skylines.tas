@@ -1,7 +1,7 @@
 # StrawberryJam2021 Collapsing Skylines, 12x
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1826
+RecordCount: 1957
 
 console load StrawberryJam2021/1-Beginner/hyperlife
    1
@@ -29,52 +29,70 @@ console load StrawberryJam2021/1-Beginner/hyperlife
    1,R,K,G
   14,R
    8,R,J
-  13,L,J
-  12,K,G
-   2,J,G
+  12,L,J
+   1,L
+   2,L,K,G
+   2,R,K
+   1,L,K
+   6,K
+   1
+   1,J,G
    2
-  20,R,J
-   2,R
+   1,K
+   2,J,G
+  19,R,J
    1,R,K,G
    1,R,J,G
    9,R
-   1,R,J
-  21,R
-  20,R,D,J
-   4,R,K,G
-   4,R
-   1,R,J
-   4,R
-   1,R,J
+   5,R,J
   18,R
+  17,R,D,J
+   1,J
    1,R,J
-  33,R
-   9,R,D,J
    1,R,K,G
-  10,R,J,G
-   7,R
+   4,R,J,G
+   3,R
    1,R,J
    4,R
-   1,R,J
-  21,R,D
-repeat 3
-   1,R,J
-  14,R
-endrepeat
-  12,R
    3,R,J
-  35,R,D
+  27,R,D
+  10,R
+   1
+   1,R
+   8,R,D,J
+   1,R
+   1,R,K,G
+   9,R,J,G
+   4,R
+   1,R,J,G
+   2,R,K,G
+   3,R,D
+   1,R,J
+  13,R,D
    1,R,J
   14,R
-   2,R,J
-  13,R,D
-   8,L,D
+   1,R,D,J
+   1
+   4,R
+   1,R,K,G
+   1,R,J,G
+   4,R
+   1,R,K,G
+   2,R
+   4,R,J
+  36,R,D
+  14,R
+   1,R,J
+   1,R,K,G
+   9,R
+   1,R,J
+   1,R,D
+  11,L,D
   22,R,D
    1,R,J
   14,R
-  10,R,J
-40,
-
+   8,R,J
+  40
 
 #lvl_a-02
 #5x
@@ -125,12 +143,12 @@ endrepeat
 #dash
    9,R,D,X
    1,R,J
-43
+  43
 
 
 #lvl_a-04
 #1x
-  7,R,D
+   7,R,D
    6,R,J
   30,R
    1,R,J
@@ -157,7 +175,7 @@ endrepeat
    8,L,J
   11,L
 #dash
-8,L,X
+   8,L,X
    1,L,J
   15,R,J
    1,R,K,G
@@ -201,12 +219,12 @@ endrepeat
   14,R
    1,R,J
    4,R
-40,
+  40
 
 
 #lvl_a-03
 #2x
-18,R
+  18,R
   17,R,J
    1,J
    1,R,J
@@ -323,7 +341,7 @@ endrepeat
   14,R
    1,R,J
    6,R
-40,
+  40
 
 
 #lvl_a-05
@@ -406,13 +424,13 @@ endrepeat
   12,D
   10,R,D
    1,R,D,J
- 49,R,K
-3,R,G
-1,R,G,J
-1,R,G,K
-7,R,G,J
-7,R,G,K
-7,R
+  49,R,K
+   3,R,G
+   1,R,J,G
+   1,R,K,G
+   7,R,J,G
+   7,R,K,G
+   7,R
 
 
 #lvl_a-07
@@ -424,5 +442,6 @@ endrepeat
   14,R,X
  135
 
-ChapterTime: 0:44.982(2646)
+ChapterTime: 0:44.132(2596)
+#2646
 #12 dashes
