@@ -1,5 +1,5 @@
 # Loopy Lagoon 24x
-RecordCount: 1858
+RecordCount: 2369
 
 console load StrawberryJam2021/1-Beginner/coffe
    1
@@ -430,6 +430,7 @@ endStunPause
    1,S
    1,D,J
   69,O
+#drift yay!
 4576
    6,R,J
    5,R
@@ -624,7 +625,6 @@ endStunPause
    3,R
 #drift
    9
-#tactive: 159.56
    5,R
    1,R,J
   18,R
@@ -655,15 +655,12 @@ endStunPause
    2,R
    1,R,J
    4,R
-   9,L
-   1,L
-   1,L
-   1,L
-   1,L
-   1,L
-  21,L
+  35,L
   14,L,X
-  50,R
+  24,R
+#delayed ultra time
+stunPause
+  26,R
    2
    1,R,J,G
    8,G
@@ -671,92 +668,171 @@ endStunPause
    1,R,J,G
    5,L,J
    1,J
-   1
-   6,R
+   7,R
   29,R,J
-stunPause
-   7,R,J
-  14,R
-  20,R,D
+  20,R,J
+  21,R,D
 skipInput,3,1
-  15,R,U,X
-  12,R
-  18,R
-  37,R,J
-   3,R,K
+  14,R,D,X
+   1,L,J
+   3,L,K
+  35,L,K
+  12,L,J,G
+  28,L,G
+   1
+   1,J
+   4,R,J
+   7,J
+  36,L,J
+   2,L
+   4,L,J
+   5,L
+   7,L
 endStunPause
-   2,K
-   7,R,G
-  10,R,G
-   6,L,D
-   8,R
-   9,L
-  27,L
-  15,R,X
+   8,L
+  13,R
+   1,R
+   2,R
+   1,R,G
+   5,K,G
+   1,R,J,G
+   5,L,J
+   1,J
+   1
+   6,R
+  30,R,J
+stunPause
+  22,R,J
+  12,L,D
+  33,L,G
+  54,R,J
+   1
+   1,R
+   1
+   1,R
    2
+   2,R
+   1
    5,R
-   1,R,J,G
-   3,R,K,G
-  45,R,J,G
-   7,L,D
    1
-   1,D
-  12,R,J
-   9,K,G
-   1,L,K
-  12,R,J,G
-   1,R
+   1,L,J
+   5
+   1,J
    1
    1,R
-   1
-   4,R
    1,R,J
+   6,R
+  25,R,K
+  10,R
+   1,R,J
+   2,R
+   6
+endStunPause
+   5
+   2,R,D
+stunPause
+   8,R,D
+  32,R
+   6,R,D
+   2,J
+endStunPause
+   3,J
+  32,R,J
+  11,K,G
+   2,L,K
+  15,R,J,G
    1,R,K,G
-   1,R,J,G
+   2,R,J,G
+   3,R
+   4,R,J,G
+   7,R
+   1,R,J
+  14,R
+   1,L,J
+  14
+#drift
+repeat 73
+   1,J
+  14
+endRepeat
+   1,J
+  12
+   2,R
+   1,R,J
+   5,R
+  40
+#lvl_c-13
+#0x
+   9,R
+   1,R,J
    6,R
    1,R,J
-   1,R,K,G
-  10,R
-   1,R,J
-  10,R
-  40
-
-#lvl_c-13
-#1x
-   4,R
-   9,R,J
-  18,R,D
-   4,R
-   1,R,D
-   3,L
+  11,R
+   3,R,J
+   5,R
+   3,R,J
+   8,R,D
+   5,L
    2,L,J
    3,L
    4
    1,J
    1,D
-  52,R,D
+  44,R,D
+   8,R
    1,R,J
-  18,R,D
+   6,R
    1,R,J
-  18,R,D
+  11,R
+   1,R,J
+   6,R,D
+   1,R,J
+  11,R
+   4,R,J
+stunPause
+   3,R,J
+   5,R
+   3,R,J
+   7,R
    6,R,J
    5,R
-   2,R,J
-   7,R
    1,R,J
-  26,R
-   1,J
-   3,R,J
-  16,J
-  10,K,G
-   1,L,K
-   1,R,J,G
-   1,R,K,G
-   1,L,K
+   9,R
+   1,K
+   3,R,K
+  14,K
    8,R,K
+   5,R,J,G
+  11,K,G
+   9,J,G
+  22,R,J
+   6,L
+   1,K,G
+   5,L
+   2
+   2,L
    7,R
-  13,R,U,X
-  11,R,J
+  26,R,K
+  14,R
+   2,R,J
+skipInput,3,1
+  15,R,X
+  17,L
+   1,R,J
+endStunPause
+   2,R,J
+  14,R
+  29,D
+  10,L,D
+   1
+  21,L,J,G
+  13,U,X
+  10,R,C
+  33,L
+  25,L,G
+   1,R,J
+   7,R,K
+  26,J
   15,U,X
   23,R
    1,R,J
@@ -780,7 +856,6 @@ endStunPause
    1,R,J
    1,R
   40
-
 #lvl_c-14
 #1x
   13,R
@@ -843,7 +918,7 @@ endStunPause
   40
 
 #lvl_c-15
-#1x
+#0x
    3,R
    1,R,J
   14,R
@@ -908,18 +983,21 @@ endStunPause
 #0x
    4,R
    1,R,J
-  14,R
+  10,R
+#drift!
+  47
+   3,R
   34,R,J
    1,R,K,G
-  36,R
+  37,R
    5,R,J
-  13,R
+  15,R
    1,R,J
-  11,R
+   9,R
    2,R,J,G
    1,L,J
    2,J
-  21,R,J
+  19,R,J
   15,L,U,X
   47,R,J,G
   12,K,G
@@ -936,7 +1014,9 @@ endStunPause
 stunPause
    5,J
 skipInput,3,1
-  15,L,U,X
+  13,L,U,X
+skipInput,1
+   2,L,U,X
    7,L
   11,R,J
   12,L,K
@@ -946,7 +1026,11 @@ skipInput,3,1
    1,L,J
 endStunPause
    9,L,J
-  22,L
+  17,L
+  10,R
+#drift. Bulk for the red spinner ahead
+ 662
+   6,L
 stunPause
    2,L
   17,L,J
@@ -961,13 +1045,16 @@ stunPause
   13,L
 skipInput,3,1
   15,U,X
-  22,D
+   3,D
+skipInput,1
+  19,D
   15,L,D
    7,R,D
    1,R
 endStunPause
   10,R
-   0
+#more drift. Rest of the red spinner
+  14
   10,R,X
   12,L
 stunPause
@@ -988,7 +1075,9 @@ stunPause
    1,J,G
    1,R,J
    8,R,K
-  27,R
+   3,R
+   4,R
+  20,R
    1,R,J
 endStunPause
   31,R,J
@@ -1064,5 +1153,4 @@ endStunPause
   16,R,K
   20,R,U,X
  135
-
-ChapterTime: 6:15.292(22076)
+FileTime: 7:55.405(27965)
