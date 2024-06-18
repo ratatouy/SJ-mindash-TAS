@@ -208,30 +208,20 @@ EndRepeat
   11,U,J
    7,R,U,J
  139,R,D,G
-  41,R,U,G
-   5,R,J
-   4,J
-   1,K
-  25,L,K
-   1,J
-   7,L,J
-   1,L
-  17,L
-
-  18,R,J
-   8,R
-  14,R,Z
-  32,R,J
-   5,J
-  19,L,J
-   2
-   1,L
-   6
-  25,R,U,G
-  72,U,G
-  69,L,U,G
-  20,U,G
-   5,D
+   3,G
+  35,R,U,G
+   1,D
+   2,R,J
+  13,J
+   9,K
+   1
+  17,L,K
+  16,G
+  31,R,U,J,G
+  12,R,K,G
+  20,R,U,G
+  39,U,G
+   5,D,J
   15,L,Z
   15,U,X
    3
@@ -760,4 +750,4 @@ EndRepeat
   65,L,J
   71,J
 
-ChapterTime: 5:14.449(18497)
+ChapterTime: 5:11.253(18309)
