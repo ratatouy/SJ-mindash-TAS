@@ -1,10 +1,10 @@
 # Loopy Lagoon 24x
-RecordCount: 2369
+RecordCount: 2432
 
 console load StrawberryJam2021/1-Beginner/coffe
    1
 
-#5x
+#4x
 #Start
   89
 
@@ -291,15 +291,18 @@ endStunPause
   40
 
 #lvl_c-06
+   1,S
+   1,U
+   1,F,0
+   1,U,J
+SaveAndQuitReenter
 #0x
-   3,R
-   1,R,J
-   9,R
-   1,R,J,G
-  13,R
+  36
+#
   11,R,J
-   4,R
-  11,J
+   2,R
+#
+  12,J
   12,L,X
   18,R
 stunPause
@@ -340,34 +343,30 @@ endStunPause
 
 #lvl_c-07
 #0x
-   1,S
-   1,U
-   1,F,0
-   1,U,J
-SaveAndQuitReenter
-  36
-   5,L
-   2,L,J
-   8,L
-   1,L,J
-  14,L
-   1,L,J
-   1,L
-  14,R
-stunPause
-  10,R
+   3,R,J
+  15,R
+   8
+  19,R
    1,R,J
+   1,J
+  10,R,J
+   2,R
+   1,R,K,G
+   1,R,J,G
+   5,R
+stunPause
+   8,R
+   1,R,J
+  29,R
+   2
    2,R
    1
-  12,R
+  10,R,J
+   1,J
    1,R,J
-   5,R
-   1
-  12,R
-   1,R
-  12,R,J
   16,R
-   2
+   1,R
+   1
    1,R,J,G
    1,K
    1,R,J,G
@@ -379,11 +378,15 @@ stunPause
    9,R,K,G
    4,J,G
    6,R,J
-   3,R
+   1,R
+   1
    1,K
-  21,R,K
-   2,R
-   1,K
+  10,R,K
+skipInput,3,1
+  15,R,X
+   7
+   1,R
+   1,R,G
    1,J,G
    1,L
    1,L
@@ -394,12 +397,12 @@ stunPause
    1,K
    7,R,K
    1,J
-   1,R,J
+   2,R,J
 endStunPause
-  21,R,J
-   1,R
-   1,R,J
-   6,R
+  23,R,J
+   1
+   3,R
+   2
    2,R,J,G
    1,L,J
    2,J
@@ -431,7 +434,8 @@ endStunPause
    1,D,J
   69,O
 #drift yay!
-4576
+3424
+#TA: 105.44
    6,R,J
    5,R
    4,R,J
@@ -1153,4 +1157,4 @@ endStunPause
   16,R,K
   20,R,U,X
  135
-FileTime: 7:55.405(27965)
+FileTime: 7:36.127(26831)
