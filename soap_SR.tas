@@ -377,7 +377,6 @@ EndStunPause
   40
 #lvl_07
 #0x
-***s
    8,L,D
    1,G
    1,L,J,G
@@ -584,6 +583,7 @@ EndStunPause
   40
 
 #lvl_11
+#0x
    3
    2,R
    1,R,J,G
