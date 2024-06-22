@@ -3,7 +3,6 @@ console load StrawberryJam2021/0-Lobbies/5-Grandmaster 3392 1632
 
 #Start
   36
-
    2,R
    1,R,J
   14,R
@@ -40,11 +39,8 @@ console load StrawberryJam2021/0-Lobbies/5-Grandmaster 3392 1632
   11,L,K
    2,J,G
   11,R,K
-
-
    5
    1,J
-
   12,R
   17
    6,J
