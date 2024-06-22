@@ -10,45 +10,43 @@ console load StrawberryJam2021/0-Lobbies/5-Grandmaster 688 1840
    1,L
    1,L,J
    1,L,K,G
-   1,L,J,G
-  11,L
-   1,L,J
-   3,L
-   1,L,J,G
-  13,L
-   1,L,J
+   2,L,J,G
+   7,L
+   2,L,J
    4,L
-   1,L,J,G
-   2,L
-   1,L,J,G
-   8,L
+   1,L,J
+   1,L,K,G
+   1,L
+   1
+   7,L
+   2,L,J
+   9,L
+   1,L,D,J
+   1,L,K,G
+   9,L
+   6,L,J
+   1,L,K,G
+   1,L
+   1
+   3,L
    1,L,J
    1,L
-   5,L,J
-   2,L,K,G
-   1,L
-   2
-   2,L
-   3,L,J
+   1,L,J
    1,L,K,G
-  10,L
+   9,L
    1,L,J
   23,L,D
    1,L,J
   14,L
+   7,L,J
+   5,L
    1,L,J
-  14,L
-   4,L,J
-  18,L,D
-   1,D
-   1,L
-   2,D
-   1,L
+  19,L,D
    1,L,J
    1,L,K,G
    6,L,J,G
   12,L
    1,X
 
-FileTime: 0:04.012(236)
-#268
+FileTime: 0:03.808(224)
+#224
