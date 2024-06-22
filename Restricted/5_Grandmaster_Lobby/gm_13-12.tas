@@ -7,11 +7,13 @@ console load StrawberryJam2021/0-Lobbies/5-Grandmaster 176 1024
    1,R,J
    9,R
    8,D
-  16,R,D
-  23,R,J
+  15,R,D
+  11,R,J
+   5,R
+   8,R,J
    4,K
   12,L,J,G
-   7,K,G
+   6,K,G
    4,R,K
   11,L,J,G
    3,K
@@ -28,38 +30,42 @@ console load StrawberryJam2021/0-Lobbies/5-Grandmaster 176 1024
   14,R
    1,R,J
   14,R
-   1,R,J
-   5,R
-   5
-   5,R
-  16,R,J
-  11,K,G
-   2,L,K
-  18,R,J,G
-   1,L,J
-   1,L,J
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-   5,R
+
+
+  12,R
+  21,R,J
+  12,K,G
+   5,J,G
    3,R,J
-  15,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  19,R,K
-   2,J
-   4,R,K,G
-   8,R
-   1,R,J,G
+   1,J
+   5,R,J
    1,R,K,G
-   9,R
-   6,R,J,G
-  13,R
+   2,R,J,G
+   5,R
+   2,R,J
+   6,R
+  10,R,D
+repeat 6
+   1,R,J
+   1,R,K
+endrepeat
+  11,R,K
+   3,J
+   1,R,K,G
+   1,R,J,G
+   1,L,J
+   2,R,J
+   1,R
+   1,R,K,G
+   1,R,J,G
+   4
+   4,R
+   1
+   2,R,J
+   1,R,K,G
+   4,R,J,G
+  10,R
    1,X
 
-FileTime: 0:07.667(451)
+FileTime: 0:07.378(434)
+#451
