@@ -1,4 +1,4 @@
-RecordCount: 5180
+RecordCount: 5353
 
 console load StrawberryJam2021/1-Beginner/mosscairn
    1
@@ -1537,7 +1537,9 @@ endStunPause
   41
   17,L
 #dash
-  15,L,X
+  13,L,X
+stunpause
+   2,L
    2,L
    2,J,G
    1,J
@@ -1551,27 +1553,49 @@ endStunPause
    1,K,G
   38,L,K
   41
-#dash
-  15,L,U,X
-   7,L
-   7,L,J,G
-   2
-   1,K
+  26,R
    1,J,G
-  22,L,J
-   1,J
-   9,L,K,G
-   1,R,J
+   1,L,J
+   2,R,K,G
+   1,L,K
+   1,R,K
+   1,R,J,G
+   1,L
+   1,R,K,G
+   2,K
+   1,R,K
+   1,K
+   1,R,K
+   1
+   1,R
+   1
+   6,R
+   2,J
+   2,R,J
+   4,K,G
+   1,R,K
+endstunpause
+   4,K
+   1,L,K
+   1,L,J,G
+   2,L,K,G
+  11,L
+   1
+   1,L
+  12,L,J
+  15,L
   11,R,K
    2,J
    1,K
-  20,R,K
+  14,R,K
+   1,K
+   5,R,K
+   2,R,K
    3,R
-   1
   12,R,J,G
-   8,R
-   3,R,J
-  20,R
+   2,R
+   6,R,J,G
+  21,R
  353
 
 #lvl_end
@@ -1580,37 +1604,40 @@ endStunPause
    5,L
    1,L,J
   14,L
-   2,L,J
-   3,L,K,G
-   5,L
+   1,D
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   1,L
    1
-   1,L
-   2
+   5,L
+   1,L,J
    1,L
    1,L,J,G
-   1,L,K,G
-  13,L
-   4,L,J,G
-   4,L,K,G
-  10,L,J,G
    1,L
-   3
+   1
+   7,L
+   1,L,J
+   5,L
+   1,L,J,G
    2,L
+  13,L,J,G
    1,L,K,G
-   1,L,J,G
-  13,L
+   5,L
    2,L,J
-   9,L
+   4,L
    1,L,J
-  14,L
-   1,L,J
-  14,L
-   3,L,J
+   5,L
+   4,L,J,G
+   5,L
+   8,L,J
    1,S
-   1,D,O
+   1,D,J
   34
-   3,L,J
+   1,L
 #dash
   15,L,X
  135
-FileTime: 5:27.726(19278)
+
+ChapterTime: 5:42.040(20120)
+#20120
