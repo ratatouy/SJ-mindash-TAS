@@ -1,4 +1,4 @@
-RecordCount: 5353
+RecordCount: 5361
 
 console load StrawberryJam2021/1-Beginner/mosscairn
    1
@@ -1634,10 +1634,10 @@ endstunpause
    1,S
    1,D,J
   34
-   1,L
+   2,L,J
 #dash
   15,L,X
  135
 
-ChapterTime: 5:42.040(20120)
-#20120
+ChapterTime: 5:41.037(20061)
+#20061
