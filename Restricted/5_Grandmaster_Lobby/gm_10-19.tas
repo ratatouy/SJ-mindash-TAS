@@ -1,77 +1,82 @@
 console load StrawberryJam2021/0-Lobbies/5-Grandmaster 1472 1344 
    1
 
+console hearts 18
+
 #Start
   36
-   3,R
-   1,R,J
-   8,R
-   2,L
-   1,R,J,G
-   1,R,K,G
-   5,R
-   2,R,J
-  21,R
-   1,R,J
-   1,L
-   1,R,K,G
-  18,R,J,G
-   2,R
-   1,R,J
-   1,R
-   8,R,J,G
-   8,R,K,G
+   9,R
    1
-   1,R,K,G
-   7,R
-   1,R,J
+   1,D
    2,R
-   1,R,J,G
-  20,R,K,G
-   2,J,G
-   1,L,J
-  14,R,K,G
-   1,R,J,G
-   5,R
-   3,R,J
-   1,R
    1,R,J
-  11,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  10,R
-   9,L
-   1,R,J
-   1,R,K
-   7,R,J
    1,R,K,G
-  10,R
-   1,R,J
-  40,R
-  12,R,D
-  26
-   1,R,U
-  70,F,0
-   9,F,45
-  28,F,90
-   6,R,J
-   1,S
-   1,D,O
-  34
-  11,R,J
-   2,R,K,G
+   1,R,J,G
   11,R
+  12,R,J
+   5,R
    1,R,J
   14,R
-  15,R,J
+   2,R,J
+   1,R,K,G
+   1,R,J,G
+   1,K,G
+   4,R,K
+   1,L,K
+   1,R,J,G
+   1,R,K,G
+   1,L,K
+   5,R,K
+   1,L,K
+   1,R,K
+   7,R
+   1,R,J
+   1,R,K,G
+  11,R,J,G
+   1,K,G
+   5,R,K
+   1,L,K
+  16,R,J,G
+   2,R,K,G
+  19,R,D
+   1,R
+repeat 4
+   1,R,J
+   1,R,K
+endrepeat
+   8,R
+   2,R,J
+   8,R
+   5,R,J
+   1,R,K,G
+   5,R
+
+   4,R
+   1,R,J
+   5,R
+   2,R,J
+  27,R,D
+  12,R
   26
    1,R,U
-  89,F,343.5
+  73,F,5.605
+  34,F,89.2319
+   2,R,J
+   1,S
+   1,D,J
+  34
+  11,R,J
+   1,J
+   1,R,K,G
+   1,R,J,G
+   9,R
+   1,R,J
+  14,R
+   7,R,J
+   4,J
+  26
+   1,R,U
+  89,F,342.7
   30,F,355.5
   28,L
    1,L,J,G
@@ -128,15 +133,17 @@ console load StrawberryJam2021/0-Lobbies/5-Grandmaster 1472 1344
    2,R,K,G
    1,R,J,G
    1,R,K,G
-   8,R
-  25,R,J
+  12,R
+  21,R,J
   26
    1,R,U
- 116,F,0.12
+ 115,F,0.12
+   1,R
    1,J
-   5
+   6
    1,J
    1
    1,X
 
-FileTime: 0:20.536(1208)
+FileTime: 0:19.992(1176)
+#1176
