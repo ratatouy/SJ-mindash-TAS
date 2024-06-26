@@ -1,4 +1,4 @@
-RecordCount: 6100
+RecordCount: 6101
 
 console load StrawberryJam2021/5-Grandmaster/maya
    1
@@ -1054,6 +1054,6 @@ repeat 51
    1,D
    1
 endrepeat
-   1,D
 
 ChapterTime: 4:02.947(14291)
+#14291
