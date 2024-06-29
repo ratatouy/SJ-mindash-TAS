@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 11298
+RecordCount: 11394
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
@@ -1583,7 +1583,6 @@ endStunpause
    1,R,K,G
    9,R
   40
-
 #lvl_cp4_09_heartside_jadeturtle (0)
 #3x
 #drift
@@ -1701,31 +1700,33 @@ endStunPause
   40,R,K,G
   67,R,G
   50,R,D,G
-  25,R,D,G
-   1,R
-  81,X,G
-   1,R,J
-  12,R,K
-  25,R,J,G
-   1,R
-  15,R,D
-repeat 4
-   1,R,K
-  14,R
-endrepeat
-   1,R,K
-   8,R
-   1,R,J,G
-   1,R,K,G
+   8,R,G
   18,R
+  78,X,G
+   1,R,J
    1,R,K
-  14,R
-   1,R,K
-  14,R
-   1,R,K
+  17,R
+   1,R,J
+  21,R,J,G
+   1,R
+  18,R,D
+   1
+   1,R
+   3
+   3,R
+   1
+   1,R
+   1
+  58,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  16,R
+   3,R,J
+  18,R
+   1,R,J
    4,R
   40
-
 #lvl_cp4_08_heartside_quinnigan (0)
 #0x
   10,R
@@ -2125,7 +2126,6 @@ EndRepeat
    1,R,J
    8,R
   40
-
 #lvl_cp5_04_heartside_circumplex
 #2x
    6,R
@@ -2192,9 +2192,9 @@ EndRepeat
   15,U,X
   45,R
   11,L
-  20,R
+  18,R
 stunPause
-   4,R
+   6,R
    6,J
    5,R,D
    2,K
@@ -2211,7 +2211,6 @@ stunPause
    1,J
 endStunPause
   11,J
-#
   15,U,X
   10,R
   12,L,J
@@ -2225,14 +2224,19 @@ repeat 12
    1,L,J
   10,L
 endRepeat
+   1,K
+   6,L,K
+   5,L
+   2,L,J
+  13,L
 #TimeActive: 858.96
    4,R,K
    5,R,D
    1,R,K
-  17,R,D
+  15,R,D
 stunPause
-   1,R,D
-skipInput,1
+   3,R,D
+
   17,D
   34,R,D
    1,R,J,G
@@ -2248,20 +2252,22 @@ endStunPause
    1,R
    1
    1,R
-  52
-  13,R,K
+  50
+   2,R
+  12,R,K
    1,R,J,G
    1,R,K,G
-  13,R
+  11,R
    1,R,J
-  14,R
-   1,R,K
-  10,R
+   4,R
+   1
+  24,R
+   1,R,J
+   
    1,R,K,G
    1,R,J,G
-  14,R
-   1,R,K
-  14,R
+  28,R
+
    1,R,J
    7,R
   40
@@ -2929,5 +2935,5 @@ EndRepeat
    1,L,K,G
   17,L,J,G
 
-ChapterTime: 17:55.301(63253)
-#47 dashes
+ChapterTime: 17:56.270(63310)
+#46 dashes
