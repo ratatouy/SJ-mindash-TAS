@@ -1,0 +1,175 @@
+#Beginner Lobby
+#499x
+
+#Note:
+#Nx+Mx means that the lobby movement
+#uses N amount of dashes, and the level
+#after uses M amount of dashes.
+#This is only used if the lobby
+#movement uses a dash in the
+#first place.
+
+unsafe
+console clrsav
+Set,CollabUtils2.DisplayEndScreenForAllMaps,False
+
+console load StrawberryJam2021/0-Lobbies/1-Beginner
+   1
+
+#Start
+#1x+4x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_0-1,Start
+Read,../Enter_Level,Start
+Read,1_Beginner/loopy_lagoon_SR,Start
+   1,O
+  32
+
+#14x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_1-11,Start
+Read,../Enter_Level,Start
+Read,1_Beginner/forest_path_SR,Start
+   1,O
+  32
+
+#7x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_11-12,Start
+Read,../Enter_Level,Start
+Read,1_Beginner/azure_caverns_SR,Start
+   1,O
+  32
+
+#1x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_12-D-10,Start
+Read,../Enter_Level,Start
+Read,1_Beginner/if_my_driveway_SR,Start
+   1,O
+  32
+
+#41x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_10-9,Start
+Read,../Enter_Level,Start
+Read,1_Beginner/treehive_SR,Start
+   1,O
+  32
+
+#1x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_9-8,Start
+Read,../Enter_Level,Start
+Read,../Restricted/1_Beginner/rose_garden,Start
+   1,O
+  32
+
+#36x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_8-4,Start
+Read,../Enter_Level,Start
+Read,../Restricted/1_Beginner/switchtube_vista,Start
+   1,O
+  32
+
+#1x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_4-3,Start
+Read,../Enter_Level,Start
+Read,../Restricted/1_Beginner/over_the_city,Start
+   1,O
+  32
+
+#7x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_3-2,Start
+Read,../Enter_Level,Start
+Read,1_Beginner/collapsing_skylines_SR,Start
+   1,O
+  32
+
+#9x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_2-5,Start
+Read,../Enter_Level,Start
+Read,1_Beginner/a_gift_from_the_stars_SR,Start
+   1,O
+  32
+
+#54x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_5-6,Start
+Read,../Enter_Level,Start
+Read,1_Beginner/troposphere_SR,Start
+   1,O
+  32
+
+#4x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_6-7,Start
+Read,../Enter_Level,Start
+Read,../Restricted/1_Beginner/potential_for_anything,Start
+   1,O
+  32
+
+#1x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_7-13,Start
+Read,../Enter_Level,Start
+Read,../Restricted/1_Beginner/the_squeeze,Start
+   1,O
+  32
+
+#0x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_13-14,Start
+Read,../Enter_Level,Start
+Read,1_Beginner/strawberry_orchard_SR,Start
+   1,O
+  32
+
+#30x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_14-15,Start
+Read,../Enter_Level,Start
+Read,1_Beginner/paint_SR,Start
+   1,O
+  32
+
+#2x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_15-16,Start
+Read,../Enter_Level,Start
+Read,../Restricted/1_Beginner/coresaken_city,Start
+   1,O
+  32
+
+#9x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_16-17,Start
+Read,../Enter_Level,Start
+Read,1_Beginner/dropzle_SR,Start
+   1,O
+  32
+
+#4x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_17-18,Start
+Read,../Enter_Level,Start
+Read,1_Beginner/soap_SR,Start
+   1,O
+  32
+
+#3x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_18-19,Start
+Read,../Enter_Level,Start
+Read,1_Beginner/seeing_is_believing_SR,Start
+   1,O
+  32
+
+#1x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_19-20,Start
+Read,../Enter_Level,Start
+Read,1_Beginner/cassette_cliffs_SR,Start
+   1,O
+  32
+
+#5x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_20-21,Start
+Read,../Enter_Level,Start
+Read,1_Beginner/midnight_spire_SR,Start
+   1,O
+  32
+
+#88x
+Read,../Lobby_Movement/1_Beginner_Lobby/beg_21-F-D-22,Start
+Read,../Enter_Heartside,Start
+Read,1_Beginner/blueberry_bay_SR,Start
+  61
+   1,O
+
+
+FileTime: 44:50.352(158256)
