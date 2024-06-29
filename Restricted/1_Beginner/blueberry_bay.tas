@@ -1,14 +1,14 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 9405
+RecordCount: 9411
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
 #min dash
 #draft by Fistashkar
 
-#88x
+#83x
 
 #Start
  190
@@ -1436,7 +1436,7 @@ EndRepeat
   40
 
 #lvl_cp4_09_heartside_jadeturtle (0)
-#7x
+#6x
    5,R
    1,R,K
   14,R
@@ -1504,9 +1504,9 @@ EndRepeat
   14,R,X
   29,R,G
  120,R,D,G
-  38,R,D,G
-   1,R
-  81,X,G
+  36,R,D,G
+   3,R
+  78,X,G
    1,R,J
   12,R,K
   25,R,J,G
@@ -2648,5 +2648,3 @@ EndRepeat
   17,L,J,G
 
 ChapterTime: 7:30.075(26475)
-#26475
-#84 dashes
