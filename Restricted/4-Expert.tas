@@ -9,6 +9,10 @@ Set,CollabUtils2.DisplayEndScreenForAllMaps,False
 console load StrawberryJam2021/0-Lobbies/4-Expert
    1
 
+#if this ever desyncs in narrow 
+#hollow try uncommenting this line :
+#Set,GravityHelper.AllowInAllMaps, False
+
 #Start
 
 #70x
@@ -220,8 +224,8 @@ Read,../Lobby_Movement/4_Expert_Lobby/exp_28-G.tas,Start
 Read,../Lobby_Movement/4_Expert_Lobby/exp_G-D.tas,Start
 Read,../Lobby_Movement/4_Expert_Lobby/exp_D-30.tas,Start
 Read,../Enter_Heartside,Start
-Reada,4_Expert/Starfruit_Supernova,Start
+Read,4_Expert/Starfruit_Supernova,Start
   61
    1,O
 
-FileTime: 1:08:44.302(242606)
+FileTime: 1:09:04.226(243778)
