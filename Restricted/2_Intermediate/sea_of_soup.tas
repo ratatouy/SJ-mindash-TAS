@@ -1,4 +1,4 @@
-RecordCount: 3639
+RecordCount: 3868
 
 console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1
@@ -7,7 +7,11 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
 #Start
  190
 
-#lvl_soup-1 - 0 dashes
+#level is designed to be completed
+#without dashing
+#only dash is for heart at the end
+
+#lvl_soup-1
    8,R
    1
    1,R
@@ -33,7 +37,7 @@ console load StrawberryJam2021/2-Intermediate/SpoopySoup
   13,R,J,G
  117,R,X
 
-#lvl_soup-2 - 0 dashes
+#lvl_soup-2
   20,R,D
    1,G
    5,L,D
@@ -82,7 +86,7 @@ endRepeat
   15,R,C
   40
 
-#lvl_soup-3 - 0 dashes
+#lvl_soup-3
    9,R
    9,R,Z
   13,R,J
@@ -108,7 +112,7 @@ endRepeat
   23,R,X
   43
 
-#lvl_soup-4 - 0 dashes
+#lvl_soup-4
   30,R
   15,R,X
    1,G
@@ -168,7 +172,7 @@ endRepeat
   18,R,C
   40
 
-#lvl_soup-5 - 0 dashes(0)
+#lvl_soup-5
    8,R
   12,R,Z
   20,R,J
@@ -196,54 +200,42 @@ endRepeat
   29,R,D
   37
   15,R,X
-  29,R,D
-  36
-  14,U,X
-  17,R,J
-  18,R,K
-  53
-  40
-
-#lvl_soup-5b - 0 dashes
-  72
-   5,R
-   1,R,K
-  14,R
-   3,R,K
+  28,R,D
+  37
+  20,R,D,X
+  14,R,Z
+  12,R,J
+   6,R
+   1,R,J
    7,R
-   3,R,K
-   9,R
-Repeat 5
-   1,R,K
-  14,R
-endRepeat
-   1,R,K
-   1,R
-   6,R,K
-  16,R,D
-  40
-
-#lvl_soup-5 - 0 dashes(1)
-  21,R,D
-   1,R,J
-  14,R
-   1,R,J
-   9,R,D
-   5,D
-   7,R,D
-   4
-   4,D
+   3,R,D
+   3,D
+  18,F,179
+   9,F,124.6
+  14,F,108.2
+  10,F,90
+   4,F,86.2
+  78,F,67.17
+   2,F,61.5
+  51,F,57.5
+  10,F,52.1
+   3,F,
+   1
+   1,F,
+   1
+   1,F,
+   1,J
+   1,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-   1,R,K
-   1,R,J,G
+   1,R,K,G
    9,R
   40
 
-#lvl_soup-6 (0) - 0 dashes
+#lvl_soup-6
    2,R,J
    8,R
    1,R,J
@@ -256,14 +248,11 @@ endRepeat
    1,D,J
   34
    3,R
-   1,R,J
-  14,R
-   1,R,J
-  18,R
+   2,R,J
+   9,R
    1,R,J
    5,R
-  11,K,G
-   3,L,K
+  28,R,J
   41
   31,R
    1,R,J
@@ -280,24 +269,24 @@ endRepeat
    4,D
   40
 
-#lvl_soup-7 - 1 dash
+#1x
+#lvl_soup-7
   34,R,D
   15,R,X
   11,R
   24,R,U,X
+#Spinner Cycle [soup-7]
+   1
+#####
   39,D,C
-# spinner cycle
-   0
-#
   14,R,Z
    6,R,J
   19,R,G
    1,L,J
    4,L
-  14,R
-   9,R,Z
-   1,R,J,G
-  22,D
+  13
+  15,R,Z
+  14,R,D
   41
   56,R,D
    8,D
@@ -311,7 +300,8 @@ endRepeat
    2,D
    6,R,D
   11,D
-  50,R,U,X
+  15,R,U,X
+  35,R
   12,L
   35,L,D
   11,L,D,X
@@ -345,6 +335,4 @@ EndRepeat
   21,R,D,X
  135,R
 
-ChapterTime: 1:09.241(4073)
-#1 dash
-
+ChapterTime: 1:05.841(3873)
