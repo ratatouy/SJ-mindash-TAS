@@ -1,0 +1,1577 @@
+RecordCount: 5255
+
+console load StrawberryJam2021/4-Expert/Banana23
+   1
+
+#11x
+#Start
+ 190
+
+#1x
+#lvl_a-01 
+#Spinner Cycle [a-02] 1
+   0
+#####
+  10,L,Z
+   1,R,J
+   3,R
+   1,R
+   1,R,J
+   2,R
+  11,R,K
+  21,R,D
+   2,R,J
+   1,J
+   5,R
+   1,R,J
+   7,R
+   1,R,J,G
+   7,R
+   1,R,J
+   8,R
+  40
+
+#1x
+#lvl_a-02 
+   6,R
+   1,R,J
+   1,R
+   1,R,K,G
+  13,R
+  12,R,K
+  22,R,D
+  10,D
+   3,R
+  28,R,J
+   3,R,D
+   1,R
+  10
+   1,G
+   4,J,G
+   8,R,J
+StunPause
+   3,R,J
+SkipInput 3 1
+  15,U,X
+   5,R
+  15,R,J
+   8,R
+  11,R,J
+  14,R
+  22,R,D
+  12,R,J
+   1,R
+EndStunPause
+   4,R
+   9,R,J
+   2,R
+   1
+   1,R
+   3
+   3,R
+   1,K,G
+  18,J
+  15,U,C
+  34,D
+#Spinner Cycle [a-02] 2
+   1
+#####
+  36,R,X
+StunPause
+  31,R
+   1,R,J,G
+   3,L,J
+   5,R,J
+   1,R,K,G
+   4,R,J,G
+EndStunpause
+   2,R,J
+  10,R,K,G
+   5,R
+   1,R,J
+   4,R
+   1,R,J
+   8,R
+   6,R,J
+   9,R
+   2,R,J
+  11,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,J,G
+   1,R,K,G
+  12,R
+  40
+
+#3x
+#lvl_a-03 
+
+#if no drift wait
+#   1,R
+#Spinner Cycle [a-03] 1
+#   0,R
+#####
+#   2,R,J
+#  34,R,D
+#####
+
+#Drift Wait
+#multiple of 3
+3588
+#####
+
+#Spinner Cycle [a-03] 1
+   1
+#####
+   5,R
+   1,R,J
+  33,R,D
+#####
+StunPause
+   3,R,D
+SkipInput 3 1
+  15,R,X
+  14,R
+   1,J
+  25,R,J
+   1,K
+   6,R,K
+   5,R
+   1,R,J
+   1,R
+   2,R,J
+  10,R
+  22,R,J,G
+SkipInput 3 1
+  10,R,X
+EndStunPause
+   2,R,X
+#Spinner Cycle [a-03] 2
+   2
+#####
+  32,R,C
+StunPause
+  31,R
+   1,J
+   1,K
+   1,L,K
+   2,L
+EndStunPause
+   2,L
+  14,D
+#Spinner Cycle [a-03] 3
+   0
+#####
+  15,R,X
+StunPause
+  32,R
+EndStunPause
+  10,R
+  14,R,U,X
+  41,R,C
+  21,U,X
+   1,J
+  19,D
+
+#simulated freeze wait
+Repeat,5
+  47,U,X
+  47,U,C
+EndRepeat
+
+#console evalcs SavaData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24979646*170000l
+Set, Level.TimeActive, 524273.16
+Set, Session.Time, 4247701600000
+
+Repeat,4
+  47,U,X
+  47,U,C
+EndRepeat
+  47,U,X
+  12
+  47,U,C
+  16
+#####
+
+#actual wait
+#dont use unless you really wanna
+#see the full thing!
+#Repeat,5
+#  47,U,X
+#  47,U,C
+#EndRepeat
+#Repeat,290460
+#  47,U,X
+#  47,U,C
+#EndRepeat
+#Repeat,4
+#  47,U,X
+#  47,U,C
+#EndRepeat
+#  47,U,X
+#  12
+#  47,U,C
+#  16
+#####
+
+  15,L,X
+  13,D
+  15,L,D
+   1,L
+   1,L,J,G
+   4,L,K,G
+   5,L
+   2,L,J
+   1,L
+   1,L,J
+   1,L
+   1,L,J
+   4,L
+   3
+   2,D,J
+   3,L,J
+   1,J
+   6,L,J
+   1,L,K,G
+   3,K
+   3,R,K
+   5,L,K
+   1,L,J,G
+   8,L,K,G
+  15,L,X
+  20,L,D
+   1,L,J
+  30,L
+  28,L,J
+  15,L,X
+  17,L,D
+   2,D
+   1,L,D,J
+   1,L,K,G
+   9,L,J,G
+  22,L
+   1
+   3,L
+  10,L,J
+   5,L
+  10,L,J
+   7,L
+  15,U,X
+  37,L
+   6,L,D
+   1,L,J
+   5,L
+   3,L,J
+  16,L,U,X
+  15,D,C
+  15,D,X
+   8,L,D
+   1,L,J,G
+   1,L,K,G
+  12,L
+   6,L,D,J
+   1,J
+   1,L,J
+  15,U,X
+   3,R
+   4,L,J
+  14,R,J
+  12,R,K,G
+  12,J,G
+   4,K,G
+  40
+
+#0x
+#lvl_a-04
+
+#SNQ to reset TimeActive
+#first "stun" isn't possible
+#with freeze
+unsafe
+   1,S
+   1,U
+   1,F,
+   1,U,J
+SaveAndQuitReenter
+  36
+#####
+
+#Spinner Cycle [a-04]
+   1
+#####
+   1,L,J
+  11,L
+  21,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1
+  10,R
+   2,R,D,J
+StunPause
+  17,R,D,J
+SkipInput 3 1
+  11,R,X
+   7,R,J,G
+  28,R,D
+   1,D
+   1,R,J,G
+   3,R,K,G
+EndStunPause
+   1,K
+   5,R,K
+   5,R
+   1,R,J
+   1,R
+   1,R,J
+   2,R
+   1,R,J
+   5,R
+   2,L
+   1,L,J,G
+  12,J
+   1,K
+  24,L,K
+   1,J
+  14,R,J
+
+#simulated freeze wait
+  15,R,X
+Repeat,20
+   6,G
+   1
+EndRepeat
+
+#console evalcs SavaData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24986080*170000l)
+Set, Level.TimeActive, 524282.84375
+Set, Session.Time, 8495629300000
+
+Repeat,20
+   6,G
+   1
+EndRepeat
+   4,G
+   1,L,J
+   7,L
+#####
+
+#actual wait
+#dont use unless you really wanna
+#see the full thing!
+#  15,R,X
+#Repeat,20
+#   6,G
+#   1
+#EndRepeat
+#Repeat,3569440
+#   6,G
+#   1
+#EndRepeat
+#Repeat,20
+#   6,G
+#   1
+#EndRepeat
+#   4,G
+#   1,L,J
+#   7,L
+#####
+
+  11,R,X
+  10,R,J,G
+   7,R
+   1,R,J
+   2,R
+   1,R,J
+  25,R
+   1,R,J,G
+   1,R,K,G
+   8,R
+   9,L
+   6,L,J
+   9,L
+   1,L,J
+  19,L,D
+  85,R,X
+   1,J
+   6,L
+   8,R,J
+   3,K,G
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+   4,K,G
+   6,R,K
+   1,R,J,G
+  11,R,K,G
+  16,R
+   9,L,D
+   1,R,J
+  27,R,D
+  57,R,X
+   1,R,J,G
+  12,R,K,G
+  25,R
+   1
+   3,R
+   1,R,D
+   1,R,J
+  11,J
+   1
+   1,K
+   2,L,K
+   1,K
+   1,J
+  24,R,J
+   1,J
+   1,R,K,G
+   2,R,J,G
+   1,J
+   3,R,J
+   3,K,G
+   7,R,K
+   1,R,J,G
+   7,R
+   1,R,J
+   2,R
+   1,R,J,G
+  11,R
+  43
+
+#1x
+#lvl_a-05
+   1,R
+   1,R,J
+  14,R
+   1,R,J
+  33,R,D
+  28,R,X
+  15,R,U,C
+   2,R,J,G
+   4,R
+   5,J,G
+   5,R,J
+   5,R
+   4,R,J
+   7,R
+   5,R,J
+  12,R
+   1,R,J
+   5,R
+   1,R,J
+  21,R
+  14,R,J
+  15,R,X
+   2
+   1,R
+   4,R
+   1,R,J,G
+  12,R,K,G
+   5,R
+   8,R,J
+  23,R,D
+  15,R
+   1,R,D
+   1,R
+   4,R,D
+   1,R
+   1,R,D
+  31,R,D,J
+   2
+  12,U,X
+  45,R,J
+  10,R
+   1
+   5,R
+   1
+   2,R
+  10,R,J
+   5,R
+   2,R,J
+   3,R
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1,R,J,G
+  12,R
+   1,R,J
+  40
+
+#2x
+#lvl_a-06
+
+#SNQ to reset TimeActive
+#first "stun" isn't possible
+#with freeze
+unsafe
+   1,S
+   1,U
+   1,F,
+   1,U,J
+SaveAndQuitReenter
+  36
+
+#Drift wait
+#multiple of 3
+5175
+#####
+
+#Spinner Cycle [a-06] 1
+   0
+#####
+   1,L,J
+   7,J
+   4,L,J
+   1,J
+   1,K,G
+   1,R,K
+   8,L,J,G
+   1,K
+   1,L,K
+   6,L
+   3,R
+   1,R,N
+  34
+ 108,R
+   1,X
+  19
+   1,J
+   4,R,D
+StunPause
+  13,R,D
+   1,R
+   1,D
+   1,R,G
+   1,R,J,G
+  26,R
+   1
+   1,G
+   8
+  78,G
+   1,D,G
+   1,R,J,G
+  12,R
+SkipInput 3 1
+  15,U,Z
+   8,L
+  31,R
+   1,G
+EndStunPause
+   1
+   6,G
+   1
+   6,G
+   1
+   6,G
+   1
+   5,G
+   1,R,J,G
+   2,L,J
+   6,R,J
+  14,R
+   4
+   1,J
+  24,L
+   1,J
+  25,L,J
+   1,K
+  11,L,K
+  15,L
+   1,J
+  11,L,J
+  14,L
+  14,R
+   2
+   9,R
+   2
+   1,R
+
+#Spinner Cycle [a-06] 2
+
+#+0f:
+#  32
+###
+
+#+1f:
+#  32
+#   1,J
+###
+
+#+2f:
+  28
+   1,L
+   1
+   3,R
+   1,L,J
+###
+
+#####
+
+   9,R,Z
+   3,R,J
+   1,R
+   2,R,J
+  10,R,D
+  21,D
+   2
+  37,L,K,C
+   1,J
+  24,L,J
+   1,K
+  23,L,K
+   8
+   8,J
+   2,R,J
+   1,L,J
+   3,J
+   1
+   6,J,G
+   3
+   1,J,G
+  12
+   1,R
+   1
+   1,R
+   1,L
+   4,D
+   1,G
+   1,J
+  16,R,K
+   6,R,X
+StunPause
+   9,R,X
+  24,R,D
+   1,R
+  10,R,D
+SkipInput 3 1
+  15,R,U,X
+   1,R,U
+   2,R,J,G
+   1,R,K,G
+EndStunPause
+  25,R,K
+#Spinner Cycle [a-06] 3
+   1
+#####
+  14,R,X
+StunPause
+   5,R
+   8,R,J,G
+  17,R
+   2,L
+   1,L,J,G
+  22,L,D
+EndStunPause
+   2,L,D
+   1,L,G
+  12,D
+   1
+  10,G
+   2,U,G
+   1,R,J
+   1,R,K
+   5,R
+  10,R,J
+   6,R
+#Spinner Cycle [a-06] 4
+#2 doesnt work and i dont feel like
+#fixing that
+   0
+#####
+  17,L,X
+  10,L,J,G
+StunPause
+   7,L
+   1,L,J
+   2,L
+   1,L,J
+   7,L
+   1,R
+   1,J,G
+   2
+  24,L,D
+   4,L
+   1,L,D
+   1,L,J,G
+   1,L,K,G
+EndStunPause
+   6,L,K
+#Spinner Cycle [a-06] 5
+   0
+#####
+  64,R,X
+StunPause
+  29,R
+   1,R,J,G
+   1,L,J
+   1,R,J
+   9,J
+   1,R,K,G
+   3,L,K
+   5,R,K
+   3,R,J,G
+   3,R
+   2
+   1,R
+   1
+   1,R,J
+   1,R,K,G
+   7,R,J,G
+EndStunPause
+   7,R,J
+#Spinner Cycle [a-06] 6
+   0
+#####
+  29,R,C
+   4,R,J,G
+   1
+   4,R
+   1,J
+   1,R,J
+StunPause
+   2,R
+   1,R,J
+  15,R
+   1
+   1,R,J,G
+   1,R,K,G
+  23,R,D
+EndStunPause
+  22,R,J
+   1,L,J
+#Spinner Cycle [a-07] 1
+   0
+#####
+  27,U,X
+   1,L,J
+   1,K,G
+   8
+   7,R,D
+   1,D
+  13,R,D
+   2,R
+   6,R,D,J
+  40
+
+#1x
+#lvl_a-07
+  17,R,J
+   1,K
+   4,R
+   1,J
+  13,R
+   1,R,N
+  57
+#wait for drift
+#multiple of 3
+ 486
+#####
+ 158,R
+   1,X
+  19
+   5,L
+   3,L,J
+   8,L
+   1
+   1,L,J
+   1
+   1,L
+   1
+   1,L
+   2,R
+StunPause
+  14,R
+   8,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1
+   1,R,J
+   1,R,K,G
+   2,R,J,G
+  10,R
+  15,L
+   2
+   1,L
+   2
+   1,L
+  11
+  12,R
+  12,R,J
+  15,R
+   2,R,J
+  14,R
+   1,R,D
+EndStunPause
+   2,R,D
+   1,R,J
+  15,R
+  14,L,D
+   9,L
+   1
+   1,L
+   1
+   1,L,D
+   1,J,G
+   2,L
+   1,R
+   5
+   5,R
+   1,R,K,G
+   8,R,J,G
+   7,R
+   1,G
+   2,J,G
+   7,R
+   1
+   2,R,J
+   1,R,K
+  16,K
+   3,R
+  11,R
+#Spinner Cycle [a-07] 2
+   2
+#####
+  31,R,C
+  15,D,X
+   3,D
+   4,L,D
+   3,D
+  11,G
+  22,U,G
+   8,L,J,G
+   1,K
+   7,R,K
+   4,R
+  31,L
+StunPause
+   4,L
+   1,G
+  10
+  13,G
+   1
+   1,R,J
+   1,L,K,G
+   7
+SkipInput 3 1
+   4
+   3
+   1,K
+   8,L,J
+   5,L
+   3,L,J
+   1,L
+   1,L,J
+  19,L
+   8
+   1,L
+   1
+   1,L
+   1
+   1,R
+   1
+  11,R,J
+   5,R
+   1,R,J
+   3,R
+   2,R,J
+  16,R
+   1
+   4,R
+   1,R,J
+   8,R,K,G
+  15,R
+   2
+   2,R
+   1
+   1,R
+   1,R,J
+   1,R,K,G
+   2,R,J,G
+   1,J
+EndStunPause
+   7,R,J
+  16,R
+   1,R,D,J
+   6,R
+   1
+   6,R
+   1
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   8,R
+   2,R,J
+   1,R,K,G
+   9,R
+   1,R,J
+  17,R,D
+  40
+
+#1x
+#lvl_a-08
+   6,R
+   1,R,N
+  35
+
+#simulated freeze wait
+
+ 200
+
+#wait 24974277 frames here
+Set, Level.TimeActive, 524275.75000
+Set, Session.Time, 12743601540000
+
+ 202
+ 156,R
+
+#####
+
+   1,X
+  19
+   2,R,J
+   1,R,K,G
+  10,R,J,G
+   6,R
+   3,R,J
+  36,R
+  10,R,J
+   3,J
+   1,K
+   1,R,K
+   1,K
+   2,R
+   1,J
+   1,K
+  18,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,J,G
+   1,J
+   4,L,J
+   2,R,K,G
+   1,L,K
+   5,R,K
+  15,R
+   4,R,J
+   5,R
+   4,R,J
+  10,R
+   7,R,J,G
+   7,R
+  54,G
+   9,L,J
+   4,L
+  13,R,C
+   1,J,G
+   8,R
+  19,R,J
+   1,K
+  20,L,K
+   1,K
+   2,L,K
+   1,K
+   1,J
+  36,R,J
+   1,R,D
+   1,R,K,G
+   2,L,K
+   1,R,K
+   2,R
+   1,R,J,G
+  10,R,K,G
+  18,R
+   5,R,J
+   5,R
+   2,R,J
+  27,R
+   1
+   1,R
+   1
+   1,R
+   1
+   7,R,J,G
+   5,R
+   8,R,J
+  15,U,X
+   1,R,J,G
+   5,L
+   3,R
+   1,R,J
+   8,R
+   2
+   1,G
+  10,D
+   9,R,D,X
+   9,R,U,C
+  12,U,X
+  43,R
+   1,R,D
+   1,R
+  11,R,D
+   1,R,J,G
+   7,R,K,G
+  27,R,D
+  11,R,X
+   1,R,J,G
+  20,R,D
+   5,R,J
+   1,R,K,G
+   1,L,K
+   1,L,K
+   1,R,J,G
+   5,L,J
+  11,R,J
+   1,K,G
+   1,L,K
+   1,R,J,G
+  16,R,K,G
+  11,R,X
+   1,J,G
+  10,R
+   8,L
+  23,D
+  15,R,U,X
+  11,R,D
+   1,R
+   2,D
+   1,G
+  10,R,J,G
+   3,R
+   1
+   1,R
+   1
+   1,R
+   3
+   3,R,D
+   1,R,J,G
+   2,L,J
+   6,R,J
+  15,R
+   4,L,D
+  10,R,J
+   5,R
+  10,R,J
+   3,R
+#extra dash to reach over to the
+#right; can't touch the toggle above
+#while spinners are frozen
+  18,R,X
+   4,R,J
+   1,R,K,G
+   2,R
+   1,R,J,G
+   9,R
+  40
+
+#0x
+#lvl_a-09
+
+#SNQ to reset TimeActive
+#all lightning, even the greens
+#are permanently loaded unless
+#their unload cycle is permitted,
+#which can never happen
+unsafe
+   1,S
+   1,U
+   1,F,
+   1,U,J
+SaveAndQuitReenter
+  36
+   1,L,J
+   7,L
+  10
+   1,N
+  34
+ 204,U
+
+#freeze is needed for ice mode
+#even though its not needed for
+#hot mode
+#simulated freeze wait
+ 200
+
+#console evalcs SavaData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24986210*170000l)
+Set, Level.TimeActive, 524280.12500
+Set, Session.Time, 16991556100000
+
+ 200
+#####
+
+   1,X
+  49
+   1,R
+   2,R,J
+   1,R,K,G
+   1,R,J,G
+  12,R
+  11,R,J
+   5,R
+   1,R,J
+   1,R
+   2,R,J
+   2,R
+   1
+   1,K
+   9,L,K
+   5,L
+   1
+   1,J
+   3,R,J
+   1,J
+   1,K
+  23,L,K
+   1
+  33,R,J
+   1,R,G
+   1,R,J,G
+  12,R
+   1,R,D
+   2,R
+   4
+   4,R
+   1,R,J
+   1,R,K
+  43,R,J
+   1,K
+   5,L,K
+   2,K
+   2,L,K
+   1,J
+  19,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,R
+   1,J
+  11,L,J
+   5,L
+   7,L,J
+   8,L
+   1,L,J,G
+  11,L,K,G
+   9,L
+  15,L,X
+  12
+   4,L
+   1,L,D
+   7,L,J,G
+   7,L
+   1,L,J
+   2,L
+   8,R,J
+   1,K
+   6,R,K
+   1
+   2,R
+   1,R,J
+   8,R,K
+   5,R
+   3,R,J
+  20,L,K
+   2,K
+   2,J,G
+   1,R
+   1,L
+   1,K,G
+   6,L,K
+   6,L
+   1
+   1,L
+   7,J
+   1,R,J
+  23,L,D
+  34,R
+  15,G
+   2,U,G
+   1,G
+   1,U,G
+   1,G
+   4,R,J,G
+   3,R,K,G
+  29,R
+   1,J
+   7,R,J
+  15,R
+   2
+   2,R
+  23,L,J
+  15,U,X
+  10,L,D
+  11,D
+   4,R,J
+  15,U,X
+  10
+   4,R
+   3
+   1,R
+   1
+   1,R
+  17
+   1,G
+   7,J,G
+   9
+   1,J
+   9
+   1,G
+   7,R,J,G
+   7,R
+   7,R,J
+  14,J
+   1,L,J
+   1,K
+   5
+   9,L
+   2,L,J
+  11,L
+   8,L,J,G
+  12,L
+   1,G
+   5,J
+   6,R
+   2,R,J
+   1,R
+   1,R,J
+  10,R
+   2,D
+   4,L,D
+   1,L,J,G
+  10
+   2,L
+   1
+   1,J
+  20,R,J
+  21,R
+   1,J
+  21,R,J
+  28,R
+   1,J
+  22,R,J
+  37,G
+   1
+   1,J
+   9,R,J
+   4
+   1,R
+   1,R,J
+  12,R
+  10,R,D,G
+  19,G
+   7,R
+  21,L,D
+   1,D
+   7,R,D
+   1,D
+   2,R
+   1
+   1
+   1
+   1,R,D
+   1
+   1
+   1,D
+   1,D
+  44,L,J
+   8,L,K
+   5,L
+   2,L,J
+  20,L,D
+  14,D
+  23,D,X
+  19,R,D,C
+   5,R,J
+   7,R
+   2
+   1,G
+   8,L
+   3,R
+   3,R,J
+   5,R
+   1,R,J
+  11,R
+   1,J
+   9,R
+   1,R,J
+   7,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   2,R,J
+   5,R
+   2,R,J
+   7,R
+   1,R,J,G
+   5,R
+   2,R,J
+   3,R
+   1,J
+   1
+   6,R,D
+   2,R,J
+   3,R
+   1,R,J,G
+   3,R
+   1,R,J,G
+   8,R
+  40
+
+#1x
+#lvl_a-10
+
+#SNQ to reset TimeActive
+#all lightning, even the greens
+#are permanently loaded unless
+#their unload cycle is permitted,
+#which can never happen
+unsafe
+   1,S
+   1,U
+   1,F,
+   1,U,J
+SaveAndQuitReenter
+  36
+
+#simulated freeze wait
+
+ 200
+
+Set, Level.TimeActive, 524280.21875
+Set, Session.Time, 21239571010000
+
+ 200
+
+#####
+
+   5,R
+   1,R,J
+  16,R
+   1,R,J,G
+   1,R,K,G
+   5,R
+   3,R,J
+   6,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,D,J
+  12,R
+   1
+   8,R
+   1,R,J
+   1,R,K,G
+   4,R,J,G
+  11,R
+  12,R,J
+   8,R
+   2,R,J
+  13,R,D
+  14,R
+   1,R,J
+   9,R
+   2,R,J
+   5,R
+   1,R,J,G
+   1,R,K,G
+  14,R
+  13,R,J
+   4,R,K
+  15,U,X
+  11,R,D,C
+   9,R,J,G
+   5,R
+   2,R,J
+   1,R
+   1,R,J
+   3,R
+   1
+   4,R
+   1,R,J,G
+   1,R,K,G
+  11,R
+   1,R,J
+  39,R,D
+   1,R,D,J
+   1,R,K,G
+   1,R,J,G
+   1
+  15,R
+   1,R,J,G
+   9,R
+   1,R,J,G
+  16,R
+  26,R,J
+  13,L,K
+   2,K
+   1,J
+  12,R,K
+   5,R
+   9,R,J
+  13,R,D
+   1,R,J
+  10,R
+  23,D
+   4,L
+   1
+   1,L
+   4
+   1,L
+  19
+   1,L
+  16,R
+  11,R,D,X
+   1,R,J,G
+   1,J
+   1,R,J
+   8,R
+  25,L
+  17,G
+   3
+   1,J
+   1,L,K,G
+   6,R,K
+   9,R
+  11,L,J
+  22,R,K
+   5,R
+   1,R,J,G
+  14,R
+   5,R,J
+  18,R
+   1,L
+   1,L,D
+   4,J,G
+  11,R,J
+   2,J
+  12,L,K
+   7,R,J
+   4,R
+   7,R,J,G
+  36,R,D
+  10,D
+  15,R,X
+  11
+  11,J
+   3,L,J
+   1,K
+   1,J
+  11,R,J
+   5,R
+  10,R,J
+   7,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   3,D
+   3,R,D
+   4,R,J
+  22,R,D
+   3,R,J
+  11,U,X
+  15,R,C
+   1,G
+   3,L
+   1,J
+  12,L
+  11,D,X
+   1
+  13,R,X
+   1,R,J,G
+   7,R,K,G
+  24,R
+  12,R,J
+   5,R
+   4,R,J
+  33,R,X
+   8,R,D,C
+   1,R,J,G
+   1,L,J
+   6,R,J
+   3,J
+   4,R,J
+   1,R,K,G
+   9,K
+   2,L,K
+   1,R,J,G
+   3,L,J
+   1,R,J
+   2,K
+   1,R,K
+   6,R
+   1,R,J,G
+   5,R
+   2,R,J
+   5,R
+   2
+   1,R
+   1
+   2,R
+   1,R,D,J
+   1,R,K,G
+   1,R,J,G
+   9,R
+   1,R,J
+   2,R
+   1,R,J
+   2,R
+   1,R,K,G
+   6,R
+  40
+
+#0x
+#lvl_a-11
+   6,R
+   1,R,J
+  18,R
+   4,R,J
+   1
+  11,R
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+  17,R
+   2,R,J
+   1
+   1,R,K,G
+   1,R,J,G
+  13,R
+   4,R,J
+  20,D,X
+   2,J
+   7
+   1,R,D
+   2,R,D,J
+   3,R
+   2,R,J
+   3,R
+   2,R,J
+   3,R
+  47,R,U,X
+   1,J
+  17,R,D
+   8,R
+   2,R,D,J
+   3,R
+   2,R,D,J
+   3,R
+   2,R,D,J
+   8,R
+  47,R,X
+   2,J
+   4,L,K
+  30,D,X
+ 138
+
+ChapterTime: 589:59:46.137(124940361)
