@@ -1,0 +1,191 @@
+console load StrawberryJam2021/4-Expert/QuantumSpaceman
+   1
+
+#Start
+ 190
+
+### spinner cycle + drift [a-99]
+1265
+###
+
+#lvl_a-000
+  15,U,X
+  13,R
+  76,R,D,G
+  41,R,D
+  20,D,G
+  20,L,D,G
+   2,D,G
+   1,L,D,G
+   1,D,G
+  30,L,D,G
+   1,L,U,G
+  12,R
+
+#lvl_a-99
+   1,R,J
+  14,R
+   8,R,J
+   5,R
+   6,R,K
+  28,R
+   1,R,J,G
+   1,R,K,G
+   1
+   9,R
+   1
+   2,R
+   1,R,J
+  14,R
+   4,R,J
+  26,R
+  32,R,D,G
+  39,L,D,G
+StunPause
+  41,L,U,G
+  21,R,U,G
+EndStunPause
+   2,R,G
+   1,G
+ 329,R,G
+StunPause
+  63,R,D,G
+   3,D,G
+  18,R,D,G
+   1,U
+  11,R
+  25,L
+  24,L,G
+   1,R
+  52
+EndStunPause
+5520
+   1,O
+  28
+  40
+
+#lvl_a-07
+  11,L,D
+  72,O
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   6,R
+  40
+
+#lvl_a-09 (0)
+   8,R
+   1,R,J
+  16,R
+   2,R,J
+  19,R
+   1,R,D
+  29,D
+  20,R,D
+   1,R,J
+  47,L,D
+   5,L,J
+  20,L,D
+   4,D
+  40
+
+#lvl_a-08b
+  17,D
+  22,L,D
+   1,L,J
+  14,L,D
+   1,L,D,J
+   7,L,J
+   1,R,J
+  10,J
+   1,K,G
+   2,L
+  13,L,J
+   9,K
+  17,R
+  16,J
+  21,R,D,G
+   1,U
+   5,R,D
+  10,D
+   3,R,D
+   4,D
+  10,J
+  65,R,U,G
+  66,U,G
+  40
+
+#lvl_a-09 (1)
+ 110,R,D,G
+   1,U
+  21,D
+   6,R,D
+   1,R
+  87,R,G
+  18,R,U,G
+  20,U,G
+  10,L,U,G
+  33,U,G
+  60,R,U,G
+  50,R,J
+  65,R,U,G
+  15,U,G
+   1,R,U,G
+  26,R,D,G
+  12,U,J
+   6,R,U,J
+  35,R,D,G
+  14,R,J
+ 138,R,D,G
+   1,U
+   3
+  43,L,D,G
+   3,D,G
+Repeat,5
+   1,U
+  46,G
+EndRepeat
+   1,U
+  38,G
+   8,R,G
+   1,R
+  70,R,U,G
+  87,R,D,G
+  31,R,D
+   7,D
+  50,R,D,J,G
+  12,U,J
+   6,R,U,J
+  67,R,D,G
+  31,R,U,G
+  15,U,G
+   1,R,U,G
+  13,U,G
+   1,R
+  30,L,U,G
+  20,U,G
+  15,L,U,G
+  16,U,G
+  20,R,U,G
+  65,R,D,G
+  12,U,J
+   6,R,U,J
+  30,R,D,G
+  20,D,G
+  18,U,J
+  50,D,G
+  18,U,J
+  50,D,G
+  12,U,J
+   6,R,U,J
+  39,R,D,G
+   1,L
+  35,R,D
+   6,R
+  15,R,X
+  25,R
+ 116,L
+
+ChapterTime: 3:25.428(12084)
