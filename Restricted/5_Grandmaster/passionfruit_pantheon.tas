@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 23099
+RecordCount: 23146
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -326,26 +326,27 @@ EndRepeat
    1,J
    1,K,G
    4
-  15,R
-   1,J
-  26,L
-   1
-  55,L,G
-   1,L,U,G
-   1,L,G
-   1,L,U,G
-   1
-   1,J
+  10,R
+  66,L,G
+   3,L,U,G
+  14,R
+   1,L,D,J
+   1,K,G
+   1,R,K,G
+  13,L,K,G
+   1,L,J,G
    1,L,K,G
-  15,R,U,Z
-  12,J
-   5,L,J
+   8,J,G
+   1,R,J,G
+   2,J
+   5
    1,J
-   5,L,J
-  20,L,K,G
-   1,L
-   6,L,K
-   7,K
+   8
+  22,J
+   1
+   1,J
+  11
+   2,D
   14,L,D,X
    1,R,J
    6,R,D,X
