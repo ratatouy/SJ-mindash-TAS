@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3387
+RecordCount: 3388
 
 console load StrawberryJam2021/2-Intermediate/Arphimigon
    1
@@ -175,25 +175,15 @@ Repeat 14
    3,L,G
 EndRepeat
    1,R
-  16,G
+  17,G
    1,S
    1,D,J
   69,O
-   1,R,J
-  33,R,D
+   4,R
    1,R,J
   26,R
    1,R,J
-  36,R,D
-   1,R,J
-  48,R,D
-   6,D
-   1,R,D
-  36,D
-  53,D,X
-  16,R,D
-   1,R,J
-  17,R
+   7,R
   40
 
 #lvl_a_01 (2)
@@ -209,7 +199,9 @@ EndRepeat
    1,R,J
   21,R
    1,R,J
-  26,R
+  24,R
+   1
+   1,R
    1,R,J
    1,R
    1,R,J,G
@@ -825,4 +817,4 @@ EndRepeat
  135,R
 
 
-ChapterTime: 3:55.620(13860)
+ChapterTime: 3:51.693(13629)
