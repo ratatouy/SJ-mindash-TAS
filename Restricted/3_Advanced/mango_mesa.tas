@@ -1,12 +1,12 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 18604
+RecordCount: 18827
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
 
-#119x
+#118x
 #Start
   36
 
@@ -826,66 +826,96 @@ EndRepeat
    5,R,D
   10,R,D,X
    4,R,J
-  14,R
-   1,R,J
-  12,J
-  10,L,J,G
-   3,G
-   7,J,G
-   4,R,J
-   1,K
-  31,R,K
-  11,G
-   6,U,G
-  26,R,K,G
-  10,R
-   1,G
-  12,R,K
-   1,L,K
-   1,J,G
-   1,R,J
-   3,L,G
-   1,L,K,G
-   9,L,G
-   8,D
-  26,G
-   9,R,J
-  27,R
-  25,R,J
-   5,R
-  25,R,X
-   4,R,J
    1,R,K
+
+   3
+   9,R
+
+   1,D,J
+  11,L,J
+  11,K,G
+   4,R,K
+
+   4,R,J,G
+   5,R
+   1,R,J
    1,R
-  13,R,X
-   1,L,G
-   8
-  17,J
-   9,R,K,G
-  31,R,G
-   1,K
-   3,L,K
-   7,J,G
-  13,R,J
-  14,R,K,G
-  11,R,J,G
-  13,R
-   5,L
-  12,K,G
-   5,R,K
-  50,R,J
-  21,R,X
-   4,L,K
-   6,L,J
-   6,R
-   9,L
+   8,R,J
+   1,R,K
+  15,R,D
+   1,R,G
+   8,R,J,G
+   3,R
+  35,D
+   1,R,D
+   3,D
+
+   1,R,D
+   8,R
+   1,R,D
+   1,R,J,G
+   6,R,K,G
+   5,R
+   3,R,J
+  12,R
+  20,R,J
+  10,R
+  34,R,X
+   7,R,J
+  18
+Repeat, 2
+   6,J
+   5,R
+  20,R,J
+
+   6,K
+   5,R
+  20,R,K
+EndRepeat
+   1,R,G
+   1
+   6,J
+   5
+   1,J
+  11,L,U,G
+  44,L,G
+   3
+
+   5,R,J
+   5,R
+   2,R,J
+  10,R
+   3,L
+   5,L,J,G
+   1,J
+   1,L,J
+   2,J
+   5,R,J
+   1,L,K,G
+   4,R,K
    1,R
-   8,L
-  56,R,J
-   9,D
-   6,R,D
-   1,D
+  35,U,G
+   1,J,G
+   1,L,J
+  15,R,J
+  20,R,X
+   4,R,J
+  10,R,K
+  47,R,G
+   1,R,J,G
+  20,R,K,G
+  18,R,D
+   5,D
+   1,R,D
+   4,D
+   2
+  11,D
+
+   3,R,D
    4,R
+   1,R,D
+
+#14018.10, -629.71
    1,R,K,G
   11,R,G
    3,R
@@ -3073,4 +3103,4 @@ EndRepeat
   14,L,U,X
  135,L,D
 
-ChapterTime: 8:26.124(29772)
+ChapterTime: 8:27.178(29834)
