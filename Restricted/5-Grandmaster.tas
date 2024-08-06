@@ -1,5 +1,5 @@
 #Grandmaster Lobby
-#1129x
+#1163x
 
 unsafe
 console clrsav
@@ -79,15 +79,15 @@ Read,5_Grandmaster/flipside_cliffside,Start
    1,O
   32
 
-#x
+#42x
 Read,../Lobby_Movement/5_Grandmaster_Lobby/gm_18-17,Start
 Read,../Enter_Level,Start
-#Read,5_Grandmaster/kevintechspam.bin,Start
+Read,5_Grandmaster/kevintechspam,Start
    1,O
   32
 
-#11x
-Read,../Lobby_Movement/5_Grandmaster_Lobby/gm_17-16
+#10x
+Read,../Lobby_Movement/5_Grandmaster_Lobby/gm_17-16,Start
 Read,../Enter_Level,Start
 Read,5_Grandmaster/ivory,Start
    1,O
@@ -121,7 +121,7 @@ Read,5_Grandmaster/world_abyss,Start
    1,O
   32
 
-#41x
+#40x
 Read,../Lobby_Movement/5_Grandmaster_Lobby/gm_12-11,Start
 Read,../Enter_Level,Start
 Read,5_Grandmaster/belly_of_the_beast,Start
@@ -135,11 +135,11 @@ Read,5_Grandmaster/fractured_iridescence,Start
    1,O
   32
 
-#210x
+#204x
 Read,../Lobby_Movement/5_Grandmaster_Lobby/gm_10-19,Start
 Read,../Enter_Heartside,Start
 Read,5_Grandmaster/passionfruit_pantheon,Start
   61
    1,O
 
-FileTime: 2:36:40.388(552964)
+FileTime: 2:40:19.654(565862)
