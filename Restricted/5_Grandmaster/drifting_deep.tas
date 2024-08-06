@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://fbanana.com/mods/424541
 
-RecordCount: 5751
+RecordCount: 5817
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -42,27 +42,28 @@ endrepeat
    3,R
    1,R,J,G
   17,R,D
-  11,R,J
+  11,R,D,J
   14,U,X
-  15,J
+   2
+   8,J
 #dash
-  39,R,Z
-   1,L,D
-  11,F,165
-  20,F,110.863
-   1,F,109.284
-  10,F,103.156
-   1,F,99.155
-   3,F,90.072
-   1,F,86.085
-  38,F,76.581
-   1,F,80.184
-  21,F,88.989
-   1,F,90.642
-   7,F,108.094
-  14,D
-#dash
-  20,R,D,X
+  58,R,J
+  15
+  15,L,D,X
+  17,R,D
+   6,F,132.871
+   1,F,131.046
+   8,F,116.421
+   1,F,115.91
+  12,F,102.539
+   1,F,100.686
+  42,F,76.536
+  23,F,88.892
+   1,F,89.927
+   5,F,107.661
+   1,F,111.872
+  17,F,146
+  16,R
   17,R,Z
    1,R,J
    6,R
@@ -1775,7 +1776,6 @@ endrepeat
    8,L,X
  135
   10
-
-ChapterTime: 7:09.743(25279)
+ChapterTime: 7:10.559(25327)
 #25309
-#119 Dashes -> 98 Dashes
+#119 Dashes -> 97 Dashes
