@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3381
+RecordCount: 3562
 
 console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1
@@ -40,7 +40,7 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    4,R
   40
 
-#7x
+#5x
 #lvl_a-02
   12,R
    1,R,K,G
@@ -58,11 +58,23 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1,R
   27,L,G
   23,R,G
+ 
+
+
+
   18,R,K,G
    1,D
    1,R,K,G
    1,R,J,G
   24,R,G
+
+
+
+
+
+
+
+
    2,R,K,G
    1,R,K,G
   17,R
@@ -100,7 +112,6 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    8,R,G
    1,R,J,G
    3,R,G
-
    1,L
    8,R
    8,J,G
@@ -109,22 +120,33 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    2,R,J
   14,U,X
   45,R,J,G
-   5,J,G
-  15,R,D,G
+   2,J,G
+  30,R,J
+  12,L,J
+   7,K,G
+  18,L,K
+  10,R,K
+Repeat,18
+   1,G
+   1
+EndRepeat
+   2,D
+   1,L,J
+  20,R,J
+  14,R
+  21,R,J,G
    1,R,D
-  48,R
-  19,L
-  11,U,X
-  17,R,J,G
-   5,G
-   1,L
-  12,R
-  11,L,D
-   5,D
+   2,J,G
+   3,J
+  21,J,G
+   1,L,J
+  13,R,J
+   9,L,J
    1,K,G
-   1,J,G
-  42,R,J,G
-  10,D,G
+  19,R,K
+  16,R,K,G
+   5,R,G
+  12,G
    3,R,G
    1,R,K,G
    1,R,J,G
@@ -134,14 +156,22 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
   19,R,K,G
    1,R
   14,R,U,X
-  37,R,G
-   1,R
+  35,R,J,G
+   1,R,J
   14,R,U,X
-  23,R,G
-  13,R
-  20,U,X
-  21,D
-  24,R,D
+  21,R,J,G
+   1,R,J
+  31,L,K,G
+   2,R,J
+   7,R,D
+  21,G
+  12,R
+  15,D
+   1,L,D
+   5,D
+   1,L,D
+   1,D
+  24,R
    1,R,K
    1,R,J
    1,R,K
@@ -186,6 +216,7 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1,L,D
    6,D
    8,L,D
+  
   11,L,X
    1,L,K,G
    1,L,J,G
@@ -251,6 +282,12 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    5,D,G
    3,L,D,G
    2,D,G
+ 
+
+
+
+
+
   13,L,D,G
   15,R,D,G
    1,D,G
@@ -380,6 +417,11 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
   22,R
    9,L
   23,L,G
+
+
+
+
+
   29,R,G
    4,R
    2,L
@@ -399,7 +441,14 @@ console load StrawberryJam2021/5-Grandmaster/CaptainCarpensir
    1,L
   21,L,K
   15,L,D
+
    4,R,D
+
+
+
+
+
+
    1,R,J
   36,R,J,G
    1,R
@@ -1043,6 +1092,15 @@ EndRepeat
    5,L
    5,L,K
    3,L
+ 
+
+
+
+
+
+
+
+
   24,L,G
   11,L,K,G
    7,L,G
@@ -1114,7 +1172,7 @@ EndRepeat
    1,R,J,G
    1,R,K,G
   16,R,J,G
-  60,R,K,G
+ 150,R,K,G
 
-ChapterTime: 2:43.591(9623)
-#40 dashes
+ChapterTime: 2:45.631(9743)
+#38 dashes
