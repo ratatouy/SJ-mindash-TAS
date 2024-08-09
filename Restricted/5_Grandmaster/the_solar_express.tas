@@ -1,4 +1,4 @@
-RecordCount: 9845
+RecordCount: 10016
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
 
@@ -663,7 +663,7 @@ endRepeat
   40
 
 #lvl_Miser's Warren
-#12x
+#11x
   13,R,G
    1,R,K,G
   14,R
@@ -841,45 +841,122 @@ endRepeat
   26,J,G
    5,L,K,G
   16,R,J,G
-  11,L,K,G
-   5,K,G
-  21,R,G
-  17,R
-  15,R,Z
-   3,R
-  11
-  12,D
-  19
-   6,R
-   6,R,X
-  24,R,G
-   4,R,J,G
-   5,R,K,G
-   1,R,G
-   7,R,K,G
-  11,R,G
-   6,R,K,G
-   1,R,G
-  15,R,K,G
-   1,R
-   8,R,U,X
-  22,G
-   1,R,K,G
-   3
-   1,R,J,G
-  29,R,D,G
-   1,R,K,G
-  35,R,G
-   1,G
-   1,R,G
+#new strat
    1,D
-  21,L
+  17,J,G
+  17,L,K,G
+   1,R,K
+  40,R,K,G
+   1,R,D,K
+   2,R,K
+  11,U,X
+  25,J,G
+   1,K
+  31,R,K
+  22,R,K,G
+   1,J
+  31,R,J
+  21,R,J,G
+   1,R,D,J
+  17,R,K,G
+   5,R,G
+   4,G
+   1,D
+   4,R,J,G
+   1,R,K,G
+   5,R,K
+  44,R,K,G
+   7,R,J,G
+   1,R,D,J
+  26,R,J,G
+   1,R,D,J
+  86,R,J,G
+   1,R
+   1,J
+  33,R,J
+  38,R,J,G
+   7,R,K,G
+   5,R,G
+   2,R,J,G
+   1,R,D,J
+  13,L,G
+  11,L,G
+  11,R,G
+   9,R,J,G
+   1,R,D,J
+  26,R,J,G
+   1,R,J
+   8
+  13,L
+   4,J,G
+  22,R,J
+  15,R,U,X
+  13,R
+  28,R,J,G
+   1,R,D,J
+  35,R,J,G
+   3,R,K,G
+  67,R,G
+   3,G
+   2,R,G
+   1,D
+  22,L
+   2
+   1
+   3
+   1,L
    1
    1,L
-Repeat 31
+   1
+   1,L
+   1
+   6
+   1
+Repeat,19
    1,D
    1
-endRepeat
+EndRepeat
+#old strat
+#  11,L,K,G
+#   5,K,G
+#  21,R,G
+#  17,R
+#  15,R,Z
+#   3,R
+#  11
+#  12,D
+#  19
+#   6,R
+#   6,R,X
+#  24,R,G
+#   4,R,J,G
+#   5,R,K,G
+#   1,R,G
+#   7,R,K,G
+#  11,R,G
+#   6,R,K,G
+#   1,R,G
+#  15,R,K,G
+#   1,R
+#   8,R,U,X
+#  22,G
+#   1,R,K,G
+#   3
+#   1,R,J,G
+#  29,R,D,G
+#   1,R,K,G
+#  35,R,G
+#   1,G
+#   1,R,G
+#   1,D
+#  21,L
+#   1
+#   1,L
+#Repeat 31
+#   1,D
+#   1
+#endRepeat
+#continue
    1,L
    2
   30,R
@@ -2026,4 +2103,4 @@ endRepeat
  151,L,K
    1
 
-ChapterTime: 4:45.600(16800)
+ChapterTime: 4:54.032(17296)
