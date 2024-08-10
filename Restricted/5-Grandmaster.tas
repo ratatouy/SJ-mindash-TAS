@@ -1,5 +1,5 @@
 #Grandmaster Lobby
-#1163x
+#1160x
 
 unsafe
 console clrsav
@@ -86,7 +86,7 @@ Read,5_Grandmaster/kevintechspam,Start
    1,O
   32
 
-#10x
+#11x
 Read,../Lobby_Movement/5_Grandmaster_Lobby/gm_17-16,Start
 Read,../Enter_Level,Start
 Read,5_Grandmaster/ivory,Start
@@ -100,14 +100,14 @@ Read,5_Grandmaster/summit,Start
    1,O
   32
 
-#98x
+#97x
 Read,../Lobby_Movement/5_Grandmaster_Lobby/gm_15-14,Start
 Read,../Enter_Level,Start
 Read,5_Grandmaster/drifting_deep,Start
    1,O
   32
 
-#64x
+#63x
 Read,../Lobby_Movement/5_Grandmaster_Lobby/gm_14-13,Start
 Read,../Enter_Level,Start
 Read,5_Grandmaster/the_solar_express,Start
@@ -121,7 +121,7 @@ Read,5_Grandmaster/world_abyss,Start
    1,O
   32
 
-#40x
+#38x
 Read,../Lobby_Movement/5_Grandmaster_Lobby/gm_12-11,Start
 Read,../Enter_Level,Start
 Read,5_Grandmaster/belly_of_the_beast,Start
