@@ -1,5 +1,5 @@
 #Beginner Lobby
-#499x
+#280x
 
 #Note:
 #Nx+Mx means that the lobby movement
@@ -15,7 +15,6 @@ Set,CollabUtils2.DisplayEndScreenForAllMaps,False
 
 console load StrawberryJam2021/0-Lobbies/1-Beginner
    1
-
 #Start
 #1x+4x
 Read,../Lobby_Movement/1_Beginner_Lobby/beg_0-1,Start
@@ -72,14 +71,12 @@ Read,../Enter_Level,Start
 Read,../Restricted/1_Beginner/over_the_city,Start
    1,O
   32
-
 #7x
 Read,../Lobby_Movement/1_Beginner_Lobby/beg_3-2,Start
 Read,../Enter_Level,Start
 Read,1_Beginner/collapsing_skylines_SR,Start
    1,O
   32
-
 #9x
 Read,../Lobby_Movement/1_Beginner_Lobby/beg_2-5,Start
 Read,../Enter_Level,Start
@@ -163,13 +160,12 @@ Read,../Enter_Level,Start
 Read,1_Beginner/midnight_spire_SR,Start
    1,O
   32
-
-#88x
+#45x
+#magic comand to get heartside to not have CPs accissible on debug files
+EvalLua Celeste.SaveData.Instance.DebugMode = false
 Read,../Lobby_Movement/1_Beginner_Lobby/beg_21-F-D-22,Start
 Read,../Enter_Heartside,Start
 Read,1_Beginner/blueberry_bay_SR,Start
   61
    1,O
-
-
-FileTime: 44:50.352(158256)
+FileTime: 1:23:47.512(295736)
