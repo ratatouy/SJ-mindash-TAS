@@ -1,9 +1,9 @@
-RecordCount: 5134
+RecordCount: 5205
 
 console load StrawberryJam2021/4-Expert/Banana23
    1
 
-#17x
+#16x
 #Start
  190
 
@@ -1008,7 +1008,7 @@ EndStunPause
   17,R,D
   40
 
-#2x
+#1x
 #lvl_a-08
    6,R
    1,R,N
@@ -1090,55 +1090,41 @@ StunPause
    1,R,D
    1,R,K,G
    2,L,K
-   1,R,K
-   2,R
-   1,R,J,G
-   5,R,K,G
+   3,R,K
+   1,J,G
+   4,R,J
 EndStunPause
-
-
-#Spinner Cycle [a-08] 3
-
-#+0f:
-#   5,R,K
-#  18,R
-###
-
-#+1f:
-   5,R,K
-   6,R
-   1,R,J
-   1,R
-   1,R,J
-   3,R
-   1
-   1,R
-   1
-   1,R
-   3
-###
-
-#+2f:
-#   5,R,K
-#   6,R
-#   4,R,J
-#   1,R
-#   1
-#   1,R
-#   1
-#   1,R
-#   5
-###
-
-#####
-
-   3,R,J
-  16,R
+   2,R,J
 StunPause
-  10,R
+   5,R,J
+   5,R
+   2,R,J
+  13,R
+   1,J
+   4,R,J
+   5,R
+   1,R,J
+  33,R
+   1,R,J,G
+  15,R,K,G
+#need to hit camera offset i think
 SkipInput 3 1
-  15,R,U,X
-  21,R
+  15,U,X
+   1,J,G
+   1,L
+   4,R
+   1,R,J
+   4,R
+   1,R,J
+  14,R,D
+SkipInput 3 1
+  15,U,X
+   1,R,J,G
+   5,L
+   3,R
+   1,R,J
+   8,R
+   2
    1,G
   10,D
 SkipInput 3 1
@@ -1147,7 +1133,14 @@ SkipInput 3 1
    9,R,U,C
 SkipInput 3 1
   12,U,X
-  32,R
+#lol drift
+  26,R
+EndStunPause
+StunPause
+   1,R
+EndStunPause
+StunPause
+   5,R
 EndStunPause
   13,D
    1,R,D
@@ -1163,15 +1156,15 @@ EndStunPause
 #(multiple of three)
 #5,G instead of 6,G
 #so each repeat is a multiple of 3
-Repeat,142
+Repeat,36
    5,G
    1
 EndRepeat
-   6,G
+   3,G
 #####
 
-#Spinner Cycle [a-08] 4
-   1,G
+#Spinner Cycle [a-08] 3
+   0,G
 #####
    4,R,D
   13,U,X
@@ -1199,7 +1192,7 @@ EndStunPause
    1,L
    1
   17,R,U,Z
-#Spinner Cycle [a-08] 5
+#Spinner Cycle [a-08] 4
    0
 #####
    5,R,X
@@ -1804,4 +1797,4 @@ EndStunPause
   30,D,X
  138
 
-ChapterTime: 9:26.202(33306)
+ChapterTime: 9:27.171(33363)
