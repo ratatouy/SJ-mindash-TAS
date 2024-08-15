@@ -1,12 +1,12 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 22215
+RecordCount: 22219
 
 console load StrawberryJam2021/3-Advanced/ZZ-HeartSide
    1
 
-#114x
+#111x
 #Start
   36
 
@@ -1310,8 +1310,11 @@ EndRepeat
   10,R,D
   70,D
   26,L,D
-  38,D
-  24,L,D
+  37,D
+  10,L,D
+   1,D
+  14,L,D
+
    1,L,J
   14,L
    1,L,J
@@ -1319,7 +1322,7 @@ EndRepeat
 
 
    1,L,J
-   9,L
+   8,L
   40
 
 #12x
@@ -1461,12 +1464,10 @@ EndRepeat
   13,R
    1,R,J
   14,R
-
   11,R,J
    7,R
    4,R,J
   12,R
-
    7,R,J
    8,R
    3,R,J
@@ -1477,7 +1478,6 @@ EndRepeat
    1,R,J,G
   10,K,G
    2,L,K
-
   15,R,J,G
    1,R,K,G
    2,R,J,G
@@ -1492,8 +1492,6 @@ EndRepeat
   14,R
    1,R,J
   24,R
-
-
   15,R,J
    1,R,K,G
    1,R,J,G
@@ -1568,7 +1566,6 @@ EndRepeat
   12,R,J
   20,R
   38
-
    5,R
    1,D
   10,R
@@ -1581,17 +1578,11 @@ EndRepeat
    3,R
   15,U,X
    8,L
-
-
-
-
    1,L,J,G
    1,L,K,G
    9,L
    1,L,J
    3,L
-
-
   12,L,J
   15,U,X
    4,L,J,G
@@ -1599,7 +1590,6 @@ EndRepeat
   10,D
   11,L,D
   16,L,U,X
-
    2,L,J,G
    2,J
    6,R
@@ -1608,7 +1598,6 @@ EndRepeat
    9,L
    1,L,J
   11,L
-
    1,L,J,G
    8,L,K,G
    2,L
@@ -1653,9 +1642,6 @@ EndRepeat
    3,R,J,G
    1,R,K,G
    8,R
-
-
-#132 up 6
   40
 
 #8x
@@ -1976,22 +1962,14 @@ EndRepeat
    1,L,J
    3,L
    5,R,J
-
   77,R,G
    3,R,U,G
-
    1,R,J,G
   28,R,D,G
    9,R,J
-
    7,R
    3,R,J
   14,R
-
-
-
-#bottom 0.25 of pixel
-
    1,R,J
    1,R,K,G
    3,R,J,G
@@ -3252,4 +3230,4 @@ EndRepeat
   14,L,U,X
  135,L,D
 
-ChapterTime: 8:25.665(29745)
+ChapterTime: 8:25.648(29744)
