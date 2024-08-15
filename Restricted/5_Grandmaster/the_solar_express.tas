@@ -1,4 +1,4 @@
-RecordCount: 11376
+RecordCount: 11532
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
 
@@ -1430,7 +1430,7 @@ endRepeat
   40
 
 #lvl_Radiant Obelisk
-#5x
+#4x
   12,R,G
    1,R,K,G
   14,R
@@ -1575,58 +1575,57 @@ endRepeat
    3,R,K
    1,R
    4
-   4,R,D
-   1,R
-   7,R,J
-   4,R
-  10,R,J
-   3,R
-   7
-  12,L,Z
-   1,R,J
-  60,R,J,G
-   5,R,D,G
-   1,R
-  13,R,X
-   2,R,J,G
-   3
-   1,R,K,G
-   7,K
-  15,K,G
-   6,R,K,G
-   6,R,D,J
-  23,R,J,G
-   1,R,J
-   1,R,K
-  37,R
-   2
    1,R,D
-   1
-  19,R,D
-   5,R,K,G
-   5,R
-  15,R,G
-   1,R,K,G
-  14,R,G
-   1,R,K,G
-  19,R,G
-   5,R
-   2,R,K
-   7,R
+   1,D
+   1,R,D
+   1,D
+  12,L,J
+  21,L,J,G
+   1,L,D
+  17,L
+   9,R,X
+   1,R,J
+   2,R,K,G
    1,R,J,G
    1,R,K,G
-  10,R
-   1,R,K
-  18,R
-   2,R,K
+   3,R,K
+  33,R,K,G
+   6,R,G
+   4,R,G
+   1,G
+  17,R,D,G
+   1,R
+   1,J,G
+  19,R,J,G
+  18,R,D,G
+   1,R,J,G
+  58,R
    1
-   5,R
-   1,R,K
+   1,R
+   2
    2,R
-   1,R,J,G
+   1
+   1,R
+   1,R,J
    1,R,K,G
-  10,R,D
-   1,R,D,K
+   2,R,J,G
+   1
+  25,R,G
+   7,R,J,G
+  11,R,G
+   1,R,J,G
+   6,R,G
+   1,L
+   2,R
+   3,R,J
+   8,R
+   1,R,J
+   6,R
+   1,R,J,G
+   6,R
+   3
+   1,R,D
+   1,R,D,J
    2,R
   40
 
@@ -2115,4 +2114,4 @@ endRepeat
  151,L,K
    1
 
-ChapterTime: 5:02.430(17790)
+ChapterTime: 5:01.546(17738)
