@@ -1,5 +1,5 @@
 #just added this
-RecordCount: 304
+RecordCount: 353
 
 console load StrawberryJam2021/3-Advanced/Indecx
    1
@@ -8,7 +8,7 @@ console load StrawberryJam2021/3-Advanced/Indecx
  190
 
 #Spinner Cycle
-   1
+   2
 
 #lvl_1
 #(0x)
@@ -106,41 +106,48 @@ console load StrawberryJam2021/3-Advanced/Indecx
   40
 
 #lvl_4
-#(2x)
+#(1x)
    5,R
    1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
-  63,R,D
-   7,D
-   2
-   1,D
-#dash
-  49,R,X
-   1,R,K
-  20,R
-   4
-   1,K,G
-   7,J,G
-   3,R,J
-   1
-   2,K
-   3,R,K
-   4,R
-   1,R,K,G
-  22,R,J,G
-  32,R,D,J
-#dash
-  34,R,U,X
-   1,R,K
-  14,R
-   1,R,K
-  14,R
-   1,R,K
-  20,R,D
+  10,J
+   1,R,J
+   9,J
+   9,D
+  14,R,D
    3,D
+  17,R
+  20,R,J
+   1,J
+  16,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+   5,R
+   1,R,J
+  16,R
+   3
+   1,K,G
+   8,J,G
+   1,R,J
+   7,R
+   1,R,K,G
+  20,R,J,G
+   5,R,J
+  29,R,D
+#dash
+  33,R,U,X
+   1,R,K
+  14,R
+   1,R,K
+  14,R
+   1,R,D,K
+  21,R,D
+   2,D
    1,R,K
   14,R
    1,R,K
@@ -293,7 +300,7 @@ console load StrawberryJam2021/3-Advanced/Indecx
   40
 
 #lvl_8
-#(2x)
+#(1x)
    7,R
    1,R,K
   18,R
@@ -501,5 +508,5 @@ EndRepeat
   21,R,X
  135,R,D
 
-ChapterTime: 1:10.567(4151)
-#18x -> 15x
+ChapterTime: 1:10.465(4145)
+#18x -> 14x
