@@ -1,5 +1,5 @@
 #Beginner Lobby
-#499x
+#464x
 
 #Note:
 #Nx+Mx means that the lobby movement
@@ -59,7 +59,7 @@ Read,1_Beginner/rose_garden,Start
    1,O
   32
 
-#60x
+#36x
 Read,../Lobby_Movement/1_Beginner_Lobby/beg_8-4,Start
 Read,../Enter_Level,Start
 Read,1_Beginner/switchtube_vista,Start
@@ -87,7 +87,7 @@ Read,1_Beginner/a_gift_from_the_stars,Start
    1,O
   32
 
-#83x
+#81x
 Read,../Lobby_Movement/1_Beginner_Lobby/beg_5-6,Start
 Read,../Enter_Level,Start
 Read,1_Beginner/troposphere,Start
@@ -108,7 +108,7 @@ Read,1_Beginner/the_squeeze,Start
    1,O
   32
 
-#6x
+#4x
 Read,../Lobby_Movement/1_Beginner_Lobby/beg_13-14,Start
 Read,../Enter_Level,Start
 Read,1_Beginner/strawberry_orchard,Start
@@ -122,7 +122,7 @@ Read,1_Beginner/paint,Start
    1,O
   32
 
-#3x
+#2x
 Read,../Lobby_Movement/1_Beginner_Lobby/beg_15-16,Start
 Read,../Enter_Level,Start
 Read,1_Beginner/coresaken_city,Start
@@ -136,7 +136,7 @@ Read,1_Beginner/dropzle,Start
    1,O
   32
 
-#22x
+#21x
 Read,../Lobby_Movement/1_Beginner_Lobby/beg_17-18,Start
 Read,../Enter_Level,Start
 Read,1_Beginner/soap,Start
@@ -164,7 +164,7 @@ Read,1_Beginner/midnight_spire,Start
    1,O
   32
 
-#88x
+#83x
 Read,../Lobby_Movement/1_Beginner_Lobby/beg_21-F-D-22,Start
 Read,../Enter_Heartside,Start
 Read,1_Beginner/blueberry_bay,Start
