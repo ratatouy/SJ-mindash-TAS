@@ -1,0 +1,81 @@
+Set,DisableScreenShake,true
+Set,DisableFlashes,true
+Set,SpeedrunClock,2
+Set,Everest.ShowModOptionsInGame,false
+Set,CollabUtils2.DisplayEndScreenForAllMaps,False
+EnforceMaingame
+Unsafe
+
+   1,D
+   1,J
+  44
+   1,D
+   1,R
+   1,F,90
+   1,R
+   1,J
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,R
+   1,U
+   1,J
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,D
+   1,J
+   1,L
+   1,U
+   1,J
+   1,L
+   1,F,270
+   1,L
+   1,J
+   1,D
+   1,F,180
+   1,J
+   1,U
+   1,F,
+Repeat,3
+   1,R
+   1,F,90
+EndRepeat
+   1,R
+   1,J
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D
+   1,J
+   1,L
+   1,U
+   1,F,
+   1,U
+   1,J
+   1,L
+   1,U
+   1,F,
+   1,J
+   1,D
+   1,F,180
+   1,J
+   1,S
+  48
+#menus to strawberry jam
+#then to Begin
+#(comment if you dont need to menu)
+   1,D
+   1,F,180
+   1,D
+   1,L
+   1,U
+   1,F,
+   1,U
+#####
+   1,F,
+   1,J
+   1

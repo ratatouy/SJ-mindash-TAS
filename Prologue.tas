@@ -1,10 +1,11 @@
 console load StrawberryJam2021/0-Lobbies/0-Prologue
    1
 
+#8x
 #Start
  190
 
-#8X
+#8x
 #lvl_prologue-00
    1,R,J
    7,R
@@ -166,6 +167,7 @@ EndRepeat
    9,R
   40
 
+#0x
 #lvl_prologue-01
    1,R,J
    4,R
