@@ -9,9 +9,8 @@ Set,CollabUtils2.DisplayEndScreenForAllMaps,False
 console load StrawberryJam2021/0-Lobbies/4-Expert
    1
 
-#if this ever desyncs in narrow 
-#hollow try uncommenting this line :
-#Set,GravityHelper.AllowInAllMaps, False
+#For Narrow Hollow:
+Set,GravityHelper.AllowInAllMaps, False
 
 #Start
 
@@ -22,14 +21,14 @@ Read,4_Expert/madeline_the_bubble.tas,Start
    1,O
   32
 
-#124x
+#119x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_1-2.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/clockwork.tas,Start
    1,O
   32
 
-#6x
+#5x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_2-3.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/ethereal_ascension.tas,Start
@@ -50,14 +49,14 @@ Read,4_Expert/skyline_usurper.tas,Start
    1,O
   32
 
-#61x
+#58x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_5-7.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/the_core_problem.tas,Start
    1,O
   32
 
-#1x + 104x
+#1x+78x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_7-6.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/hypnagogia.tas,Start
@@ -66,7 +65,7 @@ Read,4_Expert/hypnagogia.tas,Start
 
 #38x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_6-0.tas,Start
-Read../Lobby_Movement/,4_Expert_Lobby/exp_0-14.tas,Start
+Read,../Lobby_Movement/4_Expert_Lobby/exp_0-14.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/flying_battery.tas,Start
    1,O
@@ -93,7 +92,7 @@ Read,4_Expert/system_invalidmap.tas,Start
    1,O
   32
 
-#40x
+#39x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_12-11.tas,Start
 Read,../Enter_PostCard,Start
 Read,4_Expert/golden_alleyway.tas,Start
@@ -135,7 +134,7 @@ Read,4_Expert/caper_cavortion.tas,Start
    1,O
   32
 
-#28x
+#27x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_17-16.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/hydroshock.tas,Start
@@ -191,7 +190,7 @@ Read,4_Expert/summit_down-side.tas,Start
    1,O
   32
 
-#56x
+#42x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_25-26.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/psychokinetic.tas,Start
@@ -212,14 +211,14 @@ Read,4_Expert/chromatic_complex.tas,Start
    1,O
   32
 
-#29x
+#30x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_29-28.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/polaris.tas,Start
    1,O
   32
 
-#328x
+#310x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_28-G.tas,Start
 Read,../Lobby_Movement/4_Expert_Lobby/exp_G-D.tas,Start
 Read,../Lobby_Movement/4_Expert_Lobby/exp_D-30.tas,Start
@@ -228,4 +227,4 @@ Read,4_Expert/Starfruit_Supernova,Start
   61
    1,O
 
-FileTime: 1:09:04.226(243778)
+FileTime: 1:25:38.743(302279)
