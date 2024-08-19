@@ -1,6 +1,6 @@
 #Start
 #Advanced Lobby
-#899x
+#846x
 
 unsafe
 console clrsav
@@ -45,7 +45,7 @@ Read,3_Advanced/belated_valentines_day.tas,Start
    1,O
   32
 
-#30x
+#28x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_11-10.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/superstructure.tas,Start
@@ -66,28 +66,28 @@ Read,3_Advanced/forest_rush.tas,Start
    1,O
   32
 
-#48x
+#47x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_8-7.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/synapse.tas,Start
    1,O
   32
 
-#17x
+#14x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_7-4.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/starry_ruins.tas,Start
    1,O
   32
 
-#29x
+#28x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_4-6.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/attack_of_the_clone.tas,Start
    1,O
   32
 
-#56x
+#55x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_6-5.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/the_tower_xvi.tas,Start
@@ -101,7 +101,7 @@ Read,3_Advanced/starlight_station.tas,Start
    1,O
   32
 
-#27x
+#14x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_3-1.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/raindrops_on_roses.tas,Start
@@ -157,7 +157,7 @@ Read,3_Advanced/the_lab,Start
    1,O
   32
 
-#39x
+#37x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_20-19.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/rightside-down_cavern,Start
@@ -185,7 +185,7 @@ Read,3_Advanced/undergrowth,Start
    1,O
   32
 
-#1x+136x
+#1x+106x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_17-E.tas,Start
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_E-F.tas,Start
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_F-26.tas,Start
