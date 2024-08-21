@@ -3,7 +3,7 @@ RecordCount: 2182
 console load StrawberryJam2021/2-Intermediate/Liero
    1
 
-#7x
+#6x
 #Start
 #Spinner Cycle [A01]
    0
@@ -214,7 +214,7 @@ EndStunPause
    6,R,D
   40
 
-#1x
+#0x
 #lvl_A05
    9,D
   13,L,D
