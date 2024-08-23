@@ -1,5 +1,5 @@
 # The Tower XVI 55x
-RecordCount: 3530
+RecordCount: 3756
 
 console load StrawberryJam2021/3-Advanced/JANisEXIST
    1
@@ -42,7 +42,6 @@ EndRepeat
   43,R,J
   25,R,K
   17,R,D
-
   15,U,Z
    2,L
    1
@@ -62,192 +61,159 @@ EndRepeat
    1,L
   15,L,J
    7,L,K,G
-  13,R,U,Z
-   6,R,K
-   1,R,J
+  21,R,U,X
+  10,R,J
    1,K,G
-   1,L,K
-  15,R,J,G
-   3
-  12,L
-  11,L,K
-   1,L
-   6,L,K
-  10,L
-   2
-   1,L,J,G
-  14,R,J
-  22,R,U,X
-   4,R,K
-  17,R,J
-  12,K,G
-   4,R,J,G
-   1,K
-   8,J,G
-   1,L,J
-  18,L,U,X
-   4,R,K
-   5,R,J
-
-   8,R
-   1,R,J
    1,R
+   4
+   1,R
+   1,L
+  10,L,J
+   7,L
+   1,L,J
+   1,L
+   2,L,J
+   8,L
+   1,L,K,G
+  11,K
+  24,R,U,X
+   8,R,J
+  14,R,K
+  10,R,J,G
+   1,J
    1,R,J
-
    1,K,G
-   6
+   4,J
+  21,L,U,X
+   4,R,J
+   7,R,K
+   5,R
+   2,R,J
+   1,R
+   1,J
+   1,K,G
+   4
+   1,R
+   2
    6,L
-  34,L,J,G
+  31,L,J
+   1,J
    8,K,G
    1,R,K
    1,L,J,G
-   1,L,K,G
-   9,K
+   3,L,K,G
+   1,R,K
+   6,K
    1,L,K
-   1,K
-   1,L,K
+   1
+   1,L
+   1
   31,R,J
   14,U,X
-  18,R,J
-   1,R,K,G
-   1,J
-   2,K,G
+  20,L,J
   40
 
 #lvl_2
 #8x
-  19,L,K
-   2,K
-   1,J,G
-   1,R,J
-  30,L,K,G
-   1,J
-   1,R,J
-   1,L,J
-   1,J
-   6,L,K
-   3,R,K
-   1,R,J,G
-   1,L,J
-   1,J
-   1,L,J
-   1,J
-   2,L,J
-   1,R,J
-   1,K,G
-   1,J
-  25,R,J
-   6,R,K,G
-  15,U,X
-  58,L,D
-   1,L,D
-   1,L
-   1,L,D
-  16,L,U,Z
-  15,R
-   1,L,J,G
-   2,R,J
-   1,J
-   1,R,J
-   1,L,J
+  18,L,J
    1,K,G
    1,R,K
-   8,L,J,G
-   1,J
-   7,L,J
+   2,L,J,G
+   6,L,K,G
+   1,L,J,G
+   1,L,K,G
    1,L
-   1,J,G
-   4,L
-   2
-   1,L
-   6,R
-
-   1,R,J
-   5,R
-   1,R,J
-   9,R
-   3
-  15,U,Z
-   2,R
-  20,K
-   1,J,G
-   1,K
-   8,J,G
-   1,L
-   3,L,K,G
-   8
-   3,K
-   7,L,J,G
-   3,L,K,G
-   4,L,J,G
-   4,L,K,G
-  12,R,U,X
-   8,R,K
-  15,R,J
-  16,U,X
-   1,L
-   1,J,G
-   9,L,J
-   1,R,J
-   1,L,J
-  14,L,K,G
-   1,J,G
-   1,R,J
-   1,L,J
-  30,L,K,G
-   4,J,G
-   1,R,J
-   1,L,J
-  24,L,K,G
-   3,L
-   9,L,J
-  19,L
-   1,D
-   4,D
-   1,J
-   1,R,J
-   5,R,J
-   1,K,G
-  10,R,K
-   1,L,K
-   1,L,J
-  28,L,K
-   1,L,G
-   3,L,J,G
-   6,L,D
-   2,D
-   7,L,D
-  11,R,D
-   6,R
-  39,R,K
-   2,K
-   4,R,J,G
-   3,L,J
-   6,R,J
-   1,R,K,G
-  13,R
-   9,R,J
-  29,R,D
-   1,L,D
-   1,K
-   2,J,G
-  30,R,J
    1
-  15,U,Z
-   4,R
-   9,L
-   1,R,J,G
-   2,L,J
-   1,R,J
-   1,K,G
+   8,L
+  13,L,D,J
+   3,J
+   1,R,K,G
+Repeat, 3
    1,L,K
-  11,R,J,G
-   9,R
-   7,J
+   1,K
+EndRepeat
+   1,J
+  24,R,J
+   1,J
+   4,R,K,G
+   1,K
+  35,U,X
+  30,L
+   7,L,D
+   1,D
+   1,L,D
+   2,D
+  14,L,U,Z
+  12
+   5,R
+   1,L,J,G
+Repeat, 3
+   1,R,J
+   1,J
+EndRepeat
+   2,R,J
+   1,L,J
+  11,K,G
+   2
+   4,L
+   1,R
+   1,L
    5,R,J
-  29,U,X
-  12,U,C
-#11 pixels from the right
+  20,R
+  15,U,Z
+   1,R
+  20,J
+  11,K
+   1
+   2,L,J,G
+   7
+  12,D,J
+   1,K,G
+  11,R,K
+  13,L,U,X
+   7,R
+  13,R,J
+   1,L
+   3
+   1,R
+   1,L
+   6,J,G
+   1,R,J
+  16,L,K,G
+   1,L,J,G
+  11,L,K,G
+  18,L,D
+   9,R,D
+   1,R
+   1,R,D
+   1,R,G
+  18,R,Z
+   4,R,J
+  18,R,K
+   6,K
+   1,R,K
+   1,K
+   1,J
+  25,L,J
+   8,K,G
+   1,R,K
+  14,L,J,G
+  16,L,K,G
+   7,J,G
+   1,R,J
+   1,R,K
+  32,R,J
+  17,U,X
+   1,L
+  15,R,J
+  13,R
+   1,R,J
+   8,R
+   2
+   1,R,J
+   7,J
+  27,U,X
+  15,U,C
   40
 
 #lvl_3
@@ -405,12 +371,7 @@ EndRepeat
    1,K
    5,L,K
    4,K
-
-
-
   32,U,X
-
-
   10,L
    7,R
    2,R,D,J
@@ -487,10 +448,6 @@ EndRepeat
 #  26,L,K
 #   7,L
 # 100,L,U,X
-
-
-
-
   29,R,K,G
    1,K
   13,R,U,Z
@@ -768,4 +725,4 @@ EndRepeat
   15,U,X
  135,R,D
 
-ChapterTime: 1:31.239(5367)
+ChapterTime: 1:28.094(5182)
