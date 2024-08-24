@@ -1,12 +1,12 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1259
+RecordCount: 1292
 
 console load StrawberryJam2021/1-Beginner/Eclipse
    1
 
-#81x
+#80x
 #Start
  190
 
@@ -281,18 +281,48 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   17,R,Z
   40
 
-#11x
+#10x
 #lvl_b_04
   34,R,D
    1,R,J
   10,R
    1,R,J,G
    3,R,K,G
-  13,R
-  21,R,X
-   4,R,J
-   6,R,K
-  21,R,D,X
+  16,R
+  20,R,J
+   1,R,K,G
+   1,J
+   2,K,G
+  21,L,K,G
+  13,L
+   1
+   1,L
+   1,N
+ 194,U
+Repeat,3
+   1,J
+  23
+   1,N
+ 192,U
+EndRepeat
+   1,J
+  23
+   1,N
+ 182,U
+   1,J
+  19
+
+   6,R,Z
+   8,R,J
+   3,R
+   1,R,K
+   1,R,J
+  12,R
+   2
+   1,R,D,J
+   4,J
+  30,D
+   7,L,D
   25
   15
   56,U,X
@@ -493,4 +523,4 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   15,U,C
  135,D
 
-ChapterTime: 2:03.437(7261)
+ChapterTime: 2:23.293(8429)
