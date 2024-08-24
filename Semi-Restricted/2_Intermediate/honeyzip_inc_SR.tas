@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1633
+RecordCount: 1656
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
@@ -310,7 +310,7 @@ endStunPause
    5,L
   40
 
-#0x
+#1x
 #lvl_rhub (1)
   15,L
    1,L,J
@@ -331,43 +331,200 @@ endStunPause
    1,L
   32,L,K
    2,L,J,G
-   7,L
+   1,L
+   1
+   1,L
+   3
    1,L,J
-  16,L
-  18,R
-   1,R,J
-  19,J
-   3,K,G
+   3,R
+   4
+  25,L,G
+   6,L,J,G
+  17,K,G
+   1,R,K
+   5,R,J,G
+   1,K
+   2,J,G
+  30,L,K,G
+   1,L,J,G
+   9,L
+  85
+   5,L
+   1,L,J
+   4,L
+  15,U,X
+   1,L,J,G
+   1,J
+   1,L
+   1
+   1,L
+   4
+   1,L,J
+   1,R,K
+  23,K
+   4
+   1,R
    2
-   1,J,G
+   1,J
+   1
+  27,K
+  12,R,J,G
    7,R
+   1,J
+  15
+  19,R,G
+   1,D,G
+   1,G
+   1,D,G
+   1,G
+   3,D,G
+   3,G
+   3
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  11,R
+   8,R,J
+   1,R,K,G
+   1,R
+   2
+   1,R
+   2
+   1,R,J,G
+   6,R
+   1,R,J
+   2,R,K,G
+  13,R
+   1,R,J
+   4,R
+  40
+
+#0x
+#lvl_r8
+  14,R
+   1,R,J
+  15,R,K,G
+   7,R,G
+  20,R,J,G
+  50,L,U,X
+   1,J
+   5,R
+  26,R,J
+   7,R,G
+   1,R,J,G
+   1,R
+   7,R,G
+   1,R,J,G
+   1,R
+   7,R,G
+   1,R,J,G
+   1,R
+   7,R,G
+   1,R,J,G
+  14,R
+   5,L
+  18,L
+  13,R,D
+   7,R,G
+   1,R,J,G
+   1,R
+   7,R,G
+   1,R,J,G
+   1,R
+   9,R,G
+  24,R,J,G
+   7,R,G
+   1,R,J,G
+   1,R
+   7,R,G
+   1,R,J,G
+   1,R
+   8,R,G
+  31,R,J,G
+  30,R,G
+   1
+   1,J
+   1,R,K,G
+  14,L,K
+  86,R,X
+  25,L,D
+  40,D
+   1,S
+   1,D,J
+  69,O
+   5,L
+   1,L,J
+  33,L
+   2
+   2,L
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+  11,L
+   1,L,J
+   1,L
+  40
+
+#0x
+#lvl_rhub (2)
+  17,L
+   1,L,D,J
+   3,L
+   1,L,K,G
+   1,L,J,G
+  14,L
+   1,L,J
+  18,L
+   2,L,J
+   4,L,J
+  44,L
+   7,R,D
+   3,D
+   1,R,D
+   1,R,D,G
+   1,J,G
+   1,R,K,G
+   1,R,J,G
+   1
+   4,L
+   5,L,J
+   1,K,G
+  10,L,K,G
+  21,R
    1,R,J
   14,R
    1,R,J
-  35,R
-   7,R,J
-  23,R
-   1,D
-   4,R,D
+  40,R,D
+   8,R,J
+  49,R,D
    1,R,J,G
-  15,R,K,G
-   2,R,J,G
-  10,R
-   2
-   2,R
+   1,R,K,G
+  11,R
    1,R,J
+  14,R
+   1,R,J
+  14,R
+  11,R,J
+  30,R
+  12,R,J
+   5,R
    1,R,K,G
-   5,R,J,G
+   1,R,J,G
+   2,R,J
+   6,R
    1,R,K,G
-   8,R
+   2,R
+   1,R,J,G
+  10,R
+   1,R,J
   40
 
 #0x
 #lvl_r6
-   4,R
-   1,R,J
-   2,R,K,G
-  11,R
+   5,R
+   1,R,K,G
+  14,R
    1,R,J
    9,R
   14,R,X
@@ -420,177 +577,91 @@ endStunPause
   15,R
    1,R,J
    6,R
-  30,L,X
-  40,X
+  17,L,X
+   1,L,J
+   5,L
+   2,L,J
+   5,L
+  40,J
 
 #1x
-#lvl_rhub (2)
-  66,L,X
-  14,L,U,C
-   4,L,J,G
-  25,L
-   5
-  12,R
-  20,R,J
-   8,R,K,G
-   5,R
-   3
-   1,J
-  12
-  27,R,G
-   1,D,G
-   1,G
-   1,D,G
-   1,G
-   3,D,G
-   3,G
-   3
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-  11,R
-   8,R,J
-   1,R,K,G
-   1,R
-   2
-   1,R
-   2
-   1,R,J,G
-   6,R
-   1,R,J
-   2,R,K,G
-  13,R
-   1,R,J
-   4,R
-  40
-
-#0x
-#lvl_r8
-  14,R
-   1,R,J
-  15,R,K,G
-   7,R,G
-  12,R,J,G
-stunPause
-   8,R,J
-skipInput,3,1
-  15,L,U,X
-  39,L,U
-   1,L,J,G
-  18,D
-   1,R,K
-   9,R,J
-   1,R
-endStunPause
-   4,R
-  20,R,J
-repeat 2
-   7,R,G
-   1,R,J,G
-   1,R
-endRepeat
-  14,R,G
-   4,R,J,G
-   5,R
-   1,R,J
-  17,R
-  17,D
-  11,R,D
-   7,R,G
-   1,R,J,G
-   1,R
-   7,R,G
-   1,R,J,G
-   1,R
-   9,R,G
-  24,R,J,G
-   7,R,G
-   1,R,J,G
-   1,R
-   7,R,G
-   1,R,J,G
-   1,R
-   8,R,G
-  31,R,J,G
-  30,R,G
-   1
-   1,J
-   1,R,K,G
-  14,L,K
-  86,R,X
-  25,L,D
-  40,D
-   1,S
-   1,D,J
-  69,O
-   5,L
-   1,L,J
-  33,L
-   2
-   2,L
-   1,L,J
-   1,L,K,G
-   1,L,J,G
-  11,L
-   1,L,J
-   1,L
-  40
-
-#0x
 #lvl_rhub (3)
-  16,L
-   1
-   1,L
-   1
-   1,L
-   1
-   1,L
    1,L,J
+   5,L,J
+   6,L,D,J
+  25,L,K
+   3,R,K
+   5,J,G
+   2
+   1,L,D
+   1,D
+  16,L,D
+   1,L
+   1,L,D
+   3,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+  14,L
+   1,L,J
+  18,L
+  35,L,J
    1,L,K,G
    1,L,J,G
-  11,L
+  10,L
    1,L,J
-  18,L
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
    4,L,J
-  25,L,D
+   7,R,J
+  21,R,D
    1,R,J
-  15
-   5,L
-   1,L,J
-  14,L
-   1,L,J
-  21,L
-   1,L,J
-  14,L
+  14,R
    1,R,J
-  14,L
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  11,R
+  14,L,D
+  38,D
+   2,R,J,G
+   2,R
+   1
    1,R
-   1,R,J,G
-  62,R,D
-   1,R,J
-  14,R
-   5,R,J
+   2
+   1,R
+   1
+   2,L
+   1
+   1,L
+   3,R
+   5,R,G
+   1
    1,L,J
-  18,L
-Repeat,5
-   1,L,J
+   1,L,K
+  11,L,K
+   2
+   8,L
+   1,L,J,G
+   1,L,K,G
+  10,L
+   1,L,D,J
   14,L
-EndRepeat
+   1,L,D,J
+  14,L
    1,L,J
-  12,L
-  22,R,D
-  17,R
-   1,R,J,G
-   1,R,K,G
-  13,R
-   1,R,J
-  14,R
-   6,R,J
-  56,R,D
+  53,L,D
  178,U,X
   40,X
-
 #0x
 #lvl_r9
   10,U,X
@@ -674,58 +745,37 @@ EndRepeat
    4,R
   10,R,G
   15,R,J,G
-#drift
-  18,R,C
-   7,L,G
-   1,L,J,G
-   1,L
-   7,L,G
-   1,L,J,G
-   1,L
-  46,L,G
- 892,G
-  58,L,G
-  32,L,J,G
-  18,R,C
-   7,L,G
-   1,L,J,G
-   1,L
-   7,L,G
-   1,L,J,G
-   1,L
-  46,L,G
-#adjust for drift here
- 506,G
-  58,L,G
-  32,L,J,G
-#end Drift
-  18,R,X
-   4,R,G
-stunPause
-   3,R,G
-skipInput,1
+  68,R,U,C
    1,R,J
+  14,R,D
+  40,D,G
+
+  14,R,G
+   5
+Repeat,14
+   1,R,G
    1,R
-  15,R,G
-   4,R,J,G
-   4,R,D
-  17,L,D
-skipInput,3,1
-  15,U,X
+EndRepeat
+  21,R,G
+  16,R,D,G
+   1,J,G
+   1,R,K,G
+  32,L
+  19,R,X
+   7,R,G
+   1,R,J,G
+   1,R
+   8,R,G
+stunPause
+   5,R,G
+  12,R,J,G
+  11,R,G
 endStunPause
-  42,U
-  19,R
-stunpause
-  14,R
-  13,R,D
-   8,D
-   7,L,D
-endStunPause
-   3,L,D
-   7,L,G
+  11,R,G
+   1,L,G
    1,L,J,G
-  20,L,D
-   4
+  24,L,D
+   2
   42,R,X
   16,R,G
   17,R,J,G
@@ -758,7 +808,6 @@ endStunPause
    3,R,K,G
   10,R
   40
-
 #1x
 #lvl_endroom
    5,R
@@ -795,4 +844,4 @@ endStunPause
    1,R,J
   37,R
 
-ChapterTime: 3:00.812(10636)
+ChapterTime: 2:24.160(8480)
