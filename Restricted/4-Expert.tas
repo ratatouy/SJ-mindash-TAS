@@ -1,6 +1,6 @@
 #Start
 #Expert Lobby
-#1621x
+#1649x
 
 unsafe
 console clrsav
@@ -56,7 +56,7 @@ Read,4_Expert/the_core_problem.tas,Start
    1,O
   32
 
-#1x+78x
+#1x+104x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_7-6.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/hypnagogia.tas,Start
@@ -169,7 +169,7 @@ Read,4_Expert/narrow_hollow.tas,Start
    1,O
   32
 
-#46x
+#41x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_21-19.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/storm_runner.tas,Start
@@ -218,7 +218,7 @@ Read,4_Expert/polaris.tas,Start
    1,O
   32
 
-#310x
+#317x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_28-G.tas,Start
 Read,../Lobby_Movement/4_Expert_Lobby/exp_G-D.tas,Start
 Read,../Lobby_Movement/4_Expert_Lobby/exp_D-30.tas,Start
