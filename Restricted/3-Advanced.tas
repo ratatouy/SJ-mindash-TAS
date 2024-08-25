@@ -1,6 +1,6 @@
 #Start
 #Advanced Lobby
-#836x
+#828x
 
 unsafe
 console clrsav
@@ -157,7 +157,7 @@ Read,3_Advanced/the_lab,Start
    1,O
   32
 
-#37x
+#29x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_20-19.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/rightside-down_cavern,Start
@@ -194,4 +194,4 @@ Read,3_Advanced/mango_mesa,Start
   61
    1,O
 
-FileTime: 58:12.242(205426)
+FileTime: 58:18.804(205812)
