@@ -1,5 +1,5 @@
 #Beginner Lobby
-#464x
+#463x
 
 #Note:
 #Nx+Mx means that the lobby movement
@@ -87,7 +87,7 @@ Read,1_Beginner/a_gift_from_the_stars,Start
    1,O
   32
 
-#81x
+#80x
 Read,../Lobby_Movement/1_Beginner_Lobby/beg_5-6,Start
 Read,../Enter_Level,Start
 Read,1_Beginner/troposphere,Start
