@@ -1,5 +1,5 @@
 #Grandmaster Lobby
-#1149x
+#1148x
 
 unsafe
 console clrsav
@@ -107,7 +107,7 @@ Read,5_Grandmaster/drifting_deep,Start
    1,O
   32
 
-#54x
+#53x
 Read,../Lobby_Movement/5_Grandmaster_Lobby/gm_14-13,Start
 Read,../Enter_Level,Start
 Read,5_Grandmaster/the_solar_express,Start
@@ -142,4 +142,4 @@ Read,5_Grandmaster/passionfruit_pantheon,Start
   61
    1,O
 
-FileTime: 2:40:36.501(566853)
+FileTime: 2:40:36.144(566832)
