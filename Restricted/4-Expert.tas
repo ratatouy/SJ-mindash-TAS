@@ -1,6 +1,6 @@
 #Start
 #Expert Lobby
-#1649x
+#1631x
 
 unsafe
 console clrsav
@@ -71,14 +71,14 @@ Read,4_Expert/flying_battery.tas,Start
    1,O
   32
 
-#19x
+#18x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_14-15.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/mosaic_garden.tas,Start
    1,O
   32
 
-#44x
+#27x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_15-13.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/a_change_in_direction.tas,Start
@@ -227,4 +227,4 @@ Read,4_Expert/Starfruit_Supernova,Start
   61
    1,O
 
-FileTime: 1:25:52.445(303085)
+FileTime: 1:26:11.706(304218)
