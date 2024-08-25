@@ -40,11 +40,10 @@ endrepeat
   13,L
    1,L,J
    8,L
-
+  40
 
 #lvl_Intro B
 #4x
-  40
    6,L
    1,L,J
   14,L
@@ -106,11 +105,10 @@ endrepeat
    9,L
    1,L,J
   12,L
-
+  40
 
 #lvl_Double Vision
 #5x
-  40
    3,L
    1,L,J
   18,L
@@ -161,31 +159,28 @@ endrepeat
   12,R,D
    1,D
    1,R,D
-
+  40
 
 #lvl_Waiting Room
 #0x
-  40
    3,R,D
   17,R
   20,R,D
   24,D
   14,L,D
-
+  40
 
 #lvl_Timestop Intro
 #0x
-  40
    1,S
    1,D,J
   69,O
    5,R
    1,R,J
-
+  40
 
 #lvl_Timestop Intro Again
 #8x
-  40
   15,R
    3
 #dash
@@ -318,11 +313,10 @@ endrepeat
    5,R
    2,R,D
    1,R
-
+  40
 
 #lvl_Stepping Stone
 #2x
-  40
   14,R,D
   14,L,D
    9,L,J
@@ -409,11 +403,10 @@ endrepeat
    1,R,J
   14,R,D
   22,D
-
+  40
 
 #lvl_Fork
 #2x
-  40
    1,L,D
    1,D
    1,L,D
@@ -455,11 +448,10 @@ endrepeat
   19,L,D
    1,L,J
   13,L
-
+  40
 
 #lvl_Seeded Berry
 #0x
-  40
    5,L,D
    1,L,J
   18,L
@@ -483,11 +475,10 @@ endrepeat
    9,L
    1,L,J
   21,L,D
-
+  40
 
 #lvl_Staircase
 #2x
-  40
   18,L,D
    1,L,J
   14,L
@@ -577,11 +568,10 @@ endrepeat
    2,D
    8,L,D
   16,R,D
-
+  40
 
 #lvl_End
 #0x
-  40
    1,S
    1,D,J
   72,O
@@ -611,14 +601,13 @@ repeat 4
 endrepeat
   11,L
    1,X
-
+ 158
 
 #lvl_End Cabin
 #1x
- 158
   10,R,X
  135
 
 ChapterTime: 1:20.410(4730)
 #4730
-#25 -> 24 dashes
+#24 Dashes
