@@ -58,7 +58,7 @@ console load StrawberryJam2021/4-Expert/LethargicDoggo
   18,D
    1,S
    1,D,J
- 103
+  69,O
    1,L,J
   18,L,D
    1,L,J
@@ -777,5 +777,4 @@ Repeat,31
 EndRepeat
    3,J
 
-
-ChapterTime: 3:22.062(11886)
+ChapterTime: 3:21.484(11852)
