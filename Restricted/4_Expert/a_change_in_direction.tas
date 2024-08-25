@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3931
+RecordCount: 4231
 
 console load StrawberryJam2021/4-Expert/Agent
    1
@@ -10,7 +10,7 @@ console load StrawberryJam2021/4-Expert/Agent
   96
 
 #lvl_Agent_00
-#7x
+#6x
    6,R
    1,R,J
    1,L
@@ -103,23 +103,58 @@ console load StrawberryJam2021/4-Expert/Agent
    1,K
    1,L,J,G
   15,R,J
-   5,R,K,G
+   2,R,K,G
+   1,K
+   1,R,K
+   1,R,J,G
    5,R
-  10,R,J
-  50,R,K
-  11,R,D
-   9,R,Z
-   2,R,J
-   8,R
-  28,R,J
-  14,U,X
+   9,R,J
+   9,R,K
+  30,R,D
+   1,D
+   7,R,D
+   4,R,J,G
+   1,R
+  20,R,J
+  40
   10,L,J
-   5,L
-  28,L,J
-  11,L,D,X
+  24,L
+  16
+   1,L
+  24,J
+   5,R,J
+   1,J
+   8,R,J
+   1,K
+  22,R,K
+   1
+  13,K
+   1,L,K
+   1,R,J,G
+   7,R
+  56
+  33,R,D,J
+ 100
+  17,R
+  57,R,J
+   1,K
+  25,R,K
+  22,R,D,G
+  36,G
+   2,U,G
+   1
+   1,J
+   3,K,G
+  42,L,K
+   8,L,X
+   1,J,G
+   3
+   2,L
+  60
+   4,Z
    1,L,J
-  10,L
-  26,L,J
+   6,L
+  31,L,J
   14,U,X
    9,L,J
    9,J
@@ -181,6 +216,10 @@ console load StrawberryJam2021/4-Expert/Agent
   17,R
    1,R,J
   16
+
+
+
+
   16,R
   10,R,J
   12,R
@@ -418,6 +457,7 @@ console load StrawberryJam2021/4-Expert/Agent
   25,L,K
   15,U,X
   11,L,J
+
   26,L
   14,L,Z
    1,L,J
@@ -587,7 +627,7 @@ EndRepeat
   40
 
 #lvl_Agent_05
-#6x
+#5x
   36,R
    2,R,J
    9,R
@@ -613,10 +653,11 @@ EndRepeat
   22
   15,L
   12,L,D,J
-  15,L
-  10,R,X
-   7,L,J
-  10,L
+  19,R
+   1,L,J
+   1,L,K
+   1,L,J
+  25,L,K
   10,R,D,X
   20,R,J
   19,R,U,X
@@ -641,90 +682,108 @@ EndRepeat
   40
 
 #lvl_Agent_06
-#9x
+#2x
    9,R
    1,R,J
   22,R
-   6,R,D,J
-  15,R
-   3,L
-   7,L,D,J
-  19,L
-   1,J
-   3,L,J
-   4,R,J
-   3,K,G
-   1,L,K
-  12,R,J,G
-   5,R,K,G
-   3,R
-   7,R,Z
-   8,R,J
-  20,L
+   3,R,J
    6,R
-  10
-   1,J
-   4,L
-   5,R
-   7
-   8,R
-   4,R,Z
-   1,R,J
+   3,R,J
+   2
    7,R
-  11,L
-  10,L,J
-  16,L
+   1,J,G
+   4
+   1,R
+   5
+   8,L,D
+  18,L,D,J
+   2,L
+   1,R,K,G
+   2,L,K
+   9,K
+   5,R,J,G
    1,J
-  15
-  39,R,J
-   8
-   3,G
-  10
-  14,L
-  14,R
-  20,R,J
-  14,R,X
-  16,R,J
-  14,L
-   4,R
-   7,R,J,G
-   1,R
-  22,R,J
-   3,R,K
-  16,R
    1,R,J
+   1,R,K,G
+   9,R
+   1,R,J
+  14,R
+  12,R,D,J
+   7,R
+   1,R,J
+  14,R
+   1,R,D,J
   20,R
-   8,R,J
-  28,R,X
-  13,L,C
-   4,L,J
-   6,L,K
-  10,L
-  19,L,J
-  24,L,U,X
-   4,R,Z
-   2,R,J
+   1,R,J
+   5,D
+  18,R,D
+   1,R,J
+  10,R
+  12,L,J
+  14,L
+   3,R
+   1,R,J
+  14,R
+   1,J
+   9,R,J
+  25,R,D
+  15,L,D
+   6,D
+  10,R,X
+  15,R,J
+   2,R,K,G
+  64,R,J,G
+  15
+  25,L,J
+  12,R,J
+   5,J
+   2,R
+   1,L
    1,R
-  18,R,J
-  56,R,K
-  15,R,D,X
-   4,J
-   7,R,Z
-  35,R,J
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R,J
+  42,R
+   1,R,J
+  14,R
+   1,R,J
+  15,R
+  27,R,J
+   9,R,G
+   2,R,D,G
+  66,R,G
+   1
+   1,J
+  14,R
+  17,R,Z
+   4,R,J
    1,R,K
+   6,R
+   4,R,J,G
+  24,R
+   1,R,J
+  10,R
   40
 
 #lvl_Agent_07
 #1x
-   4,R,K
-  42,R
-  10,L,G
-  10,G
+   4,R
+   1,R,J
+  14,R
+   1,R,J
+   5,R
+  20,L,G
+   5,L,J,G
+   8,L
+   6,L,G
    1,J,G
    1,K,G
    1,L,J,G
   14,R,U,X
  135
 
-ChapterTime: 1:51.707(6571)
-#44x
+ChapterTime: 2:01.822(7166)
+#35x
