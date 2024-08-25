@@ -1,6 +1,6 @@
 #Start
 #Advanced Lobby
-#844x
+#836x
 
 unsafe
 console clrsav
@@ -73,21 +73,21 @@ Read,3_Advanced/synapse.tas,Start
    1,O
   32
 
-#14x
+#12x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_7-4.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/starry_ruins.tas,Start
    1,O
   32
 
-#28x
+#25x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_4-6.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/attack_of_the_clone.tas,Start
    1,O
   32
 
-#55x
+#53x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_6-5.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/the_tower_xvi.tas,Start
@@ -185,7 +185,7 @@ Read,3_Advanced/undergrowth,Start
    1,O
   32
 
-#1x+104x
+#1x+103x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_17-E.tas,Start
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_E-F.tas,Start
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_F-26.tas,Start
