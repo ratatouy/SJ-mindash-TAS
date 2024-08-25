@@ -1,4 +1,4 @@
-RecordCount: 8081
+RecordCount: 8235
 
 console load StrawberryJam2021/4-Expert/Archire
    1
@@ -362,7 +362,7 @@ endrepeat
   35,U,Z
   25,U,X
 
-#7x
+#4x
 #lvl_a-08
    5,R
    1,R,J
@@ -373,63 +373,57 @@ endrepeat
    1,R
   24,R,J
    1,R,K
-  29,R
-   1,R,J
-   8,R
-   8,L,U,X
-   1,R,U,X
+  24,R
+   1,R,D
    1,J
-  10,R,K,G
-   3,R
-   6,R,Z
-   1,R,J
-   6,R
-  26,R,J
-   3,J
    1,L,K,G
-  10,L,J,G
-   5,L
-   1,L,J
+   1,L,J,G
+   5,R
+   7,U,X
+   1,L,X
    1,J
-   1,L,J
-  40,R,K
-  18,R,X
-   1,J
-  24,R,J
+   1,L,K,G
+   4,J
+   9,R,J
+   1,L,K,G
+  20,R,J
+   1,K
+  24,R,K
   10,L
-  20
-   2,L
+  18
+   4,L
    5,L,D
-   4,L,J
+   3,L,J
+   2,J
    8,U,X
   39,L,J
-  12,R
-   6,L
+  18,R
   12,L,U,Z
-  31,R
-  10,L
-  13,R
-  29,U,X
+  16,R
+   5
+  33,R
+  28,U,X
 
 #11x
 #lvl_a-09
-  21,L
-   5,R,U,X
-   9,L,U,X
-  11,L,J
+  22,L
+   5,R,U,Z
+  10,L,U,X
+   9,J
    5,L,U,X
   12,R,U,X
   32,R,J
   16,U,X
   16,L,U,C
   13,D,X
-  18,L,J
+  19,L,J
   13,U,X
   13,R,J
    9,R
   14,R,Z
-   9,R,J
-  17,U,X
+   6,R,J
+   3,R
+  19,U,X
   10,L,C
   34,L,J
   13,U,Z
@@ -452,7 +446,8 @@ endrepeat
 
 #4x
 #lvl_a-10
-   9,R
+   1
+   6,R
    1,R,J
   14,R
    1,R,J
@@ -659,5 +654,5 @@ endrepeat
   17,R,U,Z
  143,L
 
-ChapterTime: 1:35.642(5626)
-#1:35.642(5626)
+ChapterTime: 1:34.010(5530)
+#1:34.010(5530)
