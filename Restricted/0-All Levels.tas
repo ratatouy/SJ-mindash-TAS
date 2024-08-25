@@ -1,6 +1,6 @@
 #Strawberry Jam Minimum Dashes
 #All Levels TAS
-#4693x Total
+#4641x Total
 
 #To sync:
 #Use Celeste 1.4.0.0 (or latest)
@@ -18,25 +18,25 @@
 Read,../StartFullCollabFile.tas
 
 #Prologue
-#18x
+#8x
 Read,../Prologue.tas,Start
 
 Read,../Load_Beginner_Lobby.tas,Start
 
 #Beginner Lobby
-#464x
+#463x
 Read,1-Beginner.tas,Start
 
 Read,../Load_Lobby_from_Heartside.tas,Start
 
 #Intermediate Lobby
-#574x
+#564x
 Read,2-Intermediate.tas,Start
 
 Read,../Load_Lobby_from_Heartside.tas,Start
 
 #Advanced Lobby
-#846x
+#836x
 Read,3-Advanced.tas,Start
 
 Read,../Load_Lobby_from_Heartside.tas,Start
@@ -46,13 +46,13 @@ Read,../Load_Lobby_from_Heartside.tas,Start
 #For Narrow Hollow:
 Set,GravityHelper.AllowInAllMaps, False
 
-#1621x
+#1649x
 Read,4-Expert.tas,Start
 
 Read,../Load_Lobby_from_Heartside.tas,Start
 
 #Grandmaster Lobby
-#1149x
+#1148x
 Read,5-Grandmaster.tas,Start
 
-FileTime: 6:43:26.589(1423917)
+FileTime: 6:43:43.266(1424898)
