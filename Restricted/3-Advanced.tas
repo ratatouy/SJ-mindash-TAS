@@ -1,6 +1,6 @@
 #Start
 #Advanced Lobby
-#828x
+#836x
 
 unsafe
 console clrsav
@@ -157,7 +157,7 @@ Read,3_Advanced/the_lab,Start
    1,O
   32
 
-#29x
+#37x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_20-19.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/rightside-down_cavern,Start
