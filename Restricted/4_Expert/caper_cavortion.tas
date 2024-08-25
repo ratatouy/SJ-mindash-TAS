@@ -1,9 +1,10 @@
-RecordCount: 1718
+RecordCount: 1820
 
 console load StrawberryJam2021/4-Expert/Stotch
    1
 
 #Start
+#7x
 #lvl_s1
    4,R
   15,R,X
@@ -47,6 +48,7 @@ console load StrawberryJam2021/4-Expert/Stotch
   12,R
   40
 
+#8x
 #lvl_s2
    1,R
    4,R,D
@@ -56,14 +58,18 @@ console load StrawberryJam2021/4-Expert/Stotch
    8,L,X
   22,R,J
   15,R,X
-   4,R,J
-  28,L,J
-  15,R,U,X
-  20,D
-  15,L,D
+   3,R,J
+   5,J
+   1,R,J
+  15,L,J
+   1,G
+  15,L,J
+  28,L,U,G
+  19,R,J
+   9,L,D
    1,G
    7
-  34,G
+  30,G
    1,R
   14,R,X
   14,L,J
@@ -80,6 +86,7 @@ console load StrawberryJam2021/4-Expert/Stotch
   27,R
   40
 
+#9x
 #lvl_s3
   37,R
    4,R,X
@@ -110,6 +117,7 @@ console load StrawberryJam2021/4-Expert/Stotch
   56,R
   40
 
+#8x
 #lvl_s4
   31,R,J
   14,R
@@ -131,17 +139,16 @@ console load StrawberryJam2021/4-Expert/Stotch
   16,G
   15,U,Z
    9,R
-  16,R,D,X
-  22,R
-  15,D
-  10,R,D
-  15,L
+  18,R,Z
+  13,R
    9,L,D,X
-  10,R,J
-  15,R,X
-  27,R,J
+  13,R,J
+  15,R,Z
+  16,R,D
+   9,R
   40
 
+#13x
 #lvl_s5
   27,R
   13,R,U,Z
@@ -177,6 +184,7 @@ console load StrawberryJam2021/4-Expert/Stotch
   53,R,Z
   40
 
+#11x
 #lvl_s6
    3
   45,R,J
@@ -220,6 +228,7 @@ console load StrawberryJam2021/4-Expert/Stotch
   24,R
   40
 
+#14x
 #lvl_s7
   48,R,J
   18,U,X
@@ -255,6 +264,7 @@ console load StrawberryJam2021/4-Expert/Stotch
   42,R,Z
   40
 
+#15x
 #lvl_s8
   48,R,J
   15,U,X
@@ -315,6 +325,7 @@ console load StrawberryJam2021/4-Expert/Stotch
   38,R
   40
 
+#2x
 #lvl_s9
   47,R,J
   45,U,G
@@ -326,4 +337,5 @@ console load StrawberryJam2021/4-Expert/Stotch
   20,R,U,J,X
  135
 
-ChapterTime: 1:26.904(5112)
+ChapterTime: 1:26.343(5079)
+#87x
