@@ -1,4 +1,4 @@
-RecordCount: 12316
+RecordCount: 12544
 
 console load StrawberryJam2021/4-Expert/fonda1515
    1
@@ -119,6 +119,7 @@ console load StrawberryJam2021/4-Expert/fonda1515
    1,R,J
   11,R
   40
+
 #lvl_a-01
 #13x
    3,R
@@ -234,6 +235,7 @@ console load StrawberryJam2021/4-Expert/fonda1515
    1,R,J
    7,R,Z
   40
+
 #lvl_a-02
 #4x
    7,R,Z
@@ -713,6 +715,7 @@ EndRepeat
   14,J,G
   91
   40
+
 #lvl_a-06
 #21x
   65
@@ -900,6 +903,7 @@ EndRepeat
   10,L,J
    8,L,K,G
   40
+
 #lvl_a-08
 #11x
   11,J
@@ -954,8 +958,9 @@ EndRepeat
   37
   15,L,X
  252
+
 #lvl_a-09
-#29x
+#23x
   69
    1,R,J
   14,R
@@ -1014,12 +1019,15 @@ EndRepeat
   15,U,X
   21,L
   41
-   9,L
-  10,L,X
-  26,R,J
-  14,R,X
-  20,R,J
-  17,U,X
+  17,L,J
+  14,L,Z
+   1,R,J
+   5
+   1,J
+   1
+   1,J
+  34,R,J
+  18,U,X
  167,R
   15,R,U,X
   14,R
@@ -1040,20 +1048,18 @@ EndRepeat
    9,R,D
  223,D
   30
+  27,R,D
+  10,D
+  15,R,U,X
   27,R
-  18,R,X
-  15,R,C
-   6,R
-  14,U,X
-  19,R
-  17,U,X
-  23,R
-  19,U,X
-  27,R
-  15,U,Z
-  11,R
-   1,R,J
-   8,R
+  15,R,U,Z
+   9,L,J
+  27,R,J
+  12,U,X
+  28,R,J
+  15,U,X
+  21,R,J
+  15,U,X
   46
   15,U,X
   30
@@ -1078,6 +1084,6 @@ EndRepeat
   15,U,X
  142
 
-ChapterTime: 4:15.102(15006)
-#4:15.102(15006)
-#119x
+ChapterTime: 4:15.153(15009)
+#4:15.153(15009)
+#117x
