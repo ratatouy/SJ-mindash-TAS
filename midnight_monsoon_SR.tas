@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 7074
+RecordCount: 7082
 
 console load StrawberryJam2021/2-Intermediate/Luma
 
@@ -9,7 +9,6 @@ console load StrawberryJam2021/2-Intermediate/Luma
 #8x
 #Start
  191,J
-
 ### spinner unload cycle (lvl_5)
    5,J
 ###
@@ -484,7 +483,10 @@ EndRepeat
    1,R,J,G
    8,R,G
    1,R
-  30,L
+   2,L
+#lvl 5 cycle
+   2
+  28,L
   33,R,G
    3,R,J,G
    1,R
@@ -511,13 +513,7 @@ EndRepeat
    7,G
    1,D
   25,R
-   6
-   1,R
-   1
-   1,R
-#drift
-1110
-   9,L
+  14,L
   21,L,G
    1,L,D
    1,L,J
@@ -623,66 +619,162 @@ EndRepeat
   38,L
   11,L,J
   15,L,X
-  54
-  20,R,G
-   6,R,J,G
-   1,J,G
+  50
+  27,L,G
+   1,R,D
+  10,R
+   6,L
+  26,L,G
+   3,R,G
+   1,R,D
+  18,R
    1,D
-  21,K,G
-   1,R,D
-  14,K,G
-   7,R,K,G
-   1,R,D
-  20,J,G
-   1,R,J,G
-   1,R,D
-  28,G
-   7,R,G
-   1,R,D
-  15,R,U,J,G
-   1,R,U,G
-   1,U,J,G
-   2,R,U,J,G
-   2,R,U,J,G
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1,D
+   1,R
+  14,L
+  21,L,G
+   1,L,D
    1,L,J
-  38,R,U,K,G
-  51,R,X
+  12,L
+   6,R
    1,R,J
-  20,R,J
-  45,L,U,G
-  24,R,U,G
-  38,G
-   1,D
-   8,L
-  11
-   2,J,G
-  15,R,J
-  43,R,U,K,G
-  22,D,G
-  44,R,X
-stunPause
-  29,R
-   2,R,G
-   2,R,J,G
-  13,R,D,G
-endStunPause
-   4,R,G
-  28,L,U,G
-  78,R,U,J,G
-   1,L,K,G
-  10,G
-   2,L,G
-   2,G
-  20,R,G
+   6,R
+  17,R,G
+   1,J,G
+   3,R,J,G
+  16,J,G
    1,L
-   1,R,J
+   1,K
+   4,R,K
+   8,R
+  21,L,U,G
+  21,L,D
+   8,L
+  11,R
+  13,R,G
+   3,R,J,G
+   4,L,J
+   1,L,G
+   1,L,D
+   3,L
+   3,L,J
+  20,L
+   6
+   1,R
+   5
    3,R
+  20,R,G
+  12,R,J,G
+   5,R,G
+  15,G
+   8,R,G
+  20,R
+   8,L
+  16,L,U,K,G
+   2,L,G
+   2,L,U,G
+   1
+   1,K
+  13,R,G
+   8,L,G
+   1,D
+  21,L,J,G
+   1,D,J
+  21,J,G
+   1,D,J
+  21,L,J,G
+   1,L,D
+  15,G
+   6,L,G
+   1,L,D
+  21,G
+   3,D
+  21,L,G
+   1,D
+  21,L,G
+   1,D
+  14,L,G
+
+  22,R,G
+   5,R,J,G
+   1,R
+   6,L
+  21,L,G
+  15,R,G
+   1,R,J,G
+   1,L,J
+  13,R,J,G
+   5,R,G
+  18,R,J,G
+   1,R
+  14,R,X
+  26,R,U,J,G
+   1,R,D,J
+  18,R,J,G
+   1,K
+  15,R,D,K
+  23,R,J,G
+   1,R,D,J
+   3,R,K,G
+   9,R
+   1,R,J
+  28,R,J,G
+   1
+  10,L
+   1,L,D
+   1,R
+   4
+   7,R
+   1
+   2,R
+   1
+   2,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   4,R
+   1,L
+   2,J,G
+  31,R,J,G
+  13,R,G
+  10,R,J,G
+  18,R,G
+   1,D
+   1,N
+  20,L
+  34,AL,MR
+  37,AL
+   1,S
+   1,O
+   8
+  62,J,MR
+   5,R,U,Z
+  31
+   1,S
+   1,O
+   8
+   2,J
+  17,L,D
+  61,L,D,G
+  73,R,Z
+  24,R,U,G
+  78,R,U,J,G
+  24,R,G
+   1,L
+   2,R,J
+   2,R
    1,R,J,G
   13,R
    1,R,J
    1,R
   40
-
 #lvl_4
 #0x
    5,R
@@ -754,7 +846,6 @@ endStunPause
    1
   25,R,J,G
   40,K
-
 #lvl_5
 #0x
   10,R,K,G
@@ -898,23 +989,107 @@ endStunPause
    1,D,J
   21,J,G
    1,D,J
-  21,J,G
-  21,D,G
-  73,R,X
-   2,G
-   1,J,G
+  21,R,J,G
+  19,R,D,G
+   1,R
+   5,R
+  19
+  31,L
+  24
+  25,R
+   7
+ 120,G
+  10,D,G
+   1,L,J,G
+   1,L,K,G
+   7,L,U,K,G
    1,L,G
-   2,R,G
-  12,R,J,G
+  17,L,U,K,G
+  40,L,G
+   2,L,D,G
+   1,L,D
+   2,L
+   2
+   1,J
+  20,G
    1,R,G
-   3,R,J,G
-  24,R,J
-   1,R,K,G
-   2,L,K
+   1,R,D
+  21,G
+   1,D
+  18,R,G
+   3,G
+   1,R,D
+  18,G
+   3,R,G
+   1,D
+  21,R,G
+   1,R,D
+  21,G
+   1,D
+  21,L,G
+   1,L,D
+  15,L,G
+   6,G
+   1,L,D
+  21,L,G
+   1,D
+  18,L,U,J,G
    3,K
-  15,R,K
-  11,R,D,G
-  35,G
+   1,D,K
+  21,L,G
+   1,L,D
+  59,R,U,J,G
+  31,U,G
+  40,G
+  19,L,G
+   1,L,D
+  15,L,J,G
+   6,J,G
+   1,D
+  21,G
+   1,L,D
+  21,L,G
+   1,L,D
+  15,L,G
+   6,G
+   1,D
+  21,U,G
+   1,D
+  21,U,G
+   1,D
+  21,U,G
+   1,D
+  21,U,G
+   1,D
+  21,U,G
+   1,D
+  21,U,G
+   1,D
+  21,U,G
+   1,D
+  21,U,G
+   1,D
+  21,U,G
+   1,D
+  21,U,G
+   1,D
+  21,U,G
+   1,L
+  80,U,J,G
+  11,D,G
+  27
+  14,J,G
+  59,R,U,J,G
+   2,R,D,J
+  13,R,G
+   1
+   2,K
+   5
+  27,R,G
+   9,R,U,J,G
+   1,R
+  13,R
+  73,R,G
    1,R,J,G
    1,R
    1,R,K,G
@@ -1000,7 +1175,4 @@ endStunPause
   10,R,J
   17,R,U,X
  135
-
-
-
-ChapterTime: 5:55.368(20904)
+ChapterTime: 6:05.296(21488)
