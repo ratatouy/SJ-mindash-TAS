@@ -1,4 +1,4 @@
-RecordCount: 9480
+RecordCount: 9732
 
 console load StrawberryJam2021/3-Advanced/MousseMoose
    1
@@ -6,10 +6,6 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
 #45x
 #Start
  264
-
-#spinner cycle
-   0
-#####
 
 #lvl_intro_fall
    6,F,179
@@ -62,6 +58,9 @@ console load StrawberryJam2021/3-Advanced/MousseMoose
   20,L,D
    9,D
   31,L,D
+#spinner cycle
+   1
+#####
    1,S
    1,D,J
   35,L
@@ -408,80 +407,89 @@ EndRepeat
    1,L,J
   14,L
    1,L,J
-  14,L
-   1,R,J
-  12,R
+   7,L
+   7
+   1,J
+   6,L
+   9,R
 
 #lvl_a5
-  11,R
-  21,R,J
-  13,U,X
-   5,R,J
-   5,R
+   4,R
+  31,R,J
+  21,L,K,G
+   9,K
+   1,K,G
+   1,K
+   1,K,G
+   1,K
+   1,K,G
+   1,K
+   1,L,K
+   3,L
    1
-   3,R,J,G
-   5,R
-   6,R,J
-   3,R
+   8,G
+   8,R,U,Z
    1,L
-  10,R,D
-  17,L
-  17,D
-   1,L
-  40,L,U,X
-  11,L,D
-   4,L
-  14,L,Z
-  10,L
-   6,L,Z
+   1,J,G
+   1,L,K,G
+   3,R,K
+   4,K
+   1,J,G
+   9,J
+  27,D
+   4,D,J
+   3,K,G
+   6,L,K
+   2,L
+   5
+   1,G
+### cycle ###
+  60,G
+#############
+   1,J,G
+   3,R,J
+   1,L,J
+   3,K,G
+   1,R,K
+   1,L,K
+   8,J,G
+   1,R,J
+   8,L,K,G
+   1,K
+  11,J,G
+   1,R,J
+   1,K
+  12,R,J
+   2,K
+   7,R,J,G
+   2,J
+   7,K,G
+   4,L,K
+   5,R,X
+   2,R,J,G
+   1,J
+   3,R,J
+   6,R
    1,R,J
    9,R
-   1,R,D,J
-   1,J
    5,R,J
-   2,R
-   3,R,J,G
-   2,J
-   1
+  17,R
+Repeat 6
+   1,R,J
    3,R
-  18,R,J
-   1,K,G
-   1,S
-   1,D,J
-  39,K
-   4
-   6,L
-   7
-   2,D
-  32
-   1,D,J
-   1,L,J
-   4,J
-   5,R,J
-   1,L,K,G
-Repeat, 9
-   1,R,K
-   1,K
+   1,R
+   1,R,J
+   4,R
 EndRepeat
-   1,R,K
-   1,J
-  15,R,J
-   3,J
-   1,R,J
-  16,R,K
-  10,J,G
-   1,L,J
-  14,R,K,G
-   1,J,G
-   1,L
-  14,R,K,G
+   6,R,D,J
+  14,R,D
+   1,L,D
    1
-   1,R,J,G
-   7,R
-   5,R,J
-   7,R
-   2,J
-   1,R,J
+   1,L,D
+   1,D
+   1,R,D
+   1,D
+  13,R,D
    1,R,K,G
    1,R,J,G
   14,R
@@ -495,7 +503,9 @@ EndRepeat
 #lvl_b1
    1,R,J
   33,R
-  38
+### cycle ###
+  31
+#############
    1,R,J
   14,R
    1,R,J
@@ -1117,4 +1127,4 @@ EndRepeat
    1,R,J
   36,R
 
-ChapterTime: 2:23.412(8436)
+ChapterTime: 2:23.021(8413)
