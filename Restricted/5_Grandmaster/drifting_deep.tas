@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://fbanana.com/mods/424541
 
-RecordCount: 5817
+RecordCount: 5818
 
 console load StrawberryJam2021/5-Grandmaster/xlibiza
    1
@@ -1775,7 +1775,7 @@ endrepeat
 #dash
    8,L,X
  135
-  10
+
 ChapterTime: 7:10.559(25327)
 #25309
 #119 Dashes -> 97 Dashes
