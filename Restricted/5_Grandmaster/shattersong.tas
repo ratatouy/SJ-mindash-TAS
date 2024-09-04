@@ -1,4 +1,4 @@
-RecordCount: 1593
+RecordCount: 1881
 
 console load StrawberryJam2021/5-Grandmaster/Hydro
    1
@@ -162,74 +162,83 @@ Endrepeat
    1,R,K,G
   15,R
   38,R,J
-  12,R,K,G
-  12,R,J,G
-  11,R
+  12,L,K
+   2,J,G
+  10,R,K
+   9,R
    9,R,J
-  40
+#0:27.319(1607)
 
+  40
 #0x
 #lvl_A2 (0)
    4,R,J
-   1,K
-   4,L,K
-  10,L,J,G
-   2,L,K,G
+   1,L,K,G
+   4,R,K
    2,L,K
-   4,J
-   4,L,K
-   3,R,J
-   8,L,K
-   4,R,J
-   9,R,K
-   2,J,G
+  12,L,J,G
+   1,K
+   3,L,K
+   4,L,J
+   3,K
+   6,L,J
+  12,R,K
+   6,J,G
+#0:28.985(1705)
   40,J
-
 #0x
 #lvl_Dissonance
-  10,J
+   6,J,G
   12,K,G
   12,J,G
-   6,K,G
-   9,R,J,G
-  40,R
-  61
-   5,J
-  21,R,J
-   2,K,G
-   5
-   5,L
-  31,L,D,G
-  12,L,G
-   2,L,D,G
-  26,R,D,G
-  31,D,G
-  40,G
-
+  12,K,G
+   7,J,G
+   7,R
+   1,L,D,J
+   7,D,J
+   1,R
+   1,R
+   1,L
+   1,L
+   1,D,K,G
+   3,R,K
+   1,R
+  11,R,K
+   1,R,J
+   6,R
+   1,R,J
+   6,R,K
+   8,R
+  68,L,G
+  58,R,D,G
+#0:33.609(1977)
+  40
 #0x
 #lvl_A2 (1)
-  60,R,D,G
-  24,G
- 123,G
+  41,R,D,G
+   3,R,U,G
+  11,R,D,G
    6,R,J,G
-  57,R,U,G
-  10,R,U,J,G
-  55,R,D,G
+  52,R,U,G
+   5,R,J,G
+  41,R,U,G
+  24,R,D,G
    7,R,J,G
-  38,R,U,G
-   5,R,U,J,G
+  28,R,U,G
+   6,R,D,G
+   5,R,J,G
    1,R,J
-  63,R,U,J,G
+  64,R,U,J,G
   10,R,K,G
- 126,U,G
+ 123,U,G
   12,D,G
   59,R,U,G
-  54,R,U,J,G
+  53,R,U,J,G
   44,R,U,K,G
   13,L,G
   11,D,G
   16,R,G
-   8,R,U,J,G
+   7,R,U,J,G
   57,R,U,G
    1,R
    1,R,J,G
@@ -239,9 +248,9 @@ Endrepeat
   20,R,U,K,G
  132,R,U,G
    2,R,J,G
-  43,R,G
+  42,R,G
+#0:50.065(2945)
   40,G
-
 #0x
 #lvl_Second Movement
    5,R,G
@@ -619,4 +628,4 @@ Endrepeat
   39,R
  135
 
-ChapterTime: 3:49.092(13476)
+ChapterTime: 3:45.352(13256)
