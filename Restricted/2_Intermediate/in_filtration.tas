@@ -1,8 +1,8 @@
-RecordCount: 2674
+RecordCount: 3355
 console load StrawberryJam2021/2-Intermediate/Jems
    1
 
-#14x
+#13x
 #Start
   82
 
@@ -1173,7 +1173,7 @@ endrepeat
   40
 
 #lvl_btd-33
-#2x
+#1x
    1,R,J
    6,R
    1,R,J
@@ -1190,38 +1190,54 @@ endrepeat
    1,R,K,G
   23,R,J,G
   15,R,K,G
-  38,R
-  68,L
-  12
-   1,L
-   2
-#dash
-  16,L,Z
-  21,R,J,G
+  25,R
+  19
+   1,L,K,G
+  50
+   1,J
+  47,R
    1,R
-   1,L,K
-   1,L,J
-  10,L,G
-  28,G
    1,J,G
-   1,R,J
-   1,L,J
+  15
+   2,L,J
+   3,L
+  10
    1,K,G
-   3,J,G
-   6,K,G
-  36,R,K
+  20,L
+  10
+  53,R
+  50,R,U,G
+  49,R,G
+   7
+   1,J
+  19,L,J
+   2,L,G
+  16,G
+  83,G
+   2,D,G
+   1
+   1,J
+   1,K,G
+   1,L,J,G
+   5,R,J,G
+   1,L,J,G
+   9,K,G
+  33,R,J
   63,L,D
-  33,R,D,G
-   1,D
+  29,R,D,G
+   4,R
+   1
   95,R,G
    1,J,G
    1,L
   40,R
- 146,R,G
+ 100,R,G
+   3,R,D,G
+  44,R,G
   10,R,D,G
    7,R,J,G
   20,R
-  21,G
+  22,G
    1,R,J,G
    4,J
   11
@@ -1458,6 +1474,6 @@ endrepeat
   15,U,X
  135
 
-ChapterTime: 3:24.238(12014)
+ChapterTime: 3:29.287(12311)
 #12032
-#14 dashes
+#13 dashes
