@@ -235,9 +235,7 @@ endrepeat
 #dash
    6,R,U,X
   26
-StartExportGameInfo infodump.txt
    1,R,D
-FinishExportGameInfo
   20,F,98.26815
   12,F,98.87280
   20,F,104
