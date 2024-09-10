@@ -1,4 +1,4 @@
-RecordCount: 6515
+RecordCount: 6519
 #uncomment if the golden is spawned
 #console wipedebug
 
@@ -289,7 +289,7 @@ endrepeat
    1,R,J
   40
 
-#19x
+#25x
 #lvl_a03_pansear
    1,R,J
    9,R
@@ -609,11 +609,12 @@ endrepeat
    2,R,J
    8,R
    1,R,J
-   6,R
+   5,R
   40
 
-#18x
+#17x
 #lvl_b01_stotch
+   1
    7,R
   15,R,X
   19,R
@@ -1464,7 +1465,7 @@ EndRepeat
    1,R,J
   40
 
-#not finished
+#8x
 #lvl_c01_redboule
   14,R
    1,R,J
@@ -1585,6 +1586,7 @@ EndRepeat
    5,R
   40
 
+#12x
 #lvl_c02_moladan
    1,R,J
    8,R
@@ -1698,6 +1700,7 @@ EndRepeat
    6,R
   40
 
+#11x
 #lvl_c03_alice
    8,R
    1,R,J
@@ -1823,6 +1826,7 @@ EndRepeat
    4,R
   40
 
+#20x
 #lvl_c04_fonda
   10,R
    1,R,J
@@ -1942,6 +1946,7 @@ EndRepeat
   13,R
   40
 
+#3x
 #lvl_c05_kaerra
    1,R
   18,D,J
@@ -2024,6 +2029,7 @@ endrepeat
   22,D
   40
 
+#1x
 #lvl_c06_fall
   74,L,D
   12,R,D
@@ -2032,6 +2038,7 @@ endrepeat
   11,R,Z
   25,R
 
+#0x
 #lvl_d00_intro (0)
    1,R,J
    5,R
@@ -2099,6 +2106,7 @@ endrepeat
    3,R
   40
 
+#0x
 #lvl_d01_ru (0)
   11,R
    1,R,J
@@ -2122,10 +2130,12 @@ endrepeat
   13,R,D,G
   40
 
+#0x
 #lvl_d00_intro (1)
   11,R,D,G
   40
 
+#4x
 #lvl_d01_ru (1)
    4,R,D,G
    2,R,J,G
@@ -2306,6 +2316,7 @@ EndRepeat
   19,R,D,G
   40
 
+#8x
 #lvl_d02_lethargicdoggo (0)
   10,R,D,G
    1,R,J,G
@@ -2490,6 +2501,7 @@ EndRepeat
   14,R
   40
 
+#0x
 #lvl_d03_appels (0)
    1,S
    1,D,O
@@ -2517,10 +2529,12 @@ EndRepeat
    5,R,D,G
   40
 
+#0x
 #lvl_d02_lethargicdoggo (1)
   11,R,D,G
   40
 
+#0x
 #lvl_d03_appels (1)
   10,R,D,G
 Repeat,4
@@ -2794,6 +2808,7 @@ EndRepeat
   28,R,G
   40
 
+#0x
 #lvl_d04_yoshachobi7
   10,R,D,G
   30,R
@@ -2872,6 +2887,7 @@ EndRepeat
   10,R
   40
 
+#0x
 #lvl_d05_warp
    9,R
 Repeat,3
@@ -2930,11 +2946,13 @@ EndRepeat
   11,R
   36,L
 
+#0x
 #lvl_e00_intro
    4,L
    2,R,J
   40
 
+#8x
 #lvl_e01_linj
    4,R,J
    7,R
@@ -2997,6 +3015,7 @@ EndRepeat
    2,R
   40
 
+#3x
 #lvl_e02_aspar
   24,R
    6,R,J
@@ -3064,6 +3083,7 @@ EndRepeat
    4,R
   40
 
+#4x
 #lvl_e03_spirialis
   10,R
    1,R,J
@@ -3168,6 +3188,7 @@ EndRepeat
    7,R
   40
 
+#13x
 #lvl_e04_scroogle
    7,R
 Repeat,3
@@ -3294,6 +3315,7 @@ EndRepeat
   13,U,C
   40
 
+#21x
 #lvl_e05_itsabrody
    3
    9,L,J
@@ -3424,6 +3446,7 @@ EndRepeat
   23,R,D
   40
 
+#0x
 #lvl_e06_transition
    8,R,D
    1,J
@@ -3476,6 +3499,7 @@ EndRepeat
   17,L
  102,L,J
 
+#1x
 #lvl_f00_intro (0)
   11,R
    6,R,J
@@ -3513,6 +3537,7 @@ EndRepeat
    8,R
   40
 
+#0x
 #lvl_f01_quantumspaceman (0)
   13,R,D
   11,R,J
@@ -3540,11 +3565,12 @@ EndRepeat
    2,R,G
   40
 
+#0x
 #lvl_f00_intro (1)
   11,R,G
   40
 
-
+#0x
 #lvl_f01_quantumspaceman (1)
   70,R,G
    1,R,J,G
@@ -3689,6 +3715,7 @@ EndRepeat
    8,R
   40
 
+#1x
 #lvl_f02_dantko
    8,R
    1,R,J
@@ -3860,6 +3887,7 @@ EndRepeat
    5,R
   40
 
+#0x
 #lvl_f02.5_xolimono
   12,R
    1,R,J
@@ -3891,6 +3919,7 @@ EndRepeat
   23,R,D
   40
 
+#5x
 #lvl_f03_hivemindsrule
    8,R,D
    1,R,J
@@ -4018,6 +4047,7 @@ EndRepeat
   12,R
   40
 
+#2x
 #lvl_f04_alt
    2,R
 Repeat,3
@@ -4033,8 +4063,9 @@ EndRepeat
    1,R,J
   84
 
+#19x
 #lvl_f04_archra
-#1px off from working as a dave
+##1px off from working as a dave
 #  11,R,D
 #   1,R,J
 #  14,R
@@ -4053,6 +4084,7 @@ EndRepeat
 #  15,R,U,X
 #  11,R,J
 #  15,R,X
+## 
    8,R,D,X
   19,R,J
   16,R,U,Z
@@ -4151,6 +4183,7 @@ EndRepeat
    1,R,J
   49,R,D
 
+#0x
 #lvl_f04_alt_2
   26,R,D
    1,R,J
@@ -4172,6 +4205,7 @@ EndRepeat
    9,R
   40
 
+#4x
 #lvl_f05_cabob
    4,R
    7,R,J
@@ -4260,6 +4294,7 @@ EndRepeat
   11,R
    1,R,J
 
+#8x
 #lvl_f06_cabob
   14,R
    1,R,J
@@ -4317,6 +4352,7 @@ EndRepeat
    4,R,J
  250,R,K
 
+#0x
 #lvl_f07_butcherberries
    9,R
    4,R,D,J
@@ -4366,6 +4402,7 @@ EndRepeat
   14,R
   13,R,J
 
+#0x
 #lvl_f07_xplosives
    7,R
    5,L,J
@@ -4413,6 +4450,7 @@ EndRepeat
    1,R,J
   11,R
 
+#0x
 #lvl_f07_ekisacik
    7,R
    1,R,J
@@ -4425,6 +4463,7 @@ EndRepeat
    2
   28,G
 
+#0x
 #lvl_f07_lennygold
   21,G
    2,J
@@ -4435,6 +4474,7 @@ EndRepeat
   40,R,J
    4,R,D
 
+#0x
 #lvl_f07_syrenyx
 Repeat,9
    1,R,J
@@ -4462,6 +4502,7 @@ EndRepeat
    6,R,J
   45,R,D
 
+#1x
 #lvl_f07_legs
    3
   18,R,X
@@ -4503,6 +4544,7 @@ EndRepeat
    1,R
    3,L
 
+#0x
 #lvl_f07_introcar
   13,L
    1,L,J
@@ -4514,9 +4556,11 @@ EndRepeat
    1,L,J
    3,L
 
+#0x
 #lvl_f07_violet
   13,L,D
 
+#1x
 #lvl_f07_and_you
    9,R
    1,R,J
@@ -4620,4 +4664,4 @@ EndRepeat
  135
 
 ChapterTime: 15:19.853(54109)
-#54109, 299x
+#54109, 306x
