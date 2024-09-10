@@ -1,4 +1,4 @@
-RecordCount: 6227
+RecordCount: 6515
 #uncomment if the golden is spawned
 #console wipedebug
 
@@ -11,6 +11,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
 
 #Start
  190
+
 #0x
 #lvl_a00-intro1
    5,R
@@ -81,6 +82,7 @@ console load StrawberryJam2021/4-Expert/ZZ-HeartSide
    6,R
   40
 
+#3x
 #lvl_a01_jackal
    7,R
    3,R,D
@@ -286,6 +288,7 @@ endrepeat
    6,R
    1,R,J
   40
+
 #19x
 #lvl_a03_pansear
    1,R,J
@@ -448,7 +451,6 @@ endrepeat
    2
    6,R,D
   44,R,J
-#dash
   25,R,U,Z
    4,R,J
    4,R
@@ -457,10 +459,8 @@ endrepeat
    5,L
   13,L,J
    1
-#dash
   15,U,X
   22,L
-#dash
   17,L,X
    4,L,J
    1,L,K
@@ -499,29 +499,24 @@ endrepeat
    1,R,J
    2,R
   40
-#22x
+
+#17x
 #lvl_a05_flamecrafter
    2,R
   10,R,J
   21,R
   10,R,J
-  19,U,X
-  15,L,J
-  12,L,X
-   6,R,J
-  15,R,D,X
-  34,R,J
-  18,U,X
-   1,J
-  31,R,J
-  10,R
-   1
-   1,R
-   4
-   1,R
-  10,R,D,X
-  13,L,J
-   1,J
+  14,U,X
+  74,R,J
+  27,R,K
+  14,R,U,Z
+  26,R,J
+  13,R
+  10,R,Z
+   1,L,J
+   7,J
+   3,L,J
+   3,J
    4,X
   14,L,J
    1,L
@@ -529,39 +524,32 @@ endrepeat
    8,L
    1,L,J
    9,D,X
-  22,J
+  21,J
   15,U,X
-   1,R
-  10,R,J
-   5,J
-   1,R,J
-   6,J
-  15,R,X
-  15,R,C
-  14,R,D
-  16,L,D
-  10,R,D,X
+  13,J
+  21
+   6,L
+   5,L,X
+  20,R,J
+  26,R
+  10,L,D,X
   21,R,J
-  32,R,X
+  33,R,X
   10,R,C
-   8,R,J
-  13,R
-   4
-  10,R,X
-   3,R,J
-   3,J
-   2,R,J
-  14,R,Z
-   1,R,J
-  12,R
-   2
-  10,R,D
-   1,R,J
-  10,D,X
-   1,R,J
-  16,R
+  37,R,J
+  15,R,Z
+   3
+   9,R
+   1,J
+   7,R,J
+  32,R
+   8,R,X
    1,R,J
    7,R
+   9,R,J
+   5,R
+   3,R,J
+   8,R
   41,R,X
    9,L,D
    7,D
@@ -829,6 +817,7 @@ endrepeat
    3,R,J
   39,R
    6,R,J
+
 #0x
 #lvl_b02_alt
   18,R,J
@@ -837,7 +826,7 @@ endrepeat
    1,R
   40
 
-#19x
+#15x
 #lvl_b03_banana
    5
    4,K
@@ -978,40 +967,22 @@ endrepeat
    7,R
   47,R,X
   15,U,C
-  18,R
-   8,R,J,G
-   9,R
-   1,R,J
-   6,R
-   1,J
-   6,R,J
-   1,J
-   1,R,J
-   1,J
-   1,R,J
-   1,J
-   1,R,J
-   1,J
-   1,R,J
-  35,R,X
+   1,L
+   2
+   9,R,X
    1,R,J,G
-  52,R,K,G
-   1,R,D
-   1,R
-   1,R,D
-   1
-   1,R,D
-   1,R,J,G
-   1,R,K,G
+   3,R,K,G
+  12,R,J,G
+  24,R
+   1,R,J
   14,R
-Repeat,8
+   1,R,J
+  33,R
+Repeat,9
    1,R,J
   14,R
 EndRepeat
-   1,R,J
-  17,R
-   2
-   2,R
+  15,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -1022,7 +993,7 @@ EndRepeat
    7,R
   40
 
-#23x
+#21x
 #lvl_b04_powerav
    7,R
 Repeat,4
@@ -1048,57 +1019,64 @@ EndRepeat
   14,R
    1,R,J
   15,R
-  10,R,J
-   1,L,J
-   1,R,J
-   6,K,G
-   7,L,K
-   8,R,J
-   2,R
-   5,R,X
-  21,R,G
-   1,D
-  11,U,X
-  21,L,G
+  12,R,J
+   5,K,G
+   1,L,K
+   1,K
    1
-  28,R
-  15,R,D,X
-  22,R,J
-   4,J
-   3,R,J
-  15,U,X
-  21,L,G
-   1
-   4,L
-  13,U,X
-  17,R
-  12,R,U,X
-  41,L
-   5,D
-  10,R,D
-   6,R
-  13,R,D,X
-   1,R,J
-   4
-   3,R
+   1,L
   11,R,J
    5,R
+  15,R,J
+   1,R
+   9,U,X
+  20,G
+   1,R,G
+   1,L
+  27,R
+  14,R,D,X
+   1,R,J
+   4,R
+   1,R,J
+   2,R
+  25,R,J
+  14,U,X
+  22,L,G
+   4,L
+  13,U,X
+  18,R
+  11,R,U,X
+  45,D
+  14,R,D
+   1,D
+  14,R,D,X
    2,R,J
-   3,R
-   1,L,K,G
-  11,R,K
-   5
-   1,J
+   1,R
+   1,R,J
+   1,R
+   2,R,J
+   5,R
+  14,R,J,G
+   1,L,J
+   9,K,G
+   3,R,K
+   1,K
+   1,R,K
+   2,L,J
   15,L,Z
-  21,R,D
-   5,D
+  16,R
    6,R,D
+   5,D
+   1,R,D
    1,D
   12,R,D
+   3,R
+   1
+   1,D
   15,R,Z
-  23,R
+  22,R
   15,R,U,Z
-   2,L
+   3,L
   11,L,J,G
    1,L
    6,K,G
@@ -1136,8 +1114,7 @@ EndRepeat
    4,G
    1,D,G
   71,G
-   1
-   1,L
+   2
   12,D
    7,R,D
    1,D
@@ -1165,36 +1142,19 @@ EndRepeat
    5,L
   15,R,U,X
   19,R
-   8,R,Z
-   2,R,J
+   5,R,Z
+   1,R,J
+   7,R
+   3
+# can skip this dash maybe
+   5,R,D,X
+  37,R,J
+  15,U,X
    9,R
-  25,R,J
-  15,R,U,X
-  19,R,J
-  15,R,X
-   1,R,J,G
-   1,R,G
-   2,R
-   8,L
-   2,L,J
-  12,U,X
-
-
-
-#   5,R,Z
-#   1,R,J
-#   7,R
-#   3
-#   5,R,D,X
-#  26,R,J
-#  16,R,U,X
-#   2
-#   7,R
-#  16,R,X
-#   1,R,J,G
-#   9,R
-#   2,R,J
-#  12,U,X
+   3,R,J,G
+   8,R
+  10,R,J
+   9,U,X
    1,J
    4,L,D
   14,R,D
@@ -1428,6 +1388,7 @@ EndRepeat
   15,R
   40
 
+#1x
 #lvl_b06_transition
   13,R
    1,R,J
@@ -1502,6 +1463,7 @@ Repeat,4
 EndRepeat
    1,R,J
   40
+
 #not finished
 #lvl_c01_redboule
   14,R
@@ -1646,8 +1608,7 @@ EndRepeat
    1,L,K
    1,R,J,G
    1,R,K,G
-   7,K
-   3,K
+  10,K
    1,R,J,G
    3,R,J
    4,R,K,G
@@ -1709,8 +1670,7 @@ EndRepeat
    6,R
    1,R,J
   15,R,D,X
-   2,R
-   1,R
+   3,R
   36,R,J
   11,U,Z
   15,R,J
@@ -1737,6 +1697,7 @@ EndRepeat
    1,R,J
    6,R
   40
+
 #lvl_c03_alice
    8,R
    1,R,J
@@ -1826,7 +1787,6 @@ EndRepeat
   11
   18,L
    1,L,G
-#
   58,R,J,G
    6,R,D,G
   13,J,G
@@ -1846,29 +1806,6 @@ EndRepeat
   10,R,J
    8,R
   32,R,X
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
   11,R,Z
    1,R,J
    4,R
@@ -1912,9 +1849,7 @@ EndRepeat
    6
    2,J
    1,L
-   5
-  10
-   1
+  16
    3,L
    1,J,G
    4,R,J
@@ -1956,8 +1891,7 @@ EndRepeat
    1,R,D
   15,R,X
   14,R,Z
-  12,R,J
-  10,R,J
+  22,R,J
   13,J
    1,D
   58,R
@@ -1983,8 +1917,7 @@ EndRepeat
   28
    7,L
  231
-  20,L
-   1,L
+  21,L
    1,L,J
    1,K
    1,R,D
@@ -2020,8 +1953,6 @@ EndRepeat
    3,J,G
   12,L,J,G
    1,L,K,G
-
-
    9,L,J,G
   45,J
   13,D
@@ -2047,13 +1978,9 @@ EndRepeat
    4,R
    1,R,J,G
   16,R,K,G
-  52,D
-   1,D
+  53,D
    1,L,D
-   1,L
-   1,L
-   1,L
-   2,L
+   5,L
    2,L,D
    1,L,G
   12,L
@@ -2100,15 +2027,12 @@ endrepeat
 #lvl_c06_fall
   74,L,D
   12,R,D
-   1,R
-   2,R
+   3,R
    1,R,D
   11,R,Z
   25,R
 
-
 #lvl_d00_intro (0)
-
    1,R,J
    5,R
    1,R,J
@@ -2127,8 +2051,6 @@ endrepeat
    5,R
    4,R,J
   21,R
-
-
    8,R,J
    2,R
    1,R,K,G
@@ -2987,9 +2909,7 @@ EndRepeat
    1,R,J
   27,R,D
    1,J
-   4,R,J
-   1,R,J
-   1,R,J
+   6,R,J
    3,L
    2,R,J
    1,R,K,G
@@ -3018,8 +2938,7 @@ EndRepeat
 #lvl_e01_linj
    4,R,J
    7,R
-  10,R,J
-  15,R,J
+  25,R,J
   15,R,U,X
    1,R
    1,U,X
@@ -3079,8 +2998,7 @@ EndRepeat
   40
 
 #lvl_e02_aspar
-  12,R
-  12,R
+  24,R
    6,R,J
    7,L,J
    6,K,G
@@ -3145,6 +3063,7 @@ EndRepeat
    1,R,J
    4,R
   40
+
 #lvl_e03_spirialis
   10,R
    1,R,J
@@ -3330,9 +3249,7 @@ EndRepeat
    1,R
    1
    1,R,D
-   1,R,D,J
-   1,R,D,J
-   2,R,D,J
+   4,R,D,J
    1
    1,L
    4,J,G
@@ -4428,8 +4345,7 @@ EndRepeat
   18,R
    3,R,J
    6,R
-   2,R,J
-   5,R,J
+   7,R,J
    9,L,J
    1,L,G
    1,J
@@ -4703,5 +4619,5 @@ EndRepeat
   15,U,X
  135
 
-ChapterTime: 15:20.431(54143)
-#54143, 304x
+ChapterTime: 15:19.853(54109)
+#54109, 299x
