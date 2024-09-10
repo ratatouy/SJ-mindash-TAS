@@ -1,5 +1,5 @@
 #just added this
-RecordCount: 634
+RecordCount: 663
 
 console load StrawberryJam2021/3-Advanced/Indecx
    1
@@ -107,20 +107,16 @@ console load StrawberryJam2021/3-Advanced/Indecx
 
 #lvl_4
 #(1x)
-   5,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  10,J
-   1,R,J
-   9,J
-   9,D
-  14,R,D
+   3,R
+   1
+  13,R
+  12,R,J
+  30,R,D
    3,D
-  17,R
-  20,R,J
+  15,R
+   1,R,J
+   2,R
+  19,R,J
    1,J
   16,R,J
    1,R,K,G
@@ -508,5 +504,5 @@ EndRepeat
   21,R,X
  135,R,D
 
-ChapterTime: 1:05.348(3844)
+ChapterTime: 1:05.008(3824)
 #14x -> 12x
