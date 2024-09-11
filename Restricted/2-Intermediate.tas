@@ -1,5 +1,5 @@
 #Intermediate Lobby
-#564x
+#554x
 
 unsafe
 console clrsav
@@ -58,7 +58,7 @@ Read,2_Intermediate/supernautica,Start
    1,O
   32
 
-#35x
+#33x
 Read,../Lobby_Movement/2_Intermediate_Lobby/int_8-7,Start
 Read,../Enter_Level,Start
 Read,2_Intermediate/sleeping_under_stars,Start
@@ -100,14 +100,14 @@ Read,2_Intermediate/sea_of_soup,Start
    1,O
   32
 
-#14x
+#13x
 Read,../Lobby_Movement/2_Intermediate_Lobby/int_12-13,Start
 Read,../Enter_Level,Start
 Read,2_Intermediate/in_filtration,Start
    1,O
   32
 
-#32x
+#30x
 Read,../Lobby_Movement/2_Intermediate_Lobby/int_13-16,Start
 Read,../Enter_Level,Start
 Read,2_Intermediate/construction_conundrum,Start
@@ -135,7 +135,7 @@ Read,2_Intermediate/square_the_circle,Start
    1,O
   32
 
-#100x
+#95x
 Read,../Lobby_Movement/2_Intermediate_Lobby/int_18-19,Start
 Read,../Enter_Heartside,Start
 Read,2_Intermediate/raspberry_roots,Start

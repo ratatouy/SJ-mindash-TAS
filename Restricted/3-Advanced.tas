@@ -1,6 +1,6 @@
 #Start
 #Advanced Lobby
-#836x
+#799x
 
 unsafe
 console clrsav
@@ -10,14 +10,14 @@ console load StrawberryJam2021/0-Lobbies/3-Advanced
    1
 
 #Start
-#42x
+#32x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_0-15.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/sands_of_time.tas,Start
    1,O
   32
 
-#19x
+#15x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_15-12.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/golden_dawn.tas,Start
@@ -38,7 +38,7 @@ Read,3_Advanced/bee_berserk.tas,Start
    1,O
   32
 
-#57x
+#55x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_13-11.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/belated_valentines_day.tas,Start
@@ -52,7 +52,7 @@ Read,3_Advanced/superstructure.tas,Start
    1,O
   32
 
-#33x
+#31x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_10-9.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/toggle_theory.tas,Start
@@ -66,7 +66,7 @@ Read,3_Advanced/forest_rush.tas,Start
    1,O
   32
 
-#47x
+#43x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_8-7.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/synapse.tas,Start
@@ -122,7 +122,7 @@ Read,3_Advanced/dusk_city.tas,Start
    1,O
   32
 
-#17x
+#16x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_25-23.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/javas_crypt,Start
@@ -136,7 +136,7 @@ Read,3_Advanced/slime_time,Start
    1,O
   32
 
-#19x
+#17x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_24-22.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/thinking_with_portals,Start
@@ -150,21 +150,21 @@ Read,3_Advanced/lethal_laser_laboratory,Start
    1,O
   32
 
-#31x
+#30x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_21-20.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/the_lab,Start
    1,O
   32
 
-#37x
+#29x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_20-19.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/rightside-down_cavern,Start
    1,O
   32
 
-#28x
+#27x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_19-16.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/jellyfish_sanctum,Start
@@ -178,7 +178,7 @@ Read,3_Advanced/tectonic_trenches,Start
    1,O
   32
 
-#21x
+#19x
 Read,../Lobby_Movement/3_Advanced_Lobby/adv_18-17.tas,Start
 Read,../Enter_Level,Start
 Read,3_Advanced/undergrowth,Start

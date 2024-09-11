@@ -1,5 +1,5 @@
 #Beginner Lobby
-#463x
+#462x
 
 #Note:
 #Nx+Mx means that the lobby movement
@@ -31,7 +31,7 @@ Read,1_Beginner/forest_path,Start
    1,O
   32
 
-#16x
+#15x
 Read,../Lobby_Movement/1_Beginner_Lobby/beg_11-12,Start
 Read,../Enter_Level,Start
 Read,1_Beginner/azure_caverns,Start
