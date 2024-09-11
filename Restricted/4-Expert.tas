@@ -1,6 +1,5 @@
-#Start
 #Expert Lobby
-#1649x
+#1590x
 
 unsafe
 console clrsav
@@ -13,15 +12,14 @@ console load StrawberryJam2021/0-Lobbies/4-Expert
 Set,GravityHelper.AllowInAllMaps, False
 
 #Start
-
-#70x
+#69x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_0-1.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/madeline_the_bubble.tas,Start
    1,O
   32
 
-#119x
+#115x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_1-2.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/clockwork.tas,Start
@@ -71,21 +69,21 @@ Read,4_Expert/flying_battery.tas,Start
    1,O
   32
 
-#19x
+#18x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_14-15.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/mosaic_garden.tas,Start
    1,O
   32
 
-#44x
+#27x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_15-13.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/a_change_in_direction.tas,Start
    1,O
   32
 
-#38x
+#37x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_13-12.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/system_invalidmap.tas,Start
@@ -99,7 +97,7 @@ Read,4_Expert/golden_alleyway.tas,Start
    1,O
   32
 
-#32x
+#31x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_11-9.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/subway_neon.tas,Start
@@ -127,7 +125,7 @@ Read,4_Expert/floating_point.tas,Start
    1,O
   32
 
-#88x
+#84x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_18-17.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/caper_cavortion.tas,Start
@@ -141,7 +139,7 @@ Read,4_Expert/hydroshock.tas,Start
    1,O
   32
 
-#95x
+#91x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_16-22.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/time_trouble.tas,Start
@@ -190,7 +188,7 @@ Read,4_Expert/summit_down-side.tas,Start
    1,O
   32
 
-#42x
+#39x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_25-26.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/psychokinetic.tas,Start
@@ -204,21 +202,21 @@ Read,4_Expert/garden_of_khutara.tas,Start
    1,O
   32
 
-#68x
+#65x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_27-29.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/chromatic_complex.tas,Start
    1,O
   32
 
-#30x
+#28x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_29-28.tas,Start
 Read,../Enter_Level,Start
 Read,4_Expert/polaris.tas,Start
    1,O
   32
 
-#317x
+#299x
 Read,../Lobby_Movement/4_Expert_Lobby/exp_28-G.tas,Start
 Read,../Lobby_Movement/4_Expert_Lobby/exp_G-D.tas,Start
 Read,../Lobby_Movement/4_Expert_Lobby/exp_D-30.tas,Start
