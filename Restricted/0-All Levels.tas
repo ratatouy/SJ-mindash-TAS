@@ -1,13 +1,12 @@
 #Strawberry Jam Minimum Dashes
 #All Levels TAS
-#4641x Total
+#4556x Total
 
 #To sync:
 #Use Celeste 1.4.0.0 (or latest)
 #Use Everest 4607 (or latest stable)
 #Use Strawberry Jam 1.0.9 (or latest)
-#Please let us know if future versions
-#Appear to be desyncing the TAS
+#Please let us know if future versions appear to be desyncing the TAS
 
 #Use the bindings in the CelesteTAS readme
 #Change your default map to Strawberry Jam Collab
@@ -15,6 +14,7 @@
 #Make sure map select shows up
 #Open and close Mod Options if it doesn't
 
+#Look through this file to see if you need to change menuing for selecting the mod (or if you need to remove that menuing altogether, assuming you changed the default map to SJ Collab)
 Read,../StartFullCollabFile.tas
 
 #Prologue
@@ -24,13 +24,13 @@ Read,../Prologue.tas,Start
 Read,../Load_Beginner_Lobby.tas,Start
 
 #Beginner Lobby
-#463x
+#462x
 Read,1-Beginner.tas,Start
 
 Read,../Load_Lobby_from_Heartside.tas,Start
 
 #Intermediate Lobby
-#564x
+#554x
 Read,2-Intermediate.tas,Start
 
 Read,../Load_Lobby_from_Heartside.tas,Start
@@ -52,7 +52,7 @@ Read,4-Expert.tas,Start
 Read,../Load_Lobby_from_Heartside.tas,Start
 
 #Grandmaster Lobby
-#1148x
+#1143x
 Read,5-Grandmaster.tas,Start
 
-FileTime: 6:44:25.749(1427397)
+FileTime: 6:42:54.391(1422023)
