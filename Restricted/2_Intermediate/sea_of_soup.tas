@@ -1,15 +1,12 @@
-RecordCount: 3868
+RecordCount: 3964
 
 console load StrawberryJam2021/2-Intermediate/SpoopySoup
    1
 
-#1x
+#lol try not dashing ez
+#0x
 #Start
  190
-
-#level is designed to be completed
-#without dashing
-#only dash is for heart at the end
 
 #lvl_soup-1
    8,R
@@ -269,7 +266,7 @@ endRepeat
    4,D
   40
 
-#1x
+#0x
 #lvl_soup-7
   34,R,D
   15,R,X
@@ -312,27 +309,45 @@ endRepeat
    1,R
   10,R
    1,R,D
-  23,L,D
+  19,L,D
+   1,L
    1,D
-   3,L,D
-   2,D
+   1
+   1,D
+   1
+   1,D
+   2,L,D
+   6,L
+   2,L,J
+   4,L
    2
-   3,R
-   1,R,D
-Repeat 4
+   1,J,G
+   4
+   3,J,N
+   1,S
+   1,D,J
+  34
+   4,D
+  15,R,D
    1,R,J
    1,R,K
-EndRepeat
-   1,R,J,G
-   1,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
    3,R,K,G
-   5,R
-   1,R
-  12,R,D
-  46,L,D,X
-  23,D
-#dash
-  21,R,D,X
+   6,R,J,G
+   9,R
+  13,R,D
+  68,L,D
+  11,D
+  15,L,D,X
+   1,L
+   1,D
+   1,L
+   1,D
+   1,L
  135,R
 
-ChapterTime: 1:05.841(3873)
+ChapterTime: 1:07.337(3961)
