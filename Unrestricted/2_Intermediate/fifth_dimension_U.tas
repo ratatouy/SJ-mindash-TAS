@@ -1,4 +1,4 @@
-RecordCount: 2595
+RecordCount: 2602
 
 console load StrawberryJam2021/2-Intermediate/Liero
    1
@@ -152,21 +152,16 @@ Set, Session.Time, 4247710950000
    9,D
   40
 
-#1x
+#0x
 #lvl_A04
-#this room saves SR dash w/ spinner
-#freeze, but then does a different
-#dash
-#this may save some stun time
-#but it wouldnt save a freeze,
-#as the everest softlock failsafe
-#in A6 resets TA as well
    1,S
    1,U
    1,F,
    1,U,J
 SaveAndQuitReenter
   36
+# drift
+2997
 #Spinner/Unload Cycle 1 [A04]
    0
 #####
@@ -207,49 +202,116 @@ StunPause
    1,R,K,G
    2,R,J,G
 EndStunPause
-  15,R,D
-#Spinner Cycle 2 [A03]
-   2
-#####
-  15,U,X
-   8,R,C
+   4,R,D
 StunPause
-   7,R,C
-  16,D
+  11,R,D
 SkipInput 3 1
   15,U,X
 SkipInput 3 1
-  15,U,C
-  48,D
+  15,R,C
+  10,R,D
+   6,D
+SkipInput 3 1
+  15,R,U,X
+   7,R
+   2
+   1,G
+Repeat, 14
+   1
+   1,G
+EndRepeat
+   1,L,J
+   5,L,D
+EndStunPause
+   2,L,D
+StunPause
+  16,L,D
+SkipInput 3 1
+  15,L,U,X
+  15,L,J
+SkipInput 3 1
+  15,L,U,Z
+  24,L,D
+SkipInput 3 1
+  15,L,X
+   3,L
+SkipInput 3 1
+  15,L,U,X
+Repeat, 35
+   1,G
+   1
+EndRepeat
+   9,R
+EndStunPause
+StunPause
+   3,R
+  16
 SkipInput 3 1
   15,R,X
-  20,R
-   4,R,D
-   2,R,J,G
-   1,L,J
-   2,J
-   3,R,J
-  10,R
-   1,R,J,G
-   1,R,K,G
-  11,R,D
+   3,R
+SkipInput 3 1
+  15,R,U,Z
+  24,R,D
+SkipInput 3 1
+  15,U,Z
+  10,J,G
+   7,R
+   5,R,J
+   5,R
+   1,R,J
+   4,R
+   9
+   1,R,D,J
+   4,R
+   1,R,D,J
+   9,R
+   2,R,D,K
+   1,R
+   1,R,K
 EndStunPause
-   1,R,D
-   9,D
-   5,R,D
-   1,D
-   6,R,D
+   5,R,K
+  31,D
+  15,L,U,X
+  15,L
+  16
+  10,R,X
+StunPause
+   5,R,X
+  17,J
+SkipInput 3 1
+  15,R,X
+  25,R,J
+   1,G
+   8,J,G
+   3,R,J
+  12,R
+   1,R,J
+  14,R
+EndStunPause
+   3,R
+   2,D
+   2,R,D
+   5,D
+   7,R,D
   40
 
 #0x
 #lvl_A05
-   9,D
-  13,L,D
-  11,D
+   1,S
+   1,U
+   1,F,0
+   1,U,J
+SaveAndQuitReenter
+  36
+   1,L,J
+  14,L
+   2,L,J
+  11,L
+   6
    1,N
  114,R
 #Spinner Cycle+Drift [A05] 1
-2250
+3840
 #####
    1,R,J
   19
@@ -334,7 +396,7 @@ EndStunPause
  200
 
 Set, Level.TimeActive, 524281.56250
-Set, Session.Time, 8496676160000
+Set, Session.Time, 8497882140000
 
  200
 
@@ -554,4 +616,4 @@ Set, Session.Time, 8496676160000
    5,U,X
  135,U
 
-ChapterTime: 236:01:42.925(49982525)
+ChapterTime: 236:03:43.523(49989619)
