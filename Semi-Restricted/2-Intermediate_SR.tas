@@ -1,5 +1,5 @@
 #Intermediate Lobby
-#289+4*? x (last update : 09/24/2024)
+#287+4*? x (last update : 09/24/2024)
 
 unsafe
 console clrsav
@@ -9,7 +9,7 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate
    1
 
 #Start
-#24x
+#22x
 Read,../Lobby_Movement/2_Intermediate_Lobby/int_0-1,Start
 Read,../Enter_Level,Start
 Read,2_Intermediate/frosted_fragments_SR,Start
