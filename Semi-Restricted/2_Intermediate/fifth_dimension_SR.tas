@@ -1,15 +1,17 @@
-RecordCount: 2365
+RecordCount: 2643
 
 console load StrawberryJam2021/2-Intermediate/Liero
    1
 
-#5x
+#StunPauseMode, Simulate
+
+#3x
 #Start
 #Spinner Cycle [A01]
-   0
+   1
 #####
 
-#1x
+#0x
 #lvl_A00
    5,R
    1,R,J
@@ -41,69 +43,69 @@ console load StrawberryJam2021/2-Intermediate/Liero
    3
    1,R
    3
-  22,R,D
+  30,R,D
    2,R
-   4,R,D
-   8,R,Z
+   1,L
+   1,D
+   1,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
    1,R,J
    6,R
-   1,R,J
-   1,R
-   2,R,K,G
-   4,R
+   1,R,J,G
+   6,R
   40
 
 #1x
 #lvl_A01
-   9,R
-  12,R,J
-   3,R
-StunPause
-   3,R
+  11,R
    1,R,J
    1,R
-   1,R,J
+StunPause
    5,R
+   1,R,J,G
+  17,R
+   1,R,J
+  18,R
+   5,R,J
+   8,R
+   7,R,J
+  13,R
 SkipInput 3 1
   15,R,U,X
-  19,R,D
-   8,L,D
-   6,L,J
+  13,R
+  10,R,J,G
+   5,R
+   1,R,J
+  11,R
+   4,L
+   9,L,J
+  20,L,D
+   8,L,J
 EndStunPause
-   6,L,J
-   8,L
-   1,L,J
-  19,L,D
-
-#Spinner Cycle [A02]
-
-#+0f:
-#  10,D
-###
-
-#+1f:
-   6,D
-   5
-###
-
-#+2f:
-#   5,D
-#   7
-###
-
-#####
-
-   8,R,D
+# Spinner Cycle
+#3k
+#   8,L
+#3k+1
+   6,L
+   2,L,J
+   1
+#3k+2
+#   6,L
+#   2,L,J
+#   1,J
+# -------------
+  36,D
   40
 
 #0x
 #lvl_A02
    9,R,D
 StunPause
-  17,R,D
-   6,D
-   1,R,D
-   9,D
+  19,R,D
+  14,D
 EndStunPause
    8,D
   40
@@ -141,7 +143,7 @@ EndStunPause
    1,D
   72,O
 # drift
-1440
+ 756
 #Spinner/Unload Cycle 1 [A04]
    0
 #####
@@ -225,7 +227,7 @@ EndRepeat
 EndStunPause
 StunPause
    3,R
-  16
+  15
 SkipInput 3 1
   15,R,X
    3,R
@@ -246,11 +248,14 @@ SkipInput 3 1
    1,R,D,J
    9,R
    2,R,D,K
+EndStunPause
    1,R
    1,R,K
-EndStunPause
    5,R,K
   31,D
+# Spinner Cycle
+   2
+# -------------
   15,L,U,X
   15,L
   16
@@ -260,19 +265,16 @@ StunPause
   17,J
 SkipInput 3 1
   15,R,X
-  25,R,J
+  25,R
    1,G
-   8,J,G
-   3,R,J
-  12,R
    1,R,J
-  14,R
+   2,L,J
+  27,R,J
+   1,R,D
 EndStunPause
-   3,R
-   2,D
    2,R,D
-   5,D
-   7,R,D
+   1,R,D,K
+  33,R,D
   40
 
 #0x
@@ -293,6 +295,7 @@ SaveAndQuitReenter
 #Spinner Cycle+Drift [A05] 1
 3840
 #####
+# TA ~ 4025f
    1,R,J
   19
    5,R
@@ -346,25 +349,30 @@ SkipInput 3 1
    1,D
   14,R,D
 SkipInput 3 1
-  15,R,U,X
-  34,L,D
+  11,R,D,X
    1,J
-   5
-   1,L
-  12,D
+   3,L
+  17,R,D
 EndStunPause
    4,R,D
-   1,D
-   5,R,D
+   1,R,G
    1,R,J
-   3,R
+   2,R
+   1,R,J
+   5,R,D
+   1,R,G
+   1,R,J
+   6,R
   40
 
 #1x
 #lvl_A06
-#everest softlock failsafe
-#resets timeactive
- 296
+   1,S,N
+   1,U,N
+   1,N,F,
+   1,U,J
+SaveAndQuitReenter
+  36
 #Spinner Cycle [A06]
    1
 #####
@@ -485,7 +493,7 @@ EndStunPause
   10,R,K,G
    5,R
 StunPause
-   4,R,J
+   3,R,J
   12,L,K,G
    2,J,G
    1,R,J
@@ -510,7 +518,7 @@ EndStunPause
 #Spinner Cycle [A08]
 
 #+0f:
-  15,D
+#  15,D
 ###
 
 #+1f:
@@ -519,8 +527,8 @@ EndStunPause
 ###
 
 #+2f:
-#   4
-#  13,D
+   4
+  13,D
 ###
 
 #####
@@ -693,22 +701,47 @@ EndRepeat
    5,L,D
   40
 
-#1x
+#0x
 #lvl_A10
-   4,L,D
-  15,R,D,X
-   1,R,D,J
-   3,R,K,G
+  20,L,D
+   8,R,D
+  10,D
+1405
+   6
+   4,L
    5,R
-   9,R,K
-   8,R
-   1,R,J,G
-   2,L,J
-   6,R,J
-  12,R,D
+   1,R,J
+   1,R
+StunPause 
+  12,R
+   1,L
+   9,R
+   1,R,J
+   1,R,K,G
+   8,R,J,G
+   2,R,K,G
+  11,R
+  11,R,D,J
+   3,R
+   1,J,G
+   1,L,J
+   1,R,J
+  12,R,K,G
+   8,R,J,G
+   2,K,G
+EndStunPause
+   2,K
+   5,R
+   3,R,J
+   1,R,K,G
+   2,L,K
+   6,R,K
+   5,R
+   1,R,K
+   6,R
 StunPause
-   5,R,D
-  15,D
+   3,R
+  17,L,D
 SkipInput 3 1
   15,R,D,X
 SkipInput 3 1
@@ -764,4 +797,4 @@ EndStunPause
    5,U,X
  135,U
 
-ChapterTime: 5:54.773(20869)
+ChapterTime: 6:20.630(22390)
