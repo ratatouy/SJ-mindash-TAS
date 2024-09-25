@@ -1,9 +1,9 @@
-RecordCount: 6162
+RecordCount: 6303
 
 console load StrawberryJam2021/4-Expert/nyan
    1
 
-#25x
+#23x
 #Start
 
 #0x
@@ -397,7 +397,7 @@ EndRepeat
    4,R
   40
 
-#6x
+#5x
 #lvl_a-06
   10,R
    1,R,J
@@ -407,28 +407,27 @@ EndRepeat
   17,R
   48,R,J
   21,R
-  37,R,X
-   7
-   1,J
-  16,R
-   3,R,J
-  15,R,Z
-   6,L
-   3,L,J
-  10,L
-  12
-  10,J
-   6
-  11,R,G
-   1
-   1,R
-  45,G
-   1,J,G
-   1,R,K,G
+  36,R,X
+  11
+   1,L,J
+   5,J
+   5
+   4,J
+   1,L
+   3,R
+  34,R,J
+  13,R,D
+  14,D
+   3,J
+  22
+   1,R,J
+   8,J
+  64,G
+   1,R,J,G
+   1,K,G
    3,J,G
    8
-  23,L,D
-  38,L
+  62,L
   44,U,G
    1,J,G
    1,K,G
@@ -442,14 +441,8 @@ EndRepeat
    2,L,D
   20,L,J
   34,L,U,X
-  60,R,J
-   8,L
-   8,L,D
-   2,R,D
-   1,R,J,G
-   1,R,K,G
-  15,R
-  38,R,J
+  84,R,J
+  38,R,K
   14,R,Z
    1,R,J
    3,R
@@ -459,7 +452,7 @@ EndRepeat
   14,R
   40
 
-#7x
+#6x
 #lvl_a-07
    3,R
    9,R,J
@@ -538,21 +531,32 @@ EndRepeat
    5,R,J
   18,R
   22,R,J
-  13,R,X
-  11,R,J
-  98,R,D
-   1,R,J,G
-  14
-  15,R
+  35,R,G
+   1,J,G
+   1,L
+  12
+   2,R
+   2
+   1,R
+  60
+  30,R,J
+  40
+  12,R
    1,R,J
-  28,R
-  41,R,J,G
-  10,R,K,G
+ 101,R,D
+  14,R
+   5,R,J
+   5,R
+   2,R,J
+   4,R
+  16,R,J
+  42,R,K
+  10,R,J,G
    6,R
    8
    2,R
-   5,J
-   9,R,J
+   4,J
+  10,R,J
    1,J
    1,R,J
    2,J
@@ -570,35 +574,30 @@ EndRepeat
   11,L,J
    7,L
   11,L,J
-   9,L,D
-   7,D
-   8,L,D
- 106,L,G
-   4,R,J
-  19,R,D
-   3,R
-   3
+   6,L,D
+   1,D
+   1,L,D
+  23,R,D
+   4,D
+   2,R,D
    1,J,G
    1,L,J
    1,R,K,G
-   1,J,G
-   5,J
-  28,R,J
-  24,R
-   5,R,X
-  27,R,D
-  50,R
-  19,R,X
-   3,L
+   7,R,J,G
+  31,R,J,X
+  27,R
+   2,R,D
+  47,R
+  25,R,X
    1,R,J,G
    1,R,K,G
-  10,R
-  17,R,J
+   9,R
+  13,R,J
+   4,J
    1,R,K,G
    1,R,J,G
-   7,R
-   5,L
-  18,R,J
+  12,R
+  16,R,J
   40
 
 #1x
@@ -610,4 +609,4 @@ EndRepeat
   16,R
  140,L,D,X
 
-ChapterTime: 1:52.455(6615)
+ChapterTime: 1:53.356(6668)
