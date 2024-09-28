@@ -1,4 +1,4 @@
-RecordCount: 6794
+RecordCount: 6826
 #uncomment if the golden is spawned
 #console wipedebug
 
@@ -378,22 +378,22 @@ endrepeat
    5,L
   36,L,J
   32,D,X
-  10,L,D,C
-   1,R,J
-   4,R
-  17,R,D,X
+   1,D
+   4,L,D
    8,R,J
-  15,R
-  26,R,U,X
-   4,R,J
+   5,R
+  30,R,J
+  14,R,Z
+  22,R,J
+  30,R,U,X
    7,R,Z
-   7,R,J
-   4,R
-  19,R,D,X
-  33,R,J
-  17,U,X
-  18,R,J
-  42,R,X
+  12,R,J
+  15,R,D,X
+   6,R
+  35,R,J
+  20,U,X
+  20,R,J
+  41,R,X
    4,R,J
   43
 
@@ -4674,5 +4674,5 @@ EndRepeat
   15,U,X
  135
 
-ChapterTime: 15:19.377(54081)
-#54081, 299x
+ChapterTime: 15:20.074(54122)
+#54122, 298x
