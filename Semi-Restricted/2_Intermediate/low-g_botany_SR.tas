@@ -1,9 +1,11 @@
-RecordCount: 4418
+RecordCount: 5035
 
 console load StrawberryJam2021/2-Intermediate/marlin
    1
 
-#17x
+#StunPauseMode, Simulate
+
+#13x
 #Start
   69
 
@@ -29,7 +31,7 @@ console load StrawberryJam2021/2-Intermediate/marlin
    5,R
    1,R,J
    6,R,D
-stunPause
+StunPause
   20,R
    1
    1,R,J
@@ -40,7 +42,7 @@ stunPause
   19,R,K,G
    2,K
    7,R,J,G
-endStunPause
+EndStunPause
    5,R,J,G
    6,R,K,G
   14,R
@@ -101,7 +103,7 @@ endStunPause
    7,R
   40
 
-#3x
+#2x
 #lvl_2
   13,R
    1
@@ -112,90 +114,65 @@ endStunPause
   15,R,Z
   23,R,D
    1,R,J
-  24,R
-   6,R,J
-  18,J
-   2,R,J
-  17,K
-  20,U,X
-  22,D
-   1,R,D
-   1,D
-   2,R,D
-   2,D
-  24,L,D
-   1,D
-   1,L,D
-   2,D
+   2,L
+   4,R
+StunPause 
+  42,R
+  12,R,J
+  22,R,D
    2,L,D
-   1
-   8,L,J
-   3,L,K
-  18,L,D
-  21,R,D
-   7,R
-   2
-   2,R
-   1,R,J
-   1,R,K,G
-   2,R,J,G
+EndStunPause
+  34,L
+   2,L,J,G
    3,R
-   1,R,J,G
-  10,R,D
-   6,D
-   1,R,D
-   1,D
-   4,R,Z
+  40,L
+  14,L,Z
    1,R,J
   20,R
    3,R,J
   13,R
    2,R,J
   31,R
-stunPause
+StunPause
   38,R
-   1,G
-   2
-  15,U,G
-   3,G
+  13,U,G
+  11,G
    1,U,G
    3,G
    6,U,G
-   7,R
-   1,G
+   1,R
    1
    1,R
-repeat 3
+   1
+   1,R
+   1
+   1,R
    1,G
    1
-endRepeat
-   9,R
-   1,J
-  26
-   4,L
+   1,G
+   3,R
+   3,R,D,J
+   2,R
+   9,L
+   1,L,J
+   6,L
+   3,R
    1,R,J
-  13,J
-   9,R,J
-   7,R
+  10,R
+  14,D,J
+  16,R,J
+  11,R,K,G
+EndStunPause
    1,R,K,G
-   1,R,J,G
-   6,R
-  12,R,J,G
-   5,R,K,G
+  10,J,G
+   1,L,K
+  30,L,J
+  43,R,K
+   1,R,J
   16,R
-  12,R,J
-   1,R,K,G
-endStunPause
-   2,K,G
-   3,L,K
-   8,K
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-  22,R
   40
 
-#2x
+#1x
 #lvl_3
   18,R
    1,R,J
@@ -205,72 +182,57 @@ endStunPause
    5,R,J
   31,L,J
   12,L,K,G
-  43,R
+  36,R
+   7,R
   21,D
   15,L,D
    4,D
   10,R,D,X
-   2,R,J
+   1,R,J
    1,R,K,G
-  20,R
-  13,R,J
-  13,R,Z
    1,R,J,G
-   4
+   1,R,K,G
   19,R
-   1,R,J
-  44,R,D
-  65,R,J
-   2,J
-   1,R,K,G
-   2,L
-  26,R
-   1
+StunPause
+   7,R,J
+   1,L,J
+   7,R
+   3,R,J,G
    1,R
-   1
-   1,R
+   7,R,J
+EndStunPause
+   8,R,J
+  33,R
+  32,R,J
+  24,R
    1,R,J
-   1,R,K,G
-   1,R,J,G
-  20,R
+  15,R
   40
 
 #2x
 #lvl_4
-   8,R
-   1,R,J
-  15,R
-   1,R,J
-  25,R
-  16,R
-   1
-   1,R
-   1
-   1,R
-   1
-   1,R
+  24,R,J
+  15,L
+   7
    5,R,D
-  18,L,D,J
+  18,D,J
   15,D,J
    2,R,D,J
    1,L,D,J
    8,K,G
   29,R,K
-   5
-   1,J,G
-   6,R
-  18,D
-   1,L
-#Moonblock wait
- 144,D
-###
-   2,R
-  10
-   2,R
-   1
+  10,R
+   9,D
    1,R
-   1
-   2,R
+#Moonblock wait
+ 182,D
+###
+# Spinner Cycle
+   2
+# -------------
+   1,R
+  10
+   7,R
    4,R,J
   49,R
    8,R,D
@@ -298,15 +260,15 @@ endStunPause
   59,D
   16,L,D
   30,R,J
-stunPause
+StunPause
   13,R,J
   41,L,J
    1,R
-  11,R,K
-  25,R
-endStunPause
-stunPause
-   4,R
+   8,R,K
+EndStunPause
+StunPause
+   3,R,K
+  29,R
    1,R,G
    2,J,G
    8,R,J
@@ -315,14 +277,14 @@ stunPause
    1,L
    6,J
    6,R,J
-endStunPause
+EndStunPause
   12,R,J
-stunPause
+StunPause
    9,R,J
   28,L
   73,R,J
   11,R,K,G
-endStunPause
+EndStunPause
    3,L,K
    1,R,J,G
    1,R,K,G
@@ -352,7 +314,7 @@ endStunPause
    2,R,J,G
   20,R,D
    1,R,J
-stunPause
+StunPause
    1,R,J
   15,R
    8,R,J
@@ -379,12 +341,12 @@ stunPause
    8,R,K,G
    1,J
    3,L,J
-endStunPause
+EndStunPause
   18,R,J
    7,L
   13,R,Z
    1,L,J
-stunPause
+StunPause
   31,L,J
    5,K,G
    1,R,K
@@ -403,7 +365,7 @@ stunPause
   16,L,J
    1,L
    3,R,K
-endStunPause
+EndStunPause
    6,R,K
    4,R
   41,R
@@ -427,15 +389,15 @@ endStunPause
    1,K
    2,J,G
    5,R,J
-stunPause
+StunPause
   23,R,J
-skipInput,3,1
+SkipInput,3,1
   15,R,U,X
   27,R,D
    3,D
    6,R
   10,R,J
-endStunPause
+EndStunPause
    1,R,J
    5,R
   10,R,J
@@ -523,10 +485,14 @@ endStunPause
   32,R
   65,R
    7,R,J
-stunPause
+StunPause
+   9,R,J
+EndStunPause
+StunPause 
+   1,R,J
+EndStunPause
+StunPause 
   37,R,J
-skipInput,1
-  10,R,J
    1,K,G
    1,L,K
    1,R,K
@@ -544,9 +510,9 @@ skipInput,1
    1,R
    1,R,G
    3,R,J,G
-skipInput,3,1
+SkipInput,3,1
    4,R,D,X
-endStunPause
+EndStunPause
   11,R,D,X
   37,R
    5,D,X
@@ -644,7 +610,7 @@ SaveAndQuitReenter
    2
   20,R
   38,R,J
-stunPause
+StunPause
   26,R,J
   40,L
    2,K,G
@@ -674,15 +640,15 @@ stunPause
   21,R
    1,L,J
    9,L,K
-endStunPause
+EndStunPause
   41,L,K
    3,R
-stunPause
+StunPause
   30,R
   14
    2,R
    1,D
-endStunPause
+EndStunPause
   11,D
    1,R,J
   11,R
@@ -726,99 +692,167 @@ endStunPause
   12,R,K
   40
 
-#4x
+#2x
 #lvl_7
   31,R
   12,R,J
   10,R,K,G
   15,L,J
-  12,R,K,G
-   8,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-  18,R,J
-  15,U,X
-   4,L,J,G
-   7,L
-  13,L,J
-  12,L,K,G
-   1,L,J,G
-   7,R,K
-stunPause
-  18,R,K
-   8,R,J
-  19,R
-  23,R,J
-endStunPause
-   2,R,J
-  11,R,K,G
-   2
-   9,R,K,G
-   1,J,G
-   4,R
-   1
-   1,R
-   6,L
-  33,L,J
-  36,L,U,X
-  11,L,J,G
-   2,L
-  21,R,J
-   3,R
-  32,R,J
-   9,R,K,G
-   3,R
-   3,R,J,G
-  16,R
-  45,R,J
-  11,K
-   1,R,J,G
-   1,R,K,G
-   1,J,G
-   2,L,J
-   9,R,K,G
-  20,R
-  36,L
-  10,L,J,G
-   2
-   3,L,K,G
-  16,L
+   1,L,K
    3,L,J
-  25,L
+  13,L
    1,L,J
-  45,L
-  32,L,J
-  12,L,K,G
-   8,J,G
-   1,R,J
-  16
-  37,R,J
-  12,R,K,G
-  16,R
-  16,R,J
-  20,L
-  12,L,J
-  11,L
-   5,L,J
-  10,L
-   5
+   7,L
+   1,R
    1,L
-  14
+   1,R
+   1,L
+   1,R
+   1,L,J,G
+   1,L,K,G
+  12,L
+   1,L,J
+  14,L
+   7,L,J
+   7,L
+   3,L,J
+   1,R
+   1,L,J,G
+   1,L,K,G
+   6,L
+StunPause
+   3,L
+  11,L,J
+   8,L
+   3,L,J
+   1,L
+   4,L,J
+   1,L,K,G
+   1,L,J,G
+   9,L
+  12,L,D,J
+   1,K,G
+   1,R,K
+  14,L,J,G
+   1,L,K,G
+   5,L,J,G
+   3,L
+   1,L,J
+  10,R,J
+EndStunPause
+StunPause
+   1,K
+EndStunPause
+   6,L,K
+  11,R,K
+   6,R,J,G
+  12,R,K,G
+   3,J,G
+   1,L,J
+   4,R,J
+   2,R,K,G
+  24,R,J,G
+   3,L,J
+   2,R
+   1,L
+ 867
+   1,D,J
+   1,L,D,J
+StunPause
+   2,L,D,J
+   8,D,J
+   8,R,K,G
+   1,J,G
+   8,R,J
+   1,J
+   1,K
+   2,L,K
+   1,J
+   1,K
+   6,L,K
+  17,R,K
+   2,R,J,G
+   7,J
+   2,L,J
+   1,R
+   2,K,G
+   1,R,K
+   1
+   1,L
+   1,R
+   1,J,G
+   6,L,J
+   8,R,J
    7,R
-   3
-   7,R,J
-  24,J
-  10,L,J
-   5,L
-   9,K,G
+   1,L
+EndStunPause
+   1,R
+   2,R,K,G
+   7,K
+   1,J
+   1,K
+   6,L,K
    5,R,K
-  11,R,J
-   9,R,K,G
+  16,R
+   3,R,D,J
+   3,L,J
+   5,L,K,G
+   1,R,J
+  78,R,K
+   1,R,J,G
+   4,R,K,G
+  13,R
+   2,L
+   4,L,K
+  20,L,J
+  11,K,G
+   1,J,G
+  10
+   8,R
+  32,R,J
+   2,J
+   2,K,G
+   1,J,G
+  10
+   6,L
+  25,L,J
+  12,L,K,G
+   9,J,G
+   1,R,J
+   1,L,K,G
+   1,J,G
+  10
+   6,R
+  28,R,J
+   1,K,G
+   1,L,K
+   1,R,J,G
+  14,R,K,G
+   9,R,J,G
+  20,R
+   4,R,J
+   1
+   1,J,G
+   8
+   8,L
+   8,L,J
+  19,L
+   5,L,J
+   4,R,J
+   1,L
+   5,R
+  12
+   9,R
+  34,R,J
+  10,K,G
+   1,L,K
+  10,R,J,G
+  12,R,K,G
    3
    1,R,J,G
-  20,R
+  14,R
+   1
+   6,R
    1
    1,R,J
    1
@@ -836,7 +870,7 @@ endStunPause
    1,R,K
 #Moonblock Cycle Wait
 #(Optimizable?????)
- 105,R
+  39,R
    4
 #####
   12,L
@@ -886,4 +920,4 @@ endStunPause
   21,U,X
  135
 
-ChapterTime: 5:11.644(18332)
+ChapterTime: 5:39.524(19972)
