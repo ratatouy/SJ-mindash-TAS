@@ -1,4 +1,4 @@
-RecordCount: 3355
+RecordCount: 3685
 console load StrawberryJam2021/2-Intermediate/Jems
    1
 
@@ -11,7 +11,7 @@ console load StrawberryJam2021/2-Intermediate/Jems
    5,R
    1,R,K
   22,R
-   1,S
+   1,S,N
    1,D,J
   34
    4,R
@@ -31,92 +31,49 @@ console load StrawberryJam2021/2-Intermediate/Jems
    9,R,K
    1,R,J,G
    1,R,K,G
-   9,R
-   1,R,K
-  14,R
-   1,R,K
-  17,R
-   8,L
-   2,K,G
-   1,L
+   1,R
    1
+   1,R
+   6,L
+   1,R,J
+   3,L
+   1,R
+   2,L
+repeat 3
+   1,R
    1,L
-   1
+EndRepeat
+   2,L
+   1,R,J
+   3,R
+   2,L
+   1,R
+repeat 3
    1,L
-   1
+   1,R
+EndRepeat
+   2,L
+   1,R,J
+   3,R
+   3,L
+   1,R
+repeat 1
    1,L
+   1,R
+EndRepeat
+   3,R
+   2,L
+   1,R
+   1,D
+   1,R
+   1,D
+   1,R
+   1,D
+   1,S,N
+  10,J
+   1,R,J
    6
-   4,L
-   4
-#manip
-   1,L
-   1,R,J
-   3
-   2,L
-   1
    1,R
-   7
-   2,L
-   2
-   1,R
-   1,D
-   1,R
-   1,J
-   2,L
-   2
-   1,L
-   1
-   1,L
-   7
-   1,L
-   1
-   1,L
-   1,R,J
-   3
-   2,L
-   1
-   1,R
-   7
-   2,L
-   2
-   1,R
-   1,D
-   1,R
-   1,J
-   2,L
-   2
-   1,L
-   1
-   1,L
-   7
-   1,L
-   1
-   1,L
-   1,R,J
-   3
-   2,L
-   1
-   1,R
-   7
-   2,L
-   2
-   1,R
-   1,D
-   1,R
-   1,J
-   2,L,J
-   2,J
-   1,L
-   1
-   1,L
-   1
-   2,L
-   3,L,J
-  10,R,J
-   4,J
-   7,R,J
-   1,R
-   6
   11,R
    3,R,G
    3,R
@@ -1474,6 +1431,6 @@ endrepeat
   15,U,X
  135
 
-ChapterTime: 3:29.287(12311)
+ChapterTime: 3:26.924(12172)
 #12032
 #13 dashes
