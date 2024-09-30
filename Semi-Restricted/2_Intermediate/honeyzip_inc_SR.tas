@@ -1,12 +1,14 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1656
+RecordCount: 1657
+
+#StunPauseMode, Simulate
 
 console load StrawberryJam2021/2-Intermediate/GlowWoomii
    1
 
-#4x
+#3x
 #Start
  190
 #spinner cycle
@@ -50,7 +52,7 @@ EndRepeat
    1,J
   40
 
-#1x
+#0x
 #lvl_r1
   16,J
    3,L,J,G
@@ -584,7 +586,7 @@ endStunPause
    5,L
   40,J
 
-#1x
+#0x
 #lvl_rhub (3)
    1,L,J
    5,L,J
@@ -662,6 +664,7 @@ endStunPause
   53,L,D
  178,U,X
   40,X
+
 #0x
 #lvl_r9
   10,U,X
@@ -749,7 +752,6 @@ endStunPause
    1,R,J
   14,R,D
   40,D,G
-
   14,R,G
    5
 Repeat,14
@@ -808,6 +810,7 @@ endStunPause
    3,R,K,G
   10,R
   40
+
 #1x
 #lvl_endroom
    5,R
