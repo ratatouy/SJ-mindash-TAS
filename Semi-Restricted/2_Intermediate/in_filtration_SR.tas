@@ -1,8 +1,8 @@
-RecordCount: 3497
+RecordCount: 3729
 console load StrawberryJam2021/2-Intermediate/Jems
    1
 
-#10x
+#9x
 #Start
   82
 
@@ -60,11 +60,8 @@ EndRepeat
    3,R
    3,L
    1,R
-repeat 1
    1,L
-   1,R
-EndRepeat
-   3,R
+   4,R
    2,L
    1,R
    1,D
@@ -490,86 +487,25 @@ endrepeat
 
 
 #lvl_btd-10(0)
-#1x
-#tried dodging the crystals
-#but couldn't get pas last zip block with only one dash
+#0x
+StunPauseMode, Input
    7,R
    1,R,J
    5,R
-   2,R,J
-   8,R
-  97,R,J
-  10,R
-  70,L
-   1
-   9,L
+   1,R,J
+   4,R
   11,R
-   1
-  86,R
-#dash
-  10,R,Z
-   1,R,J
-   6,R
-   1,R,J
-   7,R
-   5,D
-   1,R,D
-   1,D
-   1,R,D
-  40,D
-  53
-  28,L
-  19,R
-   1,L,D
-   1,J
-  11,K,G
-   1,R,K
-  22,R
-   1,L
-   1,J
-   1,K,G
-   9,K
-  15,R,K
-   7,L,J
-   1,R,J
-   5,L,J
-  11,R,K
-  17,R
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-  21,R
-  40
-
-#lvl_btd-11(0)
-#0x
+  19,R,J
+  16,R
+AutoInput, 1
+   1,S,N
+  10,O
+StartAutoInput
+   9,R
+EndAutoInput
    1,R
-   1,R,J
-  14,R
-   1,R,J
-   1,R
-#Normal stun
-StunPause
-  10,R
-   4,L
-   4,R
-EndStunPause
-   3
-#0.4 TR stun
-Repeat, 5
-StunPause
-   1,R
-EndStunPause
-   4,R
-EndRepeat
-#0.4 TR qriqstun
-Repeat, 4
-StunPause 
-   1,R
-EndStunPause
-EndRepeat
-   1,R
-Repeat, 4
+# 0.4 TR qriqstun
+Repeat, 3
 StunPause 
    1,R
 EndStunPause
@@ -583,7 +519,165 @@ StunPause
    2,R
 EndStunPause
 EndRepeat
-#Crystal grab
+# Turn left & crystal
+StunPause 
+   1,R
+EndStunPause
+Repeat, 3
+StunPause 
+   1,L
+EndStunPause
+EndRepeat
+   1,L
+Repeat, 3
+StunPause 
+   1,L
+EndStunPause
+EndRepeat
+   3
+   1,L
+# Yup
+Repeat, 5
+StunPause 
+   1,L
+EndStunPause
+StunPause 
+   1,L
+EndStunPause
+StunPause 
+   1,L
+EndStunPause
+StunPause 
+   2,L
+EndStunPause
+EndRepeat
+# Turn right
+Repeat, 3
+StunPause 
+   1,R
+EndStunPause
+StunPause 
+   1,R
+EndStunPause
+StunPause 
+   1,R
+EndStunPause
+StunPause 
+   2,R
+EndStunPause
+EndRepeat
+# Stunning this spinner might be unnecessary but probably doesn't lose any time
+   4,R
+  20,L
+   3,R
+   1,L
+  21,R
+AutoInput, 1
+   1,S,N
+  10,O
+StartAutoInput
+   3,R
+   7,R,D,J
+   1,R
+SkipInput,3
+  10,R
+EndAutoInput
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+AutoInput, 1
+   1,S,N
+  10,O
+StartAutoInput
+   3,R
+EndAutoInput
+  25,R
+   3,R,J
+  37,R
+ 144,D
+  38,L
+   3
+  10,L
+   1,S,N
+  10,O
+   1,L
+   1,J
+  26,K,G
+  20,R
+  16
+   3,R
+  31,R,J
+   7,L,J
+   1,R,J
+   1,K
+   9,R,K
+   2,R
+   1,L
+   9,R,K
+   5,L
+   1,L,K
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  20,R
+  40
+
+#lvl_btd-11(0)
+#0x
+   1,R
+  10,R,J
+   5,R
+# Normal stun
+StunPause 
+   1,R,J
+  13,R
+   5,R
+EndStunPause
+   3
+# 0.4 TR stun
+   3,R
+Repeat, 5
+StunPause
+   1,R
+EndStunPause
+   4,R
+EndRepeat
+# 0.4 TR qriqstun
+Repeat, 2
+StunPause 
+   1,R
+EndStunPause
+EndRepeat
+   1,R
+Repeat, 4
+StunPause 
+   1,R
+EndStunPause
+EndRepeat
+   1,R
+# Accomodate drift
+Repeat, 5
+StunPause 
+   1,R
+EndStunPause
+EndRepeat
+   1,R
+# 2 more cycles
+Repeat, 4
+StunPause 
+   1,R
+EndStunPause
+EndRepeat
+   1,R
+Repeat, 4
+StunPause 
+   1,R
+EndStunPause
+EndRepeat
+   1,R
+# Crystal grab
 Repeat, 3
 StunPause 
    1,R
@@ -593,7 +687,7 @@ EndRepeat
 StunPause 
    2,R
 EndStunPause
-#Go neutral
+# Go neutral
 Repeat, 4
 StunPause 
    1
@@ -608,14 +702,17 @@ StunPause
    2
 EndStunPause
 EndRepeat
-#Start moving right
+# Start moving right and accomodate drift
 Repeat, 4
 StunPause 
    1
 EndStunPause
 EndRepeat
+StunPause 
    1,R
-#Continue moving right
+EndStunPause
+   1,R
+# Continue moving right
 Repeat, 5
 StunPause 
    1,R
@@ -630,14 +727,13 @@ StunPause
    2,R
 EndStunPause
 EndRepeat
-#Jump
-StunPause 
-   1,R
-EndStunPause
+# Jump
+Repeat, 2
 StunPause 
    1,R,J
 EndStunPause
-#Back to 0.4 TR stun
+EndRepeat
+# Back to 0.4 TR stun
    4,R,J
 Repeat, 10
 StunPause 
@@ -648,22 +744,24 @@ EndRepeat
 StunPause 
    1,R
 EndStunPause
-   2,R
   13,R,J
   10,R
    2,R,J
   33,R
    1,R,J,G
    1,R,K,G
-  12,R,J,G
+   8,R,J,G
+   5,L,J
    1,L,K
-  55,L,J
+   1,L,J
+  49,L,K
+   6,L
    1,L,G
 AutoInput,5
    1,S,N
   10,J
 StartAutoInput
-   5,L,D
+   5,D
    1,G
   36,L
   23,R,D
@@ -671,7 +769,7 @@ SkipInput,3
    4,R,D
    1,R,G
   56,L,J
-  63,L
+  64,L
 endAutoInput
   71,L,D,J
    1,K,G
@@ -1482,4 +1580,4 @@ endAutoInput
 #dash
   15,U,X
  135
-ChapterTime: 3:52.951(13703)
+ChapterTime: 4:09.033(14649)
