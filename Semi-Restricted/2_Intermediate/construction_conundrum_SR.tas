@@ -1,4 +1,6 @@
-RecordCount: 8035
+RecordCount: 8225
+
+#StunPauseMode, Simulate
 
 console load StrawberryJam2021/2-Intermediate/thebreadstick1
    1
@@ -6,6 +8,10 @@ console load StrawberryJam2021/2-Intermediate/thebreadstick1
 #38x
 #Start
   91
+
+# Drift (a-004)
+ 387
+
 #lvl_a-001
 #2x
    1,R,J
@@ -212,31 +218,51 @@ endStunPause
   29,D
    2,R
    5,R,D
-  11,R,J
+   1,R,J
+StunPause 
+  10,R,J
    1,R,K,G
    9,R,J,G
    7,R,K
   20,R,J
   23,R,D
    1,R,J
-  21,R
-  14,R,Z
-  12,R,J
-   5,R
-   3,R,J
-stunPause
+   1,R,J
+  31,R
    9,R,J
-   1,J
-   1,R,J
-  25,R,K,G
-skipInput,3,1
-  15,R,U,X
-  25,R,D
-   1,R,J
-   9,R
-endStunPause
+   7,L,J
+   4,R,K
   13,R
+   6,L,D
+SkipInput,3,1
+  15,U,X
+   3
+   5,L
+   5,R
+   4,R,J
+  24,R,J
+   7,R,K
+   1,L,K
+   1,R,J
+   8,R,K
+   9,R
+   2,R,K
+  13,R
+   1,R,J,G
+   1,R,K,G
+   8,R
+   1,R,J
+  10,R,K
+   5,R
+   1,R,K
+  33,R,D
+   1,R,J
+   1,R,K
+   6,R
+EndStunPause
+  12,R
   40
+
 #lvl_a-004
 #1x
    1,R
@@ -293,13 +319,11 @@ endStunPause
    4,R,K,G
    2,R,J,G
    9,R
-   3,R,J
-stunPause
-   1,R,J
-   3,J
+   4,R,J
+   1,J
+StunPause
+   2,J
   41,R
-endStunPause
-stunPause
   11,R
   12,R,J,G
    7,R,K,G
@@ -317,17 +341,20 @@ endStunPause
    6,R,K,G
   18,R
    1,R,J
-   6,R,D
+   5,R,D
 stunPause
-   8,R,D
+   9,R,D
+endStunPause
+stunPause
   18,R,J
   46,R,K
 skipInput,3,1
   15,R,X
    2,R
    3,R,J
-  16,R
+  12,R
 endStunPause
+   4,R
    1,R,J
    1,R
   40
@@ -397,8 +424,7 @@ EndRepeat
   14,R,J
    4,L,J
    1,K
-   8,L,K
-   1,L
+   9,L,K
 stunPause
   14,L
 skipInput,3
@@ -473,6 +499,7 @@ endStunPause
    1,L,J
    9,L
   40
+
 #lvl_a-006
 #0x
    5,L
@@ -507,8 +534,10 @@ endStunPause
    1,R,K
   13,R
    7,L
-#drift
- 285
+   1
+# Spinner Cycle
+   0
+# -------------
    4,L
    1,L,J
    1,L,K
@@ -558,7 +587,7 @@ EndRepeat
   15,L,J,G
 stunPause
    9,L,K,G
-SkipInput,1
+#SkipInput,1
    3,L,K,G
    9,L,J,G
    1,J
@@ -575,9 +604,9 @@ SkipInput,1
   17,L,D
    9,D
   21,L,D
-  10,L
+   9,L
 endStunPause
-   7,L
+   8,L
    1,L,D,J
   40,J
 
@@ -656,9 +685,9 @@ endStunPause
    2,L
    1,L,J,G
    1,L,K,G
-   7,L
+   6,L
 stunPause
-   4,L
+   5,L
    1,L,J
   14,L
    1,L,J
@@ -795,6 +824,7 @@ endStunPause
    1,R,J
   18,R,D
   40
+
 #lvl_a-009
 #0x
    1,R
@@ -1019,4 +1049,4 @@ Repeat 22
    3
 EndRepeat
 
-ChapterTime: 4:37.950(16350)
+ChapterTime: 5:01.597(17741)
