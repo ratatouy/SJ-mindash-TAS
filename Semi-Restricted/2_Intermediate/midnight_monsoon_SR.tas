@@ -1,12 +1,14 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 7082
+RecordCount: 7084
 
 console load StrawberryJam2021/2-Intermediate/Luma
 
+#StunPauseMode, Simulate
 
-#8x
+
+#3x
 #Start
  191,J
 ### spinner unload cycle (lvl_5)
@@ -1105,7 +1107,7 @@ EndRepeat
   40
 
 #lvl_outro
-#1x
+#0x
    5,R
    2,R,J,G
    6,R
