@@ -1,5 +1,5 @@
 #Intermediate Lobby
-#273+4*? x (last update : 09/26/2024)
+#285+1*? x (last update : 10/17/2024)
 
 unsafe
 console clrsav
@@ -16,14 +16,14 @@ Read,2_Intermediate/frosted_fragments_SR,Start
    1,O
   32
 
-#17x
+#13x
 Read,../Lobby_Movement/2_Intermediate_Lobby/int_1-2,Start
 Read,../Enter_Level,Start
 Read,2_Intermediate/low-g_botany_S,Start
    1,O
   32
 
-#69x
+#68x
 Read,../Lobby_Movement/2_Intermediate_Lobby/int_2-3,Start
 Read,../Enter_Postcard,Start
 Read,2_Intermediate/pointless_machines_SR,Start
@@ -44,19 +44,19 @@ Read,2_Intermediate/midnight_monsoon_SR,Start
    1,O
   32
 
-#?x
-#Read,../Lobby_Movement/2_Intermediate_Lobby/int_5-6,Start
-#Read,../Enter_Level,Start
-#Read,2_Intermediate/pufferfish_transportation_SR,Start
-#   1,O
-#  32
+#6x
+Read,../Lobby_Movement/2_Intermediate_Lobby/int_5-6,Start
+Read,../Enter_Level,Start
+Read,2_Intermediate/pufferfish_transportation_SR,Start
+   1,O
+  32
 
-#?x
-#Read,../Lobby_Movement/2_Intermediate_Lobby/int_6-8,Start
-#Read,../Enter_Level,Start
-#Read,2_Intermediate/supernautica_SR,Start
-#   1,O
-#  32
+#1x
+Read,../Lobby_Movement/2_Intermediate_Lobby/int_6-8,Start
+Read,../Enter_Level,Start
+Read,2_Intermediate/supernautica_SR,Start
+   1,O
+  32
 
 #?x
 #Read,../Lobby_Movement/2_Intermediate_Lobby/int_8-7,Start
@@ -86,12 +86,12 @@ Read,2_Intermediate/vertigo_SR,Start
    1,O
   32
 
-#?x
-#Read,../Lobby_Movement/2_Intermediate_Lobby/int_11-14,Start
-#Read,../Enter_Level,Start
-#Read,2_Intermediate/the_tower_SR,Start
-#   1,O
-#  32
+#14x
+Read,../Lobby_Movement/2_Intermediate_Lobby/int_11-14,Start
+Read,../Enter_Level,Start
+Read,2_Intermediate/the_tower_SR,Start
+   1,O
+  32
 
 #0x
 Read,../Lobby_Movement/2_Intermediate_Lobby/int_14-12,Start
@@ -100,14 +100,14 @@ Read,../Restricted/2_Intermediate/sea_of_soup,Start
    1,O
   32
 
-#11x
+#8x
 Read,../Lobby_Movement/2_Intermediate_Lobby/int_12-13,Start
 Read,../Enter_Level,Start
 Read,2_Intermediate/in_filtration_SR,Start
    1,O
   32
 
-#16x
+#15x
 Read,../Lobby_Movement/2_Intermediate_Lobby/int_13-16,Start
 Read,../Enter_Level,Start
 Read,2_Intermediate/construction_conundrum_SR,Start
