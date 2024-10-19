@@ -1,8 +1,10 @@
 # Loopy Lagoon 24x
-RecordCount: 2432
+RecordCount: 2592
 
 console load StrawberryJam2021/1-Beginner/coffe
    1
+
+#StunPauseMode, Simulate
 
 #4x
 #Start
@@ -291,17 +293,15 @@ endStunPause
   40
 
 #lvl_c-06
+#0x
    1,S
    1,U
    1,F,0
    1,U,J
 SaveAndQuitReenter
-#0x
   36
-#
   11,R,J
    2,R
-#
   12,J
   12,L,X
   18,R
@@ -429,12 +429,13 @@ endStunPause
 
 
 #lvl_c-08
-#1x
+#0x
    1,S
    1,D,J
   69,O
 #drift yay!
-3424
+2919
+   1
 #TA: 105.44
    6,R,J
    5,R
@@ -461,30 +462,57 @@ endStunPause
    1,R,J
    1,R,K,G
   11,R
+StunPause 
    1,R,J
    1,R
   10,R,J,G
   15,R
-  10,L,D
-#dash
-  12,L,D,X
-  30,R
+  22,R
+   1,R,J,G
+   6,R
+   1,R,J
+   5,R
+   2,L
+   2,L,D
+   1,J,G
    7,L
-   3,R
-   7,R,J,G
-stunPause
-   5,R,J,G
+   1
+   1,L
+   1
+EndStunPause
+   1,R
+  43,R,J
+  12,K,G
+   6,R,J,G
+   1,R
+   1,L
+   5
+   1,R,J,G
+   9,R,K,G
+StunPause
+   1,R,K,G
+  12,R
+   3,R,J
    5,R
    3,R,J
-   9,R
-  32,L,U,G
-  16,R,J
+   6,R
+   8,L
+   1
+   1,G
+   2,J
+   5
+   2,J
+   8
+   1,G
+   1,R,J
+  15,R,K
 skipInput,3,1
   15,R,Z
    1,L
    4,R
+   1,R,J
 endStunPause
-   3,R,J
+   2,R,J
   47,R
    2
    2,R,D
@@ -500,7 +528,6 @@ endStunPause
    1,R,J
    9,R
   40
-
 
 #lvl_c-09
 #1x
@@ -628,8 +655,8 @@ endStunPause
 #0x
    3,R
 #drift
-   9
-   5,R
+   7
+   4,R
    1,R,J
   18,R
    1,R,J
@@ -643,23 +670,29 @@ stunPause
    4,R,J
    5,R
   29,R,J
-   1,K
-   7,R,K
+   1,R,K
+   3,L,K
+   9,R,K
 skipInput,1
-   2,R,K
-   4,R
    1,J,G
+   1
 endStunPause
-   3
-   8,R
+   2
+   6,R
+   1,R,J
+   1,R
    3
    1,R,J
    8,R
    1,R,J
    2,R
-   1,R,J
+   1
    4,R
-  35,L
+   9,L,D
+  25,L
+# Spinner Cycle
+   2
+# -------------
   14,L,X
   24,R
 #delayed ultra time
@@ -755,7 +788,7 @@ endStunPause
    1,L,J
   14
 #drift
-repeat 73
+repeat 74
    1,J
   14
 endRepeat
@@ -989,7 +1022,7 @@ endStunPause
    1,R,J
   10,R
 #drift!
-  47
+  56
    3,R
   34,R,J
    1,R,K,G
@@ -1157,4 +1190,5 @@ endStunPause
   16,R,K
   20,R,U,X
  135
-FileTime: 7:36.127(26831)
+
+ChapterTime: 7:34.784(26752)
