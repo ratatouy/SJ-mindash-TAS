@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3446
+RecordCount: 3573
 
 console load StrawberryJam2021/1-Beginner/Flagpole1up
    1
@@ -55,42 +55,37 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1
    4,R
    1
-   5,R,K
+   4,R,K
+   1,R
    1,R,J,G
    1,R,K,G
-  10,R
-   2,R,K
    7,R
-#dash
-  13,R,X
-   3,L,K
-  14,L
-   2,R
-   1,L
-   5,R
-   1,L
+   2,R,J
+   1,R
+   2,R,K
    3,R
-   1,K,G
-   5,R
-   1
-   5,L
-  24,L,K
-   3,L
-   1,L,K,G
-   1,L
-   7,L,K
-   7,L
-  21,L,K
 #dash
-  18,L,X
-  10,L,K,G
-   7,L,J,G
-   1,K,G
+  17,R,X
+   1,R,J
+  15,R,D
+#dash
+   4,L,Z
+   1,L,J
+   3
+   3,L
+  13,L,D,J
+  27,L,K,G
+   3,K
+   1,L,J,G
+   2,R,J
+   2,L,J
+   1,L,K,G
+  16,L,J,G
    7,U,K
   48
-   5,L
+   4,L
   20,L,K
-   2,K
+   1,K
    5,J,G
    1,R,J
   14,L,K,G
@@ -127,26 +122,21 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   14,R,K,G
   22,R,J,G
    1,X,G
-  33
-   1,R,K
-   1,R,J
+  33,J
+   2,R,J
   17,R,D
-   2,D
-   8,R,D
-   3,R
-   5,R,D
-   4,R,K
-  15,R,J,G
-   2
-   5,R
-   5,R,K,G
-   1,R
-  21,R,K
-  25,R,J
+   4,R
 #dash
-   5,R,X
-  13,R
-  43
+   7,R,D,X
+   1,R,J
+   6,R
+   5,R,J
+   5,R
+   1,R,J
+  32,R,K,G
+   1,R
+   1,X,G
+  47
   14,R
    1,R,K
   14,R
@@ -171,20 +161,21 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   15,R
    1,X,G
  130
-   2,R,K
    1,R,J
+   1,R,K
 #dash
-  10,U,X
-  31,R,D
+  12,R,U,X
+  22,R
+   9,R,D
 #dash
-  17,R,U,X
+  15,U,X
  164
    3,L,K
    8,L,J
-   4,L,K,G
-   9,R,J
+  10,L,K,G
+   3,J
 #dash
-   8,L,Z
+   5,L,Z
   28,L,K,G
    5
    1,L,K,G
@@ -956,5 +947,5 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   13,R,U,X
  135,R,D
 
-ChapterTime: 2:52.295(10135)
+ChapterTime: 2:50.561(10033)
 #36 dash
