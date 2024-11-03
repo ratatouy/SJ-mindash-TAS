@@ -1,10 +1,12 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 4456
+RecordCount: 4980
 
 console load StrawberryJam2021/2-Intermediate/Arphimigon
    1
+
+#StunPauseMode, Simulate
 
 #Start
  100
@@ -65,9 +67,9 @@ console load StrawberryJam2021/2-Intermediate/Arphimigon
   10
 StunPause
   16,D
-  27,R,D
+  26,R,D
 EndStunPause
-  27,R
+  28,R
    1,S
    1,D,J
   69,O
@@ -303,27 +305,40 @@ EndRepeat
 #lvl_a_03
    9,L
   18,L,J
-  42,U,X
-   7,L,G
-  34,L,G
-  14,D
-   8,U,X,G
-  20,G
-  30,L,G
+
+  36,U,X
+StunPause
+   3,U,X
+SkipInput
+   3
+  57,G
+  11,R,G
+   4,R,D
+   1,R,G
+  29,J,G
+  51,L,K,G
+   2,L,D
+   1,J
    1,R
-   1,L,J,G
-   2,L
-   2,L,J,G
-  14,L
-   1,L,J
-  17,L
-   1,L,J,G
+   3,L
    1,L,K,G
-  19,L
-   1,L,J
-  22,L
+   3,R
+EndStunPause
+   1,R
+   6
+  26,L,G
+   6,L,G
+   1,R
+   4,L,J,G
+  12,L
    2,L,J
-   9,J
+   1,L,K
+   3,L
+   2,L,J,G
+  21,L
+   1,R
+   1,L,K,G
+   9,R,K
    8,U,X
   47,U,X,G
   26,R,G
@@ -386,7 +401,9 @@ EndRepeat
 #lvl_a_01 (4)
   10,R
 # drift
-2229
+1341
+   1
+
    1,L
    1
    1,L
@@ -413,21 +430,41 @@ EndStunPause
   26,L
    1,L,J
    2
-  24,L
-   1,L,J
-   1,L
+  26,L
   40
 
 #lvl_a_02
-  10,L
-  59,L,X,G
-  50,L,G
+  12,L
+  28,L,J
+   1,L,K,G
+   4,L,J,G
+   9,L
+   6,R
+  35,N
+ 154,L
+2982
+   2
+  20,O
+  11,R
+StunPause
+  11,R
+  12,L,D
    1,L
-  11,L,U,X
-  89,L,G
-   1,R,J
-  41,L,J
-   7,L,D
+   1,L,D
+   2,L
+SkipInput,3,1
+  40,L,X
+SkipInput,3,1
+   4,L,J
+   1,L,K
+  18,L,K,G
+   1,L,G
+   8,L,K,G
+EndStunPause
+  20,L,U,K,G
+   1,R,K
+  34,L,K
+   6,L,D
   57,L,X
    4,L,J
   13,L,K
@@ -563,7 +600,8 @@ EndRepeat
   21,G
   14,L,G
 # drift
- 626,G
+1092,G
+   2,G
    1,J,G
   63,G
   10,R,G
@@ -639,7 +677,7 @@ EndStunPause
    1,R,D
   49,L,D,G
 # drift
-2917,G
+2914,G
    1,J,G
   30,G
   20,D
@@ -897,74 +935,83 @@ EndStunPause
    8,L,D,G
   27,L,U,G
   29,R,U,G
-   1,R
-  23,R,U,G
-   1,R
-  77,R,U,G
-   1,R
-   5,R,U,X
-  12,R,U,G
 StunPause
-  12,R,U,G
-   1,R
-  40,R,U,G
-  25,R,D,G
-   1,R
-   7,L
-  32,J
-  15,R,J
-  36
-EndStunPause
-   8
-  13,R
-  16
-  31,R,U,J,G
-   1,R
-  15,R,U,J,G
-  11,L,U,J,G
+   2,R
+  23,R,U,G
+   2,R
+  41,R,U,J,G
+   1,R,D,J
+  12,G
+   9,L,G
+   1,R,D
+  14,R,G
+  13,L,G
    1,L,D
-  21,L,U,J,G
-   1,R,D
-Repeat,1
-  16,R,U,J,G
-   5,U,J,G
-   1,R,D
-EndRepeat
-  16,R,U,J,G
-   5,U,J,G
-   1,R
-  99,R,U,J,G
-  26,R,D,G
-  16,R,G
-   1,R,D
-  21,G
+  14,G
+  13,R,G
    1,D
-Repeat,12
-  16,R,U,J,G
-   5,U,G
+  21,G
+   3,D
+   8,R,D
+   1,D
+  21,G
    1,R,D
-EndRepeat
-  21,R,D,J,G
+  24,R,U,G
    1,R
-  35,R,G
-  12,D,G
-  25,L,G
-   1,L,D,G
-  17,L,G
-  10,R,G
-   1,L,J
-  21,R,J,G
-   1,L,J
-  35,R,D
+  67,R,U,G
+  18,R,D,G
+   5,R,G
+   1,L,G
+  14,R
+   1
+   1,R
+  30,D
+   5,R,D
+   2,R
+EndStunPause
+  11,L
+   7
+   5,L
+   7,L
+   9,R
+  29,R,G
+   1,R
+  42,R,J,G
+   1,L,D,J
+  21,L,G
+   1,L,D
+  20,R,G
+   1,L,G
+   1,L,D
+  21,L,G
+   1,D
+   5
+   6,R
+  19,R,G
+   1,L,G
+   1,R,G
+   1,R
+ 142,R,U,J,G
+   1,R
+  91,R,U,J,G
+   1,R
+  16,D
+   3,L,G
+   9,R
+  21,R,G
+   1,L
+  21,R,G
+   1,L
+  42,R,D
+   1,R,J
+   1,R
   40
 
 #lvl_b_05
-   1,R,D
-   9,R
-   5,R,J
-  14,R,K,G
+  25,R,D
+   9,R,K
   14,R,X
  135,R
 
-
-ChapterTime: 8:19.664(29392)
+ChapterTime: 9:48.387(34611)
+# 19x
