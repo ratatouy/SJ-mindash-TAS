@@ -1,4 +1,4 @@
-RecordCount: 11904
+RecordCount: 12619
 console load StrawberryJam2021/5-Grandmaster/Soloiini
    1
 
@@ -266,24 +266,22 @@ endRepeat
   15,R,J,G
    1,J
   16,L,K
-   2,J,G
-   2,R,J
-  16,R,K
-   1,R,J,G
-   5,R
-   3,R,J
-   7,R
+   1,J,G
+   1,K,G
    1,R,K
-   9,R
-   2,K
-  11,R
-   1,R,K,G
-   5,R
+   1,R
+  19,R,K
+   1,R,J,G
+   9,R,K,G
+   4,R
    1
-   6,R
-  13,R,K
-  17,R
-   7,R,D
+  22,R
+   1,R,K,G
+  11,R
+  20,R,K
+  13,R
+   5,R,D
+   1,R
    1,R,K,G
    2,R,J,G
    5,R
@@ -301,8 +299,7 @@ endRepeat
 #0x
    1,K,G
    5,L
-  14
-  40
+  54
 
 #lvl_Crumbling Bastions (1)
 #0x
@@ -540,7 +537,7 @@ endRepeat
 #Moonblock cycle
    8,G
    2,R,G
-##
+#
   11,R,K,G
    9,R,G
    1,R,J,G
@@ -750,13 +747,14 @@ endRepeat
    1,R,D,K
    2,R,K
    2,R
-   1,J,G
-  18,R,J,G
+   1,R,J,G
+  15,L,J,G
+   3,R,J,G
    7,R,G
    1,R,K,G
   14,R,G
    1,R,K,G
-  19,R,G
+  18,R,G
   20,R,K,G
    1,R,G
    1,R,D
@@ -865,30 +863,30 @@ endRepeat
   12,U,X
   21,G
    1,D
-  26,K,G
-   1,R,K,G
-   1,R,D,K
+  21,K,G
+   2,G
+   2,R,G
+   1,G
+   1,R
    1,J,G
    1,L,J
-  33,R,J,G
+   6,R,J
+   1,R
+   6,R,J
+  11,R
+   1,R,K,G
+  48,R,J,G
+  38,R,K,G
+  24,R,D,G
+   1,R,K,G
+  25,R,G
+   9,R,D,G
   10,R,G
-   1,R,D
-   1,R,K,G
-  20,R,J,G
-  19,R,G
-  11,R,K,G
-   9,R,G
-   1,R,K,G
-  30,R,G
-  11,R,D,G
-   1,R,K,G
-   9,R,G
-   8,R,K,G
-  28,R,G
    5,R,K,G
   19,R,G
-   4,G
+   1,G
    1,R,G
+   3,G
    1,R,K,G
   12,R,J,G
    8,R,G
@@ -1205,35 +1203,34 @@ EndRepeat
    4,R,K
   14,R,K,G
   17,R,G
-   3,R,D,G
+   2,R,D,G
    1,L,D,G
-  20,L,G
-   1,L,D
-   1,K,G
-   6,K
-   2,R,K
-   1,R,J
-  33,R,J,G
+  14,L,G
+   1,L,D,G
+   1,R
+   2,L,D
+   1,J,G
+   2,R,J
+  13,R,K
+  21,R,J,G
    1,R,D,J
   23,K,G
    3,L,K,G
    1,R,D,K
    1,R,J,G
    1,J
-   5,R,J
-  17,R,G
-   2,R,K,G
-   3,R,G
-   1,R,K,G
+   4,R,J
+  19,R,G
+   4,R,K,G
    1,R,D,K
    1,R,J,G
    1,R,J
    2,J
    1,R,J
-  23,R,J,G
-   2,D,J
-  16,K,G
-  10,G
+  22,R,J,G
+   1,D,J
+  17,K,G
+   9,G
    1,R
   20,R,X
   12,L,G
@@ -1256,52 +1253,61 @@ EndRepeat
   32,U,G
    2
    5,L,J,G
-   5,J
-   1
+   2,J
+   4
    5,R,X
   34,R,G
-   7,R,J,G
-  56,R,K,G
+   6,R,J,G
+   1,R,G
+  55,R,K,G
    6,R,K
   50,R,J
-   1,K,G
-  11,K
-   5,L,K
-  13,L,K,G
-   8,R,K,G
-   1,R
-  12,R,D
-   1,G
-  30,R
-   1,J,G
-   1,L,J
-  11,R,K,G
-   3,R
-   3,R,J,G
-   4,R
+   5,K,G
+   1,L,K
    1,R,J,G
-  11,R
-   1,R,J
-  14,R
-   8
-   1,R,J
-  21,R,J,G
-   5,R,G
-   7,R,D,J
-  55,R,J,G
-   2,R,K,G
-  23,R,G
-  21,R,J,G
-   1,D,J
+  17,R,K,G
+   4,R,G
+   1,R
+  17,R,D
+   1,G
+  28,R
+   1
+   1,R
    1,K,G
-   2,L,K
-  24,R,J,G
+   1,L,K
+  22,R,K
+   1,R,J,G
+  12,R,K,G
+   9,R
+   1,R,K
+   7,R
+   1,R,K
+  29,R,D,G
+   1,R
+  28,R,D
+   7,R
+   1,R,K
+   4,R
+   1,R,K,G
+   1,R,J,G
+  10,R
+   1,R,K
+   2,R,J,G
+  19,R,K,G
+   4,K,G
+   1,D,K
+   4
+   2,R
+   1
+   1,G
+   1,K,G
+   1,L,K
+   1,R,K
+   1,R,J,G
+   1,R,J
+  21,R,J,G
    3,R,G
    7,R
-   1
-   5,R
-   2
-   1,R
    1,R,K
    1,R,J,G
    1,R,K,G
@@ -1309,11 +1315,10 @@ EndRepeat
    1,R,J,G
   12,R
    1,R,K
-  16,R
-  14,R,G
+   7,R
+  20,R,G
    1,G
-   6,R,G
-   6,R
+  15,R
    1,R,K
    1,R,J,G
    1,R,K,G
@@ -1321,17 +1326,18 @@ EndRepeat
    1,R,J,G
    6,R
    1,R,K,G
-  10,R
-   4,R,K
-  21,R,G
-   5,R
+   9,R
    1,R,K
-  14,R
-   3,R,K
-   9,R,J,G
-  33,R,K,G
-  11,R,J,G
-  12,G
+  17,R,K,G
+  10,R,G
+  11,R,K,G
+   7,R,G
+   8,K,G
+   3,R,K,G
+   9,R,G
+   4,R,K,G
+   9,K,G
+  10,G
   25,R,G
    5,R,K,G
    5,R,G
@@ -2130,4 +2136,4 @@ endRepeat
  151,L,K
    1
 
-ChapterTime: 5:01.189(17717)
+ChapterTime: 4:59.642(17626)
