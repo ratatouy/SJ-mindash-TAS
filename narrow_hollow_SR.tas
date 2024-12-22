@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 5564
+RecordCount: 5610
 
 console load StrawberryJam2021/4-Expert/itsabrody
    1
@@ -12,13 +12,16 @@ console load StrawberryJam2021/4-Expert/itsabrody
 #Start
  190
 
+#Drift Wait 1
+3852
+#-----
+
 #Spinner Cycle 1
    0
 #-----
 
 #1x
 #lvl_1
-3852
    1,R,K
   10,R,D
   13,D
@@ -80,10 +83,7 @@ EndStunPause
   14,R
    2,R,D
    9,D
-# Spinner Cycle
-   2
-   8,R
-# -------------
+   8,R,D
    1,R,K
   18,R
    1,R,K
@@ -97,14 +97,17 @@ EndStunPause
 #0x
 #lvl_2
    6,R
-   5,L
    1,N
   34
-  38,R
-  20,O
-   3,R
+#Spinner Cycle 2
+   1
+#-----
+  49,R
+   1,X
+  19
+   7,R
 StunPause
-  26,R
+  22,R
   10,R,J
   12,R
    1,J
@@ -154,8 +157,15 @@ EndStunPause
    1,R,K,G
    4,R,J,G
   23,R
-# drift
- 307
+
+#Drift Wait 2
+ 321
+#-----
+
+#Spinner Cycle 3
+   1
+#-----
+
    2,R
    1,R,K
   14,R
@@ -215,10 +225,15 @@ EndStunPause
    1,L,J
   12,L
    1,L,G
+
+#Drift Wait 3
+#(NOT a multiple of 3), please be careful if you edit this!
 Repeat, 737
    1
    1,G
 EndRepeat
+#-----
+
    2
    1,G
    1,J
@@ -320,7 +335,7 @@ EndStunPause
 SaveAndQuitReenter
   36
 
-#Spinner Cycle 3
+#Spinner Cycle 4
    0
 #-----
 
@@ -558,7 +573,7 @@ EndStunPause
   14,R,J
    7,L
 
-#Spinner Cycle 4
+#Spinner Cycle 5
 
 #+0f
 #  17,R,D
@@ -702,12 +717,12 @@ EndStunPause
 SaveAndQuitReenter
   36
 
-#Drift Wait 1
+#Drift Wait 4
 #(multiple of 3)
 3714
 #-----
 
-#Spinner Cycle 5
+#Spinner Cycle 6
    1
 #-----
 
@@ -781,7 +796,7 @@ EndStunPause
   17,R,J,G
    4,R,K,G
 
-#Spinner Cycle 6
+#Spinner Cycle 7
 
 #+0f
    8,R
@@ -923,7 +938,7 @@ EndStunPause
   10,R,J
   13,R
 
-#Spinner Cycle 7
+#Spinner Cycle 8
 
 #+0f
    1,R,J
@@ -1034,7 +1049,7 @@ EndStunPause
    1,N
   35
 
-#Spinner Cycle 8
+#Spinner Cycle 9
    1
 #-----
 
@@ -1060,7 +1075,7 @@ EndStunPause
    6,J
   38,R,D
 
-#Spinner Cycle 9
+#Spinner Cycle 10
 
 #+0f
   10,D
@@ -1121,7 +1136,7 @@ EndStunPause
    3,R,J
   10,R,D
 
-#Spinner Cycle 10
+#Spinner Cycle 11
 
 #+0f
   15,D
@@ -1229,11 +1244,11 @@ EndStunPause
    1,L,J
    2,L
 
-#Drift Wait 2
+#Drift Wait 5
 1686
 #-----
 
-#Spinner Cycle 11
+#Spinner Cycle 12
    0
 #-----
 
@@ -1273,4 +1288,4 @@ EndStunPause
   15,U,X
  135,D
 
-ChapterTime: 9:06.397(32141)
+ChapterTime: 9:06.363(32139)
