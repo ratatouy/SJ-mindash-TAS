@@ -1,0 +1,1245 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 5076
+
+console load StrawberryJam2021/4-Expert/itsabrody
+   1
+
+#35x
+#Start
+ 190
+
+#Spinner Cycle 1
+   0
+#-----
+
+#2x
+#lvl_1
+   1,R,K
+  10,R,D
+  13,D
+   5,L,Z
+  10,L,K,G
+   3,L
+   3,R
+   2
+   1,R,D,K
+   4,K
+   1,L,K
+   1,K
+   1,L,K
+   2,D
+  12,R,D
+  10,L,D
+   5,R,D
+   4,L,D
+   1,L
+   1,L,D
+   1,L
+   1,L,K,G
+   9,L,J,G
+  19,L,D
+   1,L
+  13,R,D
+   4
+   1,R,D
+   1
+  12,R,K
+  24,R,D
+   5,Z
+   1,R,K,G
+   1,K
+   4,R,K
+   5,R
+   8,R,K
+   9,R
+   1,R,K
+  14,R
+   1,R,K
+  14,R
+  13,R,J
+   1,J
+  13,R,J
+  13,R
+   1
+   9,D
+   8,R,D
+   1,R,K
+  18,R
+   1,R,K
+  18,R
+   1,R,K
+  14,R
+   1,R,K
+  15,R
+  40
+
+#2x
+#lvl_2
+  11,R,K
+   9,R
+   1,R,K
+   2,R
+  18,R,U,Z
+  12,L,U,C
+   1,K
+   7,L,K
+  39,L,G
+   3
+   1,J
+   1,K,G
+   2
+StunPause
+   7
+   1,K
+  23,R
+   2,L
+   1,L,J,G
+   9,J
+  20
+   1,G
+   7,J,G
+   1,L,J
+   1,J
+   4,R,J
+   4,K,G
+   1,L,K
+   1,J
+   1,K
+EndStunPause
+   1,J
+   1,L,J
+   1,K
+  12,R,J,G
+  38,R
+   4,R,D
+   1,J
+  11,R,J
+   5,R
+   5,R,J
+   5,R
+   1,R,K,G
+   4,R,J,G
+  23,R
+
+#Spinner Cycle 2
+
+#+0f
+   1,R,K
+  14,R
+#---
+
+#+1f
+#   1,R,J
+#   2
+#  13,R
+#---
+
+#+2f
+#   1,R,J
+#   3
+#  13,R
+#---
+
+#-----
+
+   1,R,K
+   6,R
+  40
+
+#4x
+#lvl_3
+   2
+  11,R
+   5,R,K
+   1,R,J,G
+   1,R,K,G
+  10,R
+   2,R,K
+   5,R
+   1,R,K
+   1,R
+   1,R,K
+  13,R,D
+   5,L,D,C
+   1,L,K,G
+   1,L,J,G
+   6,L
+   8,R
+  12,L,U,G
+  19,G
+   3,K
+   1,J
+   1,L,K,G
+  16,R,K
+  13,L,U,X
+  31,L,D
+  12,G
+   1
+   1,J
+   1,L,K,G
+  27,R,D
+StunPause
+   1,R,D
+   1
+   1,D
+   1
+   5,L,J
+   3,L,J
+  19,L,D
+   4,R,D
+   1,R
+   6,R,D
+   1,D
+  14,R,D
+   1,D
+   6,R,J
+  17,R
+   1
+   3,L,J
+   9,R,J
+   5,R
+   1,R,J
+   2,R
+   4,R,J
+   9,R
+   1,R,J
+   1,J
+   5,R,J
+   1,R
+   1,R,J,G
+  20,R,K,G
+   2,J
+   1,K
+   1,J
+   2,L,J
+   6,L
+   3,L,J
+SkipInput 3 1
+  15,U,X
+   2
+   2,R,J
+   7,R,K,G
+   5,R
+   2,R,J
+   8,R
+   1,R,J
+   4,R
+EndStunPause
+   1,R
+  12,R,J,G
+   1,R,K,G
+  11,K
+   3,J,G
+   1,L,J
+   1,R,J
+   1,K,G
+   5,L,K
+   1,L,J,G
+  13,L,K,G
+   5,L
+   5,L,J
+   1,L
+   2,L,J
+  11,L,D
+   1,R,D
+   1,D
+   1,R,D
+   8,D
+   4,L,D
+   4,L
+   3
+   2,L,J
+   1,L,K,G
+   9,L,J,G
+   9,L
+   1,L,J
+   5,L
+   4,L,J
+   6,L
+   3,L,J
+   4,L
+  15,L,U,Z
+   6,L
+   2
+   1,R
+  12,R,J,G
+   1,R,K,G
+   6,K
+   3,L,K
+   3,R,K
+  12,J,G
+  11,K,G
+  40
+
+#6x
+#lvl_4
+
+#SnQ
+#reset spinners
+#doesnt save dashes i dont think
+#but it saves like 100f atleast
+#(maybe)
+   1,S
+   1,U
+   1,F,
+   1,U,J
+SaveAndQuitReenter
+  36
+
+#Spinner Cycle 3
+   0
+#-----
+
+   5,L
+  28,L,J
+   1,K
+   6,R
+   3,R,J
+   1,R
+StunPause
+   1,R,J
+  14,R
+   1,R,D,J
+   1
+   4,R
+   1
+   7,R
+   1
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   3,R,J
+  14,R
+   1,R,J
+   3,R
+   1,R,J,G
+  12,R,K,G
+   5,R
+   2,R,J
+   1,R
+   1,R,J
+   1,R
+   3,R,J
+   3,R
+   1
+   1,R
+   1
+   1,R,J,G
+   3,L,J
+  17,R,J
+   1,K,G
+   1,R,K
+   1,L,K
+   1,J
+   1,K
+   7,L,K
+SkipInput 3
+  14,L,K
+   3,K
+   1,J
+  11,R,J
+   5,R
+   1,R,J
+   9,R
+   1,R,J,G
+   7,R,K,G
+   8,R
+   1,R,J
+  22,R,D
+   1,J
+   5,R
+   1,R,J
+   3,R
+   1,R,J
+   2,R
+   2
+   2,R
+   1,R,J,G
+   7,R,K,G
+   9,R
+   1,R,J
+   4,R
+SkipInput 3 1
+   8,R,Z
+SkipInput 3
+  10,R,Z
+  14,R
+SkipInput 3 1
+  12,R,U,X
+   1,R,J,G
+EndStunPause
+   3,R,J
+StunPause
+   2,R,J
+   3,R
+   1,L
+   1,L,D
+SkipInput 3
+  15,L,D
+   1,R,D
+   4,L,D
+   5,R,D
+
+#no SnQ
+#   1,J
+#doesn't include inputs for the last stun
+#  10,L
+#   1,L,J,G
+#  12,L
+#  22,L,J
+#   2,J
+#   2,L,J
+#   1,J
+#   1,K
+#   5,R
+#   3,R,J
+#   2,R
+#StunPause
+#  15,R
+#   1,R,D,J
+#  14,R
+#   1,R,J
+#   1
+#  13,R
+#   1,R,J
+#  14,R
+#   3,R,J
+#  14,R
+#   1,R,J
+#   3,R
+#   1,R,J,G
+#  12,R,K,G
+#   5,R
+#   2,R,J
+#   1,R
+#   1,R,J
+#   1,R
+#   3,R,J
+#   3,R
+#   1
+#   1,R
+#   1
+#   1,R,J,G
+#   3,L,J
+#  17,R,J
+#   1,K,G
+#   1,R,K
+#   1,L,K
+#   1,J
+#   1,K
+#   7,L,K
+#SkipInput 3
+#  14,L,K
+#   3,K
+#   1,J
+#  11,R,J
+#   5,R
+#   1,R,J
+#   9,R
+#   1,R,J,G
+#   7,R,K,G
+#   8,R
+#   1,R,J
+#  22,R,D
+#   1,J
+#   5,R
+#   1,R,J
+#   1,R
+#   1,R,J
+#   4,R
+#   2
+#   2,R
+#   1,R,J,G
+#   8,R,K,G
+#   5,R
+#   1,R,J
+#   1,R
+#   1,R,J
+#   1,R
+#   4
+#SkipInput 3 1
+#   8,R,Z
+#SkipInput 3
+#   7,R,Z
+#   7,R
+#   2
+#   1,R
+#   6
+#  15,R,U,Z
+#  10
+#  13,R
+#EndStunPause
+#   2,R,J
+#  11,R
+#   6,L,D
+#   1,R,D
+#   3,L,D
+#   3,D
+#   4,R,D
+#----
+
+   1,J
+   6,R
+   7,R,J
+   3,R
+SkipInput 3 1
+  15,R,U,Z
+  20,R,D
+   5,D
+   1,R,D
+   1,D
+   1,J
+  12
+   4,L
+   5,D
+  15,L,D
+   2,L,J
+EndStunPause
+   5,L,J
+   9,L
+   2,L,J
+   3,L
+  21,L,Z
+  12
+   9,L
+   2
+   1,G
+   3
+  43,G
+   1
+   1,J
+   1,L,K,G
+   1,R
+   1
+  10,L,K,G
+   2,R,K
+   1,L,K
+  15,U,X
+  10,L
+   1,J
+  41,R,K
+   8,J
+   6,R
+  14,R,J
+   7,L
+
+#Spinner Cycle 4
+
+#+0f
+#  17,R,D
+#---
+
+#+1f
+  11,R,D
+   4,R
+   3
+#---
+
+#+2f
+#   9,R,D
+#   5,R
+#   3
+#   1,R
+#   1
+#---
+
+#-----
+
+   1,R,K
+  13,R,Z
+  10,R,J,G
+   5,R
+   7,R,J
+   9,R
+   1,R,J
+  11,R
+  40
+
+#4x
+#lvl_5
+   3,R
+   1,R,J
+StunPause
+  14,R
+   9,R,J
+   7,R
+SkipInput 3 1
+  13,U,X
+SkipInput 3
+   5,U,X
+  33,D
+   5,R,D
+   4,R
+   2,R,D
+   1
+   1,R,J,G
+  33,R,K,G
+SkipInput 3 1
+  12,R,U,X
+SkipInput 3
+   6,R,U,X
+   3,R
+   5,L,D
+  13,R,D
+   5,L,D
+   2,R,D
+   7,J,G
+  10,R,J
+   1,R,K
+  40,L,K
+   1,L,G
+  27,L,J,G
+   6
+   1,L
+  37
+   9,L,J
+   1,K
+   6,R,K
+   9,R
+   1,R,J
+   1,R
+   1,R,J
+   3,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   7,R,J
+   1,K
+   1,J
+   8,L,J
+   2,J
+   1,K
+   7,R,K
+   1,K
+   2
+   1,J
+   7,L,J
+   2,J
+   1
+   1,K,G
+EndStunPause
+   5,R,K
+   1,K
+   1,R,K
+  15,R,U,X
+  25,R
+   3
+   9,D
+  12,L,D
+   9,R,J
+   1,R
+  24,R,D,J
+  10,D
+   2,R,D
+   2,R,J,G
+   1,R
+   8,R,J
+   5,K,G
+   5,R,K
+   1,R
+   9,R,K
+   5,R,D
+  25,L,D
+   7,L,Z
+  83,U,G
+  12,J,G
+  12,K,G
+   8,J
+   1,R,K
+  15,R
+   1,R,J
+  14,R
+   1,R,J
+  10,R
+  40
+
+#2x
+#lvl_6
+
+#SnQ
+#reset spinners
+#drift fucks the strat otherwise
+#but it saves like 100f atleast
+#(maybe)
+   1,S
+   1,U
+   1,F,
+   1,U,J
+SaveAndQuitReenter
+  36
+
+#Drift Wait 1
+#(multiple of 3)
+3714
+#-----
+
+#Spinner Cycle 5
+   1
+#-----
+
+   5,R
+  10,R,J
+   5,R
+   2,R,J
+#stuns red, but that's fine b/c it drifts to blue midway, and when it drifts the blue spinner cluster that needs to be stunned is stunned, and another red spinner in the cluster drifts to blue after that.
+StunPause
+   1,R
+   1,R,J
+   8,R,D
+   6,D
+SkipInput 3 1
+   5,L,X
+  33
+   1,D
+   1,L
+  16,U,G
+EndStunPause
+StunPause
+   2,G
+   1,D,G
+   1,G
+   1,D,G
+   1,J,G
+   3
+   5
+   3,R
+   1,R
+  12,L,D
+   1,D
+   3,L,D
+   5,L
+   1,R,J
+   1,K
+   1,J
+   3,R,J
+   6,R
+   8,R,J
+   7,R
+SkipInput 3 1
+  15,R,U,X
+  29,R
+SkipInput 3 1
+   4,R,D
+   1,R,G
+   2,R,J,G
+  10,R,D
+   1,R,D,J
+   5,R,D
+EndStunPause
+  21,R,D
+   1,R,J
+   5,R
+   1,R,J
+   3,R
+   3,R,J
+   2,R
+   1
+   1,R
+   1
+   1,R,K
+  19,R,D
+   4,R,J
+   7,R
+  10,R,J
+   5,L
+  38,R,J
+   1,R,K,G
+  17,R,J,G
+   4,R,K,G
+
+#Spinner Cycle 6
+
+#+0f
+   8,R
+   1,R,J
+  14,R
+#---
+
+#+1f
+#   8,R
+#   1,R,D,J
+#  15,R
+#---
+
+#+2f
+#   8,R
+#   1,R,D,J
+#   3
+#  13,R
+#---
+
+#-----
+
+   1,R,J
+   2,R
+  43
+
+#12x
+#lvl_7
+  12,R
+   1,R,J
+   1,R
+StunPause
+  13,R
+   7,R,J
+  22,R
+   3,R,D
+   1,R
+SkipInput 3 1
+   6,R,U,Z
+EndStunPause
+StunPause
+   9,R,U,Z
+  10,R
+SkipInput 3 1
+  15,U,X
+   5,L
+   5
+  14,R
+EndStunPause
+   2,R
+   1,R,D
+   1,R
+   2,R,D
+StunPause
+   5,R,D
+SkipInput 3
+   4,R,D
+SkipInput 3 1
+  13,R,U,Z
+SkipInput 3
+   5,R,U,Z
+   7,R
+   1,L
+   1,J,G
+   1,R,J
+   5,R
+  10,R,J
+  30,R
+   4,R,D
+   1,J
+  11,R,J
+  22,R
+   1,R,D
+   1,R
+   1
+   1,R
+EndStunPause
+   3,R,J
+   9,R
+   2,R,J
+   6,R
+  12,R,J
+   4,R
+StunPause
+   1,R
+   8,R,J
+  12,R
+   3
+SkipInput 3
+   3
+SkipInput 3 1
+  15,R,U,Z
+   1,R
+   1,J
+   1,K
+   9,R,K
+   5,R
+   2,R,J
+   2
+   3,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   2,R,J
+   1,R
+EndStunPause
+   3,R
+   1,L,J,G
+   2,R
+  16,L
+   2
+   1,R
+   1,J
+   1,K
+   5,R,K
+StunPause
+   6,R,K
+   5,R
+   1,R,J
+  17,R,D
+SkipInput 3 1
+  10,R,X
+SkipInput 3
+   8,R,X
+  18,R,D
+   5,R
+  12,R,J
+   5,R
+   8,R,J
+   6,R
+SkipInput 3 1
+  15,U,X
+   4,R
+   1,R,J,G
+  10,R
+EndStunPause
+   5,R,J
+   5,R
+  10,R,J
+  13,R
+
+#Spinner Cycle 7
+
+#+0f
+   1,R,J
+  21,R,D
+#---
+
+#+1f
+#   1,R,D,J
+#  21,R,D
+#   1,R
+#---
+
+#+2f
+#   1,D,J
+#  21,R,D
+#   2,R
+#---
+
+#-----
+
+   1,R,J
+  13,R
+  40
+
+#4x
+#lvl_8
+   1,R
+   1,R,J
+  14,R
+   3,R,J
+  18,R,D
+  18,L,D
+   6,L,Z
+  26,D
+  16,L,D
+   4,L,G
+  17,G
+   1,U,G
+   1,G
+   1,U,G
+   1,G
+   1,U,G
+   1,G
+   1
+   1,J
+   1,L,K,G
+   4,R
+StunPause
+   9,R
+SkipInput 3
+  16,R
+   1,J
+  24,R,J
+   1,K,G
+   1,L,K
+   1,J
+   3,R,K,G
+EndStunPause
+   2,R,K
+   1,L,K
+  10,R,K
+   5,R,X
+StunPause
+  10,R,X
+   9,R
+SkipInput 3
+   3,R
+SkipInput 3 1
+  15,R,U,Z
+  16,R
+   8,D
+   1,L,D
+SkipInput 3
+   4,L,D
+   8,R,D
+SkipInput 3 1
+  15,R,Z
+   2
+   1,R
+  11
+   1,J
+   1,L,K,G
+  11,K
+   1,R,K
+   1,J
+  22,L,J
+   2,J
+   1,K
+   4,R,K
+   9,R
+   1,R,J
+  12,R
+   1,R,D
+EndStunPause
+   9,R,J
+   5,R
+   1,R,J
+  15,R
+   1,R,J
+  14,R
+   1,R,J
+  12,R
+  40
+
+#3x
+#lvl_9
+   8,R
+   1,N
+  35
+
+#Spinner Cycle 8
+   1
+#-----
+
+ 123,D
+   1,X
+  19
+   5,R
+   5,R,D,J
+   7,R
+StunPause
+  10,R
+   5,R,D
+   4,R,J
+   9,R
+   2,R,J
+  16,R
+   3,R,J
+   5,R,K,G
+   2,J,G
+EndStunPause
+   5,J,G
+   1,L,J
+   6,J
+  38,R,D
+
+#Spinner Cycle 9
+
+#+0f
+  10,D
+   1
+   1,D
+   1
+#---
+
+#+1f
+#   7,D
+#   7
+#---
+
+#+2f
+#   4,D
+#   1
+#   1,D
+#   8
+#   1,D
+#---
+
+#-----
+
+   7,R,J
+   1,R
+  16,R,J
+   7,L,D
+StunPause
+  27,L,D
+   3,D
+   2
+   2,D
+   1
+  39,L,J
+   1,L,D,K
+   1,R,K
+   1,L,J,G
+   1,L,K,G
+  12,L
+   1,L,J
+EndStunPause
+  11,L
+   1,L,J,G
+   7,L,K,G
+  20,L,D
+   6,D
+   5,L,D
+   5,R,D
+   1,L,D
+  10,R
+   1,R,D
+   1,R
+   1,R,G
+  35,R,J,G
+   8,R,K
+   1,R
+  26,R,K
+   3,R,J
+  10,R,D
+
+#Spinner Cycle 10
+
+#+0f
+  15,D
+#---
+
+#+1f
+#  10
+#   5,D
+#   1
+#---
+
+#+2f
+#  14
+#   3,D
+#---
+
+#-----
+
+   1,R,D
+   1,D
+   9,R,D
+   4,D
+   2,R,D
+   1,D
+   9,R,D
+   1,R
+StunPause
+  16,R
+SkipInput 3 1
+   4,R,Z
+EndStunPause
+   8,R,J
+   5,R
+   1,R,J
+   2,R
+   3
+   1,R
+   6
+   7,R,J
+StunPause
+   6,R,J
+   1,K
+   3,L,K
+   7,L
+   1,L,J
+   1,L
+   1,L,J
+   3,L
+   1,J
+  25,L,J
+   2,K
+   8,R,K
+   1,J
+   1,K
+  13,R
+SkipInput 3 1
+  15,R,U,Z
+   1,L
+   1,J,G
+   4,R,J
+  12,R
+   2
+   5,D,J
+   2,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+EndStunPause
+   1,K
+  19,R,K
+   2,R,J,G
+   3,L,J
+   7,R,J
+   4,R,K,G
+   5,R
+   1,R,J
+   1,R
+   1,R,J
+   6,R
+  15,R,Z
+  10
+   7,R,D
+   2,R
+   1,R,D
+   2,R
+   1,R,J,G
+  11,R,K,G
+   7,R
+   1,R,J
+  14,R
+   1,R,J
+   1,R
+  40
+
+#3x
+#lvl_10
+  13,R
+   1,R,J
+  21,R
+   1,R,J
+  18,L
+   1,L,J
+   2,L
+
+#Drift Wait 2
+1686
+#-----
+
+#Spinner Cycle 11
+   0
+#-----
+
+   1,J
+   1,K
+   1,J
+   1
+   4,R
+   1
+  11,R
+   3,R,J
+   1,R,K,G
+  13,R,J,G
+   8,L,U,X
+  24,L
+   1,G
+   1
+   1,L
+  21,G
+   1,D,G
+   1,G
+   1,D,G
+   1,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   1,R,J
+   1,R
+StunPause
+  18,R
+   1,R,J,G
+EndStunPause
+  11,R,J
+   1,K
+   1,J
+   2,L,J
+  15,U,X
+ 135,D
+
+ChapterTime: 6:38.395(23435)
