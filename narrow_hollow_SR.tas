@@ -1,12 +1,14 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 5076
+RecordCount: 5564
 
 console load StrawberryJam2021/4-Expert/itsabrody
    1
 
-#35x
+#StunPauseMode, Simulate
+
+#30x
 #Start
  190
 
@@ -14,8 +16,9 @@ console load StrawberryJam2021/4-Expert/itsabrody
    0
 #-----
 
-#2x
+#1x
 #lvl_1
+3852
    1,R,K
   10,R,D
   13,D
@@ -36,6 +39,7 @@ console load StrawberryJam2021/4-Expert/itsabrody
    4,L,D
    1,L
    1,L,D
+StunPause
    1,L
    1,L,K,G
    9,L,J,G
@@ -45,26 +49,41 @@ console load StrawberryJam2021/4-Expert/itsabrody
    4
    1,R,D
    1
-  12,R,K
-  24,R,D
-   5,Z
+  12,R,J
+  19,R,D
+   8,L,D
+   4,L
+  10,R
+   1,R,D,J
    1,R,K,G
-   1,K
-   4,R,K
+   2,R,J,G
+   1,J
+   8,R,J
    5,R
-   8,R,K
-   9,R
+   4,R,J
+  10,R
+   1
+   1,R
+   1
+EndStunPause
+   3,R,J
+  16,R
+   1,R,K
+  14,R
    1,R,K
   14,R
    1,R,K
   14,R
   13,R,J
    1,J
-  13,R,J
-  13,R
-   1
+   7,R,J
+  14,R
+   2,R,D
    9,D
-   8,R,D
+# Spinner Cycle
+   2
+   8,R
+# -------------
    1,R,K
   18,R
    1,R,K
@@ -75,163 +94,176 @@ console load StrawberryJam2021/4-Expert/itsabrody
   15,R
   40
 
-#2x
+#0x
 #lvl_2
-  11,R,K
-   9,R
-   1,R,K
-   2,R
-  18,R,U,Z
-  12,L,U,C
-   1,K
-   7,L,K
-  39,L,G
-   3
-   1,J
-   1,K,G
-   2
-StunPause
-   7
-   1,K
-  23,R
-   2,L
-   1,L,J,G
-   9,J
-  20
-   1,G
-   7,J,G
-   1,L,J
-   1,J
-   4,R,J
-   4,K,G
-   1,L,K
-   1,J
-   1,K
-EndStunPause
-   1,J
-   1,L,J
-   1,K
-  12,R,J,G
+   6,R
+   5,L
+   1,N
+  34
   38,R
-   4,R,D
+  20,O
+   3,R
+StunPause
+  26,R
+  10,R,J
+  12,R
    1,J
-  11,R,J
+   3,R,K,G
+   1,L,K
+   6,R,K
+SkipInput,3
+  12,R,K
+   1,J,G
+   1,L,J
+   1,R,K,G
+   1,L,K
+   3,R,K
    5,R
-   5,R,J
+   2,R,J
+   6,R
+   1,R,J,G
+  46,R,K,G
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   2,R,J,G
+   1,J
+  18,R,J
+   4,R
+  12,L,D
+   1,G
+   1,J
+   1,R,J
+  11,R,K
+   7,R
+   1
+   1,J
+EndStunPause
+   8,J
+  16,R
+
+   1,R,J,G
+   8,R,K,G
    5,R
+  40,R,K
+  24,R,J
+   4,R
    1,R,K,G
    4,R,J,G
   23,R
-
-#Spinner Cycle 2
-
-#+0f
+# drift
+ 307
+   2,R
    1,R,K
   14,R
-#---
-
-#+1f
-#   1,R,J
-#   2
-#  13,R
-#---
-
-#+2f
-#   1,R,J
-#   3
-#  13,R
-#---
-
-#-----
-
    1,R,K
    6,R
   40
 
-#4x
+#2x
 #lvl_3
    2
-  11,R
+   8,R
+   3,R
    5,R,K
    1,R,J,G
    1,R,K,G
-  10,R
-   2,R,K
-   5,R
-   1,R,K
-   1,R
-   1,R,K
-  13,R,D
-   5,L,D,C
-   1,L,K,G
-   1,L,J,G
-   6,L
-   8,R
-  12,L,U,G
-  19,G
-   3,K
-   1,J
-   1,L,K,G
-  16,R,K
-  13,L,U,X
-  31,L,D
-  12,G
-   1
-   1,J
-   1,L,K,G
-  27,R,D
-StunPause
-   1,R,D
-   1
-   1,D
-   1
-   5,L,J
-   3,L,J
-  19,L,D
-   4,R,D
-   1,R
-   6,R,D
-   1,D
-  14,R,D
-   1,D
-   6,R,J
-  17,R
-   1
-   3,L,J
-   9,R,J
-   5,R
-   1,R,J
+   3
    2,R
+StunPause
+   5,R
+   2,R,J
+   5,R
    4,R,J
-   9,R
-   1,R,J
-   1,J
-   5,R,J
+   8,R,D
+   4,L,D
+   2,L
+   1,J,G
+   8,L
+   6,R
+  43,R,J
+   6,R,D
+  26,R,J
+   2,R,K
+   1,J,G
+   1,R,K,G
+   4,K
+  18,R,K
+   5,R
+   2
    1,R
    1,R,J,G
-  20,R,K,G
+  10,R,K,G
+  20,L,J
    2,J
-   1,K
+   7,R,K
+SkipInput,3
+   5,R,K
+   6,R
+   5,R,K
+  10,R,D
+   2,D
+   1,R,D
+   1,R,J,G
+   1,R,K,G
+EndStunPause
+   3,R,K
+   5,R
+   1,L,J
+  12,L
+   1,L,G
+Repeat, 737
+   1
+   1,G
+EndRepeat
+   2
+   1,G
    1,J
-   2,L,J
-   6,L
+   1,R
+  39,R,J
+StunPause
+  16,R,J
+   6,L,K
+   3,L,K
+   2,L
+   1
+  16,L,D
+  26,R,D
+   6,R,J
+  17,R
+   1,L
    3,L,J
+   9,R,J
+   1,L,J
+   7,R,J
+  13,R
+   5,R,J
+   3,J
+   1,R,K,G
+  23,R,J,G
+   7,L,K
+   5,L
+   5,L,K
+   1,K
 SkipInput 3 1
   15,U,X
+   2,R
    2
    2,R,J
    7,R,K,G
-   5,R
-   2,R,J
-   8,R
+  15,R
    1,R,J
    4,R
 EndStunPause
-   1,R
-  12,R,J,G
+  11,R,J,G
+   1
    1,R,K,G
-  11,K
-   3,J,G
+  10,K
+   1
+   4,J,G
    1,L,J
    1,R,J
    1,K,G
@@ -658,7 +690,6 @@ EndStunPause
 
 #2x
 #lvl_6
-
 #SnQ
 #reset spinners
 #drift fucks the strat otherwise
@@ -1242,4 +1273,4 @@ EndStunPause
   15,U,X
  135,D
 
-ChapterTime: 6:38.395(23435)
+ChapterTime: 9:06.397(32141)
