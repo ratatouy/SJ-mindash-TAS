@@ -1,12 +1,15 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 5610
+RecordCount: 6318
+
+#StunPauseMode, Simulate
+
+#console load StrawberryJam2021/4-Expert/itsabrody 5
+#Play, reenter 5, 37
 
 console load StrawberryJam2021/4-Expert/itsabrody
    1
-
-#StunPauseMode, Simulate
 
 #30x
 #Start
@@ -316,312 +319,199 @@ EndStunPause
    6,K
    3,L,K
    3,R,K
-  12,J,G
+  12,L,J
   11,K,G
   40
 
-#6x
+#3x
 #lvl_4
+   1,J,G
+  17
+   1,G
+   2
+   1,G
+   1
+   1,G
+   1
+   3,G
+Repeat, 30
+   1,G
+   1
+EndRepeat
+   2,G
+   1
+   1,J
+   1,K,G
+   7
+   5,R
+   1,R,J,G
+   1,R,K,G
+   3
+   6,R
+StunPause
+   8,R,D,J
+   7,R
+   1,R,J
+   6,R
+   1,R,K,G
+  34,R,J,G
+   1,J
+   1,R,K,G
+   7,R
+   2,L,J
+   4,J
+  12,R,J
+   2,R
+   1,R,K,G
+   1,J
+   3,R,K,G
+   1,L,J
+   6,R,J
+SkipInput,3
+  12,R,J
+   5,K,G
+   1,R,K
+   2,K
+   3,R,K
+   1,R,J,G
+   7,R,K,G
+   6,R
+   3,R,K
+   2,R
+   1,R,K
+  20,R,D
+   2,R,J
+  13,R
+   2
+   6,R,J,G
+  14,R
+  12,L,D
+  12,R
+  41,R,J
+  11,R,K
+   3,R
+  11,R,J,G
+   5,R
+   2,R,J
+   6,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   1,R,D
+   9,L,D
+   2,R,D
+   1,R
+   1
+   1,R
+   1,R,J
+   5,R
+   2,R,J
+   8,R
+SkipInput,3,1
+  15,R,U,Z
+  24,R,D
+  21,L,D
+   1,L,J
+EndStunPause
+   1,L,J
+   6,L
+   3,L,J
+   5,R
+  24,L,X
+   2,L,J,G
+  11,L
+  57,G
+   2,U,G
+   2
+   1,J
+   2,K,G
+   1,L,J,G
+   7,L,J
+   4,R,J
+StunPause
+SkipInput,3,1
+  15,U,X
+   6,L
+   1
+   2,L
+   1
+  18,R,K
+SkipInput,3
+  23,R,K
+   9,J
+   6,R
+   6,R,J
+   7,R
+   7,L
+  17,R,D
+   7,J
+   5,L
+   1,L,J
+  13,L
+   1,L,G
+Repeat, 164
+   1
+   1,G
+EndRepeat
+   2,R,J
+EndStunPause
+StunPause
+   1,R,J
+EndStunPause
+StunPause
 
-#SnQ
-#reset spinners
-#doesnt save dashes i dont think
-#but it saves like 100f atleast
-#(maybe)
-   1,S
-   1,U
-   1,F,
+   2,R,J
+   5,R
+   2,R,J
+  11,R
+   1,R,J,G
+   1,R,K,G
+   4,R
+   5,L
+   1,L,K
+   5,L
+  38,R,J
+   2,R,K,G
+EndStunPause
+   1,R,K
+   8,R
+   1,R,J
+  14,R
+   1,R,J
+   2,R
+  40
+
+#3x
+#lvl_5
+   1,S,N
+   1,U,N
+   1,N,F,
    1,U,J
 SaveAndQuitReenter
   36
+#reenter 5
 
-#Spinner Cycle 4
-   0
-#-----
-
-   5,L
-  28,L,J
-   1,K
-   6,R
-   3,R,J
-   1,R
-StunPause
-   1,R,J
-  14,R
-   1,R,D,J
+# Spinner Cycle
    1
-   4,R
-   1
-   7,R
-   1
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   3,R,J
-  14,R
-   1,R,J
-   3,R
-   1,R,J,G
-  12,R,K,G
-   5,R
-   2,R,J
-   1,R
-   1,R,J
-   1,R
-   3,R,J
-   3,R
-   1
-   1,R
-   1
-   1,R,J,G
-   3,L,J
-  17,R,J
-   1,K,G
-   1,R,K
-   1,L,K
-   1,J
-   1,K
-   7,L,K
-SkipInput 3
-  14,L,K
-   3,K
-   1,J
-  11,R,J
-   5,R
-   1,R,J
-   9,R
-   1,R,J,G
-   7,R,K,G
-   8,R
-   1,R,J
-  22,R,D
-   1,J
-   5,R
-   1,R,J
-   3,R
-   1,R,J
-   2,R
-   2
-   2,R
-   1,R,J,G
-   7,R,K,G
-   9,R
-   1,R,J
-   4,R
-SkipInput 3 1
-   8,R,Z
-SkipInput 3
-  10,R,Z
-  14,R
-SkipInput 3 1
-  12,R,U,X
-   1,R,J,G
-EndStunPause
-   3,R,J
-StunPause
-   2,R,J
-   3,R
-   1,L
-   1,L,D
-SkipInput 3
-  15,L,D
-   1,R,D
-   4,L,D
-   5,R,D
-
-#no SnQ
-#   1,J
-#doesn't include inputs for the last stun
-#  10,L
-#   1,L,J,G
-#  12,L
-#  22,L,J
-#   2,J
-#   2,L,J
-#   1,J
-#   1,K
-#   5,R
-#   3,R,J
-#   2,R
-#StunPause
-#  15,R
-#   1,R,D,J
-#  14,R
-#   1,R,J
-#   1
-#  13,R
-#   1,R,J
-#  14,R
-#   3,R,J
-#  14,R
-#   1,R,J
-#   3,R
-#   1,R,J,G
-#  12,R,K,G
-#   5,R
-#   2,R,J
-#   1,R
-#   1,R,J
-#   1,R
-#   3,R,J
-#   3,R
-#   1
-#   1,R
-#   1
-#   1,R,J,G
-#   3,L,J
-#  17,R,J
-#   1,K,G
-#   1,R,K
-#   1,L,K
-#   1,J
-#   1,K
-#   7,L,K
-#SkipInput 3
-#  14,L,K
-#   3,K
-#   1,J
-#  11,R,J
-#   5,R
-#   1,R,J
-#   9,R
-#   1,R,J,G
-#   7,R,K,G
-#   8,R
-#   1,R,J
-#  22,R,D
-#   1,J
-#   5,R
-#   1,R,J
-#   1,R
-#   1,R,J
-#   4,R
-#   2
-#   2,R
-#   1,R,J,G
-#   8,R,K,G
-#   5,R
-#   1,R,J
-#   1,R
-#   1,R,J
-#   1,R
-#   4
-#SkipInput 3 1
-#   8,R,Z
-#SkipInput 3
-#   7,R,Z
-#   7,R
-#   2
-#   1,R
-#   6
-#  15,R,U,Z
-#  10
-#  13,R
-#EndStunPause
-#   2,R,J
-#  11,R
-#   6,L,D
-#   1,R,D
-#   3,L,D
-#   3,D
-#   4,R,D
-#----
-
-   1,J
-   6,R
-   7,R,J
-   3,R
-SkipInput 3 1
-  15,R,U,Z
-  20,R,D
-   5,D
-   1,R,D
-   1,D
-   1,J
-  12
-   4,L
-   5,D
-  15,L,D
-   2,L,J
-EndStunPause
-   5,L,J
-   9,L
-   2,L,J
-   3,L
-  21,L,Z
-  12
-   9,L
-   2
-   1,G
-   3
-  43,G
-   1
-   1,J
-   1,L,K,G
-   1,R
-   1
-  10,L,K,G
-   2,R,K
-   1,L,K
-  15,U,X
-  10,L
-   1,J
-  41,R,K
-   8,J
-   6,R
-  14,R,J
-   7,L
-
-#Spinner Cycle 5
-
-#+0f
-#  17,R,D
-#---
-
-#+1f
-  11,R,D
-   4,R
-   3
-#---
-
-#+2f
-#   9,R,D
-#   5,R
-#   3
-#   1,R
-#   1
-#---
-
-#-----
-
-   1,R,K
-  13,R,Z
-  10,R,J,G
-   5,R
-   7,R,J
-   9,R
-   1,R,J
+# -------------
+  23,L
   11,R
-  40
-
-#4x
-#lvl_5
-   3,R
-   1,R,J
 StunPause
-  14,R
-   9,R,J
-   7,R
+  26,R
+   7,R,J
+   1,L,J
+   1,R,J
+   3,L,J
 SkipInput 3 1
   13,U,X
 SkipInput 3
    5,U,X
   33,D
    5,R,D
-   4,R
-   2,R,D
-   1
+   3,R
+   1,R,D
+   2,R
+   1,D
    1,R,J,G
   33,R,K,G
 SkipInput 3 1
@@ -664,43 +554,45 @@ SkipInput 3
    2
    1,J
    7,L,J
-   2,J
-   1
-   1,K,G
+   1,J
+   2
+  11,R,J
+   5,R
+   1,R,J,G
 EndStunPause
-   5,R,K
-   1,K
-   1,R,K
-  15,R,U,X
-  25,R
-   3
-   9,D
-  12,L,D
-   9,R,J
+  10,R,J
+  19,R,D
+   1,L,D
+   1,R,D
+   8,L,D
+   1,D
+   6,L,D
+   6,L
+  46,R,J
+   2
    1,R
-  24,R,D,J
-  10,D
-   2,R,D
-   2,R,J,G
-   1,R
-   8,R,J
+   4,J,G
+   4,R,J
+   1,J
+   2,R,J
+   5,R
+   1,R,J
+   8,R
+  23,L,D
+   9,L,D,X
+   9,R
+  23,L
+  51,G
+  12,J
    5,K,G
-   5,R,K
-   1,R
-   9,R,K
-   5,R,D
-  25,L,D
-   7,L,Z
-  83,U,G
-  12,J,G
-  12,K,G
-   8,J
-   1,R,K
+  12,J
+   3,K
+   1,R,J
   15,R
    1,R,J
   14,R
    1,R,J
-  10,R
+   9,R
   40
 
 #2x
@@ -710,22 +602,16 @@ EndStunPause
 #drift fucks the strat otherwise
 #but it saves like 100f atleast
 #(maybe)
-   1,S
-   1,U
-   1,F,
-   1,U,J
-SaveAndQuitReenter
-  36
-
-#Drift Wait 4
-#(multiple of 3)
-3714
-#-----
-
-#Spinner Cycle 6
+   5,R
+   1,R,J
+  29,R
+   6
+   1,R
+   1,D
    1
-#-----
-
+   1,R
+   1,D
+ 884
    5,R
   10,R,J
    5,R
@@ -1288,4 +1174,4 @@ EndStunPause
   15,U,X
  135,D
 
-ChapterTime: 9:06.363(32139)
+ChapterTime: 9:16.767(32751)
