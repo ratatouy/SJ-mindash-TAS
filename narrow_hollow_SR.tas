@@ -1,17 +1,20 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 7250
+RecordCount: 7667
 
 #StunPauseMode, Simulate
 
 #console load StrawberryJam2021/4-Expert/itsabrody 5
 #Play, reenter 5, 37
 
+#console load StrawberryJam2021/4-Expert/itsabrody 9
+#Play, reenter 9, 37
+
 console load StrawberryJam2021/4-Expert/itsabrody
    1
 
-#30x
+#19x
 #Start
  190
 
@@ -1006,7 +1009,7 @@ EndStunPause
   13,R
   40
 
-#4x
+#2x
 #lvl_8
    1,R
    1,R,J
@@ -1035,67 +1038,72 @@ SkipInput 3
   16,R
    1,J
   24,R,J
-   1,K,G
-   1,L,K
-   1,J
-   3,R,K,G
-EndStunPause
-   2,R,K
-   1,L,K
-  10,R,K
-   5,R,X
-StunPause
-  10,R,X
-   9,R
-SkipInput 3
-   3,R
-SkipInput 3 1
-  15,R,U,Z
-  16,R
-   8,D
-   1,L,D
-SkipInput 3
-   4,L,D
-   8,R,D
-SkipInput 3 1
-  15,R,Z
-   2
+   2,K,G
    1,R
-  11
-   1,J
-   1,L,K,G
-  11,K
-   1,R,K
-   1,J
-  22,L,J
-   2,J
-   1,K
-   4,R,K
-   9,R
-   1,R,J
-  12,R
-   1,R,D
-EndStunPause
+   1,K,G
+   6,R
+   1
    9,R,J
    5,R
+  17,R,J
+   3,R
+   5,L
+   1,L,D
+SkipInput,3
+   6,L,D
+   1,G
+   2
+   2,J,G
+   3,L
+   1
+   2,L
+   6,R
+  35,R,J
+   3,R,D
+   1,K
+   8
+   1,L
+   1,L,J
+  25,L
+   2,R,J
+   9,R
    1,R,J
-  15,R
+   6,R
+  17,R,J
+SkipInput,3,1
+  15,R,X
+  14,R,D
+   8,J
+   3,R,J
+   2,J
+  10,L,K
+   1,L
+   4,R,J
+   7,R
+   1,R,J,G
+   5,R,K,G
+EndStunPause
+  37,R,K,G
    1,R,J
   14,R
    1,R,J
   12,R
   40
 
-#3x
+#1x
 #lvl_9
-   8,R
-   1,N
-  35
-
+   1,S,N
+   1,U,N
+   1,N,F,
+   1,U,J
+SaveAndQuitReenter
+  36
+# reenter 9
+  17,L
+  38,N
 #Spinner Cycle 9
-   1
+   2
 #-----
-
  123,D
    1,X
   19
@@ -1152,18 +1160,34 @@ StunPause
    2
    2,D
    1
-  39,L,J
-   1,L,D,K
-   1,R,K
-   1,L,J,G
-   1,L,K,G
-  12,L
+  36,L,J
+   2,J
+   1,K,G
+   1
+   3,L
+   1
+   1,L
    1,L,J
+   3,L
 EndStunPause
-  11,L
+   6,L,D,J
+   1,K
+   9
+   1,K
+   4,L
+   1
+   2,L
    1,L,J,G
    7,L,K,G
-  20,L,D
+   5,L
+   2,L,K
+   8,L,D
+   1,D
+   1,L,D
+   1,D
+   1,L,D
+   1,D
+   1,L,D
    6,D
    5,L,D
    5,R,D
@@ -1182,13 +1206,13 @@ EndStunPause
 #Spinner Cycle 11
 
 #+0f
-  15,D
+#  15,D
 #---
 
 #+1f
-#  10
-#   5,D
-#   1
+  10
+   5,D
+   1
 #---
 
 #+2f
@@ -1205,22 +1229,24 @@ EndStunPause
    2,R,D
    1,D
    9,R,D
-   1,R
 StunPause
-  16,R
+  17,R
 SkipInput 3 1
    4,R,Z
+   1,R,J
 EndStunPause
-   8,R,J
+   7,R,J
    5,R
    1,R,J
    2,R
    3
-   1,R
-   6
-   7,R,J
 StunPause
-   6,R,J
+   1,R
+   3
+SkipInput
+   3
+   8,R,J
+   5,R,J
    1,K
    3,L,K
    7,L
@@ -1234,13 +1260,60 @@ StunPause
    8,R,K
    1,J
    1,K
-  13,R
-SkipInput 3 1
-  15,R,U,Z
-   1,L
-   1,J,G
+   8,R
+   1
+   1,R
+   1
+   4,R
+  34,R,J
+   1,R,G
+   1,R,J
+   2,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,K
+  26,R,K
+   1
+   3,R
+   1,D
+   1,R
+EndStunPause
+   2,R,D,J
+   5,R
    4,R,J
-  12,R
+   8,R,D
+   3,R,D,J
+  16,R
+   2,R,D,J
+   3,R
+   2,R,J
+   3,R
+# drift
+2199
+   2,L,J
+   3,L
+   2,L,J
+   3,L
+   2,L,J
+StunPause
+   1,L,J
+   5,L
+   4,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1
+   1,L
+   1,L,D,J
+   1,L,K,G
+   2,L,J,G
+  10,L
+   8,R
+   1,D
+   7,R
    2
    5,D,J
    2,L,J
@@ -1250,44 +1323,61 @@ SkipInput 3 1
    1,L,J
    1,J
    1,L,J
-EndStunPause
    1,K
   19,R,K
-   2,R,J,G
-   3,L,J
-   7,R,J
-   4,R,K,G
-   5,R
+   1,J,G
+   1,L
+   3,R,J,G
+   1,L,J
+   3,R,J
+   9,R
    1,R,J
    1,R
-   1,R,J
-   6,R
-  15,R,Z
-  10
-   7,R,D
-   2,R
-   1,R,D
-   2,R
-   1,R,J,G
-  11,R,K,G
-   7,R
+   1,R,K,G
+   2,R,J,G
+   5,R
+  19,R,K
+   4,R,D,J
+   9,R
+EndStunPause
+  16,R,D
+   3,R
+  23,R,J
+   3,R
+# Spinner Cycle
+# +0f
    1,R,J
   14,R
+
+# +1f
+#   1,R,D,J
+#  15,R
+
+# +2f
+#   1,D,J
+#  16,R
+# -------------
    1,R,J
    1,R
   40
 
-#3x
+#2x
 #lvl_10
   13,R
    1,R,J
   21,R
    1,R,J
-  19,R
+  18,R
    1
    1,R
    1
-   3,R,J
+   1,R
+   1
+   1,R
+   1
+   1,R,J
+   1,R,K,G
+   1,R,J,G
    1,R,K,G
   13,R,J,G
    8,L,U,X
@@ -1315,4 +1405,4 @@ EndStunPause
   15,U,X
  135,D
 
-ChapterTime: 10:09.059(35827)
+ChapterTime: 11:15.988(39764)
