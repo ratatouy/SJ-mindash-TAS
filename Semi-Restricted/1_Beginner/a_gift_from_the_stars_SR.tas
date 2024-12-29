@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2214
+RecordCount: 2273
 
 #StunPauseMode,Simulate
 console load StrawberryJam2021/1-Beginner/HankyMueller
@@ -274,11 +274,11 @@ endStunPause
    1,L,J,G
    7,L
    4,L,J
-  24,L
-   1,J
-   5,R
-  11,D
-   4,R,D
+  18,L
+   1,L,D
+   1,L
+   8,L,D
+
 #lvl_Stepping Stone
 #timestop is good to have going into the next room, so we do a wierd loop to get it
 #snq to reset drift
@@ -447,9 +447,7 @@ endStunPause
    1,R,J
   14,R
    6,R,J
-   4,R
-   2,R
-   8,R
+  14,R
    1,R,J,G
    1,R,K,G
   10,R
@@ -577,8 +575,7 @@ stunPause
 endStunPause
 #lvl_End
 #0x
-  40
-   1
+  41
   75,O
    5,R
    1,R,J
@@ -614,4 +611,4 @@ endrepeat
   10,R,X
  135
 
-FileTime: 3:03.855(10815)
+ChapterTime: 3:01.781(10693)
