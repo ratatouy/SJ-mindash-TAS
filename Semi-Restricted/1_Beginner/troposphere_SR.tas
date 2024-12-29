@@ -268,7 +268,7 @@ repeat 400
    1
    1,G
 endrepeat
-#TimeActive: 263.75 
+#TimeActive: 263.75
   14,L,X
    4,L,J
    7,L,K
@@ -310,11 +310,11 @@ EndStunPause
 
    4,U,X
 
-  StunPause
+StunPause
    7,U
    1
 EndStunPause
-  
+
  204
   40
 #lvl_b_01
@@ -357,7 +357,7 @@ StunPause
 EndStunPause
 
    4,R,Z
-   
+
 StunPause
   11,R
 EndStunPause
@@ -457,8 +457,9 @@ skipInput,3
    3,R
 endStunPause
   16,R,D
-  40
+
 #lvl_b_04
+  40
 #drift
 2630
 #TimeActive: 366.90
@@ -562,8 +563,9 @@ endStunPause
    5,L,D
   11,D
  274
-  40
+
 #lvl_b_05
+  40
    1,S
    1,U
    1,F,0
@@ -786,10 +788,13 @@ endStunPause
   17,R,J
  150
   40
+
 #lvl_c_03_end
   72
  151,U,X
    8,R
   12,U,C
  135
-FileTime: 9:52.671(34863)
+
+ChapterTime: 9:48.829(34637)
+# 34863
