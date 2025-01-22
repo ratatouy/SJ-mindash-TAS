@@ -4,13 +4,13 @@
 RecordCount: 7084
 
 console load StrawberryJam2021/2-Intermediate/Luma
-
+   1
 #StunPauseMode, Simulate
 
 
 #3x
 #Start
- 191,J
+ 190,J
 ### spinner unload cycle (lvl_5)
    5,J
 ###
