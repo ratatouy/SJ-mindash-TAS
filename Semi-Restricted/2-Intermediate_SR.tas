@@ -12,13 +12,13 @@ console load StrawberryJam2021/0-Lobbies/2-Intermediate
 #22x
 Read,../Lobby_Movement/2_Intermediate_Lobby/int_0-1,Start
 Read,../Enter_Level,Start
-Read,2_Intermediate/frosted_fragments_SR,Start
+Read,2_Intermediate/frosted_fragments_SR,Start
    1,O
   32
 
 #13x
 Read,../Lobby_Movement/2_Intermediate_Lobby/int_1-2,Start
-Read,../Enter_Level,Start
+Read,../Enter_Level,Start
 Read,2_Intermediate/low-g_botany_S,Start
    1,O
   32
@@ -58,12 +58,12 @@ Read,2_Intermediate/supernautica_SR,Start
    1,O
   32
 
-#?x
-#Read,../Lobby_Movement/2_Intermediate_Lobby/int_8-7,Start
-#Read,../Enter_Level,Start
-#Read,2_Intermediate/sleeping_under_stars_SR,Start
-#   1,O
-#  32
+#18x
+Read,../Lobby_Movement/2_Intermediate_Lobby/int_8-7,Start
+Read,../Enter_Level,Start
+Read,2_Intermediate/sleeping_under_stars_SR,Start
+   1,O
+  32
 
 #3x
 Read,../Lobby_Movement/2_Intermediate_Lobby/int_7-9,Start
@@ -134,12 +134,13 @@ Read,../Enter_Level,Start
 Read,2_Intermediate/square_the_circle_SR,Start
    1,O
   32
-
 #43x
+#magic comand to get heartside to not have CPs accissible on debug files
+EvalLua Celeste.SaveData.Instance.DebugMode = false
 Read,../Lobby_Movement/2_Intermediate_Lobby/int_18-19,Start
 Read,../Enter_Heartside,Start
 Read,2_Intermediate/raspberry_roots_SR,Start
   61
    1,O
-
-FileTime: 0:00.000(0)
+# 304
+FileTime: 1:35:03.245(335485)
