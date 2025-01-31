@@ -3,7 +3,7 @@
 
 #StunPauseMode, Simulate
 
-RecordCount: 8624
+RecordCount: 8774
 
 console load StrawberryJam2021/2-Intermediate/Dooshii
    1
@@ -298,7 +298,7 @@ SkipInput 3 1
 EndStunPause
    6,J,G
   32,R,K
-StunPause 
+StunPause
    3,R,K
    1,R,D,K
    2,R,K
@@ -345,18 +345,55 @@ SkipInput 3 3
   12,L,J,G
    1,K,G
 EndStunPause
-  10,K,G
-  40,R,J
-  15,R,U,X
-  21,R
+   7
+# drift
+Repeat, 1267
+   1,G
+   1
+EndRepeat
+   2,G
+   6,K,G
+  13,L
+StunPause
+   4,L
+   3
+   1,K,G
+   4,K,G
    1,R,K
+   3,R,K
+   1,L,J,G
+   5,R,J
+   4,R
+   1
+   1,R
+   1,K
+  25,L,K
+   1,J
+   2,R,J
+   1,L,J
+   2,K,G
+   3,R,K
+   5,R
+   2,R,K
+   6,R
+   4
+   2,R
+   1,R
+EndStunPause
+   1
+  27,R
+   1
+   1,R
+   1
+   1,R
+   1,R,J,G
+   1,R,K,G
+  13,R
+   1,R,J
   14,R
-   1,R,K
-  14,R
-   1,R,K
-   3,R
+   1,R,J
+  13,R
   40
-
 #lvl_a4v2 (0)
 #2x
   11,R
@@ -373,6 +410,7 @@ endrepeat
  155,R,U
 # spinner cycle
    1,R,U
+   1
    1,X
   19
    3,L,J
@@ -446,7 +484,13 @@ endrepeat
    1
   18,L
   28,L,J
-  37,L,D
+  36,L,D
+# drift
+Repeat, 261
+   1,G
+   1
+EndRepeat
+   3
   12,J
    4,K,G
    1,R
@@ -476,9 +520,8 @@ endrepeat
   15,L,U,X
   31,L
    1,L,J
-  13,L
-StunPause 
-   1,L
+  14,L
+StunPause
    4,L,J
   17,L
    4,L,D,J
@@ -521,7 +564,8 @@ EndStunPause
    1,L,J
   12,L,K
    7,L
-Repeat, 135
+# drift
+Repeat, 415
    1,L,G
    1,L
 EndRepeat
@@ -648,7 +692,7 @@ EndRepeat
    1,R,K,G
   14,R
   10,R,J
-StunPause 
+StunPause
   25,R,J
   15,L,D
    2,L
@@ -680,7 +724,7 @@ EndStunPause
 #0x
    1,L
    9,R
-StunPause 
+StunPause
    1,R,J
   14,R
    1,R,J
@@ -905,7 +949,7 @@ EndRepeat
    1,R,K,G
   14,R
    9,R,J
-StunPause 
+StunPause
   29,R,J
    2,L,J
    1,R,J
@@ -1230,8 +1274,8 @@ EndStunPause
 
 #lvl_downmoveblockv2
 #1x
-#1752
- 138
+# drift
+ 135
   39,R
    1,R,K
   19,R
@@ -1371,6 +1415,5 @@ EndStunPause
   15,R,U,X
  135
 
-ChapterTime: 5:46.562(20386)
-#20329
-#27 dashes
+ChapterTime: 6:56.891(24523)
+#23 dashes
