@@ -1,7 +1,8 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 4795
+RecordCount: 5254
+
 
 console load StrawberryJam2021/3-Advanced/Maladroit
    1
@@ -9,8 +10,8 @@ console load StrawberryJam2021/3-Advanced/Maladroit
 #Start
   69
 
-#lvl_A0
-#(1x)
+#lvl_A0 (0)
+#0x
 # drift
 3765
    1,R,J
@@ -67,61 +68,99 @@ StunPause
    3,L,U,G
 EndStunPause
   71,L,U,G
-  48,R,U,J,G
-  70,J,G
-  84,R,U,K,G
-   3,R,D,G
-   3,R,U,G
+ 140,R,U,J,G
    1,R
-  29,L
-   9,R,G
-   1
-  82,R,G
+  47,L
+   8,J,G
+   7
+  19,L
+   5,J
+  10
+   8,R
+  67,R,G
    6,R,D,G
-   1,J,G
-   1,K,G
-   1,J,G
-   1,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
    7,R
+   8,R,J
+  25,R,J,G
    1,L,J
-   9,L,J
-   3,R
-   3,L
-  44,R,D,G
-   1,R,D
-   3
-   1,L
-   1,J,G
-   1,K,G
-   8,K
-   3,R,K
-  31,R,K,G
-   5,L,G
-   1,L,D
-   5
-   6,J
-   5
-   5,U,X
-  17,G
-   3,L,G
-   7,G
-   3,R,G
-  20,R,U,G
-   1,R,D,G
-   8,D,G
-  19,R,D,G
+   3,R,J
+   8,R,K,G
+   2,R
   40
 
-#lvl_A2
+#lvl_A2 (0)
+  14,R
+   1,R,J
+StunPause
+   5,R,J
+  15,R
+   6,L,J
+   5,L
+   7,L,J
+   3,L,K,G
+   3,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,J
+  18,L,J
+   7,L
+   7,L,J,G
+   1
+   1,L
+   3
+   1,L
+   2,R
+   8
+   9,L,D,G
+   2,G
+   1,L,J,G
+   1,L,K,G
+EndStunPause
+   1,L,J,G
+   1,L,K,G
+   4,L
+StunPause
+   5,L
+  21,L,J
+   1,K
+   9,L,K
+EndStunPause
+  16,L,K
+   1,J
+   4,R,J
+   2,R
+   8,L
+  20,L,U,J,G
+  20,L,D,G
+   5,R,D,G
+  42,L,D,G
+  12,L,G
+   1,R,J,G
+   5,R,G
+  43
+
+#lvl_A0 (1)
+  11,R,G
+  40
+
+#lvl_A2 (1)
 #(0x)
-  17,R,D,G
+   9,R,G
+   7,R,D,G
    1,R,J,G
   28,R,D,G
   26,R,G
    2,R,J,G
    1,R,U,G
-  60,R,U,J,G
-   1,R,G
+  58,R,U,J,G
+   4,R,G
    3,R,D
    1,J
   17,R,J
@@ -203,8 +242,7 @@ EndRepeat
    2,R
    1,R,J,G
    1,R,K,G
-  13,R
-   1,R
+  14,R
    1,R,K
   11,R
   43
@@ -225,9 +263,8 @@ EndRepeat
    2,K,G
    5,L
    1
-   4,R
+   5,R
 StunPause
-   1,R
   51,R,K
 # dash
 SkipInput,3,1
@@ -260,10 +297,16 @@ EndStunPause
    2,R,K
    9,R
   10,R,J
-   6,R
+   4,R
 StunPause
-  22,R
-  17,L
+  24,R
+  13,L
+EndStunPause
+StunPause
+   1,L
+EndStunPause
+StunPause
+   3,L
    4,L,J,G
    1,L
 EndStunPause
@@ -330,9 +373,9 @@ EndStunPause
    1,R,D
   25,D,G
   60,L,D,G
-   7,R,D,G
+   6,R,D,G
 StunPause
-  31,R,D,G
+  32,R,D,G
   12,D,G
    1,R
   16,L
@@ -386,7 +429,7 @@ Endrepeat
 #lvl_Brys2-2-2
 #(2x)
   12,R
-   1,R,K
+   1,R,J
   14,R
    1,R,K
   13,R
@@ -409,9 +452,9 @@ Endrepeat
   20,G
   57,R,D,G
    1
-  10,D
+  11,D
 StunPause
-   8,D
+   7,D
 SkipInput,6
   47,R
   11,J,G
@@ -459,21 +502,27 @@ EndStunPause
    3,R
 StunPause
    4,R
-  29,R,U,J,G
-   1,L,U,J,G
-   1,L,G
-  28,D,G
-  10,L,D,G
-  11,D,G
-  21,R,G
-   9,R,D,G
+  18,R,U,J,G
+   1,U,J,G
+  10,R,U,J,G
+   5,L,U,J,G
+  24,L,D,G
+   2,D,G
+   1,L,D,G
+  38,R,D,G
 EndStunPause
-  41,R,D,G
+   5,R,U,G
+  36,R,D,G
+   3,D,G
 StunPause
-  29,D,G
-  19,R,D,G
+  16,D,G
+   1,R,D,G
+  10,D,G
+  18,R,D,G
 EndStunPause
-  15,R,D,G
+  12,R,D,G
+   2,R,G
+   2,R,D,G
   25,R,U,G
    1,L,D
   11,L
@@ -659,5 +708,5 @@ EndStunPause
    1,R,J,G
   10,R,K,G
   59,R
-ChapterTime: 4:25.625(15625)
-#5 dashes
+ChapterTime: 4:42.166(16598)
+#4 dashes
