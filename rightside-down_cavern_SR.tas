@@ -1,0 +1,1369 @@
+RecordCount: 14275
+
+console load StrawberryJam2021/3-Advanced/Vamp
+   1
+
+#3x
+#Start
+  90
+
+#Spinner Cycle [intro_SJ] 1
+   1
+#-----
+
+#0x
+#lvl_intro_SJ
+   1,R
+   1,R,J
+  14,R
+   1,R,J
+   9,R
+   1
+   1,R
+   2
+   1,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  21,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  32,R,K
+   7,R,J,G
+   4,R,K,G
+   1,J,G
+   2,L,J
+  11,L,K
+  10,J,G
+   1,K,G
+   4,L
+   1
+   1,L
+   2
+   1,R
+  20,R,J
+  27,R,U
+   2,U
+   3
+   2,U
+   1,R,U
+   3
+   1,R
+   1
+   5,U
+  18,L,U
+StunPause
+   1,L,U
+SkipInput 3
+   6,L,U
+  10,R,U
+  15,U
+EndStunPause
+   4,U
+
+#Spinner Cycle [intro_SJ] 2
+
+#+0f:
+#  26,U
+#---
+
+#+1f:
+#   6
+#   1,U
+#   1
+#  18,U
+#   1
+#---
+
+#+2f:
+   9
+   2,U
+   1
+  16,U
+#---
+
+#------
+
+   1,L,U
+   1,U
+  18,R,U
+   5,U
+   1,R,U
+   1,J
+   6,R,J
+   5,R
+   3,R,J
+   7,R
+   1,R,G
+   4,J,G
+   5,R,J
+  16,R,U
+   1,R,J
+  21,R,U
+   1,R,J
+  21,R,U
+   1,R,J
+  14,R
+   4,R,J
+StunPause
+   3,R,J
+  25,R
+   7,R,J
+   5,R
+   1,R,J
+   1,R
+   1,R,J
+   1
+   1,J
+   3,R
+   1
+   1,R
+   1
+   1,R
+   7,R,J,G
+   6,R
+   2,R,J
+   1,R
+   2,R,J
+   6,R
+   1,J
+   1,R,J
+   1,R
+   3
+   1,R
+   2
+   2,R
+   1
+EndStunPause
+  35,R,J
+   1,R,U
+   1,R
+   7,R,U
+
+#Spinner Cycle [Vamp_2] 1
+
+#+0f:
+   2,R,J
+   7,R
+   4,R,J
+   3,R
+   2
+   2,R
+#---
+
+#+1f:
+#   1,R
+#   1,R,U,J
+#   1,J
+#   1
+#   6,R
+#   4,R,J
+#   7,R
+#---
+
+#+2f:
+#   2
+#   1,R,J
+#   1,J
+#   7,R
+#   4,R,J
+#   6,R
+#   1
+#---
+
+#------
+
+   1,R,J,G
+   1,R,K,G
+   5,R
+   1,R,J
+   1,R,K,G
+   4,R
+  40
+
+#0x
+#lvl_Vamp_2
+   9,R
+   1,R,J
+  23,R,U
+   1,R,J
+  18,R,U
+   1,R,J
+  18,R
+   1,R,J
+  23,R,U
+   3,R
+  13,R
+   9
+   2,L,D
+  15,D
+   3
+   2,R
+StunPause
+   8,R
+  40,R,U
+  31
+  12,R,D
+  30,R
+   1,R,J
+  34,R
+EndStunPause
+   1,R
+  20,L,U
+
+#Spinner Cycle [Vamp_2] 2
+
+#+0f:
+#  20,L
+#   3,J
+#---
+
+#+1f:
+  17,L
+   1
+   1,L
+   4,J
+   1,L,J
+#---
+
+#+1f:
+#  18,L
+#   3,L,K
+#   1,K
+#   1,L,K
+#   1,K
+#   1,J
+#---
+
+#------
+
+   1,K
+   1,R,D
+StunPause
+  29,R,D
+  27,R
+  25,U
+  14
+   1,R
+   1
+  25,R,D
+  16,R
+   8,R,D
+   3,R
+EndStunPause
+   5,R
+   7
+   6,R
+   1
+   2,R
+   1
+  11,R,U
+  11,U
+   7,L,U
+   4,U
+  12
+   1,R,J,G
+#Wait for moonblock
+ 349,G
+   1,R,J,G
+   6,L,J
+   1,L
+  23,R,D
+  25,R
+   3,D
+   5
+   2,R
+   1,L,D,J
+   4,R,J
+   1,L,J
+   4,R,J
+   8,R
+   1,R,J
+#No Cycle Wait for this B/C of Moonblock Cycle wait
+StunPause
+   1,R
+   1,R,J
+  14,R,D
+   6,R
+  18,R,U
+  20,U
+  15
+   2,L
+   2
+   1,R
+   1
+  29,R,D
+  12,R
+   1,R,J
+   6,R
+EndStunPause
+  12,R
+   2,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   8,K
+   7,R,K
+   1,K
+   5,R,K
+   1,R,G
+   2,R,J,G
+   1,L,J
+   4,R,J
+  18,R
+  10,R,J
+   9,R
+   1,R,J
+   9,R
+   2
+   1,R
+   1,R,D
+   1,R,J,G
+   1,R,K,G
+   4,R
+  40
+
+#0x
+#lvl_Vamp_3
+   1,R
+  72,O
+#Spinner Cycle [Vamp_3]
+   1
+#-----
+#Wait for moonblock
+ 207
+   1,L
+   1
+   2,R
+   2
+   8,R
+   1,R,J
+  14,R
+   6,R,J
+   6,R
+   1,R,J
+  17,R
+   2
+  27,R,J
+  34,R
+  12,R,D
+  13,L
+   7,R,D
+   1
+  30,R,J
+StunPause
+   8,R,J
+   6,R,U
+   3,R
+   1,R,U
+   5,R,J
+  29,R,U
+  12,R
+   1,R,J
+   1,R
+   1,R,J
+   2,R
+   1,R,J
+   1
+   1,R
+   1
+   1,R,G
+  13,R,J,G
+EndStunPause
+  28,R
+   4,R,D
+  10,R
+   9,R
+  28,U
+  12
+  39,D
+   2
+  10,R
+  35,R
+   2,R,U
+   1,U
+   1,R,J,G
+   9,R
+   1,R,J
+
+##Drift Wait Inputs
+#-Pre Drift Wait
+   3,R
+   8,L
+   1
+   1,L
+   2
+#-Drift Wait Proper
+  33
+#--Spinner Cycle [Vamp_4]
+   1
+#-----
+   1,L,J
+   1,L
+  15,R
+#-----
+##
+
+#W/O Drift Wait
+#   4,R
+#   2
+#   1,R
+#-----
+
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+  18,R
+   1,R,J
+  19,R
+   1
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+  40
+
+#0x
+#lvl_Vamp_4
+   1,R,J
+   2,R
+StunPause
+  19,R
+   1
+   2,R
+   1,R,J
+   1,R,K,G
+   4,R,J,G
+   1,R
+   2,R,K,G
+   4,R
+   1,R,J,G
+  11,R
+   1
+   3,R,U,J
+   4,R,K,G
+   3,R,J,G
+EndStunPause
+   2,R,J
+  10,R,K,G
+   1
+   8,R
+   1,R,J
+   7,R
+   3,R,J,G
+   9,R
+   2,R,J
+  36,R
+   2
+   2,R
+   1
+   1,R,U
+   1
+   1,R,U
+   4,L,U,J
+   4,R,J
+   5,R
+   2,J
+   1,K,G
+   1,L
+   1,R
+   1,J,G
+   9,R,J
+   5,R
+   2,R,J
+   1,J
+   4,R
+   1,R,J,G
+  40,R,U
+  18,U
+   1,R,U
+   1,R,U
+   1,U
+   7,U
+   2,L
+   5,R
+   5,R
+   1,R,J
+  29,R,U
+   1,R,J
+  24,R,U
+
+#Spinner Cycle [Vamp_5] 1
+
+#+0f:
+#   1,R,J
+#  19,R
+#---
+
+#+1f:
+   1,R,U,J
+  14,R
+   1
+   1,R
+   1
+   3,R
+#---
+
+#+2f:
+#   1,U,J
+#  21,R
+#---
+
+#------
+
+   7,R,J
+   1,R,K,G
+   1,R,J,G
+  19,R
+  40
+
+#1x
+#lvl_Vamp_5
+   1,R
+   1,R,J
+  21,R
+   1
+   1,R
+   1
+   1,R
+   1,R,J
+   1,R,K,G
+   4,R,J,G
+   7,R
+   1,R,J
+  65,R
+  30,R
+  42,R,J
+   2,R,U
+StunPause
+   2,R,U
+   1,R,J,G
+   1,R,K,G
+   6,R
+   1,R,J,G
+  14,R
+  42,R,J
+   7,R
+   9,L
+   1,L,U
+   1,L
+   1,L,U
+  22,R,J
+   1,R,K,G
+   4,K
+   2,L,K
+   1,R,J,G
+   4,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,K
+   4,R,K
+EndStunPause
+  22,R,K
+
+#Spinner Cycle [Vamp_5] 2
+
+#+0f:
+  13,R
+#---
+
+#+1f:
+#   2
+#   2,R
+#   1
+#   1,R
+#   1,R,U
+#   7,R
+#---
+
+#+2f:
+#   2
+#   1,R,U
+#   1,R
+#   1,R,U
+#   2,R
+#   1
+#   7,R
+#---
+
+#------
+
+   7,R
+StunPause
+   8,R
+   1,J
+   5
+   2,J
+   2,R
+   4
+  27,R
+   1
+   3,R
+   1,R,J,G
+  10,R,K,G
+   1,R
+   1,L
+   8,R
+   8,R,J
+EndStunPause
+   8,R,J
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,R,K,G
+   1,K
+   3,R,K
+   6,R,J,G
+  16,R,D
+
+#This change in cycle doesn't affect the moonblock after, thankfully.....
+#Spinner Cycle [Vamp_5] 3
+
+#+0f:
+#   1,R,J
+#   1,R
+#   1
+#  16,R
+#---
+
+#+1f:
+   1,R,U,J
+   5
+  14,R
+#---
+
+#+2f:
+#   1,J
+#  20,R
+#---
+
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+  11,R,J
+  24,R
+   1,R,J,G
+   2,R,K,G
+   8,R
+   1,R,J
+   6,R
+   2,R,J
+StunPause
+   7,R,J
+   7,R
+   1,R,J
+   1,R
+   1,R,J
+   2,R
+SkipInput 3 1
+  15,R,U,Z
+   9,R
+  12,R
+EndStunPause
+#Changing cycle after stun during grounded wallboost could work, but don't feel like messing with that TBH
+   8,R
+  20,L,U
+   3,U
+   1,J,G
+   3,L
+   2
+   1,L
+   1,R
+   4,R,J
+#Pauses at end of stun could be saved by not stunning those last 2 spinners with a wallboost into DCB above the spinners, but I don't feel like trying that, may be awkward / weird / precise / impossible. Maybe later.
+StunPause
+   8,R,J
+   5,R
+   5,R,J
+  24,R
+   1,R,U
+   1,R
+   1,R,U
+   1,R
+   2,R,U
+   1,R,G
+   9,R,J,G
+  19,R
+   1,R,J
+   5,R
+   1,R,J
+   2,R
+   1
+  10,R
+   2,R,U,J
+EndStunPause
+   1,R,K,G
+   1,R,J,G
+  23,R,K,G
+  40
+
+#0x
+#lvl_Vamp_6
+#Spinner Cycle [Vamp_6]
+   1
+#-----
+   1,S
+   1,D,J
+  69,O
+   1,L,J
+   3,L
+  11,R
+   1,R,J
+   2,R
+StunPause
+  21,R
+  12,R,J
+   5,R
+   1,R,J
+EndStunPause
+StunPause
+   1,R
+EndStunPause
+StunPause
+   1,R,J
+  15,R
+   1,R,G
+   4,J,G
+   3,R,J
+   6,R
+   1,R,J
+   3,R
+   1,R,J,G
+   3,R
+   1,R,J,G
+   6,R,K,G
+EndStunPause
+#Could add another spinner cycle wait between the 2 stuns in this room, but that might be awkward, this works well enough IMO!
+   8,R,K
+   5,R
+   1,R,J,G
+   2
+   7,R
+   1
+   4,R
+   1,J
+   9,R,J
+   5,R
+   9,R,J
+  10,R,D
+   2,D
+   2,R
+   1,R,J,G
+   1,R,K,G
+   4,R
+   9,D
+   1,R,D
+   1,D
+   3,R
+StunPause
+  46,R
+   4,R,U
+   1
+   1,U
+   1,R
+   5,R,J
+   1,R,K,G
+   5,R,J,G
+   9,R
+   1,L,J
+  12,R,K,G
+   7,R,J,G
+EndStunPause
+   6,R
+   2,R,J
+   1
+   1,R,U
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   5
+   6,R
+   4,R,J
+  35,R
+  11,R,J
+  11,R
+   2
+   1,R
+   1,R,J,G
+  15,R
+  41,L,U
+   4,U
+   3
+   1,G
+   1,J,G
+   7,L
+   1,L,J
+   1,J
+   5,R
+  37,R,J
+  18,R,U
+   2,R
+   1,R,J
+  38,R,U
+   5,R
+   4,R,J
+  25,R
+   1,G
+   1,R,J,G
+  28,J
+   3,L,K
+   9,R,K
+  10,R
+   7
+   8,J
+   5
+  11,R
+  58,R,J
+   1,R,K
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+
+#Spinner Cycle [Vamp_7]
+
+#+0f:
+  27,R
+   1
+#---
+
+#+1f:
+#  22,R
+#   1
+#   1,R
+#   2
+#   2,R
+#   1
+#---
+
+#+2f:
+#  19,R
+#   1,R,U
+#   1,R
+#   1
+#   1,R
+#   3
+#   3,R
+#   1
+#---
+
+#------
+
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   2,R,J
+   3,R
+  40
+
+#0x
+#lvl_Vamp_7
+   1,R
+   1
+  15,R
+   1,R,J,G
+   3,R,K,G
+   5,R
+   1,R,J,G
+   5,R
+   7,R,J,G
+  10,R
+  13,R,J
+   8,R,K
+   5,R
+   3,R,J
+   1,R,K
+   9,R
+   1,R,J
+   8,R
+   2
+   2,R
+   2
+   2,R
+   1
+   1,R
+   4,J,G
+   6,R,J,G
+   1,J
+   4
+   1,K,G
+   6,R,K
+  34,R,U
+StunPause
+   5,R,U
+   1,U
+   1,R,U
+   1,U
+   1,R,U
+   3,U
+   3,R,U
+  10,R,J
+   9,R
+   2,R,J
+   8,R
+   1,R,J,G
+   1,R,K,G
+   3,R
+   1,R,J,G
+  12,R
+EndStunPause
+#Another Cycle wait could go between the stuns while climbing around, but again, not doing that bc dont wanna :3
+   1,R,J
+   5,R
+   1,R,J
+   8,R
+   1
+   7,R
+   1,R,J,G
+   2,R,K,G
+   9,R
+   1,R,J
+   9,R
+   3,R,J
+StunPause
+   6,R,J
+   7,R
+   2,R,J
+   5,R
+   1,R,J,G
+   1,R,K,G
+   5,R
+   9
+   1,R,J
+  31,R
+   1
+   1,R
+   1
+   1,R
+   1
+   1,R
+   2
+   2,R
+   1,R,J
+   1,R,K,G
+   3,R,J,G
+EndStunPause
+   6,R
+   1
+  16,R,U
+  12,R,J
+  24,R
+   1,J
+   2,R,J
+   1,J
+   1,R,K,G
+   2,R,J,G
+  12,R
+   1,R,J
+   6,R
+   2
+  10,R
+   5,R,J
+   1,R,K,G
+   6,R,J,G
+  40
+
+#0x
+#lvl_Vamp_8
+#Spinner Cycle [Vamp_8]
+   0
+#-----
+   1,S
+   1,D,J
+  69,O
+   5,R
+   9,R,J
+   7,R,D
+   1,R,J
+   1,R
+StunPause
+   1,R,J
+  16,R
+   1,R,J,G
+   4,R,K,G
+   5,R
+   1,R,J
+  11,R
+  12,R,J
+   2
+   3,R
+   2,R,J
+  15,R
+   1,R,J,G
+   6,R,K,G
+EndStunPause
+   6,R,K
+  27,R,D
+  16,R,J
+  20,R
+   6,R,U
+   1,R
+   1,R,U
+  13,R
+   7
+  22,R,D
+   2,D
+   1,R,D
+   1,R
+   1,D
+   1,R,J,G
+  35,R,K,G
+  57,R,D,J
+  38,R,U,J
+   2,U,J
+  11,L,K
+  11,R,J
+  53,R,D,J
+  11,L,K
+  11,R,J
+  19,R
+  12,R,J
+   5,R
+   1,R,J
+  20,R,U
+   1,R
+   4,R,U
+   1,R,J
+  15,R
+   1,R,J
+  14,R
+  10,R,J
+   9,R
+   2,R,J
+  10,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   1,R,J
+  10,R
+  40
+
+#1x
+#lvl_Vamp_9
+#Drift Wait
+2493
+#Spinner Cycle [Vamp_9] 1
+   2
+#-----
+   1,S
+   1,D,J
+  69,O
+   5,L
+   1,L,J
+  18,L
+   1,L,J
+  24,L
+#Wait for Moonblock Cycle
+ 351
+   5,R
+   1,R,J
+   9,R
+StunPause
+  13,R
+   1,R,U
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+  12,R,J
+   5,R
+   4,R,J
+  15,R
+   1,L
+   7,L,U,J
+   3,J
+   1,L,J
+   1,K
+  25,R,K
+   1,K
+   5,J
+   3,R,J
+   9,R,K,G
+   3,K
+   1,J,G
+   1,L,J
+   1,K
+   1,J
+   4,L
+EndStunPause
+  11,L
+  15,D,X
+  22,R,U
+   1,R,J
+  35,R
+  38,L,U
+
+#Spinner Cycle [Vamp_9] 2
+
+#+0f:
+#   1,R,J
+#   8,R
+#   4
+#   1,R
+#   2
+#---
+
+#+1f:
+#   1,R,J
+#   6,R
+#   1,R,J
+#   1,R
+#   1,J
+#   3
+#   1,R
+#   3
+#---
+
+#+2f:
+   1,R,J
+   5,R
+   2,R,J
+   1,R
+   1,J
+   2
+   1,J
+   1,R
+   4
+#---
+
+#------
+
+   1,R
+   1,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J,G
+StunPause
+   1,R,J,G
+  12,R,K,G
+  28,R
+   9,R,J
+   1,R,K,G
+   9,K
+EndStunPause
+   7
+
+#No Proper Spinner Cycle here because I like my sanity :3
+#...THOUGH you can get an effective cycle by waiting an extra grab cycle, which is +2f per grab cycle.
+#Drift Wait
+Repeat,456
+   1,G
+   1
+EndRepeat
+#-----
+
+   1,J
+  10,L,J
+  16,R,J
+   1,J
+  11,R,J
+   1,R,K,G
+   2,R,J,G
+   2,R
+StunPause
+   4,R
+   1,R,J
+  17,R,U
+   2,U
+  12,R,J
+   7,R
+   6,R,J
+  19,R
+   5,R,U
+   2,L,U
+   1,L,J
+   6,R,J
+   1,J
+   3,R,J
+   5,R
+   2,R,J
+   5,R
+   2,R,J,G
+EndStunPause
+   5,R,J
+  10,R
+   3
+   1,R
+   4
+   1,J
+   4,R,J
+  15,R
+   1
+   1,R
+   2,U
+   1,R,U
+  11,R,J
+   7,R
+   1,L,J
+   1
+   1,J
+   1,R,J
+   1,J
+  38,R,J
+   5,R,U,J
+  44,R,K
+   1,R,U
+   1,R,J,G
+   1,K
+   8,R,J,G
+   5,R
+  18,L
+   7
+   1,G
+   1,R,J
+  48,R,K
+   1,R,J,G
+   4
+   9,R
+  48,R,J
+   2,R,K,G
+   1,L,K
+   1,R,J,G
+   1,R,K,G
+  12,R
+   1,R,J
+  17,R
+   1,R,J
+   1,J
+   8,R,J
+   8,R
+   2,R,J
+   2,R
+   1,R,J
+   1,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   9,R,J
+   7,R
+   2,R,J
+   1,R
+   1,R,J
+   7,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,J
+  28,R,U
+   1,R,J
+  18,R
+  27,R,J
+   9,R
+   1
+   1,R
+   1
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,J
+  26,R,U
+   1,R,J
+  13,R
+   1
+  24,R,J
+   1,R
+   1,R,J
+   3,R
+   1,R,K,G
+   1,R,J,G
+   9,R
+  27,R,J
+  16,R
+   1,R,J,G
+   7,R,K,G
+   5,R
+   1,R,J
+  16,R,U
+  15,U
+   1,L
+  39
+  22,R
+  90,R,J
+   1,R,K
+  14,R
+   1,R,J
+   5
+   9,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+   3,R
+   1,R,J,G
+   6,R
+  40
+
+#1x
+#lvl_Vamp_Final
+   6,R
+   1,R,J
+   7,R
+   1
+   1,R
+   2
+   1,R,J,G
+   3,R,K,G
+   3,R
+   1,R,J,G
+   2,J
+   3,R,J
+   5,R,K,G
+   7,R
+   1,R,J
+  20,R
+   1
+  16,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+   7,R
+   3,R,J
+   9,R
+   1
+   2,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   6,R
+   2,R,J,G
+   9,R
+   1,R,J
+   6,R
+   1,R,J
+   1,R
+   2,R,J
+  10,R
+   4,R,J
+   7,R,K,G
+  31,D,X
+  38,R
+   1,R,J,G
+   1,R,K,G
+   9,R,J,G
+   1,R,U,K
+   1,R
+  63,R,J
+
+ChapterTime: 6:05.772(21516)
