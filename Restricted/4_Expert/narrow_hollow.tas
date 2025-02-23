@@ -3,7 +3,7 @@
 
 #63x
 
-RecordCount: 3185
+RecordCount: 3758
 
 console load StrawberryJam2021/4-Expert/itsabrody
    1
@@ -137,7 +137,7 @@ console load StrawberryJam2021/4-Expert/itsabrody
    5,L,D,C
    1,L,K,G
    1,L,J,G
-   6,L
+   6,L,M
    8,R
   12,L,U,G
   19,G
@@ -220,8 +220,7 @@ console load StrawberryJam2021/4-Expert/itsabrody
   14,R,J,G
   10,R,K,G
   40
-
-#lvl_4
+#lvl_4 (0)
 #11x
    2,L
    2,R
@@ -298,17 +297,38 @@ console load StrawberryJam2021/4-Expert/itsabrody
   17,R,D
    1,R,K
   13,Z
-  10,R,J,G
-   5,R
-   7,R,J
-   9,R
+#
+   5,R,J,G
+  13,R
+  14,R,Z
    1,R,J
-  11,R
+   1,J
+   4,R
   40
 
-#lvl_5
-#6x
+#lvl_5 (0)
+   1,R,J
    3,R
+  14,R,Z
+   1,L,J
+   6,L,D,X
+   1,L,J,G
+   9,L
+   1,L,N
+   1,L
+  13
+  40
+
+#lvl_4 (1)
+   1,G
+   1,R,J,G
+  14,R
+   1,R,J
+   6,R
+  40
+
+#lvl_5 (1)
+   8,R
    1,R,J
   14,R
    9,R,J
@@ -319,6 +339,22 @@ console load StrawberryJam2021/4-Expert/itsabrody
    4,R
    2,R,D
    1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    1,R,J,G
   33,R,K,G
   15,R,U,X
@@ -347,25 +383,35 @@ console load StrawberryJam2021/4-Expert/itsabrody
    3
    9,D
   12,L,D
-   9,R,J
+#
+  11,R,J
+  33,R,D
+   4,R,J
+   5,R
+   2,R,J
    1,R
-  24,R,D,J
-  10,D
-   2,R,D
-   2,R,J,G
-   1,R
-   8,R,J
-   5,K,G
-   5,R,K
-   1,R
-   9,R,K
-   5,R,D
-  25,L,D
-   7,L,Z
-  83,U,G
-  12,J,G
-  12,K,G
-   8,J
+  30,R,D
+   5,D
+   4
+  12,R,J
+  22,R
+  12,R,J
+   1,R,K,G
+   4,R,J,G
+   5,R
+   1,R,J
+   6,R
+   1,D,J
+   2,R,J
+  14,L,J
+   1,R,J
+   1,K,G
+   1,L
+  13,L,J
+   1,K
+  11,L,K
+  10,J
+   1,R,J
    1,R,K
   15,R
    1,R,J
@@ -373,7 +419,6 @@ console load StrawberryJam2021/4-Expert/itsabrody
    1,R,J
   10,R
   40
-
 #lvl_6
 #4x
    4,R
@@ -388,41 +433,47 @@ console load StrawberryJam2021/4-Expert/itsabrody
    5,L,X
   39
   17,G
-  46,D,J,G
-   8,R,D
-  15,R,X
-  15,R,U,C
-  13,R,D
-  20,D
-   3
+#
+   9,J,G
+  19,L,D
+   4,D
+  10,R,D
   15,R,Z
-  14,D
-   5,R,D
-   1,D
-   1,R,D
-   1,R,J
-   1,R
-   8,R,J
-   8,R
-   1,R,K
-  19,R,D
-   4,R,J
    7,R
-  10,R,J
-   5,L
-  38,R,J
+  15,R,Z
+  12,D
+   1,R,D
+   1,R,G
+   2,R,J,G
+  22,R
+  16,R,D
+   1,R,J
+  17,R
+   1,R,J
+   1,R,K
+  18,R
+  12,R,J
+  22,R
+   2
+   2,R
+   2
+   2,R
+   1,R,J
    1,R,K,G
-  17,R,J,G
+   4,R,J,G
+   9,R
+  12,R,J,G
    4,R,K,G
    8,R
    1,R,J
-  14,R
+   2
+  12,R
    1,R,J
    2,R
-  43
-
+  40
 #lvl_7
 #12x
+   3
   12,R
    1,R,J
   14,R
@@ -466,50 +517,59 @@ console load StrawberryJam2021/4-Expert/itsabrody
    3
    1,R
   10,R,J
+#
   16,R,D
-  14,D
+   7,D
+   7,R,D
   15,R,X
-  15,R
-   1,L,J,G
-  12
-   2,R
-  27,R,J
-   7,R,K,G
-   1,L,J
-   5,L,K
-  12,L
-   9
-  18,D
+  23,R,D
    1,R,J
-   9,R,K
-  14,R
-  15,R,U,Z
-  15,R,X
-   3,R
-  25,L
-   6,R,J
-   1,R
-  15,R,J
-   9,L,D,X
-  37,D
-  23,G
-  18,D,G
-   1
+  17,R
+   1,R,J
    1,J
-   1,L,K,G
-   5,R,K
-   2,R
-   1,L
-  15,U,X
-   3,R
-  15,R,C
-   8,R
+  12,R,J
+   5,R
+   3,R,J
+   4,R
+   1,J,G
+   2,R,J
+  12,J
+   1,K
+  24,L,K
+   5,R,J
+   5,R
+   3,R,J
+   9,R
+   1,R,J,G
+   2,R,K,G
+  10,R
+   7,D
+   6,R,J
+   6,R
+  15,R,J
+  12,R,D
+   3,R,J
+  27,R
+   1
+   1,R
    1,R,J
-  21,R,D
+   1,R,K,G
+   1,R,J,G
+  11,R
+   5,R,J
+  17,R
+  12,R,J
+   2,K,G
+  12,L,J
+  12,R,K,G
+   9,R
+   9,R,J
+  20,R
+   1,R,J
+  27,R
    1,R,J
   13,R
   40
-
 #lvl_8
 #9x
    1,R
@@ -522,55 +582,51 @@ console load StrawberryJam2021/4-Expert/itsabrody
   26,D
   16,L,D
    4,L,G
+#
   13,G
    1
    1,J
    1,L,K,G
-   6,R
-   1,J
-   8,R
-  16,L
-  15,R,U,Z
-  17,L
-   8
-  12,R
-  15,R,X
-  11
-  15,U,X
-   5
-  15,R,C
-  11,R
-  15,R,U,Z
-  19,R
-  15
-  15,L,D,X
-  10,L
+   2,R
+   1
+  17,R,D
+   1,D
    1,R,J
-   9,R
-   2,R,J
-  11,R
-   7,R,K
-   1,R
-  12,R,K
-  15,R,U,Z
-   6,R
-  19,D
-   1,J
-   1,L,K,G
-  13,K
-   1,J
-  24,L,J
-   3,R,K
-   1,R
-   5,R,K
-  15,R,X
-  21,R,D
+   2,J
+   7,R,J
+   3,R,K,G
+   3,R
+   2,R,J,G
+   5,R
+   1,R,J
+  24,R
+   5
+   5,R,J,G
+   5,L,K
+   9,L,J
+   2,L
+   6,R,K
+   7,R
+   1,R,J
+  18,R
+   6,R,J
+  18,R
    1,R,J
   14,R
    1,R,J
   12,R
-  40
 
+
+
+
+
+
+
+
+
+
+
+  40
 #lvl_9
 #7x
    2,R
@@ -682,4 +738,4 @@ console load StrawberryJam2021/4-Expert/itsabrody
   45,D
   79,L,J
 
-ChapterTime: 1:36.900(5700)
+ChapterTime: 1:35.234(5602)
