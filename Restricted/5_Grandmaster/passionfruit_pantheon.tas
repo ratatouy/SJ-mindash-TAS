@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 24184
+RecordCount: 25091
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -704,7 +704,6 @@ EndRepeat
   12,L,K
   10,R,J
   40
-
 #19x
 #lvl_b2_14-Ecl1psed
    3,R
@@ -840,55 +839,86 @@ EndRepeat
    1,L
   40,L,J
    1,J
-   1,K
-  10,L,K
-  12,L
-   1
-   2,L
-   1,L,J,G
-   1,L,K,G
-  37,L,K
-   5
-  18,J
-   3
+  31,L,K,G
+  40,R,U,J,G
+  41,L,U,J,G
+  12,R,K,G
+  61,L,G
+   1,D
+   1,L
    1,J
-   1,L,J
-   1,L
+  15,L,J
+  21,D,G
+  13,D
+  10,L,D
+   7,L,J,G
+   9,K,G
+   1,R,K
+  21,R,K,G
+   1,L,K
+  33,R,K
+  30,R,J,G
+  44,L
    5,L,D
-   6,R,D
+  11,L,J
    1,L
-   3,R,D
-   4,R,Z
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
+  21,L,J
+  18,L,J,G
+  60,U,J,G
+   8,L,U,J,G
+   5,U,J,G
+   4,D
+   5,G
+   1,J,G
+   1,L
    1
-   8,R
+   1,L
+   2
+   1,L
+   1
+   1,R
+   4,L
+  11,L,J
+   3,L
+  24,L,J
+  28,R,J
+   6,R,G
+   3,R,U,G
+   3,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   7,R
    1,R,J
-   5,R,D,X
+   8,R,D,X
   17,R,G
    2,R,J,G
-  46,R,U,G
- 118,R,U,J,G
-   1,L
+  37,R,D,G
+ 187,R,U,G
+   1,L,J
+   2,J
+   3,R,J
 
 #16x
 #lvl_b3_13-TheDavSmasher
-   4,R
-   5,R,J,G
-   6,L,J
+   4,R,J
+   1,J
+   2,R,J
+  22,R,K,G
   14,U,X
    1,J
-  25,L,J
-   1
-  14,L
+  23,L,J
+   1,J
+   1,L,J
+  15,L
    1,L,J,G
    1,L,K,G
-   4,L,K
-   8,K
-   7
+   3,L,K
+   7,K
+   8
+   1,L
    1
    3,R
    3,L
@@ -900,10 +930,10 @@ EndRepeat
    1,R,D
    1,L,D
    1,R,D
-   1,L,D
-   1,R,D
-   3,L,D
-   1,R,D
+   1,L
+   1,R
+   3,L
+   1,R
    2,J,G
    1,L,J
    9,R,K,G
@@ -920,15 +950,6 @@ EndRepeat
   15,U,X
    5
   30,L,J
-
-
-
-
-# thing would go here
-
-
-
-
   12,L,K,G
   16,L
   21,L,J
@@ -1578,7 +1599,6 @@ AnalogMode Ignore
    3,R,K,G
    3,R
   40
-
 #31x
 #lvl_d1_09-xlibiza
    8,R
@@ -1657,30 +1677,44 @@ AnalogMode Ignore
    1,L
   19,L,Z
    4,L,J
-   1,L
    1,L,K
+   1,K
+   2,L,K
+   9,L,D,X
+   1,L,J,G
+   3,L,K,G
+  23,L,J,G
+   3,K,G
+   3
+   4,R
+   2,R,J
+   7,R
+   7,R,Z
+   1,L,J
+   4,L
+   2,L
+   8,L,K
+   4,L
+  15,L,U,Z
+   1,J
+  18,L,J
+   1,L,J
+   1,G
+   1,J
    1,L
-   5,L,J
-   1,L
-   8,R
-  25,L,J
-  17,L,Z
-   3,L,J
-  17,L,D,X
-  36,L,J
-  17,L,U,Z
-  14,R,J
-  10,R,X
-  12,R,J,G
-  15,R
-  10,R,Z
-  15,R,J
+   1
+   4,L
+   4
+   7,R
+  34,R,J
   15,R,U,Z
+  11,R,J
   15,U,C
-  24,L,J
+  23,L,J
    5,J
-   7,K,G
-  17,L,K
+   1,K,G
+   7,J,G
+  17,L,J
   15,R
   10,R,J
    1,R
@@ -1688,18 +1722,27 @@ AnalogMode Ignore
    2,J
    2,R,J
    2,R,K,G
+#
   15,R,D,X
    4,R,J
    5,R,K
-   8,R
-  20,R,Z
+   5,R
+   2,R,K
+  21,R,Z
    4,R,J
-  31,R,K
-  13,U,X
-   6,J
-  10,R,J
-  16,R
-   2,L
+   4,R
+  26,R,J
+   9,R
+   5,J
+   7,L,J
+  12,K
+   5,J
+   1,R,K,G
+   5,K
+  12,R,K
+   1,R,J,G
+   7,R
+   7
    1,J
    5
    9,L
@@ -1726,6 +1769,11 @@ AnalogMode Ignore
   14,U,X
   11,J
   24,R,J
+
+
+
+
+
   13,R,Z
    7,U,X
    9,R,U,C
@@ -1804,7 +1852,7 @@ AnalogMode Ignore
 
 #8x
 #lvl_d2_08-Aiden
- 103,R
+ 106,R
    1,R,J
   14,R
    1,R,J
@@ -3792,7 +3840,6 @@ Read, pp_raise_2
    1,S,N
    1,D,J
   18
-
 #lvl_gg_Heart
   91
    5,R
@@ -3862,4 +3909,4 @@ Read, pp_raise_2
   15,U,X
    4
  136
-ChapterTime: 1:11:33.435(252555)
+ChapterTime: 1:11:43.788(253164)
