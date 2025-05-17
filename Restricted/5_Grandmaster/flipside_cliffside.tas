@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3677
+RecordCount: 3681
 
 console load StrawberryJam2021/5-Grandmaster/tcookiem
    1
@@ -93,7 +93,8 @@ console load StrawberryJam2021/5-Grandmaster/tcookiem
    7,R,K,G
    7,R
    2,R,J
-  14,R
+  13,R
+   1,R,D
 #dash
   50,R,Z
    1,R,J
@@ -629,7 +630,6 @@ endrepeat
    1,R,J
    1,R
 
-
 #lvl_Zenith
 #5x
   40
@@ -689,6 +689,34 @@ endrepeat
    1,R,J,G
    1,R,K,G
    1,R,J,G
+#
+   1
+   4,R
+   1,R,J
+   1,J
+   4
+   3,L,D,J
+   2,J
+   1,L,J
+  15,R,U,X
+  13,R
+  32,R,J
+  18,R,U,C
+  24,R,G
+   8,J,G
+   1
+   1,J,G
+   1
+   1,J,G
+   6,R
+
+
+
+
+
+
+
+
    1
    4,R
    1,R,J
