@@ -486,15 +486,12 @@ EndStunPause
    2,R,G
 Repeat 6
    1,R,D
-
   19,G
    2,R,G
 EndRepeat
-Repeat 1
    1,L,D
   17,G
    4,L,G
-EndRepeat
 Repeat 14
    1,L,D
   18,G
