@@ -1,4 +1,4 @@
-RecordCount: 12749
+RecordCount: 13516
 
 console load StrawberryJam2021/4-Expert/fonda1515
    1
@@ -668,66 +668,93 @@ EndRepeat
   12,R
    1,R,J
   10,L,J
+#
    8,U,X
-  70,R,U,J,G
-  14,D
-   2,J
-   5,U,X
-  24,R,J,G
-  26
-  21,R,G
+  70,R,U,G
+   9,D
    1,R,D
-  14,L,D,X
-   8,R,J
-  38,R,G
-   1,L,J
-   1,R
-  14,L
+   1,D
+   1
    1,J
-  70,L,U,J,G
-  35,R,U,G
-  22,R,D,G
-   9,R,J
-  14,R,U,X
-  16,R,J,G
-  50,L,U,J,G
-  80,D,G
-  36,R,U,G
-  58,L,U,G
-  11,D,G
+   1
+   1,L
+   9,U,X
+  13,G
+   3,L,G
+   4,R,G
+   1,G
+   1,R,G
+   1,G
+   1,R,G
+   1,G
+   1,R,G
+   1,G
+   1,R,G
+   1,G
+   1,R,G
+   1,G
+   1,R,G
+   4,R,J,G
+   4,R,K,G
+  11,R,G
+   1,R
+   1,R,J,G
+  19,R,K,G
+  51,R,U,K,G
+  18,L
+  15,L,G
+  36,R,G
+  12,L,D,G
+  78,L,U,G
+   4,L,D
+  31,R
+   1,G
+   8,R,J,G
+   4,R
+   6,J
+  16
+  37
+  11,L,D,X
+   1,R,J
+  47,R,U,J,G
+  10,R,G
+   1,L
+  17,R
+  57,R,J,G
+   2,R
+   7,R,J,G
+   1,R
+  10,L
+  27,L,D,G
+  56,D,G
+  16,R,D,G
+  22,R,U,G
+  56,L,U,G
+   6,L,D,G
    6,L,J,G
-   1,L,G
-   5,L,G
+   7,L,G
   43,L,U,J,G
-   7,U,G
-  13,D,G
-   3,L,U,G
-  78,R,U,G
-   6,R,G
-   9,R,D,G
-  15,G
-  34,R,G
-  70,R,U,J,G
-  12,U,G
-   2,R,U,G
-   3,U,G
-  15,R,U,G
-  25
-  18,L,G
-  14,R,G
-   1,L,J
-   3,R,J
-  14,L,J
-  52,R,D,G
-   1,L,J
-   6,R,J
-  14,L,U,X
-  58,L,U,J,G
-   1,L,J
-   7,J
-  15,U,X
-  20,R,J,G
-  14,J,G
+  15,R,D,G
+  86,R,U,G
+  13,R,D,G
+  20,G
+
+
+  29,R,G
+  63,R,U,J,G
+  20,U,G
+  28,R,U,G
+  26
+  20,G
+  15,R,G
+  15,L,G
+  14,L
+   5,L,U,X
+  72,L,U,G
+  10,L
+  16,U,X
+  20,R,G
+  21,G
   91
   40
 
@@ -912,21 +939,67 @@ EndRepeat
   10,L,J
    8,L,K,G
   40
-
 #lvl_a-08
 #11x
-  11,J
-   4,R
-   8
-  13,J
-  37
-  18,L,X
-   1,L
-  15,R,C
+#
+  10,L,J,G
+   9,L
+   2
+   2,L
    4
-   7,R
-  17,R,J,G
+   1,R,J
+   5
+   8,R
+   2
+   1,D,J
+   9,L,J
+   9,R,J
+   1,L,K,G
+
+Repeat, 4
+   1,R,K
+   1,K
+EndRepeat
+
+   1,R,J
+  39
+  11,L,D,X
+   3,J,G
+   1
+   4,R
+  13
+   1,J
+   2,R,J
+   1,J
+   5,R
+   2,R,J
+  11,R
+   9,R,J,G
+   4,J
   15,L,U,Z
+   1,L
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   42
   24,L
   32,R
@@ -1093,6 +1166,6 @@ EndRepeat
   15,U,X
  142
 
-ChapterTime: 4:15.646(15038)
-#4:15.646(15038)
-#115x
+ChapterTime: 4:19.454(15262)
+#4:19.454(15262)
+#113x
