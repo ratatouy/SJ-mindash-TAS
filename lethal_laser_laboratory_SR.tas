@@ -1,0 +1,431 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 1431
+
+console load StrawberryJam2021/3-Advanced/hennyburgr
+   1
+
+#Start
+#1x
+# Drift
+5871
+   8,R,Z
+StunPause
+   4,R,Z
+  17,R,J
+   1,K,G
+   1,L,K
+  11,R,J,G
+   3,R
+   3,R,J,G
+   5,R
+   1,R
+   1
+   1,R
+   1,J
+   1,R
+   1
+   1,R
+   8,D
+  45,R,J
+   1
+   1,R
+   1
+   1,R
+   6,R
+   1,J
+   1,R,K,G
+   1,L,K
+  18,R,J
+   3,R,K,G
+   7,R
+  25,R,J
+  12,L,K
+   1,L,J,G
+  23,L,U,G
+   8,L,G
+   2,L,U,G
+EndStunPause
+   4,L,U,G
+  10,R,J
+   4,L,J
+  12,L,K,G
+   8,J,G
+#lvl_a_02
+#1x
+  40
+   1,J
+   2,K,G
+   6,R,K
+   7,R
+   3,R,J
+   2,R
+  18,R,D,J
+   1,L,J
+   1,L
+   2,L,J
+   1,R,J
+   2,L,J,G
+   4,L,G
+   2
+   1,L
+   1,G
+   8,L,J,G
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+  13,R,J
+   1,L,K,G
+
+  11,L,K
+  12,J,G
+   1,K,G
+   6
+   2,L,J
+   2,L
+  23
+#dash
+  14,L,Z
+   1,R,J
+   6,R
+   1,R,D
+   1,R,D,J
+   1,J
+  20,R,J
+   1,J
+   4,R,J
+   1,K,G
+   1,L,K
+   1,R,J,G
+  12,R,K,G
+  12,R,J,G
+
+
+#lvl_a_03
+#1x
+  40
+   1,L,J
+  16,L,K
+  12,L,J,G
+   3,L,K,G
+   2
+   5,R
+   1,N
+# drift
+1417,U
+   1,J
+  19
+   5,J
+   1
+StunPause
+   4
+   1,J
+   1
+  16,R,D
+   1,R,J
+   5,R
+  10,R,J
+   1,L,K,G
+  12,L,J,G
+   4,L,K,G
+  11,J,G
+   1,R,J
+   2,R,K
+EndStunPause
+  10,R,K
+   3,J,G
+   2,L,J
+  12,L,K
+  10,J,G
+   1,R,J
+  12,R,K
+   5,R
+   6,R
+   1,R,J,G
+  21,R
+  10,R,J
+   5,R
+   1,R,J
+   2,R
+   1,J
+   6,U,X
+  36,L,J
+   1,L,K,G
+   3,L,J,G
+  12,L,K,G
+  11,J,G
+   1,R,J
+  11,L,K,G
+#lvl_a_04
+#3x
+  43
+   5,L
+   8,R,J
+#dash
+   5,R,Z
+   1,R,J
+   7,R
+  11,R,D,J
+  20,R
+   1,J
+   4,R,J
+   5,R
+  16,R,J
+   1,K,G
+   9
+   1,L
+   1
+   2,R
+   8,J,G
+   4
+   3,L
+  12,R
+   5,R,J,G
+  14,R
+   5,L
+   1,J,G
+   7,L
+   2
+   6,R
+  36,R,J
+#dash
+  15,R,U,Z
+   2,L
+   1,L,J,G
+   2,L,K,G
+  10,R,J
+  10,R,K
+   1,K
+   1,R,K
+   1,R,J,G
+   3,R,K,G
+  33,R
+   8,R,J
+StunPause
+  25,R,J
+   2,J
+   1,R,J
+   1,R,K,G
+   3,R
+   6,L
+   1,L,J
+   2,L
+   2,R
+  12,R,J
+  25,R
+   5,R,D
+   1,J
+EndStunPause
+   3,J
+   2,R,J
+   5,R
+   4,R,J
+   5,R
+   1,R,J,G
+   1,R,K,G
+  13,R
+   1,R,J
+  14,R
+   9,R,D,J
+#lvl_a_05
+#3x
+  40
+   5,R,J
+   5,R
+   5,J
+   7
+   1,N
+  92,U
+   1,J
+  19
+   5,R
+StunPause
+   3,R
+  27,R,D,J
+# dash
+SkipInput,3,1
+   9,U,Z
+EndStunPause
+   6,U,Z
+   8,R
+   1,R,J,G
+   5,R
+   9,R,J
+   5,K
+   5,L
+   1,L,J
+  16,L
+  15,L,G
+   2,J
+   1
+  21,R
+   1
+  32,G
+   1,R,J,G
+   2,R
+   3,L
+   1,R,K,G
+   1,R,J,G
+   5,R
+   6,R,J
+StunPause
+  10,R,D
+   6,R,J
+   1
+   4,R
+   9,R,J
+  23,R
+  16,R,J
+EndStunPause
+StunPause
+   1,R,J
+EndStunPause
+StunPause
+   1,R,K,G
+   3,R,J,G
+   3,R,J
+   9,R
+EndStunPause
+   2,R
+  69
+  37,R,G
+   2
+StunPause
+  15
+Repeat, 16
+   1,G
+   1
+EndRepeat
+  23,R,G
+   9
+   1,L,J
+  29,L,K
+EndStunPause
+   8,L,K
+# dash
+   7,L,U,X
+StunPause
+   8,L,U,X
+  19,L
+SkipInput,3
+  12,L
+   1,L,J,G
+   1,L,K,G
+   5,L
+   2,L,J
+   5,L
+  22,L,D,J
+# dash
+SkipInput,3,1
+  11,U,X
+EndStunPause
+   4,U,X
+  21,R,U,G
+   9,J,G
+  18,L,K
+  12,J,G
+   5,K,G
+   1,J
+  12,R,K
+
+#lvl_a_06
+#5x
+  40
+   3,J,G
+  10,R
+  10,R
+   8,R,J
+  16,R
+   5,L,D
+   1,J,G
+   9,L
+   7,R
+  32,R,J
+StunPause
+   6,R,J
+#dash
+SkipInput,3,1
+  15,R,U,Z
+   9,R
+  12,L,J,G
+   2,K,G
+   1,J
+   2,K,G
+  32,R,J
+SkipInput,3
+  20,R,J
+   6,R,D
+   1,R,J
+EndStunPause
+  13
+   2,R
+   1,L,J,G
+  13
+Repeat, 2
+   1,G
+   1
+EndRepeat
+  41,R
+#dash
+  15,R,X
+  39
+  18,R,D
+   2,R
+#dash
+  14,R,Z
+  12,R,J
+   4,R
+#dash
+  14,R,U,X
+   1,L,J,G
+  10,R,J
+  12,J
+   1,R,J
+   1,J
+   3,K,G
+   1
+   3,J,G
+   2,R,J
+  15,R
+#dash
+  14,R,Z
+   5,R,J
+   5,R
+   1,J
+   2,R,J
+  11,R
+   3,R,D
+   1,R,J,G
+  11,R
+   1,R,J
+   4,R
+
+#lvl_a_07
+  43
+#1x
+  10,R
+repeat 5
+   1,R,J
+  14,R
+endrepeat
+  10,R,J
+  20,L,D
+repeat 2
+   1,L,J
+  14,L
+endrepeat
+   7,L
+  19,L,D,J
+   1,R,K,G
+   1,L,K
+   7,R,K,G
+   1,R,J,G
+   2,R,K,G
+  16,R,U,X
+ 135
+
+ChapterTime: 4:10.155(14715)
+#14 dashes
