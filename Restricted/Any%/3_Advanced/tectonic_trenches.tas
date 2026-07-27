@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3965
+RecordCount: 4430
 
 console load StrawberryJam2021/3-Advanced/Julia
    1
@@ -218,126 +218,113 @@ EndRepeat
   13,R,J
    4,K
    9,J
-   6,K
+   5,K
   12,R,J
-  46,R,D
-   8,L,D
-   5,L
+  23,R
+  23,R,D
+   9,D
+   1,L,D
+   2,L
+   1,L,D
   16,L,D,G
-  23,R,D,G
-  37,R,U,G
-   1,R,D
+  12,D,G
+  13,R,D,G
+  32,R,U,G
+   2,U,G
+   1,D
   14,R,G
    1,J,G
    1,L,J
-   1,R,K,G
-  14,L,K,G
-  40,R,K,G
-   4,R,G
-  19,R,D,J
-  23,R,U,J,G
-   1,R,G
-   1,R
-   3,R,J,G
-   5,R
+  14,R,K,G
+   1,L,K,G
+  42,R,K,G
+  16,R,D,J
+  27,R,U,J,G
    4,R,J
+   2,R,K,G
+   6,R
+   2,R,J
    4,R
-  63,R,U,J,G
-  20,R,D,G
-  29,D,G
-  32,G
-   3,R,D,G
-   3,D,G
-  22,L,D,G
-   1,L,D
-   1,J,G
-   1,L,J
-   9,L
-   1,R
-  20,R,G
-   1,G
-   2
+   1,R,J,G
    1,R,J
-  38,R,U,J,G
-   1,U,J,G
-   1,D,J
-  22,U,J,G
-   1,D,J
-  22,R,U,J,G
-   1,D,J
-  23,U,J,G
-   1,D,J
-  15,L,U,J,G
-   1,R,U,J,G
-   1,L,U,J,G
-   6,U,J,G
+  64,R,U,J,G
+  19,R,D,G
+  32,D,G
 
-Repeat, 3
-   1,L,D,J
-  20,U,J,G
-   1,L,U,J,G
-   1,U,J,G
-   1,L,U,J,G
+Repeat, 4
+   1,G
+   1,D,G
 EndRepeat
 
+  18,G
+  22,L,D,G
+   1,L,D
+   1,L,J,G
+   1,K,G
+   1,L,K
+   9,L
+   1,R
+  22,R,G
+   1,R
+   1,R,J
+  39,R,U,J,G
    1,D,J
-  20,U,J,G
-   1,L,U,J,G
-   1,U,J,G
+  21,U,J,G
    1,D,J
-  21,R,U,J,G
-   1,R,D,J
+  18,R,U,J,G
+   3,U,J,G
+
+Repeat, 6
+   1,D,J
+  24,U,J,G
+EndRepeat
+
+   1,L,J
   21,R,U,J,G
    1,L,J
-   6,R,J
-   1,R,K,G
-   2,R,J,G
-   6,R
-   4,R,J
-   1,R,K,G
-   5,R
-   4,R,J,G
-  11,R
+  21,R,U,J,G
+   1,R,G
+   1,L
+   2,R
+   1,R,J
+   7,R,K,G
+   3,R,J,G
+   7,R
+   1,R,J
+   1,R
+   1,R,J
+   1,R
   61
 #lvl_a-05intro
 # 0x
 
-   1,R,J
-  14,R
+  13,R
    2,R,J
-   8,R
+   7,R
    1,R,J
-   4,R
-   1,R,J,G
-  17,R
-   3,R,J
-   1,R,K,G
-   5,R
+   1,R
+   3,R,J,G
+  14,R
+   1,R,J
+   1,R
    1,S
    1,D,J
-  41,R
-   1,R,J
-  21,R
+  54,R,D
    1,R,J
   14,R
    1,R,J
-  12,R
+   2,R
   61
 #lvl_a-05
 # 4x
 
    3
-   2,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   3,R,J
-   5,R
-   1,R,J
-  15,R
-   8
+  12,R
+   8,R,J
+  25,R,D
+   4,D
    1,X
+   1
  158,R
    1,J
   19
@@ -361,7 +348,7 @@ EndRepeat
   13,R,U,K,G
   12,R,J,G
   44,R,G
- 123,D,G
+ 122,D,G
   20,R,D,G
    1,R
    4,R,D
@@ -371,8 +358,8 @@ EndRepeat
   14,R,K,G
    1,R,J,G
    1,R,K,G
-  19,R
-   6
+  18,R
+   7
    9,R
    7,R,J
   10,J
@@ -406,103 +393,114 @@ EndRepeat
    1,R,K,G
   24,R
   20,R,J
-  27,R,U,J,G
-   2,U,J,G
+  26,R,U,J,G
+   3,U,J,G
 
 Repeat, 3
    1,L,D,J
   21,L,U,J,G
 EndRepeat
 
+   1,J
+  20,L,U,J,G
+   1,U,J,G
    1,L,J
+  23,L,U,G
+   1,L,D
   21,L,U,J,G
-   1,L,J
-  26,L,U,J,G
-   1,L,D,J
-  18,L,U,J,G
-   3,U,J,G
    1,D,J
   21,U,J,G
    1,L,D,J
-  21,L,U,J,G
-   1,K
+  18,L,U,J,G
+   5,R,U,J,G
+   9,R,G
+   1,R,K
   21,R,U,K,G
    1,L,K
   21,R,U,K,G
    1,L,K
-  40,R,U,K,G
-   2,R,G
-   4,R,U,G
-   4,R,D,G
-   9,L,D,G
-  34,D,G
-  48,R,D,G
+  29,R,U,K,G
+  29,R,D,G
+  32,D,G
+  38,R,D,G
    1,R,J,G
-   6,R,D,G
+   5,R,D,G
   40
 #lvl_a-07
 # 0x
 
-  22,R,D,G
-   7,R,J,G
-   7,R,K,G
+  23,R,D,G
+   6,R,J,G
+   8,R,K,G
    1,R,G
-  73,R,U,J,G
+  69,R,U,J,G
+   2,R,G
+   1,R,U,G
    2,R
    1,R,J,G
    4,R,K,G
-   5,R,J,G
-   8,R,K,G
-  37,R,J,G
-   4,R,G
+   3,R,J,G
+   1
+   1,R,K,G
+   1,K
+   2,R,K
+   4,R
+   1,R,J,G
+  25,R,K,G
+  13,R,G
    6,R,J,G
    1,R,G
-  82,R,U,J,G
-  19,R,D,G
-   9,R,J,G
-  82,R,U,G
-   7,R,D,G
-  70,R,U,G
-   1,R
-   3,J,G
-   7,R,J
+  64,R,U,J,G
+   2,R,G
+   2,R,U,G
+  22,R,D,G
+   9,R,U,J,G
+  96,R,U,G
+   6,R,D,G
+  58,R,U,G
+   1
+   2,J,G
+   8,R,J
    1,L
    6,L,J
   21,L,U,J,G
-   1,R
+   1,R,J
    5,L,J
    3,K,G
    1,R,K
    1,R,J
-  16,R,K
-   4,K
-  21,U,J,G
+  17,R,K
+   3,K
+  23,U,J,G
+   1,D,J
+  23,U,J,G
+   1,D,J
+  23,U,J,G
+   1,D,J
+  23,U,J,G
+   1,L,J
+  35,R,U,J,G
+  19,U,J,G
+   1,L,U,J,G
+   1,R,U,J,G
+  10,U,J,G
+   1,J
+   1,L,J,G
+   1
+   1,R,K
+  36,R,U,K,G
+   3,U,K,G
+   1,D,J
+  24,U,J,G
+   1,L,J
+ 114,R,U,J,G
+   4,D,G
+  52,R,D,G
+   1,R,G
+   1,R,D,G
+   2,R,G
 
 Repeat, 3
-   1,D,J
-  22,U,J,G
-EndRepeat
-
-   1,L,J
-  38,R,U,J,G
-   9,U,J,G
-   6,L,D
-   1,L,G
-   1,J,G
-  12
-   1,R,U,J,G
-  20,U,J,G
-   1
-   1,R,J
-  37,R,U,J,G
-   2,U,J,G
-   1,D,J
-  21,U,J,G
-   1,L,J
- 113,R,U,J,G
-  50,R,D,G
-
-Repeat, 8
    1,D,G
    1,R,D,G
 EndRepeat
@@ -528,4 +526,4 @@ EndRepeat
   40,R
   13,R,J
  154,R,U,X
-ChapterTime: 1:43.547(6091)
+ChapterTime: 1:41.898(5994)
