@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 8814
+RecordCount: 8823
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -246,8 +246,9 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    2,J
    2,R,J
    1,R,K,G
-   2,R,J,G
-   1,J
+   1,R,J,G
+   1,R,K,G
+   1,R,K
   16,R,D
    1,D
    1,R,D
