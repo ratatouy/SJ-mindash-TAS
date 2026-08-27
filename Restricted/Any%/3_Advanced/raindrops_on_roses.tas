@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 9452
+RecordCount: 9998
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -23,9 +23,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    1,R,J
    3,L,J
    1,L,K,G
-
    8,K
-
    3,R,K
    1,L,K
    1,J,G
@@ -42,7 +40,6 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    1,R,J
   23,R,D
    1,R
-
   40
 
 #lvl_2 (0)
@@ -50,24 +47,18 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   25,R,J,G
   18,R,D,G
    8,R,J,G
-
-
-
    1,R,K,G
   16,R,J,G
    4,R,J
-
   16,U,X
   22,J,G
    4,J
    1,L,J
-
    1,K,G
    1,R,K
    1,K
    2,R,J
    2,R
-
   19,R,K
   40,R,U,K,G
    1,R,G
@@ -78,7 +69,6 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   26,R,J
   79,R,U,J,G
    1,R,G
-
   11,K,G
    1,L
    1,L,J
@@ -109,7 +99,6 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    2,R,K,G
    1,L,K,G
    1,R,K,G
-
   11,L,J,G
    6,L,G
    1,L,J,G
@@ -127,7 +116,6 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    7,L
    1,L,J
   20,L
-
   12,L,J
   22,L
    2,L,D
@@ -152,15 +140,11 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    3
    1,R
    2
-
-
    1,L
    1,L,J
    7,L
    4,L,J
    7,L
-
-
    1,L,J
    5,L,K
   15,L,U,K,G
@@ -168,7 +152,6 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   58,L,U,K,G
    4,L,D,G
    7,L
-
    1,L,J,G
    7,L,J
    5,L
@@ -197,9 +180,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    2,K
    1,L,K
    1,J,G
-
    3,J
-
    1,R,J
    1,L,J
    1,K,G
@@ -246,9 +227,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    1,J,G
    1,R,J
   14,L
-
   66
-
    6,L
    1,L,J
    1,K,G
@@ -338,63 +317,64 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
   22,J
   16,U,J,G
-  28,L,U,J,G
+  27,L,U,J,G
    1,L,K,G
    3,R,K
-   3,L,K
+   1,L
+   1,L,J,G
+   1,L
+   1,L,J,G
    7,L
-   4,J
-   1,L,J
-   4,J
-   8,L,J
-  23,L,G
+   6,J
+   9,L,J
+  18,L,U,J,G
+   3,U,J,G
+   2,L,U,J,G
    1,L,K,G
    8,L,J,G
   30,L,D,G
-  10,L,D
-   1,G
-   1,J,G
+   7,L,D
+   2,L
+   1,L,D
+   2,J,G
    7,R,J
    1,K,G
-   1,L,K
-   5,K
+  10,R,K
+   3,L,K
    1,J,G
-   1,R,J
-   7,L,J
-   1,K,G
-  10,L,K
+  10,J
    1,R
-   1,L,J,G
-   4,J
-   3,R,J
-   2,L
-   1,K,G
-   5,K
-   2,L,K
-   1,R
-   1,L,J,G
-  13,L,J
-  19,L,U,J,G
    1,L,K,G
-  12,L,J,G
+   5,L,K
+   4,R,K
+   1,L
+   1,J,G
    8,L,J
-   2,J
-   1,K,G
-   1
    1,R
-  15,L,J,G
    1,L,K,G
-   9,L
+  13,L,K
+  19,L,U,K,G
+   1,L,J,G
+   4,L,K,G
+   5,L
+   4,L,J,G
+   8,L,J
+   1,K,G
+   2,K
+   1,R,K
+   1,L,J,G
+  11,L,J
+   7,L
    1,L,J
   14,L
-   1,L,J
-   1,L,J
+   6,L,J
   40
 
 #lvl_2 (1)
 #0x
-   9,L,J
-   2,L
+   2,J
+   2,L,K
+   4,L
    1,L,J
    2,L,K
    2,L
@@ -468,62 +448,72 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    1,R,K,G
    9,R
   16,R,J
-   2,K,G
-   6
-   2,R
-   1
-   4,L
+   1,R,K,G
+   2,L
+   3,R
+   4
+   1,L
+   2
    5,R,D,J,X
    4,R
    5,R,D
    2,R,J
    5,R
-  27,R,J
-   4,J
-   6,K,G
+   6,R,J
+  37,R,U,J,G
+   2,K,G
    1,L,K
+   8,R,K
+   6,R
+   3,R,J
+   1,R
+   1,R,J
+   2,R
+   1
+   1,R
+   1,J,G
+  10,R
+   1,L
+   1,R
+   1,K,G
+   1,L,K
+  28,R,K
+   2
+   2,R
+   1,J,G
+   5,R,J
+   1,L,J
+  12,R,J
+  10,R
+   1,J,G
+   1,R,J
+   5,R
+   1,L
    1,R
    1,J,G
    1,L,J
   17,R,J
-   2,R,U,J,G
-  29,R,J
-   1,J
+  40,R,U,J,G
+   4,R,J
    1,K,G
+   7,R,K
    1,L,K
-  33,R,K
+   7,R,K
    1,J,G
-  10,R,J
-   1,L,J
-   1,R,J
-   1,K,G
-   1,L,K
-  24,R,K
-   6,R
-   2
-   1,J,G
-   1,L,J
-  17,R,J
-  35,R,U,J,G
-   6,R,J
-   1,K,G
-   5,R,K
-   2,K
-   1,L,K
-   6,R,K
-   1,J,G
-   6,R,J
-   2,J
-   1,L,J
+   8,J
+   1,L
   19,L,K
- 144,L,U,K,G
+ 136,L,U,K,G
+   9,L,K
    1,L,J,G
-   2,R,J
+   3,R,J
+   2,L,J
    7,L
-  19,L,J
+  17,L,J
   14,U,X
- 155,R,G
-  33,R,D,G
+   8,R
+  73,R,D,G
+ 102,R,U,G
   12,R,J
    4,K,G
    1,L
@@ -536,35 +526,30 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
  130,L,U,J,G
   14,L,D
    5,L,J
-  10,L
+   9,L
    1,L,K,G
    1,J,G
-   1,L,J
-   3,L
-  16,R
-   1,R,D
+   4,L
+   3,R
+   3,R,J
+   9,R
+   2,R,D
    2,D
    1,R,D
    1,R,J,G
    1,R,K,G
-   9,R
-   5,R,J
-   5,R
-  20,R,D,J
-   1,R
-   1,R,D
+   3,R
+  14,R,G
+  61,R,U,J,G
+  16,R,D,G
+  62,R,U,J,G
+  53,L,U,J,G
+   1,K,G
    1
-  59,R,U,J,G
-   5,R,D,G
-   2,R,U,G
-  58,R,U,J,G
-  45,L,U,J,G
-   3,L,J
-   4,K,G
    1,L
    1
    1,L
-   2
+   1
    1,L
    1,R
    6,R,J
@@ -610,8 +595,10 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    1,K,G
   10,K
    1,L
-  14,R,J,G
-   3,K,G
+   1,R,J,G
+  13,R,J
+   1,K,G
+   2,K
    1,L
    1,L,J
   21,L,K
@@ -628,59 +615,73 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   16,R,J
    1,K,G
    4,R
-  14,L,U,G
-  44,L,U,J,G
+  18,L,U,G
+  41,L,U,J,G
 
-Repeat, 2
+Repeat, 1
    1,K,G
-  10,L,K
+   9,L,K
    1,R,K
    1,L,J,G
   13,L,J
 EndRepeat
 
-  11,L,K,G
-   1,L
-   5,J,G
-   1
-   1,R
+   1,K,G
+   7,L,K
+   2,K
    1,R,K
-  11,R,J
-   3,J
-   4,R,J
-   7,L,K,G
+   1,L,J,G
+  13,L,J
+   1,K,G
+   2,K
+   1,R
+   1,L,J,G
+  11,L,J
+   1,J
+   1,L,J
+  14,K
+   4,R,K
+   1,L,J,G
+   6,L,J
    7,L
    1,L,J
   26,L
    1,L,J
-   9,L
+   8,L
    1,L,J
-   9,L
+  10,L
    1,L,J,G
    1,L,K,G
    3,L,K
-   3,L,J,G
-  15,L
-  19,L,J
-  15,U,X
-  15,U,J,G
-  18,R,U,J,G
-   1,R,K,G
-  19,R,J,G
-   3,L,K,G
-  19,L,G
    1,L,J,G
-   4,L,K,G
-  31,L,J,G
-  29,L,D,G
-  27,L,D
-  13,R,D
-  14,L,D
+   2,L,J
+  15,L
+  18,L,J
+  15,U,X
+  29,R,U,J,G
+   4,U,J,G
+  10,R,U,K,G
+   8,R,G
+   1,L,G
+   5,L,U,J,G
+   6,L,G
+   1,L,J,G
+  10,L,D,G
+   1,L,K,G
+   3,L,J,G
+   8,L,K,G
+  75,L,D,G
+   1,R
+  12,R,D
+  15,L,D
+   1,D
+   1,L,D
   11,R,D
+   5,L,D
+   1,D
    6,L,D
    1,D
-   0,L,D
-   8,L
+   1,L,D
   43,L,U,J,G
    1,L,D
   17,U,X
@@ -696,11 +697,9 @@ EndRepeat
    1,L,J,G
   24,L,U,K,G
    4,U,K,G
-
    7,J,G
    3,G
    1,R,G
-
    1,R,K,G
   32,R,U,J,G
    1,K,G
@@ -737,21 +736,27 @@ EndRepeat
   17,R,D,G
    7,R,D
   63,L,D
-  15,R,D
-  26,R
-   2
-   1,R
+  14,R,D
+  25,R
+   1,D
+   1
+   3,R,D
    1,R,J
    1,J
-  16,R,J
-   1,R,K,G
-   1,R,J,G
+   9,R,J
    5,R
+   1,R,J
+   1,R
    1,R,J,G
-  10,R
-  17,R,U,J,G
-  25,R,G
-   5,R,U,G
+   1,R,K,G
+   5,R
+   1,R,J
+   1,R,J,G
+   3,R
+  14,R,G
+   6,R,J,G
+  20,R,G
+   8,R,D,G
    1,R
   16,R,Z
   60,L,D
@@ -799,7 +804,6 @@ EndRepeat
    1,G
    6,R,J,G
    4,R,G
-
    1,R,K,G
    1,R,J,G
    1,R
@@ -841,7 +845,6 @@ EndRepeat
   13,R
    1,R,J
   10,R
-
    1,R,J
    1,R
    1,R,K,G
@@ -876,7 +879,6 @@ EndRepeat
   33,L,U,J,G
    8,R,K,G
    1,R,G
-
   15,R,U,K,G
    5,L,J,G
   17,L,K,G
@@ -907,10 +909,8 @@ EndRepeat
    1,L,J,G
   29,L,K,G
   19,U,K,G
-
   24,L,U,J,G
    4,L,G
-
    1,K,G
    8,R,K
   13,L,K
@@ -952,8 +952,6 @@ EndRepeat
    1,R,D
    1,D
    1,R,D
-
-
    1,R,G
    1,R,J,G
    2,R
@@ -1010,7 +1008,6 @@ EndRepeat
    3,G
    1,R,G
    2,R,D,G
-
    1,R,J,G
    1,R,K,G
    1,R
@@ -1111,10 +1108,8 @@ EndRepeat
    1,R
    1,R,J
    1,R
-
    1,K,G
    5,K
-
    1,L,G
    1,R,G
    1,J,G
@@ -1132,10 +1127,8 @@ EndRepeat
    1,L,J,G
    1,R,J
   10,L,J
-
    7,K,G
    1,L,K
-
    1,R,K
    1,L,J,G
   13,L,J
@@ -1153,10 +1146,8 @@ EndRepeat
    1,R
    1
    5,R
-
   14,R,G
    4,G
-
    1,R,J,G
    1,R,K,G
    3,K,G
@@ -1164,10 +1155,8 @@ EndRepeat
    1,K,G
   93,R,U,K,G
    1,J,G
-
    2,R,J,G
    5,J,G
-
    1,L,J,G
    1,L,K,G
   29,L,U,J,G
@@ -1180,27 +1169,20 @@ EndRepeat
   18,R
    6
    1,L
+
 Repeat, 2
    1,R
    1,L
 EndRepeat
 
   46
-
-
-
-
-
-
    2,L,J
    3,L
    1,K,G
    1,L
-
    6
    1,L
    2
-
    3,R
    1
    1,R,J
@@ -1321,16 +1303,13 @@ EndRepeat
    3,R,K
    1,R,J
   19,R,K
-
   51,R,U,K,G
    1,R,G
    1,R,U,G
    1,R,G
    1,G
-
    1,J,G
    1,J
-
    1,L,J
    1,R,K,G
   14,R,K
@@ -1344,7 +1323,6 @@ EndRepeat
    6,R,K
    6,R
    1
-
    1,J,G
    6,J
    6,L,J
@@ -1404,14 +1382,11 @@ EndRepeat
    8,R,J,G
    1,L,J,G
    7,L,K,G
-
    7,L,U,G
    2,L,U,J,G
    1,L,U,G
-
    2,U,G
    1,L,U,G
-
    1,L,J,G
    1,L,K,G
    9,L
@@ -1430,14 +1405,14 @@ EndRepeat
   11,L,K
   15,L,U,X
   84,D
+
 Repeat, 6
    2,L,D
    2
    2,R,D
    2
 EndRepeat
+
    3
-
-
-ChapterTime: 3:13.681(11393)
+ChapterTime: 3:12.865(11345)
 #12x
